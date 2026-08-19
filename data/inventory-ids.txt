@@ -1,0 +1,2050 @@
+0: Woman's Ring
+1: Key to Naraku
+2: Gold Card
+3: Platinum Card
+4: Black Card
+5: Silver Coin
+6: Ryoja's Scales
+7: Myoko's Disk
+8: Hades' Soil
+9: Yagokoro's Brain
+10: Tobiume's Shoot
+11: Yaizu's Flint
+12: Peallaidh's Head
+13: ID Card Lv1
+14: Jirae Talisman
+15: Matchbox
+16: Card Key 2
+17: Card Key 3
+18: Brown Bottle
+19: Card Key 4
+20: Yamato Remote
+21: Rusted Key
+22: Scorched Card Key
+23: Masakado's Katana
+24: Chalice
+25: Great Soul of Hope
+26: Great Soul of Goodwill
+27: Great Soul of Spite
+28: Chipped Key
+29: Hexagram Rosary
+30: 予備枠
+31: 予備枠
+32: 予備枠
+33: 予備枠
+34: 予備枠
+35: 予備枠
+36: 予備枠
+37: 予備枠
+38: 予備枠
+39: 予備枠
+40: ？？？
+41: ？？？
+42: ？？？
+43: ？？？
+44: ？？？
+45: 予備枠
+46: 予備枠
+47: 予備枠
+48: 予備枠
+49: Gauntlet
+50: Power Cable
+51: Small Generator
+52: Corked Bottle
+53: Torifune's Shawl
+54: 予備枠
+55: 予備枠
+56: 予備枠
+57: 予備枠
+58: 予備枠
+59: 予備枠
+60: Gryphon Talon
+61: Deep Green Moss
+62: Fuxi's Feather
+63: Birdman Liver
+64: Laptop PC
+65: Small Fridge
+66: Kaso's Hide
+67: Babylon Birdmeat
+68: Rukh's Egg
+69: LED Lightbulb
+70: Orcus Blood
+71: Strix Blood
+72: Head of Osiris
+73: Arms of Osiris
+74: Legs of Osiris
+75: Torso of Osiris
+76: Coffee Beans
+77: Succulent Pork
+78: Firearm Box
+79: Small Server
+80: Maenad's Wine
+81: Bazooka Set
+82: Morax Head
+83: Chimera Head
+84: Tokisada Head
+85: Gryphon Head
+86: Heaven's Tablet
+87: Lung Medicine
+88: Euthanasia Serum
+89: 削除
+90: SDF Equipment
+91: Keepsake Pendant
+92: Deceased's Nail
+93: Portable Cannon
+94: Pluto Corpse
+95: Small LCD Set
+96: Vasuki Hide
+97: Mechanical Heart
+98: Frozen Tuna
+99: 削除
+100: Messiah's Tear
+101: Yata no Kagami
+102: Yasakani Magatama
+103: Kusanagi Tsurugi
+104: 削除
+105: Gogmagog Meat
+106: Kingu Blood
+107: Bar Photo
+108: Shelter Photo
+109: Ikebukuro Photo
+110: Ginza Photo
+111: 削除
+112: 削除
+113: Photo Film
+114: Sarcophagus
+115: Showdown Ticket
+116: ID Card Lv2
+117: ID Card Lv3
+118: Camera
+119: Smartphone
+120: Medicine
+121: Life Stone
+122: Bead
+123: Bead Chain
+124: Chakra Drop
+125: Chakra Pot
+126: Great Chakra
+127: Soma Drop
+128: Soma
+129: Bead of Life
+130: Light Grimoire
+131: Heavy Grimoire
+132: Revival Bead
+133: Balm of Rising
+134: ×魔導書（大）
+135: Patra Stone
+136: Me Patra Stone
+137: Dis-Poison
+138: 10-Point Card
+139: Healing Water
+140: Holy Fruit
+141: Revival Leaf
+142: Detox Solution
+143: 20-Point Card
+144: Amrita Soda
+145: Amrita Shower
+146: Chakra Elixir
+147: Summon Stone
+148: Gold Jet
+149: Gold Bulldozer
+150: St Incense
+151: Ma Incense
+152: Dx Incense
+153: Ag Incense
+154: Lu Incense
+155: Maragi Stone
+156: Agilao Stone
+157: Mabufu Stone
+158: Bufula Stone
+159: Mazio Stone
+160: Zionga Stone
+161: Mazan Stone
+162: Zanma Stone
+163: Mahama Stone
+164: Mamudo Stone
+165: Megido Stone
+166: Megidola Stone
+167: Needle Orb
+168: Knockout Gas
+169: Poison Gas
+170: Nerve Gas
+171: Attack Mirror
+172: Magic Mirror
+173: Tetraja Stone
+174: Dekaja Stone
+175: Dekunda Stone
+176: Gold Death Mask
+177: Expanse Meat
+178: Heavenly Steak
+179: A5 Demoloin
+180: Samurai Sword
+181: 予備枠
+182: 予備枠
+183: Sharp Sword
+184: 予備枠
+185: 予備枠
+186: Pixie Knife
+187: 予備枠
+188: Dies Irae
+189: 予備枠
+190: 予備枠
+191: Athame
+192: 予備枠
+193: 予備枠
+194: Nihil
+195: Sonic Knife
+196: 予備枠
+197: Old Mace
+198: 予備枠
+199: Slicer Knife
+200: Imanotsurugi
+201: 予備枠
+202: Chainsaw
+203: Morning Star
+204: 予備枠
+205: 予備枠
+206: 予備枠
+207: Luna Knife
+208: 予備枠
+209: 予備枠
+210: Pest Crop
+211: 予備枠
+212: 予備枠
+213: 予備枠
+214: Aymur
+215: Usumidori
+216: 予備枠
+217: Fuujin Sword
+218: Sleep Harpe
+219: Traitor's Knife
+220: 予備枠
+221: 予備枠
+222: Onimaru Kunitsuna
+223: Kogarasumaru
+224: 予備枠
+225: Sharur
+226: Deathbringer
+227: 予備枠
+228: 予備枠
+229: 予備枠
+230: Headhunter
+231: Holy Knife
+232: 予備枠
+233: Caduceus
+234: Cursed Sarai
+235: 予備枠
+236: Bizen Osafune
+237: 予備枠
+238: 予備枠
+239: 予備枠
+240: 予備枠
+241: Answerer
+242: Gan Jiang
+243: Mortal Knife
+244: 予備枠
+245: 予備枠
+246: Mo Ye
+247: 予備枠
+248: 予備枠
+249: 予備枠
+250: Cursed Muramasa
+251: Sol Knife
+252: 予備枠
+253: Masamune
+254: Mjolnir
+255: 予備枠
+256: 予備枠
+257: 予備枠
+258: Laevateinn
+259: 予備枠
+260: 予備枠
+261: 予備枠
+262: 予備枠
+263: 予備枠
+264: 予備枠
+265: 予備枠
+266: 予備枠
+267: 予備枠
+268: Plasma Sword
+269: 予備枠
+270: Cursed Lance
+271: Hawthorn Spear
+272: Gae Bolg
+273: Vermillion Spear
+274: Voulge
+275: Poison Glaive
+276: Gungnir
+277: Dragonfly Slicer
+278: Ame-no-nuboko
+279: Frost Scepter
+280: Bone Sword
+281: Steel Hoe
+282: Tokkosho
+283: Fire Pillar
+284: Brionac
+285: Sword of Hope
+286: Kutune Sirka
+287: Claymore
+288: Aquila's Sword
+289: Youkou Haken
+290: Longinus
+291: Excalibur
+292: Skull Scepter
+293: Sophia's Sword
+294: 予備枠
+295: 予備枠
+296: 予備枠
+297: 予備枠
+298: 予備枠
+299: 予備枠
+300: 予備枠
+301: 予備枠
+302: 予備枠
+303: 予備枠
+304: 予備枠
+305: Bruce Gun
+306: 予備枠
+307: Ultra Rifle
+308: 予備枠
+309: CC Rifle
+310: 予備枠
+311: Gold Gun
+312: 予備枠
+313: Kunitomo Rifle
+314: 予備枠
+315: Wild Rifle
+316: 予備枠
+317: Scar Rifle
+318: 予備枠
+319: Murder Rifle
+320: 予備枠
+321: Bolt Rifle
+322: 予備枠
+323: XYZ Rifle
+324: 予備枠
+325: Love Gun
+326: 予備枠
+327: Light Gun
+328: 予備枠
+329: 予備枠
+330: 予備枠
+331: 予備枠
+332: 予備枠
+333: Plasma Gun
+334: 予備枠
+335: Golden Gun
+336: Peacemaker
+337: 予備枠
+338: 予備枠
+339: 予備枠
+340: 予備枠
+341: 予備枠
+342: 予備枠
+343: 予備枠
+344: Ready Bazooka
+345: 予備枠
+346: 予備枠
+347: 予備枠
+348: Ace Bazooka
+349: 予備枠
+350: Big Bazooka
+351: 予備枠
+352: Evil Bazooka
+353: 予備枠
+354: BB Bazooka
+355: 予備枠
+356: Death Bazooka
+357: 予備枠
+358: Gigolo Bazooka
+359: 予備枠
+360: Laser Bazooka
+361: 予備枠
+362: Bolt Bazooka
+363: 予備枠
+364: ＃1 Bazooka
+365: 予備枠
+366: Clear Bazooka
+367: 予備枠
+368: 予備枠
+369: 予備枠
+370: 予備枠
+371: 予備枠
+372: 予備枠
+373: 予備枠
+374: 予備枠
+375: 予備枠
+376: 予備枠
+377: 予備枠
+378: 予備枠
+379: 予備枠
+380: 予備枠
+381: 予備枠
+382: 予備枠
+383: 予備枠
+384: 予備枠
+385: Lock Steyr
+386: 予備枠
+387: 予備枠
+388: 予備枠
+389: CC Machinegun
+390: 予備枠
+391: Bronze Steyr
+392: 予備枠
+393: Magoichi Auto
+394: 予備枠
+395: Wild Steyr
+396: 予備枠
+397: Scar Machinegun
+398: 予備枠
+399: Murder Steyr
+400: 予備枠
+401: Bolt Machinegun
+402: 予備枠
+403: XYZ Machinegun
+404: 予備枠
+405: 予備枠
+406: 予備枠
+407: Light Machinegun
+408: 予備枠
+409: 予備枠
+410: 予備枠
+411: 予備枠
+412: 予備枠
+413: 予備枠
+414: 予備枠
+415: Mikado Custom
+416: Megido Fire
+417: 予備枠
+418: 予備枠
+419: 予備枠
+420: Mikado Black
+421: Mikado Wood
+422: Mikado Sand
+423: Ahazuya Red
+424: Ahazuya Gray
+425: Ahazuya Blue
+426: Aquila White
+427: Aquila Gold
+428: Aquila Black
+429: 予備枠
+430: Plain Knight
+431: Blue Knight
+432: Red Knight
+433: Silver Duke
+434: Blood Duke
+435: Green Duke
+436: Black King
+437: White King
+438: Blood King
+439: 予備枠
+440: Soldier Yasha
+441: Soldier Mogura
+442: Soldier Murasame
+443: Bushi Tasogare
+444: Bushi Yoi
+445: Bushi Reimei
+446: Daimyo Kintoku
+447: Daimyo Mokutoku
+448: Daimyo Katoku
+449: 予備枠
+450: Green Sneak
+451: Yellow Sneak
+452: Blue Sneak
+453: Agent B
+454: Agent Y
+455: Agent G
+456: Dark Stealth
+457: Sky Stealth
+458: Red Stealth
+459: 予備枠
+460: Casual Blue
+461: Casual Pink
+462: Casual Black
+463: 予備枠
+464: 予備枠
+465: 予備枠
+466: 予備枠
+467: 予備枠
+468: 予備枠
+469: 予備枠
+470: Catcher's Red
+471: Catcher's Blue
+472: Catcher's Brown
+473: Cream Pads
+474: Magenta Pads
+475: Tricolor Pads
+476: 予備枠
+477: 予備枠
+478: 予備枠
+479: 予備枠
+480: Black Rider
+481: Blood Rider
+482: Silver Rider
+483: Hero Green
+484: Hero Gray
+485: Hero Red
+486: 予備枠
+487: 予備枠
+488: 予備枠
+489: 予備枠
+490: Survival Cream
+491: Survival Olive
+492: Survival Purple
+493: 予備枠
+494: ？？？
+495: ？？？
+496: ？？？
+497: ？？？
+498: ？？？
+499: 予備枠
+500: Olive Camouflage
+501: Sand Camouflage
+502: Gray Camouflage
+503: 予備枠
+504: ？？？
+505: ？？？
+506: ？？？
+507: 予備枠
+508: 予備枠
+509: 予備枠
+510: Demonica Suit
+511: Black Demonica
+512: 予備枠
+513: 予備枠
+514: 予備枠
+515: R Scorpion
+516: Genke Rindo
+517: Celtic White
+518: Nibelungen
+519: 予備枠
+520: Silver Mars
+521: Red Mars
+522: Gold Mars
+523: Red Crest
+524: Aqua Crest
+525: Black Crest
+526: Black Gunner
+527: Green Gunner
+528: Blue Gunner
+529: Green Mask
+530: Blue Mask
+531: Silver Mask
+532: White Bunny
+533: Brown Bunny
+534: Green Bunny
+535: White Clown
+536: Black Clown
+537: Gold Clown
+538: 真サムライ制服
+539: Samurai Uniform
+540: Mikado Black
+541: Mikado Wood
+542: Mikado Sand
+543: Ahazuya Red
+544: Ahazuya Gray
+545: Ahazuya Blue
+546: Aquila White
+547: Aquila Gold
+548: Aquila Black
+549: 予備枠
+550: Plain Knight
+551: Blue Knight
+552: Red Knight
+553: Silver Duke
+554: Blood Duke
+555: Green Duke
+556: Black King
+557: White King
+558: Blood King
+559: 予備枠
+560: Soldier Yasha
+561: Soldier Mogura
+562: Soldier Murasame
+563: Bushi Tasogare
+564: Bushi Yoi
+565: Bushi Reimei
+566: Daimyo Kintoku
+567: Daimyo Mokutoku
+568: Daimyo Katoku
+569: 予備枠
+570: Green Sneak
+571: Yellow Sneak
+572: Blue Sneak
+573: Agent B
+574: Agent Y
+575: Agent G
+576: Dark Stealth
+577: Sky Stealth
+578: Red Stealth
+579: 予備枠
+580: Casual Blue
+581: Casual Pink
+582: Casual Black
+583: 予備枠
+584: ？？？
+585: ？？？
+586: ？？？
+587: 予備枠
+588: 予備枠
+589: 予備枠
+590: Catcher's Red
+591: Catcher's Blue
+592: Catcher's Brown
+593: Cream Pads
+594: Magenta Pads
+595: Tricolor Pads
+596: 予備枠
+597: 予備枠
+598: 予備枠
+599: 予備枠
+600: Black Rider
+601: Blood Rider
+602: Silver Rider
+603: Hero Green
+604: Hero Gray
+605: Hero Red
+606: 予備枠
+607: 予備枠
+608: 予備枠
+609: 予備枠
+610: Survival Cream
+611: Survival Olive
+612: Survival Purple
+613: 予備枠
+614: ？？？
+615: ？？？
+616: ？？？
+617: ？？？
+618: ？？？
+619: 予備枠
+620: Olive Camouflage
+621: Sand Camouflage
+622: Gray Camouflage
+623: 予備枠
+624: 予備枠
+625: 予備枠
+626: 予備枠
+627: 予備枠
+628: 予備枠
+629: 予備枠
+630: Demonica Suit
+631: Black Demonica
+632: 予備枠
+633: 予備枠
+634: 予備枠
+635: R Scorpion
+636: Genke Rindo
+637: Celtic White
+638: Nibelungen
+639: 予備枠
+640: Soldier Enma
+641: Demon Sneak
+642: Fire Guard
+643: 予備枠
+644: 予備枠
+645: 予備枠
+646: 予備枠
+647: 予備枠
+648: 予備枠
+649: 予備枠
+650: 予備枠
+651: 予備枠
+652: 予備枠
+653: 予備枠
+654: 予備枠
+655: 予備枠
+656: 予備枠
+657: 予備枠
+658: 真サムライ制服
+659: Samurai Uniform
+660: Mikado Black
+661: Mikado Wood
+662: Mikado Sand
+663: Ahazuya Red
+664: Ahazuya Gray
+665: Ahazuya Blue
+666: Aquila White
+667: Aquila Gold
+668: Aquila Black
+669: 予備枠
+670: Plain Knight
+671: Blue Knight
+672: Red Knight
+673: Silver Duke
+674: Blood Duke
+675: Green Duke
+676: Black King
+677: White King
+678: Blood King
+679: 予備枠
+680: Soldier Yasha
+681: Soldier Mogura
+682: Soldier Murasame
+683: Bushi Tasogare
+684: Bushi Yoi
+685: Bushi Reimei
+686: Daimyo Kintoku
+687: Daimyo Mokutoku
+688: Daimyo Katoku
+689: 予備枠
+690: Green Sneak
+691: Yellow Sneak
+692: Blue Sneak
+693: Agent B
+694: Agent Y
+695: Agent G
+696: Dark Stealth
+697: Sky Stealth
+698: Red Stealth
+699: 予備枠
+700: Casual Blue
+701: Casual Pink
+702: Casual Black
+703: 予備枠
+704: 予備枠
+705: 予備枠
+706: 予備枠
+707: 予備枠
+708: 予備枠
+709: 予備枠
+710: Catcher's Red
+711: Catcher's Blue
+712: Catcher's Brown
+713: Cream Pads
+714: Magenta Pads
+715: Tricolor Pads
+716: 予備枠
+717: 予備枠
+718: 予備枠
+719: 予備枠
+720: Black Rider
+721: Blood Rider
+722: Silver Rider
+723: Hero Green
+724: Hero Gray
+725: Hero Red
+726: 予備枠
+727: 予備枠
+728: 予備枠
+729: 予備枠
+730: Survival Cream
+731: Survival Olive
+732: Survival Purple
+733: 予備枠
+734: ？？？
+735: ？？？
+736: ？？？
+737: ？？？
+738: ？？？
+739: 予備枠
+740: Olive Camouflage
+741: Sand Camouflage
+742: Gray Camouflage
+743: 予備枠
+744: 予備枠
+745: 予備枠
+746: 予備枠
+747: 予備枠
+748: 予備枠
+749: 予備枠
+750: Demonica Suit
+751: Black Demonica
+752: 予備枠
+753: 予備枠
+754: 予備枠
+755: R Scorpion
+756: Genke Rindo
+757: Celtic White
+758: Nibelungen
+759: 予備枠
+760: 予備枠
+761: 予備枠
+762: 予備枠
+763: 予備枠
+764: 予備枠
+765: 予備枠
+766: 予備枠
+767: 予備枠
+768: 予備枠
+769: 予備枠
+770: 予備枠
+771: 予備枠
+772: 予備枠
+773: 予備枠
+774: 予備枠
+775: 予備枠
+776: 予備枠
+777: 予備枠
+778: 真サムライ制服
+779: Samurai Uniform
+780: Samurai Earring
+781: 予備枠
+782: 予備枠
+783: 予備枠
+784: 予備枠
+785: 予備枠
+786: Red Earring
+787: Blue Earring
+788: 予備枠
+789: 予備枠
+790: 予備枠
+791: Marshal Earring
+792: Warlord Earring
+793: 予備枠
+794: 予備枠
+795: 予備枠
+796: 予備枠
+797: White Earring
+798: 予備枠
+799: 予備枠
+800: 予備枠
+801: Tactician Earring
+802: Black Earring
+803: 予備枠
+804: 予備枠
+805: 予備枠
+806: Demon Earring
+807: Company Earring
+808: 予備枠
+809: 予備枠
+810: 予備枠
+811: Fire Earring
+812: Ice Earring
+813: Volt Earring
+814: Wind Earring
+815: 予備枠
+816: Power Earring
+817: Shot Earring
+818: 予備枠
+819: 予備枠
+820: 予備枠
+821: Battle Earring
+822: Magic Earring
+823: 予備枠
+824: 予備枠
+825: 予備枠
+826: Critical Earring
+827: Fury Earring
+828: 予備枠
+829: 予備枠
+830: 予備枠
+831: Flaming Spirit
+832: Icy Spirit
+833: 予備枠
+834: 予備枠
+835: 予備枠
+836: Heated Soul
+837: Chilled Soul
+838: Volt Soul
+839: Storm Soul
+840: 予備枠
+841: Dark Soul
+842: Light Soul
+843: 予備枠
+844: 予備枠
+845: 予備枠
+846: Sturdy Earring
+847: Sharp Earring
+848: Hero Earring
+849: 予備枠
+850: 予備枠
+851: 予備枠
+852: 予備枠
+853: 予備枠
+854: 予備枠
+855: 予備枠
+856: 予備枠
+857: 予備枠
+858: 予備枠
+859: 予備枠
+860: 予備枠
+861: 予備枠
+862: 予備枠
+863: 予備枠
+864: 予備枠
+865: 予備枠
+866: 予備枠
+867: 予備枠
+868: 予備枠
+869: 予備枠
+870: 予備枠
+871: 予備枠
+872: 予備枠
+873: 予備枠
+874: 予備枠
+875: Capote Earring
+876: Refreshing Tune
+877: Fantasista
+878: 予備枠
+879: 予備枠
+880: Silver Necklace
+881: Sleepless Ring
+882: Glass Magatama
+883: Hunter Crown
+884: Antidote Ring
+885: 予備枠
+886: 予備枠
+887: 予備枠
+888: 予備枠
+889: 予備枠
+890: ？？？
+891: ？？？
+892: ？？？
+893: 予備枠
+894: 予備枠
+895: 予備枠
+896: 予備枠
+897: 予備枠
+898: 予備枠
+899: 予備枠
+900: FMJ Rounds
+901: 予備枠
+902: 予備枠
+903: 予備枠
+904: 予備枠
+905: 予備枠
+906: Sleep Rounds
+907: Toxic Rounds
+908: Flaemis Rounds
+909: Aquans Rounds
+910: Erthys Rounds
+911: Aeros Rounds
+912: Steel Rounds
+913: Virus Rounds
+914: Salamander Rounds
+915: Undine Rounds
+916: Gnome Rounds
+917: Sylph Rounds
+918: Panic Rounds
+919: Bind Rounds
+920: Flame Rounds
+921: Frost Rounds
+922: Volt Rounds
+923: Storm Rounds
+924: Hollow-Points
+925: Skull Rounds
+926: Inferno Rounds
+927: Cocytus Rounds
+928: Enelysios Rounds
+929: Zephyr Rounds
+930: Venom Rounds
+931: Prometheus Rounds
+932: Suzaku Shot
+933: Genbu Bomb
+934: Baihu Rounds
+935: Long Rounds
+936: AP Rounds
+937: Darkness Rounds
+938: Hephaestus Rounds
+939: Poseidon Rounds
+940: Zeus Rounds
+941: Hermes Rounds
+942: Gouma Rounds
+943: Shinno Rounds
+944: 予備枠
+945: Plutonium Rounds
+946: Pumpkin Bombs
+947: 予備枠
+948: Tenma Rounds
+949: Almighty Rounds
+950: 1-Star Gadget
+951: 2-Star Gadget
+952: 3-Star Gadget
+953: 4-Star Gadget
+954: 5-Star Gadget
+955: これは未使用
+956: これは未使用
+957: これは未使用
+958: これは未使用
+959: これは未使用
+960: これは未使用
+961: これは未使用
+962: これは未使用
+963: これは未使用
+964: これは未使用
+965: これは未使用
+966: これは未使用
+967: これは未使用
+968: これは未使用
+969: これは未使用
+970: 1-Star Leisure
+971: 2-Star Leisure
+972: 3-Star Leisure
+973: 4-Star Leisure
+974: 5-Star Leisure
+975: これは未使用
+976: これは未使用
+977: これは未使用
+978: これは未使用
+979: これは未使用
+980: これは未使用
+981: これは未使用
+982: これは未使用
+983: これは未使用
+984: これは未使用
+985: これは未使用
+986: これは未使用
+987: これは未使用
+988: これは未使用
+989: これは未使用
+990: 1-Star Food
+991: 2-Star Food
+992: 3-Star Food
+993: 4-Star Food
+994: 5-Star Food
+995: これは未使用
+996: これは未使用
+997: これは未使用
+998: これは未使用
+999: これは未使用
+1000: これは未使用
+1001: これは未使用
+1002: これは未使用
+1003: これは未使用
+1004: これは未使用
+1005: これは未使用
+1006: これは未使用
+1007: これは未使用
+1008: これは未使用
+1009: これは未使用
+1010: 1-Star Furniture
+1011: 2-Star Furniture
+1012: 3-Star Furniture
+1013: 4-Star Furniture
+1014: 5-Star Furniture
+1015: これは未使用
+1016: これは未使用
+1017: これは未使用
+1018: これは未使用
+1019: これは未使用
+1020: これは未使用
+1021: これは未使用
+1022: これは未使用
+1023: これは未使用
+1024: これは未使用
+1025: これは未使用
+1026: これは未使用
+1027: これは未使用
+1028: これは未使用
+1029: これは未使用
+1030: 1-Star Cosmetics
+1031: 2-Star Cosmetics
+1032: 3-Star Cosmetics
+1033: 4-Star Cosmetics
+1034: 5-Star Cosmetics
+1035: これは未使用
+1036: これは未使用
+1037: これは未使用
+1038: これは未使用
+1039: これは未使用
+1040: これは未使用
+1041: これは未使用
+1042: これは未使用
+1043: これは未使用
+1044: これは未使用
+1045: これは未使用
+1046: これは未使用
+1047: これは未使用
+1048: これは未使用
+1049: これは未使用
+1050: 1-Star Commodity
+1051: 2-Star Commodity
+1052: 3-Star Commodity
+1053: 4-Star Commodity
+1054: 5-Star Commodity
+1055: これは未使用
+1056: これは未使用
+1057: これは未使用
+1058: これは未使用
+1059: これは未使用
+1060: これは未使用
+1061: これは未使用
+1062: これは未使用
+1063: これは未使用
+1064: これは未使用
+1065: これは未使用
+1066: これは未使用
+1067: これは未使用
+1068: これは未使用
+1069: これは未使用
+1070: 1-Star Jewelry
+1071: 2-Star Jewelry
+1072: 3-Star Jewelry
+1073: 4-Star Jewelry
+1074: 5-Star Jewelry
+1075: これは未使用
+1076: これは未使用
+1077: これは未使用
+1078: これは未使用
+1079: これは未使用
+1080: これは未使用
+1081: これは未使用
+1082: これは未使用
+1083: これは未使用
+1084: これは未使用
+1085: これは未使用
+1086: これは未使用
+1087: これは未使用
+1088: これは未使用
+1089: これは未使用
+1090: 1-Star Document
+1091: 2-Star Document
+1092: 3-Star Document
+1093: 4-Star Document
+1094: 5-Star Document
+1095: これは未使用
+1096: これは未使用
+1097: これは未使用
+1098: これは未使用
+1099: これは未使用
+1100: これは未使用
+1101: これは未使用
+1102: これは未使用
+1103: これは未使用
+1104: これは未使用
+1105: これは未使用
+1106: これは未使用
+1107: これは未使用
+1108: これは未使用
+1109: これは未使用
+1110: 1-Star Medicine
+1111: 2-Star Medicine
+1112: 3-Star Medicine
+1113: 4-Star Medicine
+1114: 5-Star Medicine
+1115: これは未使用
+1116: これは未使用
+1117: これは未使用
+1118: これは未使用
+1119: これは未使用
+1120: これは未使用
+1121: これは未使用
+1122: これは未使用
+1123: これは未使用
+1124: これは未使用
+1125: これは未使用
+1126: これは未使用
+1127: これは未使用
+1128: これは未使用
+1129: これは未使用
+1130: 1-Star Clothing
+1131: 2-Star Clothing
+1132: 3-Star Clothing
+1133: 4-Star Clothing
+1134: 5-Star Clothing
+1135: これは未使用
+1136: これは未使用
+1137: これは未使用
+1138: これは未使用
+1139: これは未使用
+1140: これは未使用
+1141: これは未使用
+1142: これは未使用
+1143: これは未使用
+1144: これは未使用
+1145: これは未使用
+1146: これは未使用
+1147: これは未使用
+1148: これは未使用
+1149: これは未使用
+1150: Mouse
+1151: Keyboard
+1152: LAN Cable
+1153: Toaster
+1154: Calculator
+1155: Microwave
+1156: Memory Card
+1157: Alarm Clock
+1158: Hair Dryer
+1159: USB Hub
+1160: HDD
+1161: Fan
+1162: Video Card
+1163: Sound Card
+1164: 0
+1165: CPU
+1166: Video Camera
+1167: Digital Camera
+1168: Air Purifier
+1169: 0
+1170: Vacuum Cleaner
+1171: Air Conditioner
+1172: Washing Machine
+1173: Monitor
+1174: 未使用
+1175: これは未使用
+1176: 未使用
+1177: 未使用
+1178: 未使用
+1179: 未使用
+1180: 未使用
+1181: 未使用
+1182: 未使用
+1183: 未使用
+1184: 未使用
+1185: 未使用
+1186: 未使用
+1187: 未使用
+1188: 未使用
+1189: 未使用
+1190: 未使用
+1191: 未使用
+1192: 未使用
+1193: 未使用
+1194: 未使用
+1195: 未使用
+1196: 未使用
+1197: 未使用
+1198: 未使用
+1199: 未使用
+1200: Handheld Console
+1201: Game Console
+1202: Soccer Ball
+1203: Model Kit
+1204: DVD Recorder
+1205: BD Recorder
+1206: HDD Recorder
+1207: Game Disc
+1208: Guitar
+1209: Wristwatch
+1210: Sax
+1211: CD Album
+1212: Normal DVD
+1213: Ropes
+1214: Bag
+1215: Adult DVD
+1216: Normal BD
+1217: Adult BD
+1218: Tobacco
+1219: Bondage Suit
+1220: Women's Toy
+1221: iPet
+1222: Home Theater
+1223: iPot
+1224: Digital TV
+1225: これは未使用
+1226: 未使用
+1227: 未使用
+1228: 未使用
+1229: 未使用
+1230: 未使用
+1231: 未使用
+1232: 未使用
+1233: 未使用
+1234: 未使用
+1235: 未使用
+1236: 未使用
+1237: 未使用
+1238: 未使用
+1239: 未使用
+1240: 未使用
+1241: 未使用
+1242: 未使用
+1243: 未使用
+1244: 未使用
+1245: 未使用
+1246: 未使用
+1247: 未使用
+1248: 未使用
+1249: 未使用
+1250: Canned Coffee
+1251: Canned Juice
+1252: Canned Soup
+1253: Energy Drink
+1254: Soda Bottle
+1255: Soy Sauce
+1256: Miso
+1257: Vinegar
+1258: Sugar
+1259: Salt
+1260: Instant Food
+1261: Health Food
+1262: Frozen Food
+1263: Dried Food
+1264: Beer Can
+1265: Shochu
+1266: Sake
+1267: Shaoxingjiu
+1268: Whiskey
+1269: Brandy
+1270: Emergency Ration
+1271: Canned Vegetables
+1272: Canned Fruit
+1273: Canned Fish
+1274: Canned Meat
+1275: これは未使用
+1276: 未使用
+1277: 未使用
+1278: 未使用
+1279: 未使用
+1280: 未使用
+1281: 未使用
+1282: 未使用
+1283: 未使用
+1284: 未使用
+1285: 未使用
+1286: 未使用
+1287: 未使用
+1288: 未使用
+1289: 未使用
+1290: 未使用
+1291: 未使用
+1292: 未使用
+1293: 未使用
+1294: 未使用
+1295: 未使用
+1296: 未使用
+1297: 未使用
+1298: 未使用
+1299: 未使用
+1300: Work Desk
+1301: Computer Desk
+1302: Study Desk
+1303: Chair
+1304: 0
+1305: Rack
+1306: Cabinet
+1307: Cushion
+1308: 0
+1309: 0
+1310: Rug
+1311: Curtain
+1312: Pillow
+1313: 0
+1314: 0
+1315: Closet
+1316: Table
+1317: 0
+1318: 0
+1319: 0
+1320: Bed
+1321: Sofa
+1322: 未使用
+1323: 未使用
+1324: 未使用
+1325: これは未使用
+1326: 未使用
+1327: 未使用
+1328: 未使用
+1329: 未使用
+1330: 未使用
+1331: 未使用
+1332: 未使用
+1333: 未使用
+1334: 未使用
+1335: 未使用
+1336: 未使用
+1337: 未使用
+1338: 未使用
+1339: 未使用
+1340: 未使用
+1341: 未使用
+1342: 未使用
+1343: 未使用
+1344: 未使用
+1345: 未使用
+1346: 未使用
+1347: 未使用
+1348: 未使用
+1349: 未使用
+1350: Makeup Box
+1351: Scrunchie
+1352: Foundation
+1353: Lip Liner
+1354: Eyeliner
+1355: Manicure
+1356: Eyeshadow
+1357: Facial Pack
+1358: Eyeshadow Base
+1359: Beauty Lotion
+1360: Eyelashes
+1361: Lip Gloss
+1362: Rouge
+1363: Mascara
+1364: Eyelash Curler
+1365: Hairspray
+1366: Rouge
+1367: Shampoo
+1368: Body Soap
+1369: Conditioner
+1370: Deodorant
+1371: Press-On Nails
+1372: Fancy Perfume
+1373: Wig
+1374: Compact Mirror
+1375: これは未使用
+1376: 未使用
+1377: 未使用
+1378: 未使用
+1379: 未使用
+1380: 未使用
+1381: 未使用
+1382: 未使用
+1383: 未使用
+1384: 未使用
+1385: 未使用
+1386: 未使用
+1387: 未使用
+1388: 未使用
+1389: 未使用
+1390: 未使用
+1391: 未使用
+1392: 未使用
+1393: 未使用
+1394: 未使用
+1395: 未使用
+1396: 未使用
+1397: 未使用
+1398: 未使用
+1399: 未使用
+1400: Fork
+1401: Towel
+1402: Marker
+1403: Notebook
+1404: Cup
+1405: New Knife
+1406: New Plate
+1407: New Pot
+1408: New Kettle
+1409: Bath Towel
+1410: Skateboard
+1411: Yoga Mat
+1412: Sewing Kit
+1413: Telescope
+1414: Toothpaste
+1415: Electric Brush
+1416: Bicycle
+1417: BBQ Stove
+1418: Detergent
+1419: Sewing Machine
+1420: Motorized Bike
+1421: Battery
+1422: Lantern
+1423: Fuel Brick
+1424: 未使用
+1425: これは未使用
+1426: 未使用
+1427: 未使用
+1428: 未使用
+1429: 未使用
+1430: 未使用
+1431: 未使用
+1432: 未使用
+1433: 未使用
+1434: 未使用
+1435: 未使用
+1436: 未使用
+1437: 未使用
+1438: 未使用
+1439: 未使用
+1440: 未使用
+1441: 未使用
+1442: 未使用
+1443: 未使用
+1444: 未使用
+1445: 未使用
+1446: 未使用
+1447: 未使用
+1448: 未使用
+1449: 未使用
+1450: Iron Ore
+1451: Copper ore
+1452: Silver Ore
+1453: Gold Ore
+1454: Amber
+1455: Emerald
+1456: Topaz
+1457: Amethyst
+1458: Aquamarine
+1459: Sapphire
+1460: Obsidian
+1461: Pearl
+1462: Opal
+1463: Garnet
+1464: Ruby
+1465: Diamond
+1466: Cat's Eye
+1467: Crystal
+1468: Cosmo Aura
+1469: Inca Rose
+1470: Bloodstone
+1471: Rose Quartz
+1472: Celestite
+1473: Sardonyx
+1474: Seraphinite
+1475: オーロラオーラ
+1476: メラナイト
+1477: アイオライト
+1478: アルマンディン
+1479: トパゾライト
+1480: タイガーズアイ
+1481: ジャスパー
+1482: ペリドット
+1483: ジェード
+1484: トルマリン
+1485: レッドベリル
+1486: ムーンストーン
+1487: これは未使用
+1488: 未使用
+1489: 未使用
+1490: 未使用
+1491: 未使用
+1492: 未使用
+1493: 未使用
+1494: 未使用
+1495: 未使用
+1496: 未使用
+1497: 未使用
+1498: 未使用
+1499: 未使用
+1500: 1-Yen Coin
+1501: 5-Yen Coin
+1502: 10-Yen Coin
+1503: 100-Yen Coin
+1504: 500-Yen Coin
+1505: 1000-Yen Bill
+1506: 2000-Yen Bill
+1507: 5000-Yen Bill
+1508: 10000-Yen Bill
+1509: Credit Card
+1510: Movie Pamphlet
+1511: Entrance Ticket
+1512: Invoice
+1513: Search Warrant
+1514: Calendar
+1515: Joint Guarantee
+1516: Guest List
+1517: Indictment
+1518: Driver's License
+1519: 0
+1520: Arrest Warrant
+1521: Imperial Seal
+1522: Police Commission
+1523: National Honor
+1524: 未使用
+1525: これは未使用
+1526: 未使用
+1527: 未使用
+1528: 未使用
+1529: 未使用
+1530: 未使用
+1531: 未使用
+1532: 未使用
+1533: 未使用
+1534: 未使用
+1535: 未使用
+1536: 未使用
+1537: 未使用
+1538: 未使用
+1539: 未使用
+1540: 未使用
+1541: 未使用
+1542: 未使用
+1543: 未使用
+1544: 未使用
+1545: 未使用
+1546: 未使用
+1547: 未使用
+1548: 未使用
+1549: 未使用
+1550: Manometer
+1551: Thermometer
+1552: Bandage
+1553: Adhesive Strip
+1554: Stethoscope
+1555: Crutch
+1556: Wheelchair
+1557: Syringe
+1558: Plaster Cast
+1559: Supplement
+1560: Vitamin A
+1561: Vitamin C
+1562: Ibuprofen
+1563: Chloroform
+1564: Caffeine
+1565: Sildenafil
+1566: Hemelocollis
+1567: Pueraria Root
+1568: Taurine
+1569: Aspirin
+1570: Morphine
+1571: Fentanyl
+1572: Oxycodone
+1573: Penicillin
+1574: Ginseng
+1575: これは未使用
+1576: 未使用
+1577: 未使用
+1578: 未使用
+1579: 未使用
+1580: 未使用
+1581: 未使用
+1582: 未使用
+1583: 未使用
+1584: 未使用
+1585: 未使用
+1586: 未使用
+1587: 未使用
+1588: 未使用
+1589: 未使用
+1590: 未使用
+1591: 未使用
+1592: 未使用
+1593: 未使用
+1594: 未使用
+1595: 未使用
+1596: 未使用
+1597: 未使用
+1598: 未使用
+1599: 未使用
+1600: Socks
+1601: Tie
+1602: Leggings
+1603: Tights
+1604: Sandal
+1605: Sneakers
+1606: Sweater
+1607: Skirt
+1608: Vest
+1609: Shirt
+1610: Boots
+1611: Camisole
+1612: Underwear
+1613: Parka
+1614: Long Coat
+1615: Swimsuit
+1616: Jeans
+1617: Kimono
+1618: High Heels
+1619: Corset
+1620: Maid Outfit
+1621: Leather Jacket
+1622: Elegant Suit
+1623: Elegant Shoes
+1624: Elegant Dress
+1625: これは未使用
+1626: 未使用
+1627: 未使用
+1628: 未使用
+1629: 未使用
+1630: 未使用
+1631: 未使用
+1632: 未使用
+1633: 未使用
+1634: 未使用
+1635: 未使用
+1636: 未使用
+1637: 未使用
+1638: 未使用
+1639: 未使用
+1640: 未使用
+1641: 未使用
+1642: 未使用
+1643: 未使用
+1644: 未使用
+1645: 未使用
+1646: 未使用
+1647: 未使用
+1648: 未使用
+1649: 未使用
+1650: 未使用
+1651: スキャナ
+1652: ガステーブル
+1653: 食器洗浄機
+1654: ダイヤル式電話
+1655: ジュークＢＯＸ
+1656: 蓄音機
+1657: ＶＨＳデッキ
+1658: ＶＨＳ
+1659: 除湿機
+1660: 加湿器
+1661: 炊飯器
+1662: 電気ケトル
+1663: 電動ミル
+1664: スピーカー
+1665: ＩＣレコーダー
+1666: 電動シェーバー
+1667: 電動ドリル
+1668: ハンドブレンダー
+1669: アニメＤＶＤ
+1670: 映画ＤＶＤ
+1671: ドラマＤＶＤ
+1672: 実話ＤＶＤ
+1673: 受賞作品ＤＶＤ
+1674: アニメＢＤ
+1675: 映画ＢＤ
+1676: ドラマＢＤ
+1677: 実話ＢＤ
+1678: 受賞作品ＢＤ
+1679: 電子辞書
+1680: ミキサー
+1681: オーブン
+1682: 業務用カーナビ
+1683: 精算機
+1684: カーステレオ
+1685: エコカー
+1686: アナログＴＶ
+1687: アナログレコード
+1688: シングルＣＤ
+1689: コンポ
+1690: プリンタ
+1691: カーナビ
+1692: ＰＣソフト
+1693: ファックス
+1694: ご当地グルメ品
+1695: コスプレグッズ
+1696: マル秘投稿写真
+1697: スターお宝写真
+1698: スターお宝映像
+1699: レアフィギュア
+1700: レアプラモデル
+1701: レアトレカ
+1702: 激レアプラモデル
+1703: 激レアフィギュア
+1704: 激レアトレカ
+1705: ブランド製ポーチ
+1706: ブランド製財布
+1707: ブランド製香水
+1708: ブランド製腕時計
+1709: ブランド製バッグ
+1710: 高級ブランデー
+1711: 高級ビール
+1712: 高級日本酒
+1713: 高級ウィスキー
+1714: 最高級ブランデー
+1715: 当選宝くじ
+1716: 最高級日本酒
+1717: 最高級ウィスキー
+1718: 当たり馬券
+1719: 名画
+1720: 万馬券
+1721: 長官勲章
+1722: 内閣総理大臣顕彰
+1723: バロンドール
+1724: 電波時計
+1725: 懐中時計
+1726: 墨汁
+1727: 硯
+1728: 貯金箱
+1729: 体温計
+1730: 懐中電灯
+1731: 双眼鏡
+1732: 座布団
+1733: エアーマット
+1734: 傘立て
+1735: 蛍光灯
+1736: ルーズリーフ
+1737: 穴あけパンチ
+1738: ブラインド
+1739: 金庫
+1740: 体重計
+1741: 体脂肪計
+1742: ポーチ
+1743: ＬＥＤ懐中電灯
+1744: ハンマー
+1745: メイク道具
+1746: 魔法瓶
+1747: フォームローラー
+1748: デジタル時計
+1749: 鳩時計
+1750: 布団
+1751: 毛布
+1752: タペストリー
+1753: ラック
+1754: ワインセラー
+1755: 絵画
+1756: 飼育ケージ
+1757: 鳥かご
+1758: キャットフード
+1759: ドックフード
+1760: 首輪
+1761: 踏み台
+1762: はしご
+1763: 三脚
+1764: 筆
+1765: 絵具
+1766: 額縁
+1767: こけし
+1768: フォトフレーム
+1769: ポスター
+1770: 接着剤
+1771: セロハンテープ
+1772: ガムテープ
+1773: 蚊取り器
+1774: 風鈴
+1775: 花瓶
+1776: 壺
+1777: 爪切り
+1778: 髭剃り
+1779: 台車
+1780: 電池
+1781: ハンガー
+1782: アイロン
+1783: 温度計
+1784: 防災頭巾
+1785: 扇子
+1786: 傘
+1787: 風水グッズ
+1788: ルーペ
+1789: 方位磁石
+1790: コースター
+1791: 寸胴
+1792: 中華鍋
+1793: 徳利
+1794: ぐい呑み
+1795: 七輪
+1796: ガスボンベ
+1797: テーブルクロス
+1798: 鍋蓋
+1799: 弁当箱
+1800: 重箱
+1801: 塗料
+1802: ワックス
+1803: カッター
+1804: ダンボール
+1805: メジャー
+1806: はかり
+1807: パイプ椅子
+1808: 筆箱
+1809: 定規
+1810: 分度器
+1811: コンパス
+1812: 消しゴム
+1813: 鉛筆
+1814: シャープペンシル
+1815: 寝袋
+1816: 布団カバー
+1817: マクラカバー
+1818: 置き時計
+1819: 中華鍋
+1820: 圧力鍋
+1821: 土鍋
+1822: 包丁研ぎ
+1823: ペット用ブラシ
+1824: ファイルボックス
+1825: バインダー
+1826: 蛍光ペン
+1827: 茶碗
+1828: 皿
+1829: 箸
+1830: スプーン
+1831: まな板
+1832: 印鑑
+1833: 財布
+1834: フライパン
+1835: リュックサック
+1836: ホワイトボード
+1837: メモ
+1838: 切手
+1839: チラシ
+1840: 切符
+1841: キーケース
+1842: ティッシュ
+1843: ハンカチ
+1844: 果たし状
+1845: 電報
+1846: 名刺
+1847: 和紙
+1848: 映画チケット
+1849: 証明書
+1850: 保険証
+1851: 電子切符
+1852: 本願寺案内
+1853: 保証書
+1854: 処方箋
+1855: 搭乗用チケット
+1856: 招待状
+1857: パスポート
+1858: 偽造パスポート
+1859: ライブチケット
+1860: 年間パスポート
+1861: 万馬券
+1862: 官僚バッジ
+1863: キャッシュカード
+1864: 幼児用玩具
+1865: ストップウォッチ
+1866: ハンモック
+1867: なわとび
+1868: チューブ
+1869: コイン
+1870: バレーボール
+1871: ボーリング
+1872: ボディーボード
+1873: スキー板
+1874: リール
+1875: クーラーボックス
+1876: ルアー
+1877: 釣竿
+1878: シュノーケル
+1879: ドライバー
+1880: パター
+1881: バット
+1882: 知恵の輪
+1883: ラケット
+1884: オイル
+1885: サドル
+1886: ペダル
+1887: ホイール
+1888: 自転車タイヤ
+1889: 車タイヤ
+1890: バイクタイヤ
+1891: エレキギター
+1892: リュート
+1893: ボードゲーム
+1894: フルート
+1895: クラリネット
+1896: トランペット
+1897: ブルースハープ
+1898: 腹筋ベルト
+1899: レッグスライダー
+1900: 風船
+1901: パズル
+1902: シンバル
+1903: カスタネット
+1904: タンバリン
+1905: パラソル
+1906: 一輪車
+1907: キックボード
+1908: トレカ
+1909: フィギュア
+1910: ぬいぐるみ
+1911: 野球ボール
+1912: 鉄道模型
+1913: バランスボール
+1914: ベース
+1915: 鉄アレイ
+1916: 鉄バット
+1917: スノーボード
+1918: バスケットボール
+1919: ヴァイオリン
+1920: テント
+1921: ドラム
+1922: エアロバイク
+1923: サーフボード
+1924: バーベル
+1925: 怪しい仮面
+1926: 未使用
+1927: 未使用
+1928: 未使用
+1929: 未使用
+1930: 未使用
+1931: 未使用
+1932: 未使用
+1933: 未使用
+1934: 未使用
+1935: 未使用
+1936: 未使用
+1937: 未使用
+1938: 未使用
+1939: 未使用
+1940: 未使用
+1941: 未使用
+1942: 未使用
+1943: 未使用
+1944: 未使用
+1945: 未使用
+1946: 未使用
+1947: 未使用
+1948: 未使用
+1949: 未使用
+1950: Lantern Flame
+1951: Gaea Flame
+1952: Titan's Inferno
+1953: Beast's Flame
+1954: Feng Huang Fire
+1955: Hee-ho Freeze
+1956: Dragon Glacier
+1957: Wicked Ice
+1958: Drake Breath
+1959: Gui Xian Blizzard
+1960: Jirae Bolt
+1961: Thunderbirds
+1962: Black Forest
+1963: Wilder Bolt
+1964: Baihu Lightning
+1965: Flight Flutter
+1966: Flight Tempest
+1967: Poison Storm
+1968: Tengu Wind
+1969: Long Storm
+1970: Dragon Glare
+1971: Petra Megido
+1972: Death's Lure
+1973: Life Drainage
+1974: Mana Drainage
+1975: Tyrant's Power
+1976: Demonee-ho Smack
+1977: Beast Slice
+1978: Yuletide
+1979: Dragon Rage
+1980: Tooth and Claw
+1981: Truth and Claw
+1982: Rabbit Riser
+1983: Altered Fate
+1984: Chakra
+1985: Arjuna
+1986: Sahasrara
+1987: Clear Mind
+1988: Total Clarity
+1989: Charge Beacon
+1990: Integrity Wave
+1991: Counter Formation
+1992: Hasty Retreat
+1993: Arcana
+1994: 不使用
+1995: 不使用
+1996: 不使用
+1997: 不使用
+1998: 不使用
+1999: 不使用
+2000: 0
+2001: 0
+2002: 0
+2003: 0
+2004: 0
+2005: 0
+2006: 0
+2007: 0
+2008: 0
+2009: 0
+2010: 0
+2011: 0
+2012: 0
+2013: 0
+2014: 0
+2015: 0
+2016: 0
+2017: 0
+2018: 0
+2019: 0
+2020: 0
+2021: 0
+2022: 0
+2023: 0
+2024: 0
+2025: 0
+2026: 0
+2027: 0
+2028: 0
+2029: 0
+2030: 0
+2031: 0
+2032: 0
+2033: 0
+2034: 0
+2035: 0
+2036: 0
+2037: 0
+2038: 0
+2039: 0
+2040: 0
+2041: 0
+2042: 0
+2043: 0
+2044: 0
+2045: 0
+2046: 0
+2047: 0
+2048: 0
+2049: 0

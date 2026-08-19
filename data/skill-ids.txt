@@ -1,0 +1,348 @@
+1: Agi
+2: Agilao
+3: Agidyne
+4: Maragi
+5: Maragion
+6: Maragidyne
+7: Fire Breath
+8: Trisagion
+9: Ragnarok
+10: Bufu
+11: Bufula
+12: Bufudyne
+13: Mabufu
+14: Mabufula
+15: Mabufudyne
+16: Ice Breath
+17: Glacial Blast
+18: Cold World
+19: Zio
+20: Zionga
+21: Ziodyne
+22: Mazio
+23: Mazionga
+24: Maziodyne
+25: Shock
+26: Thunder Reign
+27: Charming Bolt
+28: Zan
+29: Zanma
+30: Zandyne
+31: Mazan
+32: Mazanma
+33: Mazandyne
+34: Wind Breath
+35: Deadly Wind
+36: Floral Gust
+37: Megido
+38: Megidola
+39: Megidolaon
+40: Great Logos
+41: Antichthon
+42: Babylon Goblet
+43: Holy Wrath
+44: Judgement
+45: Sea of Chaos
+46: Life Drain
+47: Spirit Drain
+48: Energy Drain
+49: Mudo
+50: Mudoon
+51: Mamudo
+52: Mamudoon
+53: Die for Me!
+54: Hama
+55: Hamaon
+56: Mahama
+57: Mahamaon
+58: Judgement Light
+59: Dormina
+60: Lullaby
+61: Poisma
+62: Poison Breath
+63: Shibaboo
+64: Bind Voice
+65: Pulinpa
+66: Panic Voice
+67: Cough
+68: Pandemic Bomb
+69: Ancient Curse
+70: Shivering Taboo
+71: Strange Ray
+72: Enigmatic Ray
+73: Macca Beam
+74: Wastrel Beam
+75: Crushing Wave
+76: Breath
+77: Death's Door
+81: Dia
+82: Diarama
+83: Diarahan
+84: Media
+85: Mediarama
+86: Mediarahan
+87: Salvation
+88: Patra
+89: Me Patra
+90: Posumudi
+91: Nervundi
+92: Amrita
+93: Recarm
+94: Samarecarm
+95: Recarmdra
+101: Tarukaja
+102: Sukukaja
+103: Rakukaja
+104: Luster Candy
+105: Dekaja
+106: Tarunda
+107: Sukunda
+108: Rakunda
+109: Debilitate
+110: Dekunda
+111: Silent Prayer
+112: War Cry
+113: Fog Breath
+114: Acid Breath
+115: Taunt
+117: Panic Caster
+118: Tetrakarn
+119: Makarakarn
+120: Tetraja
+121: Charge
+122: Concentrate
+123: Blood Ritual
+124: Sabbatma
+125: Invitation
+127: Bad Company
+137: Trafuri
+138: Doping
+139: Angelic Order
+140: Estoma Sword
+141: Call Ally
+143: Do Nothing
+144: No Reaction
+145: Consult
+146: Internal Strife
+151: Lunge
+152: Oni Kagura
+153: Mortal Jihad
+154: Critical Wave
+155: Megaton Press
+156: Titanomachia
+157: Gram Slice
+158: Fatal Sword
+159: Berserker God
+160: Heat Wave
+161: Javelin Rain
+162: Hades Blast
+163: Bouncing Claw
+164: Damascus Claw
+165: Nihil Claw
+166: Scratch Dance
+167: Axel Claw
+168: Madness Nails
+169: Fang Breaker
+170: Dream Fist
+171: Purple Smoke
+172: Carol Hit
+174: Tetanus Cut
+176: Blight
+177: Occult Flash
+178: Binding Claw
+179: Poison Claw
+180: Iron Judgement
+181: Needle Shot
+182: Tathlum Shot
+183: Grand Tack
+184: Riot Gun
+185: Rapid Needle
+186: Blast Arrow
+187: Heaven's Bow
+188: Dream Needle
+189: Toxic Sting
+190: Stun Needle
+191: Madness Needle
+192: Stun Needles
+193: Myriad Arrows
+194: Desperate Hit
+201: Lantern Flame
+202: Gaea Flame
+203: Titan's Inferno
+204: Beast's Flame
+205: Feng Huang Fire
+206: Hee-ho Freeze
+207: Dragon Glacier
+208: Wicked Ice
+209: Drake Breath
+210: Gui Xian Blizzard
+211: Jirae Bolt
+212: Thunderbirds
+213: Black Forest
+214: Wilder Bolt
+215: Baihu Lightning
+216: Flight Flutter
+217: Flight Tempest
+218: Poison Storm
+219: Tengu Wind
+220: Long Storm
+221: Dragon Glare
+222: Petra Megido
+223: Death's Lure
+224: Life Drainage
+225: Mana Drainage
+226: Tyrant's Power
+227: Demonee-ho Smack
+228: Beast Slice
+229: Yuletide
+230: Dragon Rage
+231: Tooth and Claw
+232: Truth and Claw
+233: Rabbit Chaser
+234: Altered Fate
+235: Chakra
+236: Arjuna
+237: Sahasrara
+238: Clear Mind
+239: Total Clarity
+240: Charge Beacon
+241: Integrity Wave
+242: Counter Formation
+243: Hasty Retreat
+244: Arcana
+251: Labrys Strike
+252: Snake's Fangs
+253: Queen's Feast
+254: Orchard Guardian
+255: Cross Dressing
+256: Ameno Murakumo
+257: Homeland Song
+258: Sunny Ray
+259: Vulnera
+260: Conquerer Spirit
+261: Deceit Chain
+262: Naught Wave
+263: Blank Bullet
+264: Impossible Slash
+265: Evil Shine
+266: Kingly One
+267: Morning Star
+268: Chariot
+269: Shalt Not Resist
+270: Hexagram
+271: Hell's Torment
+272: 113 Light Wing
+301: Kannuki-throw
+302: Lightning of God
+303: Tetracoerce
+304: Stigmata Strike
+305: Serpent of Sheol
+306: Tornado of God
+307: Lamentation
+308: Hailstorm of God
+309: Makaracoerce
+310: Archangel's Law
+311: Fallen Grace
+312: Inferno of God
+313: Plasma Discharge
+314: Megidoplasma
+315: Refrigerate
+316: Star Tarantella
+320: Curse Thy Enemy
+321: Guardian's Eye
+323: Damnation
+324: Stigmatic Gleam
+325: Spirit Focus
+326: Gaea Rage
+327: Deadly Fury
+328: Dark Energy
+329: Move Slowly
+330: Aim Carefully
+331: Clench Fist
+332: Prayer
+355: Load Bullets
+356: Myriad Shots
+357: Dorn Gift
+358: Fear
+359: Barrage
+400: Extra Slot
+401: Resist Phys
+402: Null Phys
+403: Repel Phys
+404: Drain Phys
+405: Resist Gun
+406: Null Gun
+407: Repel Gun
+408: Drain Gun
+409: Resist Fire
+410: Null Fire
+411: Repel Fire
+412: Drain Fire
+413: Resist Ice
+414: Null Ice
+415: Repel Ice
+416: Drain Ice
+417: Resist Elec
+418: Null Elec
+419: Repel Elec
+420: Drain Elec
+421: Resist Force
+422: Null Force
+423: Repel Force
+424: Drain Force
+425: Resist Dark
+426: Null Dark
+427: Resist Light
+428: Null Light
+429: Null Mind
+430: Null Nerve
+431: Phys Pleroma
+432: High Phys Pleroma
+433: Gun Pleroma
+434: High Gun Pleroma
+435: Fire Pleroma
+436: High Fire Pleroma
+437: Ice Pleroma
+438: High Ice Pleroma
+439: Elec Pleroma
+440: High Elec Pleroma
+441: Force Pleroma
+442: High Force Pleroma
+443: Heal Pleroma
+444: High Heal Pleroma
+445: Endure
+446: Enduring Soul
+447: Counter
+448: Retaliate
+449: Ally Counter
+450: Ally Retaliate
+451: Life Aid
+452: Mana Aid
+453: Victory Cry
+454: Spring of Life
+455: Chakra Walk
+461: Life Bonus
+462: Life Gain
+463: Life Surge
+464: Mana Bonus
+465: Mana Gain
+466: Mana Surge
+471: Healing Knowhow
+476: Attack Knowhow
+477: Light Life Aid
+478: Light Mana Aid
+479: Speed Lesson
+480: Haste Lesson
+481: Awakening
+482: Hellish Mask
+483: Hard Worker
+484: Workaholic
+485: Beastly Reaction
+486: Draconic Reaction
+487: Bloody Glee
+488: Pierce Physical
+489: Pierce Gun
+490: Fire Pierce
+491: Ice Pierce
+492: Elec Pierce
+493: Force Pierce

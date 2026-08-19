@@ -1,0 +1,2017 @@
+[
+  {
+    "drop_id": 0,
+    "drops": [
+      {
+        "item_id": 1,
+        "drop_weight": 40,
+        "item_name": "Medicine"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 20,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 30,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 39,
+        "drop_weight": 30,
+        "item_name": "Bufula Stone"
+      }
+    ]
+  },
+  {
+    "drop_id": 3,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 50,
+        "item_name": "1-Star Commodity"
+      },
+      {
+        "item_id": 1052,
+        "drop_weight": 50,
+        "item_name": "2-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 4,
+    "drops": [
+      {
+        "item_id": 1131,
+        "drop_weight": 70,
+        "item_name": "1-Star Clothing"
+      },
+      {
+        "item_id": 1132,
+        "drop_weight": 30,
+        "item_name": "2-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 9,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 32,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 32,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 32,
+        "item_name": "Dis-Poison"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 4,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 13,
+    "drops": [
+      {
+        "item_id": 1131,
+        "drop_weight": 70,
+        "item_name": "1-Star Clothing"
+      },
+      {
+        "item_id": 1132,
+        "drop_weight": 30,
+        "item_name": "2-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 14,
+    "drops": [
+      {
+        "item_id": 1131,
+        "drop_weight": 70,
+        "item_name": "1-Star Clothing"
+      },
+      {
+        "item_id": 1132,
+        "drop_weight": 30,
+        "item_name": "2-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 17,
+    "drops": [
+      {
+        "item_id": 951,
+        "drop_weight": 70,
+        "item_name": "1-Star Gadget"
+      },
+      {
+        "item_id": 952,
+        "drop_weight": 30,
+        "item_name": "2-Star Gadget"
+      }
+    ]
+  },
+  {
+    "drop_id": 23,
+    "drops": [
+      {
+        "item_id": 991,
+        "drop_weight": 70,
+        "item_name": "1-Star Food"
+      },
+      {
+        "item_id": 992,
+        "drop_weight": 30,
+        "item_name": "2-Star Food"
+      }
+    ]
+  },
+  {
+    "drop_id": 27,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 32,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 33,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 41,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 47,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 52,
+    "drops": [
+      {
+        "item_id": 1091,
+        "drop_weight": 70,
+        "item_name": "1-Star Document"
+      },
+      {
+        "item_id": 1092,
+        "drop_weight": 30,
+        "item_name": "2-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 57,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 67,
+    "drops": [
+      {
+        "item_id": 1132,
+        "drop_weight": 50,
+        "item_name": "2-Star Clothing"
+      },
+      {
+        "item_id": 1052,
+        "drop_weight": 50,
+        "item_name": "2-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 69,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 70,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 72,
+    "drops": [
+      {
+        "item_id": 1132,
+        "drop_weight": 50,
+        "item_name": "2-Star Clothing"
+      },
+      {
+        "item_id": 1052,
+        "drop_weight": 50,
+        "item_name": "2-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 86,
+    "drops": [
+      {
+        "item_id": 1091,
+        "drop_weight": 70,
+        "item_name": "1-Star Document"
+      },
+      {
+        "item_id": 1092,
+        "drop_weight": 30,
+        "item_name": "2-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 88,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 32,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 32,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 32,
+        "item_name": "Dis-Poison"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 4,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 91,
+    "drops": [
+      {
+        "item_id": 1032,
+        "drop_weight": 50,
+        "item_name": "2-Star Cosmetics"
+      },
+      {
+        "item_id": 1092,
+        "drop_weight": 50,
+        "item_name": "2-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 98,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 102,
+    "drops": [
+      {
+        "item_id": 972,
+        "drop_weight": 100,
+        "item_name": "2-Star Leisure"
+      }
+    ]
+  },
+  {
+    "drop_id": 103,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 106,
+    "drops": [
+      {
+        "item_id": 1052,
+        "drop_weight": 50,
+        "item_name": "2-Star Commodity"
+      },
+      {
+        "item_id": 1092,
+        "drop_weight": 50,
+        "item_name": "2-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 115,
+    "drops": [
+      {
+        "item_id": 14,
+        "drop_weight": 100,
+        "item_name": "Balm of Rising"
+      }
+    ]
+  },
+  {
+    "drop_id": 118,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 50,
+        "item_name": "1-Star Commodity"
+      },
+      {
+        "item_id": 1052,
+        "drop_weight": 50,
+        "item_name": "2-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 126,
+    "drops": [
+      {
+        "item_id": 1134,
+        "drop_weight": 50,
+        "item_name": "4-Star Clothing"
+      },
+      {
+        "item_id": 954,
+        "drop_weight": 50,
+        "item_name": "4-Star Gadget"
+      }
+    ]
+  },
+  {
+    "drop_id": 133,
+    "drops": [
+      {
+        "item_id": 951,
+        "drop_weight": 50,
+        "item_name": "1-Star Gadget"
+      },
+      {
+        "item_id": 1091,
+        "drop_weight": 50,
+        "item_name": "1-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 134,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 40,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      }
+    ]
+  },
+  {
+    "drop_id": 138,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 100,
+        "item_name": "1-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 139,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 100,
+        "item_name": "1-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 140,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 100,
+        "item_name": "1-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 141,
+    "drops": [
+      {
+        "item_id": 1051,
+        "drop_weight": 100,
+        "item_name": "1-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 143,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 144,
+    "drops": [
+      {
+        "item_id": 3,
+        "drop_weight": 100,
+        "item_name": "Bead"
+      }
+    ]
+  },
+  {
+    "drop_id": 145,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 146,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 149,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 150,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 151,
+    "drops": [
+      {
+        "item_id": 1072,
+        "drop_weight": 100,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 153,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 155,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 156,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 158,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 160,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 161,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 162,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 163,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 100,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 166,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 167,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 168,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 169,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 173,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 175,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 176,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 177,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 100,
+        "item_name": "Knockout Gas"
+      }
+    ]
+  },
+  {
+    "drop_id": 178,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 179,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 187,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 194,
+    "drops": [
+      {
+        "item_id": 1072,
+        "drop_weight": 70,
+        "item_name": "2-Star Jewelry"
+      },
+      {
+        "item_id": 1073,
+        "drop_weight": 30,
+        "item_name": "3-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 199,
+    "drops": [
+      {
+        "item_id": 1033,
+        "drop_weight": 50,
+        "item_name": "3-Star Cosmetics"
+      },
+      {
+        "item_id": 1133,
+        "drop_weight": 50,
+        "item_name": "3-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 202,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 50,
+        "item_name": "3-Star Commodity"
+      },
+      {
+        "item_id": 973,
+        "drop_weight": 50,
+        "item_name": "3-Star Leisure"
+      }
+    ]
+  },
+  {
+    "drop_id": 203,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 50,
+        "item_name": "3-Star Commodity"
+      },
+      {
+        "item_id": 973,
+        "drop_weight": 50,
+        "item_name": "3-Star Leisure"
+      }
+    ]
+  },
+  {
+    "drop_id": 204,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 30,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 10,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 216,
+    "drops": [
+      {
+        "item_id": 14,
+        "drop_weight": 100,
+        "item_name": "Balm of Rising"
+      }
+    ]
+  },
+  {
+    "drop_id": 224,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 225,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 226,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 229,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 230,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 231,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 232,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 235,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 237,
+    "drops": [
+      {
+        "item_id": 3,
+        "drop_weight": 100,
+        "item_name": "Bead"
+      }
+    ]
+  },
+  {
+    "drop_id": 248,
+    "drops": [
+      {
+        "item_id": 28,
+        "drop_weight": 100,
+        "item_name": "Summon Stone"
+      }
+    ]
+  },
+  {
+    "drop_id": 255,
+    "drops": [
+      {
+        "item_id": 35,
+        "drop_weight": 100,
+        "item_name": "Lu Incense"
+      }
+    ]
+  },
+  {
+    "drop_id": 258,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 259,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 260,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 261,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 262,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 263,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 265,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 267,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 268,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 272,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 273,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 275,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 276,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 280,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 281,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 283,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 284,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 285,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 287,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 288,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 289,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 290,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 291,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 292,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 931,
+        "drop_weight": 1,
+        "item_name": "Messiah's Tear"
+      }
+    ]
+  },
+  {
+    "drop_id": 306,
+    "drops": [
+      {
+        "item_id": 1074,
+        "drop_weight": 70,
+        "item_name": "4-Star Jewelry"
+      },
+      {
+        "item_id": 1075,
+        "drop_weight": 30,
+        "item_name": "5-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 307,
+    "drops": [
+      {
+        "item_id": 1074,
+        "drop_weight": 70,
+        "item_name": "4-Star Jewelry"
+      },
+      {
+        "item_id": 1075,
+        "drop_weight": 30,
+        "item_name": "5-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 308,
+    "drops": [
+      {
+        "item_id": 1074,
+        "drop_weight": 70,
+        "item_name": "4-Star Jewelry"
+      },
+      {
+        "item_id": 1075,
+        "drop_weight": 30,
+        "item_name": "5-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 310,
+    "drops": [
+      {
+        "item_id": 1075,
+        "drop_weight": 100,
+        "item_name": "5-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 311,
+    "drops": [
+      {
+        "item_id": 1075,
+        "drop_weight": 100,
+        "item_name": "5-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 315,
+    "drops": [
+      {
+        "item_id": 1093,
+        "drop_weight": 100,
+        "item_name": "3-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 317,
+    "drops": [
+      {
+        "item_id": 1113,
+        "drop_weight": 100,
+        "item_name": "3-Star Medicine"
+      }
+    ]
+  },
+  {
+    "drop_id": 318,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 100,
+        "item_name": "3-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 322,
+    "drops": [
+      {
+        "item_id": 1113,
+        "drop_weight": 50,
+        "item_name": "3-Star Medicine"
+      },
+      {
+        "item_id": 1133,
+        "drop_weight": 50,
+        "item_name": "3-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 325,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 100,
+        "item_name": "3-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 326,
+    "drops": [
+      {
+        "item_id": 1133,
+        "drop_weight": 100,
+        "item_name": "3-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 328,
+    "drops": [
+      {
+        "item_id": 1113,
+        "drop_weight": 70,
+        "item_name": "3-Star Medicine"
+      },
+      {
+        "item_id": 1114,
+        "drop_weight": 30,
+        "item_name": "4-Star Medicine"
+      }
+    ]
+  },
+  {
+    "drop_id": 329,
+    "drops": [
+      {
+        "item_id": 1133,
+        "drop_weight": 70,
+        "item_name": "3-Star Clothing"
+      },
+      {
+        "item_id": 1134,
+        "drop_weight": 30,
+        "item_name": "4-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 334,
+    "drops": [
+      {
+        "item_id": 1113,
+        "drop_weight": 100,
+        "item_name": "3-Star Medicine"
+      }
+    ]
+  },
+  {
+    "drop_id": 336,
+    "drops": [
+      {
+        "item_id": 1133,
+        "drop_weight": 70,
+        "item_name": "3-Star Clothing"
+      },
+      {
+        "item_id": 1134,
+        "drop_weight": 30,
+        "item_name": "4-Star Clothing"
+      }
+    ]
+  },
+  {
+    "drop_id": 337,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 70,
+        "item_name": "3-Star Commodity"
+      },
+      {
+        "item_id": 1054,
+        "drop_weight": 30,
+        "item_name": "4-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 341,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 70,
+        "item_name": "3-Star Jewelry"
+      },
+      {
+        "item_id": 1074,
+        "drop_weight": 30,
+        "item_name": "4-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 342,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 70,
+        "item_name": "3-Star Jewelry"
+      },
+      {
+        "item_id": 1074,
+        "drop_weight": 30,
+        "item_name": "4-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 346,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 70,
+        "item_name": "3-Star Jewelry"
+      },
+      {
+        "item_id": 1074,
+        "drop_weight": 30,
+        "item_name": "4-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 348,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 70,
+        "item_name": "3-Star Jewelry"
+      },
+      {
+        "item_id": 1074,
+        "drop_weight": 30,
+        "item_name": "4-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 350,
+    "drops": [
+      {
+        "item_id": 1073,
+        "drop_weight": 70,
+        "item_name": "3-Star Jewelry"
+      },
+      {
+        "item_id": 1074,
+        "drop_weight": 30,
+        "item_name": "4-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 356,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 70,
+        "item_name": "3-Star Commodity"
+      },
+      {
+        "item_id": 1054,
+        "drop_weight": 30,
+        "item_name": "4-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 362,
+    "drops": [
+      {
+        "item_id": 1053,
+        "drop_weight": 70,
+        "item_name": "3-Star Commodity"
+      },
+      {
+        "item_id": 1054,
+        "drop_weight": 30,
+        "item_name": "4-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 363,
+    "drops": [
+      {
+        "item_id": 991,
+        "drop_weight": 80,
+        "item_name": "1-Star Food"
+      },
+      {
+        "item_id": 1053,
+        "drop_weight": 20,
+        "item_name": "3-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 365,
+    "drops": [
+      {
+        "item_id": 953,
+        "drop_weight": 70,
+        "item_name": "3-Star Gadget"
+      },
+      {
+        "item_id": 954,
+        "drop_weight": 30,
+        "item_name": "4-Star Gadget"
+      }
+    ]
+  },
+  {
+    "drop_id": 388,
+    "drops": [
+      {
+        "item_id": 1133,
+        "drop_weight": 50,
+        "item_name": "3-Star Clothing"
+      },
+      {
+        "item_id": 1053,
+        "drop_weight": 50,
+        "item_name": "3-Star Commodity"
+      }
+    ]
+  },
+  {
+    "drop_id": 399,
+    "drops": [
+      {
+        "item_id": 953,
+        "drop_weight": 70,
+        "item_name": "3-Star Gadget"
+      },
+      {
+        "item_id": 954,
+        "drop_weight": 30,
+        "item_name": "4-Star Gadget"
+      }
+    ]
+  },
+  {
+    "drop_id": 400,
+    "drops": [
+      {
+        "item_id": 953,
+        "drop_weight": 70,
+        "item_name": "3-Star Gadget"
+      },
+      {
+        "item_id": 954,
+        "drop_weight": 30,
+        "item_name": "4-Star Gadget"
+      }
+    ]
+  },
+  {
+    "drop_id": 404,
+    "drops": [
+      {
+        "item_id": 953,
+        "drop_weight": 60,
+        "item_name": "3-Star Gadget"
+      },
+      {
+        "item_id": 1094,
+        "drop_weight": 40,
+        "item_name": "4-Star Document"
+      }
+    ]
+  },
+  {
+    "drop_id": 453,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 454,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 25,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 25,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 25,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 5,
+        "drop_weight": 25,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 463,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 100,
+        "item_name": "Chakra Drop"
+      }
+    ]
+  },
+  {
+    "drop_id": 467,
+    "drops": [
+      {
+        "item_id": 58,
+        "drop_weight": 100,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 472,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 100,
+        "item_name": "1-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 473,
+    "drops": [
+      {
+        "item_id": 1072,
+        "drop_weight": 100,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 474,
+    "drops": [
+      {
+        "item_id": 22,
+        "drop_weight": 100,
+        "item_name": "Revival Leaf"
+      }
+    ]
+  },
+  {
+    "drop_id": 475,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 479,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 480,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 481,
+    "drops": [
+      {
+        "item_id": 1071,
+        "drop_weight": 70,
+        "item_name": "1-Star Jewelry"
+      },
+      {
+        "item_id": 1072,
+        "drop_weight": 30,
+        "item_name": "2-Star Jewelry"
+      }
+    ]
+  },
+  {
+    "drop_id": 486,
+    "drops": [
+      {
+        "item_id": 5,
+        "drop_weight": 30,
+        "item_name": "Chakra Drop"
+      },
+      {
+        "item_id": 13,
+        "drop_weight": 30,
+        "item_name": "Revival Bead"
+      },
+      {
+        "item_id": 18,
+        "drop_weight": 30,
+        "item_name": "Dis-Poison"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 10,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 487,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 30,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 30,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 30,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 10,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  },
+  {
+    "drop_id": 488,
+    "drops": [
+      {
+        "item_id": 49,
+        "drop_weight": 30,
+        "item_name": "Knockout Gas"
+      },
+      {
+        "item_id": 50,
+        "drop_weight": 30,
+        "item_name": "Poison Gas"
+      },
+      {
+        "item_id": 51,
+        "drop_weight": 30,
+        "item_name": "Nerve Gas"
+      },
+      {
+        "item_id": 58,
+        "drop_weight": 10,
+        "item_name": "Expanse Meat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,319 @@
+1: Shinjuku - Government Office Plaza; Chest under roof on the left side; 16-0
+2: Shinjuku - Government Office Plaza; Chest behind breakable wall on the right side; 16-1
+5: Shinjuku - Government Office Plaza; Gray relic pile near boss;
+6: Shinjuku - Government Office Plaza; Dead hunter under roof on the right side; 16-4
+7: Shinjuku - Government Office Plaza; Dead hunter near entrance on the left side; 16-5
+8: Shinjuku - Government Office Plaza; Dead hunter near boss; 16-6
+10: Shinjuku - South Entrance; Right of two chests past fence; 17-1
+11: Shinjuku - South Entrance; Chest on roof; 17-2
+12: Shinjuku - South Entrance; Gray relic pile;
+15: Shinjuku - South Entrance; Dead hunter west; 17-4
+16: Shinjuku - South Entrance; Dead hunter east; 17-5
+18: Shinjuku - East Entrance Main Street; Dead hunter near western wall; 17-6
+19: Shinjuku - East Entrance Main Street; Dead hunter east of entrance; 17-7
+20: Shinjuku - East Entrance Main Street; Dead hunter near wall south of entrance; 18-0
+21: Shinjuku - Kabuki-cho; Dead hunter south-east; 18-1
+22: Shinjuku - Kabuki-cho; Dead hunter north-west; 18-2
+23: Shinjuku - Golden Gai; Gray relic pile;
+25: Shinjuku - Golden Gai; Dead hunter on roof; 18-5
+26: Shinjuku - Nicho; Dead hunter south-east; 18-6
+28: Shinjuku National Park - Pond Garden; Chest hidden behind hedge after firewall; 37-5
+29: Shinjuku National Park - Pond Garden; Dead hunter on bridge; 38-0
+30: Shinjuku National Park - Pond Garden; Dead hunter after firewall; 38-1
+31: Shinjuku Station - West Entrance; Chest behind stairs; 18-7
+34: Shinjuku Station - West Entrance; Gray relic pile on top of stairs;
+35: Shinjuku West Entrance Park - Water Plaza; Chest near entrance; 36-7
+36: Shinjuku West Entrance Park - Water Plaza; Chest near fountain; 37-0
+37: Shinjuku West Entrance Park - Water Plaza; Gray relic pile near entrance;
+38: Shinjuku West Entrance Park - Water Plaza; Dead hunter near trash cans; 37-2
+39: Shinjuku West Entrance Park - Water Plaza; Dead hunter in the center; 37-3
+40: Shinjuku West Entrance Park - Water Plaza; Dead hunter near ledge; 37-4
+42: Shinjuku - West Entrance Buildings; Dead hunter in side street; 19-1
+43: Shinjuku - West Entrance Buildings; Dead hunter in main street; 19-2
+44: Shinjuku - West Entrance Underground; Chest behind boxes; 19-3
+45: Shinjuku - West Entrance Passage; Chest after jumping through vent; 19-4
+46: Shinjuku - Kabuki-cho Passage; Gray relic pile;
+48: Shinjuku - South Entrance; Chest after jumping through vent near fence; 17-0
+50: Shibuya Station - Front Crosswalk; Chest after crawling through fence, behind building; 20-3
+51: Shibuya Station - Front Crosswalk; Chest after crawling through fence, near station entrance; 20-4
+52: Shibuya Station - Front Crosswalk; Gray relic pile in corner near entrance;
+53: Shibuya Station - Front Crosswalk; Gray relic pile after crawling through fence, behind building;
+54: Shibuya Station - Front Crosswalk; Dead hunter in the middle of the street; 20-7
+55: Shibuya Station - Front Crosswalk; Dead hunter after crawling through fence; 21-0
+56: Shibuya - 108 Building; Chest up the stairs on top of building; 21-1
+58: Shibuya - 108 Building; Dead hunter in the street; 21-2
+59: Shibuya - Dogenzaka; Gray relic pile;
+60: Shibuya - Dogenzaka; Dead hunter in the street; 21-6
+61: Shibuya - Dogenzaka; Dead hunter in the alleys; 21-7
+62: Shibuya - Inokashira-dori; Gray relic pile at the end of street;
+63: Shibuya - Inokashira-dori; Dead hunter near entrance; 22-1
+64: Shibuya - Inokashira-dori; Dead hunter near entrance behind breakable wall; 22-2
+65: Shibuya - Miyashita Park; Chest at the end of bloody street; 22-3
+66: Shibuya - Miyashita Park; Chest behind house; 22-4
+68: Shibuya - Miyashita Park; Gray relic pile;
+71: Shibuya Station - West Entrance; Chest on top of roof; 22-7
+73: Shibuya Station - West Entrance; Gray relic pile behind entrance;
+74: Shibuya Station - West Entrance; Dead hunter on walkway, east; 23-2
+75: Shibuya Station - West Entrance; Dead hunter on walkway, west; 23-3
+76: Shibuya - Underground District A; Gray relic pile;
+77: Shibuya - Underground District B; Gray relic pile;
+78: Shibuya - Underground District C; Gray relic pile;
+79: Shibuya - Underground District D; Chest after jumping through vent in district C; 24-0
+80: Shibuya - Underground District D; Gray relic pile;
+81: Shibuya - Inside Mark City; Gray relic pile;
+82: Shibuya - Dogenzaka; Chest near fence on the side near Club Milton; 21-3
+83: Shibuya - Dogenzaka (dead-end); Chest near fence on the side near 108 building; 21-4
+84: Shibuya - Underground District B; Chest; 23-5
+85: Kasumigaseki - Sakurada-dori; Chest behind fence; 24-4
+87: Kasumigaseki - Sakurada-dori; Gray relic pile in the center;
+89: Kasumigaseki Station - Passage; Chest after jumping through vent; 24-7
+90: Kasumigaseki Station - Passage; Gray relic pile after jumping through vent;
+92: Kasumigaseki Station - Platform; Chest on train tracks; 25-1
+93: Kasumigaseki - Restricted Access; Chest in secret room after jumping through vent; 25-2
+95: Ikebukuro - Sunshine Front; Chest below roof; 25-4
+96: Ikebukuro - Sunshine Front; Chest behind fence; 25-5
+97: Ikebukuro - Sunshine Front; Gray relic pile behind fence;
+99: Ikebukuro - 60 Street Crosswalk; Dead hunter on the left; 26-1
+100: Ikebukuro - 60 Street Crosswalk; Dead hunter on the right; 26-2
+105: Ikebukuro - Underground District; Gray relic pile near terminal;
+107: Ikebukuro Station - East Entrance; Gray relic pile in the middle;
+108: Ikebukuro Station - East Entrance; Dead hunter left of entrance; 27-0
+109: Ikebukuro Station - East Entrance; Dead hunter opposite side of entrance; 27-1
+110: Ikebukuro Station - East Entrance; Dead hunter in the south near fence; 27-2
+111: Ikebukuro - Sunshine Front; Chest under stairs on the right; 25-6
+112: Ikebukuro - 60 Street Crosswalk; Chest; 26-0
+113: Ginza - 4th District Crosswalk; Gray relic pile near north gate;
+114: Ginza - 4th District Crosswalk; Gray relic pile near east gate;
+116: Ginza - Shopping District; Gray relic pile near breakable wall;
+117: Tokyo Station - Yaesu Passage; Gray relic pile;
+119: Ginza - Underground District; Gray relic pile by terminal;
+120: Ginza - Underground District; Gray relic pile by fountain;
+121: Ginza - Southwest Passage; Chest on the upper sidepath near breakable wall; 28-4
+122: Ginza - Southwest Passage; Chest on the middle sidepath near breakable wall; 28-5
+123: Ginza - Southeast Passage; Chest after jumping through east vent; 28-6
+124: Ginza - Southeast Passage; Chest after jumping through west vent; 28-7
+125: Ginza - Southeast Passage; Gray relic pile;
+127: Ginza - Central Way A; Chest on top of roof; 27-7
+129: Ueno Station - Front Entrance; Chest behind breakable wall; 29-2
+130: Ueno Station - Front Entrance; Green relic pile on top of roof;
+131: Ueno - Central Way; Chest behind breakable walls; 29-4
+132: Ueno - Central Way; Gray relic pile next to bus;
+135: Ueno - Shinobazu Pond; Chest on ledge near entrance; 29-7
+136: Ueno - Shinobazu Pond; Chest on pagoda; 30-0
+137: Ueno - Shinobazu Pond; Chest on top of roof above pier; 30-1
+142: Ueno - Shinobazu Pond; Gray relic pile on rock in pond;
+152: Naraku - 1st Stratum; Green relic pile, middle of map;
+154: Naraku - 2nd Stratum; Green relic pile, lower left in front of sign;
+157: Naraku - 3rd Stratum; Chest after crawling through hole; 32-4
+159: Naraku - 3rd Stratum; Green relic pile, on ledge on the east side of the poison;
+164: Naraku - 4th Stratum; Chest after climbing up ladder after jumping over bridge; 33-2
+165: Naraku - 4th Stratum; Chest after climbing up north-east ladders; 33-3
+170: Naraku - 5th Stratum; Green relic pile, in front of door to minotaur;
+171: Naraku - 5th Stratum; Chest in front of door to minotaur; 34-3
+172: Naraku - Hall of the Minotaur; Green relic pile, west;
+173: Naraku - Hall of the Minotaur; Green relic pile, west;
+174: Naraku - Hall of the Minotaur; Green relic pile;
+180: Naraku - Temporary Scaffolding; Green relic pile;
+181: Naraku - 1st Observation Platform; Chest, south; 36-0
+182: Naraku - 1st Observation Platform; Chest, west; 36-1
+183: Kiccigiorgi Forest - Side Road; Green relic pile at the entrance;
+184: Kiccigiorgi Forest Depths; Chest after dropping down ledge; 36-3
+185: Kiccigiorgi Forest Depths; Chest on top of the hill; 36-4
+186: Kiccigiorgi Forest Depths; Green relic pile, in the bend of the road;
+190: Kagome Tower - Lower Level; Chest next to entrance; 38-2
+191: Kagome Tower - Lower Level; Green relic pile on second floor;
+192: Kagome Tower - Lower Level; Green relic pile near stairs to next floor;
+193: Kagome Tower - Upper Level; Green relic pile near entrance;
+195: Midtown - 1F; Chest around corner; 39-0
+197: Midtown - 1F; Chest after jumping through vent; 38-7
+198: Midtown - 1F; Gray relic pile after jumping through vent;
+200: Midtown - 33F; Chest behind desks after jumping through vent; 39-3
+201: Midtown - 33F; Chest near elevator; 39-4
+205: Midtown - 33F; Dead hunter in office cubicle; 39-6
+206: Midtown - 43F; Chest in dead end; 39-7
+207: Midtown - 43F; Gray relic pile;
+208: Midtown - 33F; Chest in office cubicle; 39-5
+209: Midtown - 54F; Chest; 40-1
+210: Reverse Hills - B7F; Chest behind door, north-west; 40-5
+211: Reverse Hills - B7F; Chest behind door, south-west; 40-6
+212: Reverse Hills - B7F; Chest behind door, north-east; 40-7
+213: Reverse Hills - B7F; Chest behind door, south-east; 41-0
+214: Reverse Hills - B8F; Chest behind door, south-east; 41-1
+215: Reverse Hills - B9F; Chest behind door, north-west; 41-2
+217: Reverse Hills - B51F; Gray relic pile in room with the password-locked doors;
+218: Reverse Hills - B51F; Chest behind elevator, east; 41-5
+219: Reverse Hills - B51F; Chest behind elevator, west; 41-6
+220: Reverse Hills - B51F; Gray relic pile behind password-locked door;
+223: Tsukiji Hongwanji - Main Temple; Chest in south of entrance behind breakable wall; 42-0
+227: Tsukiji Hongwanji - Main Temple; Chest in western part; 42-1
+228: Tsukiji Hongwanji - 1st Training Hall; Chest near entrance; 42-2
+239: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall near entrance; 42-3
+240: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall on second floor; 42-4
+241: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall on third floor; 42-5
+242: Camp Ichigaya - B2F; Chest in dead end, right; 43-4
+243: Camp Ichigaya - B1F; Chest, left; 43-2
+244: Camp Ichigaya - 1F; Gray relic pile, west;
+245: Camp Ichigaya - 1F; Gray relic pile, east;
+246: Camp Ichigaya - B1F; Chest, right; 43-1
+247: Camp Ichigaya - B1F; Gray relic pile;
+249: Camp Ichigaya - B2F; Chest in dead end, left; 43-5
+250: Camp Ichigaya - B2F; Gray relic pile;
+251: Camp Ichigaya - B3F; Chest near reactor; 43-7
+252: Camp Ichigaya - B3F; Chest close to exit stairs; 44-0
+253: Camp Ichigaya - B3F; Gray relic pile near reactor;
+254: Camp Ichigaya - B3F; Gray relic pile;
+256: Camp Ichigaya - 1F; Chest; 43-0
+257: Monochrome Forest - Open Space; Chest near entrance; 44-3
+264: Monochrome Forest - Animal Trail C; Chest; 44-4
+266: Monochrome Forest - Animal Trail D; Chest, south; 44-5
+270: Purgatorium - 1st Crown; Chest by gate, east; 44-7
+271: Purgatorium - 1st Crown; Chest by gate, west; 45-0
+274: Purgatorium - 2nd Crown; Chest by entrance; 45-1
+277: Purgatorium - 3rd Crown; Chest from column near exit to 4th crown; 45-2
+278: Purgatorium - 4th Crown; Chest by gate, west; 45-4
+279: Purgatorium - 4th Crown; Chest by gate, east; 45-5
+282: Purgatorium - 6th Crown; Chest, east; 45-7
+286: Purgatorium - 6th Crown; Chest in front of gate to next floor; 45-6
+293: Purgatorium - Gates of Paradiso; Chest, right; 46-0
+294: Purgatorium - Gates of Paradiso; Chest, left; 46-1
+295: Purgatorium - 3rd Crown; Chest by column in the center; 45-3
+297: Lucifer's Palace - Hall of Eternity; Chest in front of entrance; 46-2
+298: Lucifer's Palace - Hall of Eternity; Left of two chests; 46-3
+299: Lucifer's Palace - Hall of Eternity; Right of two chests; 46-4
+300: Lucifer's Palace - Hall of Eternity; Left of three chests; 46-5
+301: Lucifer's Palace - Hall of Eternity; Right of three chests; 46-6
+302: Lucifer's Palace - Hall of Eternity; Middle of three chests; 46-7
+303: Lucifer's Palace - Morning Star Hall; Right of two chests; 47-7
+304: Lucifer's Palace - Morning Star Hall; Left of two chests; 48-0
+305: Lucifer's Palace - Hall of Eternal Light; Chest to the right of stairs; 47-0
+309: Lucifer's Palace - Hall of Eternal Light; Green relic pile on upper platform;
+316: Kasumigaseki - Ground Zero Remains; Gray relic pile;
+317: Kasumigaseki - Ground Zero Remains; Gray relic pile near west exit;
+320: Shinjuku - Ground Zero Remains; Gray relic pile by ruin walls;
+321: Shinjuku - Ground Zero Remains; Gray relic pile by entrance;
+322: Shinjuku - Underground Shelter A; Gray relic pile;
+323: Shinjuku - Underground Shelter A; Gray relic pile;
+326: Shibuya - Ground Zero Remains; Gray relic pile, east;
+327: Shibuya - Ground Zero Remains; Gray relic pile;
+329: Shibuya - Underground Shelter; Gray relic pile;
+330: Shibuya - Underground Shelter; Gray relic pile;
+333: Ikebukuro - Ground Zero Remains; Gray relic pile;
+335: Ikebukuro - Underground Shelter; Gray relic pile;
+340: Pluto Castle - 1F; Green relic pile on main path;
+343: Pluto Castle - 1F; Green relic pile after jumping down hole from 2F;
+344: Pluto Castle - 2F; Chest near breakable wall; 51-6
+345: Pluto Castle - 2F; Green relic pile after jumping down hole from 4F;
+346: Pluto Castle - 2F; Green relic pile, eastern part;
+347: Pluto Castle - 3F; Green relic pile near Pluto Warrior fight;
+349: Pluto Castle - 4F; Chest; 52-3
+350: Pluto Castle - 4F; Green relic pile, west;
+351: Pluto Castle - 4F; Green relic pile;
+352: Camp Ichigaya (BT) - B1F; Chest, left; 53-1
+353: Camp Ichigaya (BT) - B2F; Chest; 53-3
+354: Camp Ichigaya (BT) - 1F; Chest; 52-6
+355: Camp Ichigaya (BT) - 1F; Gray relic pile, west;
+357: Camp Ichigaya (BT) - B1F; Chest, right; 53-0
+358: Camp Ichigaya (BT) - B2F; Gray relic pile;
+359: Camp Ichigaya (BT) - B3F; Chest near reactor; 53-4
+360: Camp Ichigaya (BT) - B3F; Chest near elevator; 53-5
+361: Camp Ichigaya (BT) - B3F; Gray relic pile near stairs to B2F;
+364: Camp Ichigaya (BT) - B3F; Chest outside one way door; 53-6
+366: Kasumigaseki (IT) - Sakurada-dori; Gray relic pile near flames;
+369: Shinjuku (IT) - East Entrance Main Street; Gray relic pile near entrance;
+370: Shinjuku (IT) - East Entrance Main Street; Dead hunter by flaming tires; 54-5
+371: Shinjuku (IT) - East Entrance Main Street; Dead hunter by station entrance; 54-6
+372: Shinjuku (IT) - East Entrance Main Street; Dead hunter by western wall; 54-7
+373: Shinjuku (IT) - National Park; Dead hunter on eastern bridge; 55-0
+374: Shinjuku (IT) - National Park; Dead hunter by south plaza; 55-1
+377: Shibuya (IT) - 108 Building; Chest on building up the stairs; 55-2
+378: Shibuya (IT) - 108 Building; Dead hunter at the end of the road; 55-3
+379: Shibuya (IT) - 108 Building (entrance); Dead hunter near entrance; 55-4
+380: Shibuya (IT) - Undeground District A; Gray relic pile near stairs;
+381: Shibuya (IT) - Undeground District B; Gray relic pile above ledge;
+384: Ikebukuro Station (IT) - East Entrance; Gray relic pile near garage;
+385: Ikebukuro Station (IT) - East Entrance; Dead hunter near north-western wall; 56-0
+386: Ikebukuro Station (IT) - East Entrance; Dead hunter near eastern wall; 56-1
+387: Ikebukuro Station (IT) - East Entrance; Dead hunter near burning bus; 56-2
+389: Ikebukuro (IT) - Underground District; Gray relic pile near bar;
+392: Camp Ichigaya (IT) - 1F; Gray relic pile, west;
+393: Camp Ichigaya (IT) - 1F; Gray relic pile, east;
+394: Camp Ichigaya (IT) - B1F; Chest, right; 56-7
+395: Camp Ichigaya (IT) - B2F; Gray relic pile near entrance;
+396: Camp Ichigaya (IT) - B2F; Gray relic pile on the side of hallway;
+397: Camp Ichigaya (IT) - B3F; Chest near reactor; 57-4
+398: Camp Ichigaya (IT) - B3F; Gray relic pile near entrance from B2F;
+401: Camp Ichigaya (IT) - 2F; Chest by stairs; 58-1
+402: Camp Ichigaya (IT) - 2F; Gray relic pile by elevator;
+403: Camp Ichigaya (IT) - 2F; Gray relic pile in eastern corner;
+405: Naraku - Excavation Worker Quarters; First chest from entrance; 34-7
+406: Naraku - Excavation Worker Quarters; Second chest from entrance; 35-0
+407: Naraku - Excavation Worker Quarters; Third chest from entrance; 35-1
+408: Naraku - Excavation Worker Quarters; Fourth chest from entrance; 35-2
+409: Naraku - Excavation Worker Quarters; Fifth chest from entrance; 35-3
+410: Tokyo - Higashi Mukojima; Chest in the east; 58-5
+411: Tokyo - Higashi Mukojima; Chest in the north near river; 58-6
+412: Tokyo - Akihabara; Chest near crater; 58-7
+413: Tokyo - Kameido; Chest on the road to the east; 59-0
+414: Tokyo - Hanzomon; Chest near dead-end; 59-1
+415: Tokyo - Ikebukuro; Chest; 59-2
+416: Tokyo - Itabashi; Chest after road ends; 59-3
+417: Tokyo - Egota; Chest after poison swamp; 59-4
+418: Tokyo - Setagaya; Chest in sandy area; 59-5
+419: Tokyo - Hatanodai; Chest; 59-6
+420: Tokyo - Azabu Juban; Chest; 59-7
+421: Tokyo - Togoshi; Chest; 60-0
+422: Tokyo - Tennozu; Chest; 60-1
+423: Tokyo - Ariake; Chest; 60-2
+424: Tokyo - Tsukijima; Chest in poison swamp; 60-3
+425: Tokyo - Kita Senju; Chest at the end of the road; 60-5
+426: Tokyo - Ouji; Chest at the end of sandy section; 60-6
+427: Tokyo - Ooi Wharf; Chest; 60-7
+428: Tokyo - Central Breakwater; Chest; 61-0
+431: Blasted Tokyo; Chest in crater near Kasumigaseki; 61-5
+432: Blasted Tokyo; Chest near pluto castle; 61-6
+433: Blasted Tokyo - Ikebukuro; Chest in crater near Ikebukuro; 61-7
+434: Blasted Tokyo - Shibuya; Chest in crater near Shibuya; 62-0
+437: Infernal Tokyo - Hanzomon; Chest; 62-1
+438: Tokyo - Oshima; Chest near containers; 60-4
+440: Camp Ichigaya (IT) - B1F; Chest, left; 57-0
+441: Camp Ichigaya (IT) - B2F; Chest near entrance; 57-1
+442: Camp Ichigaya (IT) - B3F; Chest at the end of long hallway; 57-5
+443: Pluto Castle - 1F; Chest after beating Pluto; 50-7
+444: Pluto Castle - 1F; Left of two chests; 51-0
+445: Pluto Castle - 1F; Right of two chests; 51-1
+446: Kasumigaseki - Ground Zero Remains; Chest near south exit; 48-1
+447: Kasumigaseki - Ground Zero Remains; Chest near west exit; 48-2
+448: Kasumigaseki - Ground Zero Remains; Chest near north exit; 48-3
+450: Usetan / Harajuku Police Station / Kabuto Shrine; Dead hunter;
+451: Yoroi shrine / Cameron Building / Bikkuri Camera; Dead hunter;
+452: Yodogawa Camera / Jujo Base / Kiou Shrine / Camp Meguro; Dead hunter;
+453: Kiba Storage; Dead hunter;
+456: Infernal Tokyo - Otsuka; Chest; 62-2
+457: Infernal Tokyo - Suidobashi; Chest; 62-3
+458: Infernal Tokyo - Takadano Baba; Chest; 62-4
+459: Infernal Tokyo - Sendagaya; Chest; 62-5
+460: Shinjuku - Government Office Plaza; Left of two chests; 19-6
+461: Shinjuku - Government Office Plaza; Right of two chests; 19-7
+462: Shinjuku - South Entrance; Left of two chests past fence; 20-0
+463: Shinjuku - Nicho; Dead hunter south-west; 20-1
+464: Shinjuku Station - West Entrance; Chest on top of roof near entrance; 20-2
+465: Shibuya - Miyashita Park; Chest near lamp post; 24-3
+466: Kasumigaseki - Sakurada-dori; Chest at the end of the street; 24-6
+468: Ikebukuro Station - East Entrance; Dead hunter along western wall; 27-3
+469: Ueno - Ameyoko Way; Dead hunter on roof; 29-6
+470: Ueno - Central Underground District; Chest behind shutters; 30-3
+471: Naraku - 3rd Stratum; Chest in poison area; 31-2
+473: Naraku - 1st Stratum; Green relic pile past door that requires Key to Naraku;
+474: Naraku - 1st Stratum; Chest past door that requires Key to Naraku; 31-6
+476: Naraku - 2nd Stratum; Green relic pile, lower left by wall;
+477: Naraku - 3rd Stratum; Chest north-east on ledge; 32-5
+478: Naraku - 4th Stratum; Chest behind waterfall; 33-1
+482: Naraku - 4th Stratum; Green relic pile after climbing up north-east ladders;
+483: Naraku - Temporary Scaffolding; Chest; 35-7
+484: Shinjuku National Park - Pond Garden; Chest near fire wall; 37-6
+485: Shinjuku National Park - Pond Garden; Chest west of entrance; 37-7
+489: Reverse Hills - B9F; Dead hunter behind door, south-east; 41-3
+490: Monochrome Forest - Animal Trail D; Chest, north; 44-6
+491: Midtown - Former Army Shelter; Chest around corner near entrance; 40-2
+492: Midtown - Former Army Shelter; Chest further in; 40-3
+493: Midtown - Former Army Shelter; Dead hunter; 40-4

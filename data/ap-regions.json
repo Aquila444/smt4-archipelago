@@ -1,0 +1,1726 @@
+[
+  {
+    "name": "Mikado",
+    "entrances": [
+      {
+        "region": "Kiccigiorgi Forest - Side Road",
+        "requirements": []
+      },
+      {
+        "region": "Naraku - Floor of Fame",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kiccigiorgi Forest - Side Road",
+    "entrances": [
+      {
+        "region": "Kiccigiorgi Forest Depths",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kiccigiorgi Forest Depths",
+    "entrances": []
+  },
+  {
+    "name": "Naraku - Floor of Fame",
+    "entrances": [
+      {
+        "region": "Naraku - 1st Stratum",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 1st Stratum",
+    "entrances": [
+      {
+        "region": "Naraku - 2nd Stratum",
+        "requirements": []
+      },
+      {
+        "region": "Naraku - 4th Stratum",
+        "requirements": [
+          "Item: Key to Naraku"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 2nd Stratum",
+    "entrances": [
+      {
+        "region": "Naraku - 3rd Stratum",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 3rd Stratum",
+    "entrances": [
+      {
+        "region": "Naraku - 4th Stratum",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 4th Stratum",
+    "entrances": [
+      {
+        "region": "Naraku - 5th Stratum",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 5th Stratum",
+    "entrances": [
+      {
+        "region": "Naraku - Hall of the Minotaur",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - Hall of the Minotaur",
+    "entrances": [
+      {
+        "region": "Purgatorium - 1st Crown",
+        "requirements": [
+          "Route: Chaos",
+          "Route: Neutral"
+        ]
+      },
+      {
+        "region": "Naraku - Excavation Worker Quarters",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - Excavation Worker Quarters",
+    "entrances": [
+      {
+        "region": "Naraku - Temporary Scaffolding",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - Temporary Scaffolding",
+    "entrances": [
+      {
+        "region": "Naraku - 1st Observation Platform",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Naraku - 1st Observation Platform",
+    "entrances": [
+      {
+        "region": "Tokyo - Ueno Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tokyo - Ueno Region",
+    "entrances": [
+      {
+        "region": "Tokyo - Kameido",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Akihabara",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Higashi Mukojima",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Jouhoku Region",
+        "requirements": []
+      },
+      {
+        "region": "Ueno Station - Front Entrance",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Chiyoda Region",
+        "requirements": [
+          "Quest: Peallaidh Extermination"
+        ]
+      },
+      {
+        "region": "Tokyo - Central Breakwater",
+        "requirements": [
+          "Item: Torifune's Shawl"
+        ]
+      },
+      {
+        "region": "Tokyo - Ooi Wharf",
+        "requirements": [
+          "Item: Torifune's Shawl"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ueno Station - Front Entrance",
+    "entrances": [
+      {
+        "region": "Ueno Station - Underground District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno Station - Underground District",
+    "entrances": [
+      {
+        "region": "Ueno - Central Underground District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno - Central Underground District",
+    "entrances": [
+      {
+        "region": "Ueno - Underground Passage",
+        "requirements": []
+      },
+      {
+        "region": "Ueno - Ameyoko Way",
+        "requirements": []
+      },
+      {
+        "region": "Ueno - Central Way",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno - Ameyoko Way",
+    "entrances": [
+      {
+        "region": "Ueno - Central Way",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno - Central Way",
+    "entrances": [
+      {
+        "region": "Ueno Station - Front Entrance",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno - Underground Passage",
+    "entrances": [
+      {
+        "region": "Ueno - Shinobazu Pond",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ueno - Shinobazu Pond",
+    "entrances": [
+      {
+        "region": "Tokyo - Uguisudani",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tokyo - Jouhoku Region",
+    "entrances": [
+      {
+        "region": "Tokyo - Kita Senju",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Ouji",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tokyo - Kameido",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Akihabara",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Higashi Mukojima",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Hanzomon",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ikebukuro",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Itabashi",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Egota",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Setagaya",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Hatanodai",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Azabu Juban",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Togoshi",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Tennozu",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ariake",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Tsukijima",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Kita Senju",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ouji",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ooi Wharf",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Central Breakwater",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Oshima",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Uguisudani",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Chiyoda Region",
+    "entrances": [
+      {
+        "region": "Tokyo Station - Yaesu Passage",
+        "requirements": []
+      },
+      {
+        "region": "Kasumigaseki - Sakurada-dori",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Hanzomon",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Shinjuku Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Sakurada-dori",
+    "entrances": [
+      {
+        "region": "Kasumigaseki - Nagatocho Passage",
+        "requirements": []
+      },
+      {
+        "region": "Kasumigaseki Station - Passage",
+        "requirements": [
+          "Item: ID Card Lv2"
+        ]
+      },
+      {
+        "region": "Kasumigaseki - Disaster Storage B",
+        "requirements": [
+          "Item: ID Card Lv3"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Disaster Storage B",
+    "entrances": []
+  },
+  {
+    "name": "Kasumigaseki - Nagatocho Passage",
+    "entrances": [
+      {
+        "region": "Kasumigaseki - Counter-Demon Force",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Counter-Demon Force",
+    "entrances": []
+  },
+  {
+    "name": "Kasumigaseki Station - Passage",
+    "entrances": [
+      {
+        "region": "Kasumigaseki Station - Platform",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki Station - Platform",
+    "entrances": [
+      {
+        "region": "Kasumigaseki - Restricted Access",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Restricted Access",
+    "entrances": [
+      {
+        "region": "Kasumigaseki - Disaster Storage A",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Disaster Storage A",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Roppongi Region",
+    "entrances": [
+      {
+        "region": "Shibuya Station - Front Crosswalk",
+        "requirements": []
+      },
+      {
+        "region": "Midtown - 1F",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Ichigaya",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Azabu Juban",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Hatanodai",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Bay Area",
+        "requirements": [
+          "post route split"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tokyo - Ichigaya",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya - 1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya Station - Front Crosswalk",
+    "entrances": [
+      {
+        "region": "Shibuya - Underground District D",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - 108 Building",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - 108 Building",
+    "entrances": [
+      {
+        "region": "Shibuya - Underground District A",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Inokashira-dori",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Dogenzaka (dead-end)",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Inokashira-dori",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya - Dogenzaka (dead-end)",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya - Underground District A",
+    "entrances": [
+      {
+        "region": "Shibuya - Underground District C",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Underground District B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Underground District B",
+    "entrances": [
+      {
+        "region": "Shibuya - Miyashita Park",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Underground District C",
+    "entrances": [
+      {
+        "region": "Shibuya Station - West Entrance",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Underground District D",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Underground District D",
+    "entrances": [
+      {
+        "region": "Shibuya - Underground District B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Miyashita Park",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya Station - West Entrance",
+    "entrances": [
+      {
+        "region": "Shibuya - Inside Mark City",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Inside Mark City",
+    "entrances": [
+      {
+        "region": "Shibuya - Dogenzaka",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya - Dogenzaka",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo Station - Yaesu Passage",
+    "entrances": [
+      {
+        "region": "Ginza - Underground District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tokyo - Shinjuku Region",
+    "entrances": [
+      {
+        "region": "Tokyo - Ikebukuro Region (entrance)",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku West Entrance Park - Water Plaza",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Egota",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku National Park - Pond Garden",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku - South Entrance",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Setagaya",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Roppongi Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku West Entrance Park - Water Plaza",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku National Park - Pond Garden",
+    "entrances": [
+      {
+        "region": "Shinjuku National Park - Pond Garden (behind firewalls)",
+        "requirements": [
+          "Item: Hexagram Rosary"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku National Park - Pond Garden (behind firewalls)",
+    "entrances": [
+      {
+        "region": "Kagome Tower - Lower Level",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kagome Tower - Lower Level",
+    "entrances": [
+      {
+        "region": "Kagome Tower - Upper Level",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kagome Tower - Upper Level",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku - South Entrance",
+    "entrances": [
+      {
+        "region": "Shinjuku Station - Underground",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku Station - Underground",
+    "entrances": [
+      {
+        "region": "Shinjuku - East Entrance Main Street",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku - West Entrance Underground",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku Station - West Entrance",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - East Entrance Main Street",
+    "entrances": [
+      {
+        "region": "Shinjuku - Kabuki-cho",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Kabuki-cho",
+    "entrances": [
+      {
+        "region": "Shinjuku - Kabuki-cho Passage",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku - Golden Gai",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Kabuki-cho Passage",
+    "entrances": [
+      {
+        "region": "Shinjuku - Nicho",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Nicho",
+    "entrances": [
+      {
+        "region": "Shinjuku - East Entrance Main Street",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Golden Gai",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku - West Entrance Underground",
+    "entrances": [
+      {
+        "region": "Shinjuku - West Entrance Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - West Entrance Passage",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku Station - West Entrance",
+    "entrances": [
+      {
+        "region": "Shinjuku - West Entrance Buildings",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - West Entrance Buildings",
+    "entrances": [
+      {
+        "region": "Shinjuku - Government Office Plaza",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Government Office Plaza",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ikebukuro Region (entrance)",
+    "entrances": [
+      {
+        "region": "Tokyo - Itabashi",
+        "requirements": []
+      },
+      {
+        "region": "Ikebukuro - Sunshine Front",
+        "requirements": [
+          "Item: Jirae Talisman"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro - Sunshine Front",
+    "entrances": [
+      {
+        "region": "Ikebukuro - 60 Street Crosswalk",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Ikebukuro Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro - 60 Street Crosswalk",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ikebukuro Region",
+    "entrances": [
+      {
+        "region": "Tokyo - Ikebukuro",
+        "requirements": []
+      },
+      {
+        "region": "Ikebukuro - Underground District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro - Underground District",
+    "entrances": [
+      {
+        "region": "Ikebukuro Station - East Entrance",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro Station - East Entrance",
+    "entrances": []
+  },
+  {
+    "name": "Ginza - Underground District",
+    "entrances": [
+      {
+        "region": "Ginza - Hongwanji Passage",
+        "requirements": []
+      },
+      {
+        "region": "Ginza - 4th District Crosswalk",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - Hongwanji Passage",
+    "entrances": [
+      {
+        "region": "Tokyo - Ginza Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - 4th District Crosswalk",
+    "entrances": [
+      {
+        "region": "Ginza - Central Way B",
+        "requirements": []
+      },
+      {
+        "region": "Ginza - Harumi Way A",
+        "requirements": []
+      },
+      {
+        "region": "Ginza - Central Way A",
+        "requirements": []
+      },
+      {
+        "region": "Ginza - Harumi Way B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - Harumi Way A",
+    "entrances": [
+      {
+        "region": "Ginza - Southwest Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - Southwest Passage",
+    "entrances": [
+      {
+        "region": "Ginza - Southeast Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - Southeast Passage",
+    "entrances": []
+  },
+  {
+    "name": "Ginza - Central Way B",
+    "entrances": [
+      {
+        "region": "Ginza - Shopping District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ginza - Shopping District",
+    "entrances": []
+  },
+  {
+    "name": "Ginza - Central Way A",
+    "entrances": []
+  },
+  {
+    "name": "Ginza - Harumi Way B",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Ginza Region",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - Main Temple",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Tsukijima",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Oshima",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - Main Temple",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - 1st Training Hall",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - 1st Training Hall",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - 2nd Training Hall",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - 2nd Training Hall",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - Passage of Ethics",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - Passage of Ethics",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - Shelter Ruins",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - Shelter Ruins",
+    "entrances": [
+      {
+        "region": "Tsukiji Hongwanji - Hidden Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tsukiji Hongwanji - Hidden Passage",
+    "entrances": [
+      {
+        "region": "Tokyo - Ginza Region",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - 1F",
+    "entrances": [
+      {
+        "region": "Midtown - 33F",
+        "requirements": []
+      },
+      {
+        "region": "Midtown - Employee Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - 33F",
+    "entrances": [
+      {
+        "region": "Midtown - 43F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - 43F",
+    "entrances": [
+      {
+        "region": "Midtown - 54F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - 54F",
+    "entrances": [
+      {
+        "region": "Midtown - 1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - Employee Passage",
+    "entrances": [
+      {
+        "region": "Midtown - Former Army Shelter",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Midtown - Former Army Shelter",
+    "entrances": [
+      {
+        "region": "Reverse Hills - B7F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Reverse Hills - B7F",
+    "entrances": [
+      {
+        "region": "Reverse Hills - B8F",
+        "requirements": [
+          "Item: Card Key 2"
+        ]
+      },
+      {
+        "region": "Reverse Hills - B9F",
+        "requirements": [
+          "Item: Card Key 3"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reverse Hills - B8F",
+    "entrances": []
+  },
+  {
+    "name": "Reverse Hills - B9F",
+    "entrances": [
+      {
+        "region": "Reverse Hills - B51F",
+        "requirements": [
+          "Item: Card Key 4"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Reverse Hills - B51F",
+    "entrances": [
+      {
+        "region": "Reverse Hills - B7F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya - 1F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya - B1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya - B1F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya - B2F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya - B2F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya - B3F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya - B3F",
+    "entrances": [
+      {
+        "region": "Yamato Perpetual Reactor",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Yamato Perpetual Reactor",
+    "entrances": [
+      {
+        "region": "Kasumigaseki (BT) - Counter-Demon Force",
+        "requirements": []
+      },
+      {
+        "region": "Lucifer's Palace - Hall of Eternity",
+        "requirements": [
+          "Route: Law",
+          "Route: Neutral"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki (BT) - Counter-Demon Force",
+    "entrances": [
+      {
+        "region": "Kasumigaseki (BT) - Nagatacho Passage",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Ground Zero Remains",
+        "requirements": ["Item: Rusted Key"]
+      },
+      {
+        "region": "Ikebukuro - Ground Zero Remains",
+        "requirements": ["Quest: The Only Food Source"]
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki (BT) - Nagatacho Passage",
+    "entrances": [
+      {
+        "region": "Kasumigaseki - Ground Zero Remains",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki - Ground Zero Remains",
+    "entrances": [
+      {
+        "region": "Blasted Tokyo",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Blasted Tokyo",
+    "entrances": [
+      {
+        "region": "Shinjuku - Ground Zero Remains",
+        "requirements": []
+      },
+      {
+        "region": "Pluto Castle - 1F",
+        "requirements": []
+      },
+      {
+        "region": "Camp Ichigaya (BT) - 1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Pluto Castle - 1F",
+    "entrances": [
+      {
+        "region": "Pluto Castle - 2F",
+        "requirements": []
+      },
+      {
+        "region": "Pluto Castle - 3F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Pluto Castle - 2F",
+    "entrances": []
+  },
+  {
+    "name": "Pluto Castle - 3F",
+    "entrances": [
+      {
+        "region": "Pluto Castle - 4F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Pluto Castle - 4F",
+    "entrances": [
+      {
+        "region": "Pluto Castle - 2F",
+        "requirements": []
+      },
+      {
+        "region": "Pluto Castle - B1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Pluto Castle - B1F",
+    "entrances": [
+      {
+        "region": "Pluto Castle - 1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Ground Zero Remains",
+    "entrances": [
+      {
+        "region": "Shinjuku - Underground Shelter A",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Underground Shelter A",
+    "entrances": [
+      {
+        "region": "Shinjuku - Underground Shelter B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku - Underground Shelter B",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya - Ground Zero Remains",
+    "entrances": [
+      {
+        "region": "Blasted Tokyo - Shibuya",
+        "requirements": []
+      },
+      {
+        "region": "Shibuya - Underground Shelter",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Blasted Tokyo - Shibuya",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya - Underground Shelter",
+    "entrances": []
+  },
+  {
+    "name": "Ikebukuro - Ground Zero Remains",
+    "entrances": [
+      {
+        "region": "Ikebukuro - Underground Shelter",
+        "requirements": []
+      },
+      {
+        "region": "Blasted Tokyo - Ikebukuro",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro - Underground Shelter",
+    "entrances": []
+  },
+  {
+    "name": "Blasted Tokyo - Ikebukuro",
+    "entrances": []
+  },
+  {
+    "name": "Camp Ichigaya (BT) - 1F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (BT) - B1F",
+        "requirements": []
+      },
+      {
+        "region": "Camp Ichigaya (BT) - B3F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya (BT) - B1F",
+    "entrances": []
+  },
+  {
+    "name": "Camp Ichigaya (BT) - B3F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (BT) - B2F",
+        "requirements": []
+      },
+      {
+        "region": "Yamato Perpetual Reactor (BT)",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya (BT) - B2F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (BT) - B1F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Yamato Perpetual Reactor (BT)",
+    "entrances": [
+      {
+        "region": "Kasumigaseki (IT) - Counter-Demon Force",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki (IT) - Counter-Demon Force",
+    "entrances": [
+      {
+        "region": "Kasumigaseki (IT) - Nagatacho Passage",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki (IT) - Nagatacho Passage",
+    "entrances": [
+      {
+        "region": "Kasumigaseki (IT) - Sakurada-dori",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Kasumigaseki (IT) - Sakurada-dori",
+    "entrances": [
+      {
+        "region": "Infernal Tokyo",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Infernal Tokyo",
+    "entrances": [
+      {
+        "region": "Shibuya (IT) - 108 Building (entrance)",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku (IT) - East Entrance Main Street",
+        "requirements": []
+      },
+      {
+        "region": "Ikebukuro Station (IT) - East Entrance (entrance)",
+        "requirements": []
+      },
+      {
+        "region": "Camp Ichigaya (IT) - 1F",
+        "requirements": []
+      },
+      {
+        "region": "Infernal Tokyo - Hanzomon",
+        "requirements": []
+      },
+      {
+        "region": "Infernal Tokyo - Otsuka",
+        "requirements": []
+      },
+      {
+        "region": "Infernal Tokyo - Suidobashi",
+        "requirements": []
+      },
+      {
+        "region": "Infernal Tokyo - Takadano Baba",
+        "requirements": []
+      },
+      {
+        "region": "Infernal Tokyo - Sendagaya",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Infernal Tokyo - Hanzomon",
+    "entrances": []
+  },
+  {
+    "name": "Infernal Tokyo - Otsuka",
+    "entrances": []
+  },
+  {
+    "name": "Infernal Tokyo - Suidobashi",
+    "entrances": []
+  },
+  {
+    "name": "Infernal Tokyo - Takadano Baba",
+    "entrances": []
+  },
+  {
+    "name": "Infernal Tokyo - Sendagaya",
+    "entrances": []
+  },
+  {
+    "name": "Shibuya (IT) - 108 Building (entrance)",
+    "entrances": [
+      {
+        "region": "Shibuya (IT) - 108 Building",
+        "requirements": [
+          "Route: Chaos",
+          "Route: Neutral"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shibuya (IT) - 108 Building",
+    "entrances": [
+      {
+        "region": "Shibuya (IT) - Underground District A",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya (IT) - Underground District A",
+    "entrances": [
+      {
+        "region": "Shibuya (IT) - Underground District B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shibuya (IT) - Underground District B",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku (IT) - East Entrance Main Street",
+    "entrances": [
+      {
+        "region": "Shinjuku (IT) - Underground District",
+        "requirements": []
+      },
+      {
+        "region": "Shinjuku (IT) - National Park",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Shinjuku (IT) - Underground District",
+    "entrances": []
+  },
+  {
+    "name": "Shinjuku (IT) - National Park",
+    "entrances": []
+  },
+  {
+    "name": "Ikebukuro Station (IT) - East Entrance (entrance)",
+    "entrances": [
+      {
+        "region": "Ikebukuro Station (IT) - East Entrance",
+        "requirements": [
+          "Route: Chaos",
+          "Route: Neutral"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro Station (IT) - East Entrance",
+    "entrances": [
+      {
+        "region": "Ikebukuro (IT) - Underground District",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Ikebukuro (IT) - Underground District",
+    "entrances": []
+  },
+  {
+    "name": "Camp Ichigaya (IT) - 1F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (IT) - B1F",
+        "requirements": []
+      },
+      {
+        "region": "Camp Ichigaya (IT) - 2F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya (IT) - B1F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (IT) - B2F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya (IT) - B2F",
+    "entrances": []
+  },
+  {
+    "name": "Camp Ichigaya (IT) - 2F",
+    "entrances": [
+      {
+        "region": "Camp Ichigaya (IT) - B3F",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Camp Ichigaya (IT) - B3F",
+    "entrances": [
+      {
+        "region": "Yamato Perpetual Reactor (IT)",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Yamato Perpetual Reactor (IT)",
+    "entrances": [
+      {
+        "region": "Monochrome Forest - Open Space",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Monochrome Forest - Open Space",
+    "entrances": [
+      {
+        "region": "Monochrome Forest - Animal Trail A",
+        "requirements": []
+      },
+      {
+        "region": "Monochrome Forest - Animal Trail B",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Monochrome Forest - Animal Trail B",
+    "entrances": [
+      {
+        "region": "Monochrome Forest - Animal Trail C",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Monochrome Forest - Animal Trail C",
+    "entrances": []
+  },
+  {
+    "name": "Monochrome Forest - Animal Trail A",
+    "entrances": [
+      {
+        "region": "Monochrome Forest - Animal Trail D",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Monochrome Forest - Animal Trail D",
+    "entrances": []
+  },
+  {
+    "name": "Tokyo - Bay Area",
+    "entrances": [
+      {
+        "region": "Tennozu Shelter - Underground",
+        "requirements": []
+      },
+      {
+        "region": "Minami Sunamachi - Shopping District",
+        "requirements": []
+      },
+      {
+        "region": "Toyosu Shelter - Underground",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Togoshi",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Ariake",
+        "requirements": []
+      },
+      {
+        "region": "Tokyo - Tennozu",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Tennozu Shelter - Underground",
+    "entrances": []
+  },
+  {
+    "name": "Minami Sunamachi - Shopping District",
+    "entrances": []
+  },
+  {
+    "name": "Toyosu Shelter - Underground",
+    "entrances": []
+  },
+  {
+    "name": "Purgatorium - 1st Crown",
+    "entrances": [
+      {
+        "region": "Purgatorium - 2nd Crown",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Purgatorium - 2nd Crown",
+    "entrances": [
+      {
+        "region": "Purgatorium - 3rd Crown",
+        "requirements": []
+      },
+      {
+        "region": "Purgatorium - 4th Crown",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Purgatorium - 3rd Crown",
+    "entrances": []
+  },
+  {
+    "name": "Purgatorium - 4th Crown",
+    "entrances": [
+      {
+        "region": "Purgatorium - 5th Crown",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Purgatorium - 5th Crown",
+    "entrances": [
+      {
+        "region": "Purgatorium - 6th Crown",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Purgatorium - 6th Crown",
+    "entrances": [
+      {
+        "region": "Purgatorium - 7th Crown",
+        "requirements": []
+      },
+      {
+        "region": "Purgatorium - Gates of Paradiso",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Purgatorium - 7th Crown",
+    "entrances": []
+  },
+  {
+    "name": "Purgatorium - Gates of Paradiso",
+    "entrances": []
+  },
+  {
+    "name": "Lucifer's Palace - Hall of Eternity",
+    "entrances": [
+      {
+        "region": "Lucifer's Palace - Hall of Eternal Light",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Lucifer's Palace - Hall of Eternal Light",
+    "entrances": [
+      {
+        "region": "Lucifer's Palace - Morning Star Hall",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Lucifer's Palace - Morning Star Hall",
+    "entrances": []
+  }
+]

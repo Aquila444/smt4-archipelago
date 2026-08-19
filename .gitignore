@@ -1,0 +1,40 @@
+src/worlds/smt4
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and dependencies
+.venv/
+venv/
+env/
+ENV/
+bin/
+include/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm / JetBrains IDE files
+.idea/
+
+# Local configuration files
+.env
+.env.local
+
+# Database files
+*.db
+*.sqlite3

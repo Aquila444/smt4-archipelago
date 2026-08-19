@@ -1,0 +1,6010 @@
+{
+  "py/object": "worlds.smt4.game.demons.demons.DemonTable",
+  "demons": {
+    "0": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 0,
+      "name": "0"
+    },
+    "1": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1,
+      "name": "0"
+    },
+    "2": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 2,
+      "name": "0"
+    },
+    "3": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 3,
+      "name": "0"
+    },
+    "4": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 4,
+      "name": "0"
+    },
+    "5": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 5,
+      "name": "0"
+    },
+    "6": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 6,
+      "name": "???"
+    },
+    "7": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 7,
+      "name": "0"
+    },
+    "8": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 8,
+      "name": "???"
+    },
+    "9": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 9,
+      "name": "0"
+    },
+    "10": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 10,
+      "name": "0"
+    },
+    "11": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 11,
+      "name": "???"
+    },
+    "12": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 12,
+      "name": "Seraph"
+    },
+    "13": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 13,
+      "name": "???"
+    },
+    "14": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 14,
+      "name": "Metatron"
+    },
+    "15": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 15,
+      "name": "???"
+    },
+    "16": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 16,
+      "name": "Mastema"
+    },
+    "17": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 17,
+      "name": "Aniel"
+    },
+    "18": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 18,
+      "name": "Sraosha"
+    },
+    "19": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 19,
+      "name": "???"
+    },
+    "20": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 20,
+      "name": "Azrael"
+    },
+    "21": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 21,
+      "name": "Kazfiel"
+    },
+    "22": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 22,
+      "name": "0"
+    },
+    "23": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 23,
+      "name": "Israfel"
+    },
+    "24": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 24,
+      "name": "Victor"
+    },
+    "25": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 25,
+      "name": "Lailah"
+    },
+    "26": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 26,
+      "name": "0"
+    },
+    "27": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 27,
+      "name": "0"
+    },
+    "28": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 28,
+      "name": "0"
+    },
+    "29": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 29,
+      "name": "0"
+    },
+    "30": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 30,
+      "name": "0"
+    },
+    "31": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 31,
+      "name": "Lakshmi"
+    },
+    "32": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 32,
+      "name": "Norn"
+    },
+    "33": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 33,
+      "name": "Anat"
+    },
+    "34": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 34,
+      "name": "Tlazolteotl"
+    },
+    "35": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 35,
+      "name": "Pallas Athena"
+    },
+    "36": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 36,
+      "name": "Ishtar"
+    },
+    "37": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 37,
+      "name": "Scathach"
+    },
+    "38": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 38,
+      "name": "0"
+    },
+    "39": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 39,
+      "name": "Parvati"
+    },
+    "40": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 40,
+      "name": "Fortuna"
+    },
+    "41": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 41,
+      "name": "Hathor"
+    },
+    "42": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 42,
+      "name": "Brigid"
+    },
+    "43": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 43,
+      "name": "Izanami"
+    },
+    "44": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 44,
+      "name": "0"
+    },
+    "45": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 45,
+      "name": "0"
+    },
+    "46": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 46,
+      "name": "0"
+    },
+    "47": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 47,
+      "name": "Garuda"
+    },
+    "48": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 48,
+      "name": "Yatagarasu"
+    },
+    "49": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 49,
+      "name": "Feng Huang"
+    },
+    "50": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 50,
+      "name": "Thunderbird"
+    },
+    "51": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 51,
+      "name": "Vidofnir"
+    },
+    "52": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 52,
+      "name": "Phoenix"
+    },
+    "53": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 53,
+      "name": "Suparna"
+    },
+    "54": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 54,
+      "name": "Hamsa"
+    },
+    "55": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 55,
+      "name": "0"
+    },
+    "56": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 56,
+      "name": "0"
+    },
+    "57": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 57,
+      "name": "0"
+    },
+    "58": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 58,
+      "name": "0"
+    },
+    "59": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 59,
+      "name": "0"
+    },
+    "60": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 60,
+      "name": "Yggdrasil"
+    },
+    "61": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 61,
+      "name": "Haoma"
+    },
+    "62": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 62,
+      "name": "Kukunochi"
+    },
+    "63": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 63,
+      "name": "Mayahuel"
+    },
+    "64": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 64,
+      "name": "Narcissus"
+    },
+    "65": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 65,
+      "name": "Daphne"
+    },
+    "66": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 66,
+      "name": "0"
+    },
+    "67": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 67,
+      "name": "0"
+    },
+    "68": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 68,
+      "name": "0"
+    },
+    "69": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 69,
+      "name": "0"
+    },
+    "70": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 70,
+      "name": "0"
+    },
+    "71": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 71,
+      "name": "Cherub"
+    },
+    "72": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 72,
+      "name": "Throne"
+    },
+    "73": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 73,
+      "name": "Dominion"
+    },
+    "74": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 74,
+      "name": "Virtue"
+    },
+    "75": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 75,
+      "name": "Power"
+    },
+    "76": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 76,
+      "name": "Principality"
+    },
+    "77": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 77,
+      "name": "Archangel"
+    },
+    "78": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 78,
+      "name": "Angel"
+    },
+    "79": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 79,
+      "name": "0"
+    },
+    "80": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 80,
+      "name": "0"
+    },
+    "81": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 81,
+      "name": "0"
+    },
+    "82": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 82,
+      "name": "0"
+    },
+    "83": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 83,
+      "name": "0"
+    },
+    "84": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 84,
+      "name": "0"
+    },
+    "85": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 85,
+      "name": "Da Peng"
+    },
+    "86": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 86,
+      "name": "Rukh"
+    },
+    "87": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 87,
+      "name": "0"
+    },
+    "88": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 88,
+      "name": "0"
+    },
+    "89": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 89,
+      "name": "Tuofei"
+    },
+    "90": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 90,
+      "name": "Caladrius"
+    },
+    "91": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 91,
+      "name": "Gu Huo Niao"
+    },
+    "92": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 92,
+      "name": "Harpy"
+    },
+    "93": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 93,
+      "name": "Tangata Manu"
+    },
+    "94": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 94,
+      "name": "0"
+    },
+    "95": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 95,
+      "name": "0"
+    },
+    "96": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 96,
+      "name": "0"
+    },
+    "97": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 97,
+      "name": "0"
+    },
+    "98": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 98,
+      "name": "0"
+    },
+    "99": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 99,
+      "name": "Ganesha"
+    },
+    "100": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 100,
+      "name": "Master Therion"
+    },
+    "101": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 101,
+      "name": "Xiuhtecuhtli"
+    },
+    "102": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 102,
+      "name": "Valkyrie"
+    },
+    "103": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 103,
+      "name": "Shiwanna"
+    },
+    "104": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 104,
+      "name": "Dis"
+    },
+    "105": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 105,
+      "name": "Karasu Tengu"
+    },
+    "106": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 106,
+      "name": "Koppa Tengu"
+    },
+    "107": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 107,
+      "name": "Agathion"
+    },
+    "108": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 108,
+      "name": "Vodyanik"
+    },
+    "109": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 109,
+      "name": "Centaur"
+    },
+    "110": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 110,
+      "name": "0"
+    },
+    "111": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 111,
+      "name": "0"
+    },
+    "112": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 112,
+      "name": "0"
+    },
+    "113": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 113,
+      "name": "0"
+    },
+    "114": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 114,
+      "name": "Peri"
+    },
+    "115": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 115,
+      "name": "Sarasvati"
+    },
+    "116": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 116,
+      "name": "0"
+    },
+    "117": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 117,
+      "name": "Senri"
+    },
+    "118": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 118,
+      "name": "Apsaras"
+    },
+    "119": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 119,
+      "name": "Kikuri-Hime"
+    },
+    "120": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 120,
+      "name": "0"
+    },
+    "121": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 121,
+      "name": "0"
+    },
+    "122": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 122,
+      "name": "0"
+    },
+    "123": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 123,
+      "name": "0"
+    },
+    "124": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 124,
+      "name": "Demiurge"
+    },
+    "125": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 125,
+      "name": "Seth"
+    },
+    "126": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 126,
+      "name": "Pales"
+    },
+    "127": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 127,
+      "name": "Alciel"
+    },
+    "128": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 128,
+      "name": "Taotie"
+    },
+    "129": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 129,
+      "name": "Pachacamac"
+    },
+    "130": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 130,
+      "name": "0"
+    },
+    "131": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 131,
+      "name": "Mishaguji"
+    },
+    "132": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 132,
+      "name": "Baphomet"
+    },
+    "133": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 133,
+      "name": "Yaso Magatsuhi"
+    },
+    "134": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 134,
+      "name": "0"
+    },
+    "135": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 135,
+      "name": "0"
+    },
+    "136": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 136,
+      "name": "0"
+    },
+    "137": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 137,
+      "name": "0"
+    },
+    "138": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 138,
+      "name": "Hresvelgr"
+    },
+    "139": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 139,
+      "name": "Huoniao"
+    },
+    "140": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 140,
+      "name": "Anzu"
+    },
+    "141": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 141,
+      "name": "Gurr"
+    },
+    "142": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 142,
+      "name": "Zhen"
+    },
+    "143": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 143,
+      "name": "Itsumade"
+    },
+    "144": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 144,
+      "name": "Moh Shuvuu"
+    },
+    "145": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 145,
+      "name": "Camazotz"
+    },
+    "146": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 146,
+      "name": "Fuxi"
+    },
+    "147": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 147,
+      "name": "0"
+    },
+    "148": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 148,
+      "name": "0"
+    },
+    "149": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 149,
+      "name": "0"
+    },
+    "150": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 150,
+      "name": "0"
+    },
+    "151": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 151,
+      "name": "0"
+    },
+    "152": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 152,
+      "name": "Erlkonig"
+    },
+    "153": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 153,
+      "name": "Alraune"
+    },
+    "154": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 154,
+      "name": "Zaccoum"
+    },
+    "155": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 155,
+      "name": "Skogsra"
+    },
+    "156": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 156,
+      "name": "Mandrake"
+    },
+    "157": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 157,
+      "name": "Shan Xiao"
+    },
+    "158": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 158,
+      "name": "0"
+    },
+    "159": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 159,
+      "name": "0"
+    },
+    "160": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 160,
+      "name": "0"
+    },
+    "161": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 161,
+      "name": "0"
+    },
+    "162": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 162,
+      "name": "0"
+    },
+    "163": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 163,
+      "name": "0"
+    },
+    "164": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 164,
+      "name": "Vishnu"
+    },
+    "165": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 165,
+      "name": "Hachiman"
+    },
+    "166": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 166,
+      "name": "Apsu"
+    },
+    "167": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 167,
+      "name": "Baal"
+    },
+    "168": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 168,
+      "name": "Odin"
+    },
+    "169": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 169,
+      "name": "Ometeotl"
+    },
+    "170": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 170,
+      "name": "Lord Nandou"
+    },
+    "171": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 171,
+      "name": "Prometheus"
+    },
+    "172": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 172,
+      "name": "Inti"
+    },
+    "173": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 173,
+      "name": "Thoth"
+    },
+    "174": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 174,
+      "name": "0"
+    },
+    "175": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 175,
+      "name": "Mahamayuri"
+    },
+    "176": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 176,
+      "name": "Osiris"
+    },
+    "177": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 177,
+      "name": "0"
+    },
+    "178": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 178,
+      "name": "0"
+    },
+    "179": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 179,
+      "name": "0"
+    },
+    "180": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 180,
+      "name": "Amaterasu"
+    },
+    "181": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 181,
+      "name": "Take-Mikazuchi"
+    },
+    "182": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 182,
+      "name": "Omoikane"
+    },
+    "183": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 183,
+      "name": "0"
+    },
+    "184": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 184,
+      "name": "Ame no Uzume"
+    },
+    "185": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 185,
+      "name": "0"
+    },
+    "186": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 186,
+      "name": "0"
+    },
+    "187": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 187,
+      "name": "0"
+    },
+    "188": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 188,
+      "name": "0"
+    },
+    "189": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 189,
+      "name": "0"
+    },
+    "190": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 190,
+      "name": "Barong"
+    },
+    "191": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 191,
+      "name": "Anubis"
+    },
+    "192": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 192,
+      "name": "Ukano Mitama"
+    },
+    "193": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 193,
+      "name": "Chimera"
+    },
+    "194": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 194,
+      "name": "Kaiming Shou"
+    },
+    "195": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 195,
+      "name": "Makami"
+    },
+    "196": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 196,
+      "name": "Kamapua'a"
+    },
+    "197": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 197,
+      "name": "Shiisaa"
+    },
+    "198": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 198,
+      "name": "0"
+    },
+    "199": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 199,
+      "name": "0"
+    },
+    "200": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 200,
+      "name": "0"
+    },
+    "201": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 201,
+      "name": "0"
+    },
+    "202": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 202,
+      "name": "0"
+    },
+    "203": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 203,
+      "name": "Sphinx"
+    },
+    "204": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 204,
+      "name": "Sleipnir"
+    },
+    "205": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 205,
+      "name": "Baihu"
+    },
+    "206": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 206,
+      "name": "Airavata"
+    },
+    "207": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 207,
+      "name": "0"
+    },
+    "208": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 208,
+      "name": "Qing Niugai"
+    },
+    "209": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 209,
+      "name": "Pabilsag"
+    },
+    "210": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 210,
+      "name": "Apis"
+    },
+    "211": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 211,
+      "name": "Heqet"
+    },
+    "212": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 212,
+      "name": "0"
+    },
+    "213": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 213,
+      "name": "0"
+    },
+    "214": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 214,
+      "name": "0"
+    },
+    "215": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 215,
+      "name": "0"
+    },
+    "216": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 216,
+      "name": "0"
+    },
+    "217": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 217,
+      "name": "Heimdall"
+    },
+    "218": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 218,
+      "name": "Hanuman"
+    },
+    "219": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 219,
+      "name": "Jarilo"
+    },
+    "220": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 220,
+      "name": "Kresnik"
+    },
+    "221": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 221,
+      "name": "Cu Chulainn"
+    },
+    "222": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 222,
+      "name": "Kurama Tengu"
+    },
+    "223": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 223,
+      "name": "Tlaloc"
+    },
+    "224": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 224,
+      "name": "Frost Ace"
+    },
+    "225": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 225,
+      "name": "Nata Taishi"
+    },
+    "226": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 226,
+      "name": "Tam Lin"
+    },
+    "227": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 227,
+      "name": "Ictinike"
+    },
+    "228": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 228,
+      "name": "Baldur"
+    },
+    "229": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 229,
+      "name": "0"
+    },
+    "230": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 230,
+      "name": "0"
+    },
+    "231": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 231,
+      "name": "0"
+    },
+    "232": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 232,
+      "name": "0"
+    },
+    "233": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 233,
+      "name": "Demonee-ho"
+    },
+    "234": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 234,
+      "name": "Titania"
+    },
+    "235": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 235,
+      "name": "Oberon"
+    },
+    "236": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 236,
+      "name": "Vivian"
+    },
+    "237": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 237,
+      "name": "Spriggan"
+    },
+    "238": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 238,
+      "name": "Nadja"
+    },
+    "239": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 239,
+      "name": "Lorelei"
+    },
+    "240": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 240,
+      "name": "Kelpie"
+    },
+    "241": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 241,
+      "name": "Silky"
+    },
+    "242": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 242,
+      "name": "High Pixie"
+    },
+    "243": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 243,
+      "name": "Setanta"
+    },
+    "244": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 244,
+      "name": "Pyro Jack"
+    },
+    "245": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 245,
+      "name": "Jack Frost"
+    },
+    "246": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 246,
+      "name": "Goblin"
+    },
+    "247": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 247,
+      "name": "0"
+    },
+    "248": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 248,
+      "name": "Pixie"
+    },
+    "249": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 249,
+      "name": "Napaea"
+    },
+    "250": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 250,
+      "name": "???"
+    },
+    "251": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 251,
+      "name": "0"
+    },
+    "252": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 252,
+      "name": "0"
+    },
+    "253": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 253,
+      "name": "0"
+    },
+    "254": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 254,
+      "name": "Cerberus"
+    },
+    "255": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 255,
+      "name": "Ammut"
+    },
+    "256": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 256,
+      "name": "Orthrus"
+    },
+    "257": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 257,
+      "name": "Dormarth"
+    },
+    "258": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 258,
+      "name": "Hsing-Hsing"
+    },
+    "259": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 259,
+      "name": "Nekomata"
+    },
+    "260": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 260,
+      "name": "0"
+    },
+    "261": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 261,
+      "name": "Inugami"
+    },
+    "262": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 262,
+      "name": "Kabuso"
+    },
+    "263": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 263,
+      "name": "Kaso"
+    },
+    "264": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 264,
+      "name": "Stonka"
+    },
+    "265": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 265,
+      "name": "Gryphon"
+    },
+    "266": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 266,
+      "name": "Hairy Jack"
+    },
+    "267": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 267,
+      "name": "Minotaur"
+    },
+    "268": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 268,
+      "name": "???"
+    },
+    "269": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 269,
+      "name": "0"
+    },
+    "270": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 270,
+      "name": "0"
+    },
+    "271": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 271,
+      "name": "Gogmagog"
+    },
+    "272": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 272,
+      "name": "Tlaltecuhtli"
+    },
+    "273": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 273,
+      "name": "Titan"
+    },
+    "274": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 274,
+      "name": "Tsuchigumo"
+    },
+    "275": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 275,
+      "name": "Kwancha"
+    },
+    "276": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 276,
+      "name": "Sudama"
+    },
+    "277": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 277,
+      "name": "Hua Po"
+    },
+    "278": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 278,
+      "name": "Knocker"
+    },
+    "279": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 279,
+      "name": "Dwarf"
+    },
+    "280": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 280,
+      "name": "Kuebiko"
+    },
+    "281": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 281,
+      "name": "0"
+    },
+    "282": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 282,
+      "name": "0"
+    },
+    "283": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 283,
+      "name": "0"
+    },
+    "284": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 284,
+      "name": "0"
+    },
+    "285": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 285,
+      "name": "Ananta"
+    },
+    "286": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 286,
+      "name": "Pendragon"
+    },
+    "287": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 287,
+      "name": "Orochi"
+    },
+    "288": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 288,
+      "name": "Ouroboros"
+    },
+    "289": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 289,
+      "name": "Gui Xian"
+    },
+    "290": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 290,
+      "name": "Yurlungur"
+    },
+    "291": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 291,
+      "name": "Vouivre"
+    },
+    "292": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 292,
+      "name": "Nozuchi"
+    },
+    "293": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 293,
+      "name": "Naga"
+    },
+    "294": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 294,
+      "name": "0"
+    },
+    "295": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 295,
+      "name": "0"
+    },
+    "296": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 296,
+      "name": "0"
+    },
+    "297": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 297,
+      "name": "0"
+    },
+    "298": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 298,
+      "name": "0"
+    },
+    "299": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 299,
+      "name": "Mot"
+    },
+    "300": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 300,
+      "name": "Nergal"
+    },
+    "301": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 301,
+      "name": "Guedhe"
+    },
+    "302": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 302,
+      "name": "Persephone"
+    },
+    "303": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 303,
+      "name": "Orcus"
+    },
+    "304": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 304,
+      "name": "Hel"
+    },
+    "305": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 305,
+      "name": "Ixtab"
+    },
+    "306": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 306,
+      "name": "Cernunnos"
+    },
+    "307": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 307,
+      "name": "0"
+    },
+    "308": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 308,
+      "name": "0"
+    },
+    "309": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 309,
+      "name": "0"
+    },
+    "310": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 310,
+      "name": "Fenrir"
+    },
+    "311": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 311,
+      "name": "Taowu"
+    },
+    "312": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 312,
+      "name": "Cabracan"
+    },
+    "313": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 313,
+      "name": "Catoblepas"
+    },
+    "314": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 314,
+      "name": "Manticore"
+    },
+    "315": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 315,
+      "name": "Porewit"
+    },
+    "316": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 316,
+      "name": "Peallaidh"
+    },
+    "317": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 317,
+      "name": "Nue"
+    },
+    "318": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 318,
+      "name": "Raiju"
+    },
+    "319": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 319,
+      "name": "Jueyuan"
+    },
+    "320": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 320,
+      "name": "Chagrin"
+    },
+    "321": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 321,
+      "name": "0"
+    },
+    "322": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 322,
+      "name": "0"
+    },
+    "323": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 323,
+      "name": "0"
+    },
+    "324": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 324,
+      "name": "0"
+    },
+    "325": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 325,
+      "name": "0"
+    },
+    "326": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 326,
+      "name": "Hekatoncheires"
+    },
+    "327": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 327,
+      "name": "Girimekhala"
+    },
+    "328": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 328,
+      "name": "Grendel"
+    },
+    "329": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 329,
+      "name": "0"
+    },
+    "330": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 330,
+      "name": "Rakshasa"
+    },
+    "331": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 331,
+      "name": "Black Frost"
+    },
+    "332": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 332,
+      "name": "Wendigo"
+    },
+    "333": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 333,
+      "name": "Ippon-Datara"
+    },
+    "334": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 334,
+      "name": "Gremlin"
+    },
+    "335": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 335,
+      "name": "Lham Dearg"
+    },
+    "336": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 336,
+      "name": "Ogre"
+    },
+    "337": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 337,
+      "name": "0"
+    },
+    "338": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 338,
+      "name": "0"
+    },
+    "339": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 339,
+      "name": "0"
+    },
+    "340": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 340,
+      "name": "0"
+    },
+    "341": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 341,
+      "name": "Arachne"
+    },
+    "342": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 342,
+      "name": "Okiku-Mushi"
+    },
+    "343": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 343,
+      "name": "Ubu"
+    },
+    "344": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 344,
+      "name": "Mothman"
+    },
+    "345": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 345,
+      "name": "Myrmecolion"
+    },
+    "346": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 346,
+      "name": "0"
+    },
+    "347": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 347,
+      "name": "0"
+    },
+    "348": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 348,
+      "name": "0"
+    },
+    "349": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 349,
+      "name": "0"
+    },
+    "350": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 350,
+      "name": "0"
+    },
+    "351": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 351,
+      "name": "Shiva"
+    },
+    "352": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 352,
+      "name": "Susano-o"
+    },
+    "353": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 353,
+      "name": "Kartikeya"
+    },
+    "354": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 354,
+      "name": "Beiji-Weng"
+    },
+    "355": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 355,
+      "name": "Wu Kong"
+    },
+    "356": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 356,
+      "name": "Chernobog"
+    },
+    "357": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 357,
+      "name": "Asura"
+    },
+    "358": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 358,
+      "name": "Tonatiuh"
+    },
+    "359": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 359,
+      "name": "Ares"
+    },
+    "360": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 360,
+      "name": "Masakado"
+    },
+    "361": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 361,
+      "name": "???"
+    },
+    "362": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 362,
+      "name": "0"
+    },
+    "363": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 363,
+      "name": "0"
+    },
+    "364": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 364,
+      "name": "0"
+    },
+    "365": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 365,
+      "name": "Xi Wangmu"
+    },
+    "366": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 366,
+      "name": "Skadi"
+    },
+    "367": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 367,
+      "name": "Black Maria"
+    },
+    "368": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 368,
+      "name": "0"
+    },
+    "369": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 369,
+      "name": "Asherah"
+    },
+    "370": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 370,
+      "name": "Diana"
+    },
+    "371": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 371,
+      "name": "Hariti"
+    },
+    "372": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 372,
+      "name": "Sedna"
+    },
+    "373": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 373,
+      "name": "Dzelarhons"
+    },
+    "374": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 374,
+      "name": "Pele"
+    },
+    "375": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 375,
+      "name": "Isis"
+    },
+    "376": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 376,
+      "name": "0"
+    },
+    "377": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 377,
+      "name": "0"
+    },
+    "378": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 378,
+      "name": "0"
+    },
+    "379": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 379,
+      "name": "0"
+    },
+    "380": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 380,
+      "name": "Huang Long"
+    },
+    "381": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 381,
+      "name": "Quetzalcoatl"
+    },
+    "382": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 382,
+      "name": "Zhu Yin"
+    },
+    "383": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 383,
+      "name": "Illuyanka"
+    },
+    "384": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 384,
+      "name": "Long"
+    },
+    "385": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 385,
+      "name": "Gucumatz"
+    },
+    "386": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 386,
+      "name": "Patrimpas"
+    },
+    "387": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 387,
+      "name": "Makara"
+    },
+    "388": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 388,
+      "name": "Koga Saburo"
+    },
+    "389": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 389,
+      "name": "0"
+    },
+    "390": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 390,
+      "name": "0"
+    },
+    "391": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 391,
+      "name": "0"
+    },
+    "392": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 392,
+      "name": "0"
+    },
+    "393": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 393,
+      "name": "Thor"
+    },
+    "394": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 394,
+      "name": "Marici"
+    },
+    "395": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 395,
+      "name": "Bishamonten"
+    },
+    "396": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 396,
+      "name": "Jikokuten"
+    },
+    "397": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 397,
+      "name": "Zhong Kui"
+    },
+    "398": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 398,
+      "name": "Koumokuten"
+    },
+    "399": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 399,
+      "name": "Zouchouten"
+    },
+    "400": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 400,
+      "name": "0"
+    },
+    "401": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 401,
+      "name": "0"
+    },
+    "402": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 402,
+      "name": "0"
+    },
+    "403": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 403,
+      "name": "0"
+    },
+    "404": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 404,
+      "name": "0"
+    },
+    "405": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 405,
+      "name": "Arahabaki"
+    },
+    "406": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 406,
+      "name": "Kushinada-hime"
+    },
+    "407": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 407,
+      "name": "Okuninushi"
+    },
+    "408": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 408,
+      "name": "Take-Minakata"
+    },
+    "409": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 409,
+      "name": "Oumitsunu"
+    },
+    "410": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 410,
+      "name": "Hitokotonushi"
+    },
+    "411": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 411,
+      "name": "0"
+    },
+    "412": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 412,
+      "name": "0"
+    },
+    "413": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 413,
+      "name": "0"
+    },
+    "414": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 414,
+      "name": "Samael"
+    },
+    "415": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 415,
+      "name": "Murmur"
+    },
+    "416": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 416,
+      "name": "Gemori"
+    },
+    "417": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 417,
+      "name": "0"
+    },
+    "418": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 418,
+      "name": "Mitra"
+    },
+    "419": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 419,
+      "name": "Decarabia"
+    },
+    "420": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 420,
+      "name": "Nebiros"
+    },
+    "421": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 421,
+      "name": "Ose"
+    },
+    "422": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 422,
+      "name": "Dantalian"
+    },
+    "423": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 423,
+      "name": "Orias"
+    },
+    "424": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 424,
+      "name": "Halphas"
+    },
+    "425": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 425,
+      "name": "Bifrons"
+    },
+    "426": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 426,
+      "name": "Melchom"
+    },
+    "427": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 427,
+      "name": "0"
+    },
+    "428": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 428,
+      "name": "Shax"
+    },
+    "429": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 429,
+      "name": "Barbatos"
+    },
+    "430": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 430,
+      "name": "Botis"
+    },
+    "431": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 431,
+      "name": "0"
+    },
+    "432": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 432,
+      "name": "Ongyo-Ki"
+    },
+    "433": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 433,
+      "name": "Berserker"
+    },
+    "434": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 434,
+      "name": "Sui-Ki"
+    },
+    "435": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 435,
+      "name": "Fuu-Ki"
+    },
+    "436": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 436,
+      "name": "Kin-Ki"
+    },
+    "437": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 437,
+      "name": "Yomotsu Ikusa"
+    },
+    "438": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 438,
+      "name": "Yamawaro"
+    },
+    "439": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 439,
+      "name": "Momunofu"
+    },
+    "440": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 440,
+      "name": "Azumi"
+    },
+    "441": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 441,
+      "name": "Oni"
+    },
+    "442": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 442,
+      "name": "0"
+    },
+    "443": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 443,
+      "name": "Yaksha"
+    },
+    "444": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 444,
+      "name": "Bilwis"
+    },
+    "445": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 445,
+      "name": "0"
+    },
+    "446": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 446,
+      "name": "0"
+    },
+    "447": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 447,
+      "name": "0"
+    },
+    "448": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 448,
+      "name": "Rangda"
+    },
+    "449": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 449,
+      "name": "Dakini"
+    },
+    "450": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 450,
+      "name": "Atropos"
+    },
+    "451": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 451,
+      "name": "Lachesis"
+    },
+    "452": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 452,
+      "name": "Clotho"
+    },
+    "453": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 453,
+      "name": "Yuki Jyorou"
+    },
+    "454": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 454,
+      "name": "Shikome"
+    },
+    "455": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 455,
+      "name": "Strix"
+    },
+    "456": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 456,
+      "name": "Leanan Sidhe"
+    },
+    "457": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 457,
+      "name": "0"
+    },
+    "458": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 458,
+      "name": "Taraka"
+    },
+    "459": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 459,
+      "name": "Kali"
+    },
+    "460": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 460,
+      "name": "Medusa"
+    },
+    "461": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 461,
+      "name": "0"
+    },
+    "462": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 462,
+      "name": "Maya"
+    },
+    "463": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 463,
+      "name": "Lilith"
+    },
+    "464": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 464,
+      "name": "0"
+    },
+    "465": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 465,
+      "name": "Queen Mab"
+    },
+    "466": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 466,
+      "name": "Wild Hunt"
+    },
+    "467": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 467,
+      "name": "Succubus"
+    },
+    "468": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 468,
+      "name": "Kaiwan"
+    },
+    "469": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 469,
+      "name": "Incubus"
+    },
+    "470": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 470,
+      "name": "Kikimora"
+    },
+    "471": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 471,
+      "name": "Lilim"
+    },
+    "472": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 472,
+      "name": "Sandman"
+    },
+    "473": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 473,
+      "name": "Fomorian"
+    },
+    "474": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 474,
+      "name": "Mokoi"
+    },
+    "475": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 475,
+      "name": "0"
+    },
+    "476": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 476,
+      "name": "0"
+    },
+    "477": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 477,
+      "name": "0"
+    },
+    "478": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 478,
+      "name": "0"
+    },
+    "479": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 479,
+      "name": "0"
+    },
+    "480": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 480,
+      "name": "Lucifer"
+    },
+    "481": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 481,
+      "name": "Mara"
+    },
+    "482": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 482,
+      "name": "Chi You"
+    },
+    "483": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 483,
+      "name": "Surt"
+    },
+    "484": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 484,
+      "name": "Tzitzimitl"
+    },
+    "485": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 485,
+      "name": "Beelzebub"
+    },
+    "486": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 486,
+      "name": "Abaddon"
+    },
+    "487": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 487,
+      "name": "Loki"
+    },
+    "488": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 488,
+      "name": "Belial"
+    },
+    "489": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 489,
+      "name": "Astaroth"
+    },
+    "490": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 490,
+      "name": "Balor"
+    },
+    "491": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 491,
+      "name": "King Frost"
+    },
+    "492": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 492,
+      "name": "Samyaza"
+    },
+    "493": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 493,
+      "name": "Horkos"
+    },
+    "494": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 494,
+      "name": "Mithras"
+    },
+    "495": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 495,
+      "name": "Morax"
+    },
+    "496": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 496,
+      "name": "Azazel"
+    },
+    "497": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 497,
+      "name": "Asmodeus"
+    },
+    "498": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 498,
+      "name": "Lucifuge"
+    },
+    "499": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 499,
+      "name": "Aeshma"
+    },
+    "500": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 500,
+      "name": "0"
+    },
+    "501": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 501,
+      "name": "Fafnir"
+    },
+    "502": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 502,
+      "name": "Ym"
+    },
+    "503": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 503,
+      "name": "Niddhoggr"
+    },
+    "504": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 504,
+      "name": "Tiamat"
+    },
+    "505": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 505,
+      "name": "Mushussu"
+    },
+    "506": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 506,
+      "name": "Kingu"
+    },
+    "507": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 507,
+      "name": "Basilisk"
+    },
+    "508": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 508,
+      "name": "Bai Suzhen"
+    },
+    "509": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 509,
+      "name": "Toubyou"
+    },
+    "510": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 510,
+      "name": "Zhu Tun She"
+    },
+    "511": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 511,
+      "name": "Vasuki"
+    },
+    "512": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 512,
+      "name": "Python"
+    },
+    "513": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 513,
+      "name": "0"
+    },
+    "514": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 514,
+      "name": "0"
+    },
+    "515": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 515,
+      "name": "0"
+    },
+    "516": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 516,
+      "name": "Legion"
+    },
+    "517": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 517,
+      "name": "Pisaca"
+    },
+    "518": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 518,
+      "name": "Inferno"
+    },
+    "519": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 519,
+      "name": "Macabre"
+    },
+    "520": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 520,
+      "name": "Quicksilver"
+    },
+    "521": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 521,
+      "name": "Poltergeist"
+    },
+    "522": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 522,
+      "name": "Wicker Man"
+    },
+    "523": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 523,
+      "name": "Dybbuk"
+    },
+    "524": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 524,
+      "name": "Garrote"
+    },
+    "525": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 525,
+      "name": "0"
+    },
+    "526": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 526,
+      "name": "0"
+    },
+    "527": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 527,
+      "name": "0"
+    },
+    "528": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 528,
+      "name": "0"
+    },
+    "529": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 529,
+      "name": "0"
+    },
+    "530": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 530,
+      "name": "0"
+    },
+    "531": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 531,
+      "name": "Mad Gasser"
+    },
+    "532": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 532,
+      "name": "0"
+    },
+    "533": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 533,
+      "name": "Night Stalker"
+    },
+    "534": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 534,
+      "name": "Hooligan"
+    },
+    "535": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 535,
+      "name": "Jack the Ripper"
+    },
+    "536": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 536,
+      "name": "Slime"
+    },
+    "537": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 537,
+      "name": "Tattooed Man"
+    },
+    "538": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 538,
+      "name": "0"
+    },
+    "539": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 539,
+      "name": "0"
+    },
+    "540": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 540,
+      "name": "0"
+    },
+    "541": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 541,
+      "name": "0"
+    },
+    "542": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 542,
+      "name": "Vetala"
+    },
+    "543": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 543,
+      "name": "Kudlak"
+    },
+    "544": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 544,
+      "name": "Ghoul"
+    },
+    "545": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 545,
+      "name": "Enku"
+    },
+    "546": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 546,
+      "name": "Churel"
+    },
+    "547": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 547,
+      "name": "Mou-Ryo"
+    },
+    "548": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 548,
+      "name": "Obariyon"
+    },
+    "549": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 549,
+      "name": "Preta"
+    },
+    "550": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 550,
+      "name": "Strigoii"
+    },
+    "551": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 551,
+      "name": "Dullahan"
+    },
+    "552": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 552,
+      "name": "0"
+    },
+    "553": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 553,
+      "name": "0"
+    },
+    "554": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 554,
+      "name": "0"
+    },
+    "555": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 555,
+      "name": "0"
+    },
+    "556": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 556,
+      "name": "Saki Mitama"
+    },
+    "557": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 557,
+      "name": "Kusi Mitama"
+    },
+    "558": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 558,
+      "name": "Nigi Mitama"
+    },
+    "559": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 559,
+      "name": "Ara Mitama"
+    },
+    "560": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 560,
+      "name": "0"
+    },
+    "561": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 561,
+      "name": "0"
+    },
+    "562": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 562,
+      "name": "0"
+    },
+    "563": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 563,
+      "name": "0"
+    },
+    "564": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 564,
+      "name": "0"
+    },
+    "565": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 565,
+      "name": "Salamander"
+    },
+    "566": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 566,
+      "name": "Undine"
+    },
+    "567": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 567,
+      "name": "Sylph"
+    },
+    "568": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 568,
+      "name": "Gnome"
+    },
+    "569": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 569,
+      "name": "Flaemis"
+    },
+    "570": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 570,
+      "name": "Aquans"
+    },
+    "571": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 571,
+      "name": "Aeros"
+    },
+    "572": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 572,
+      "name": "Erthys"
+    },
+    "573": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 573,
+      "name": "0"
+    },
+    "574": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 574,
+      "name": "0"
+    },
+    "575": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 575,
+      "name": "0"
+    },
+    "576": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 576,
+      "name": "0"
+    },
+    "577": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 577,
+      "name": "0"
+    },
+    "578": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 578,
+      "name": "Mother Harlot"
+    },
+    "579": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 579,
+      "name": "Trumpeter"
+    },
+    "580": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 580,
+      "name": "Pale Rider"
+    },
+    "581": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 581,
+      "name": "Black Rider"
+    },
+    "582": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 582,
+      "name": "Red Rider"
+    },
+    "583": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 583,
+      "name": "White Rider"
+    },
+    "584": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 584,
+      "name": "0"
+    },
+    "585": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 585,
+      "name": "Matador"
+    },
+    "586": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 586,
+      "name": "David"
+    },
+    "587": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 587,
+      "name": "Chemtrail"
+    },
+    "588": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 588,
+      "name": "???"
+    },
+    "589": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 589,
+      "name": "0"
+    },
+    "590": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 590,
+      "name": "0"
+    },
+    "591": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 591,
+      "name": "0"
+    },
+    "592": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 592,
+      "name": "Kangiten"
+    },
+    "593": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 593,
+      "name": "Kama"
+    },
+    "594": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 594,
+      "name": "Kinmamon"
+    },
+    "595": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 595,
+      "name": "Futotama"
+    },
+    "596": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 596,
+      "name": "Kanbari"
+    },
+    "597": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 597,
+      "name": "0"
+    },
+    "598": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 598,
+      "name": "0"
+    },
+    "599": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 599,
+      "name": "0"
+    },
+    "600": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 600,
+      "name": "0"
+    },
+    "601": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 601,
+      "name": "0"
+    },
+    "602": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 602,
+      "name": "Hare of Inaba"
+    },
+    "603": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 603,
+      "name": "Kuda"
+    },
+    "604": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 604,
+      "name": "Chupacabra"
+    },
+    "605": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 605,
+      "name": "Mamedanuki"
+    },
+    "606": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 606,
+      "name": "Katakirauwa"
+    },
+    "607": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 607,
+      "name": "Onmoraki"
+    },
+    "608": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 608,
+      "name": "0"
+    },
+    "609": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 609,
+      "name": "0"
+    },
+    "610": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 610,
+      "name": "0"
+    },
+    "611": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 611,
+      "name": "0"
+    },
+    "612": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 612,
+      "name": "0"
+    },
+    "613": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 613,
+      "name": "0"
+    },
+    "614": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 614,
+      "name": "Tezcatlipoca"
+    },
+    "615": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 615,
+      "name": "Attis"
+    },
+    "616": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 616,
+      "name": "Aramisaki"
+    },
+    "617": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 617,
+      "name": "Dionysus"
+    },
+    "618": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 618,
+      "name": "Ogun"
+    },
+    "619": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 619,
+      "name": "0"
+    },
+    "620": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 620,
+      "name": "0"
+    },
+    "621": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 621,
+      "name": "0"
+    },
+    "622": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 622,
+      "name": "0"
+    },
+    "623": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 623,
+      "name": "0"
+    },
+    "624": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 624,
+      "name": "Alilat"
+    },
+    "625": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 625,
+      "name": "0"
+    },
+    "626": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 626,
+      "name": "0"
+    },
+    "627": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 627,
+      "name": "0"
+    },
+    "628": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 628,
+      "name": "0"
+    },
+    "629": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 629,
+      "name": "0"
+    },
+    "630": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 630,
+      "name": "Huang Di"
+    },
+    "631": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 631,
+      "name": "Tokisada"
+    },
+    "632": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 632,
+      "name": "Rama"
+    },
+    "633": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 633,
+      "name": "Kanseiteikun"
+    },
+    "634": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 634,
+      "name": "Siegfried"
+    },
+    "635": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 635,
+      "name": "Hagen"
+    },
+    "636": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 636,
+      "name": "Jeanne d'Arc"
+    },
+    "637": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 637,
+      "name": "Lanling Wang"
+    },
+    "638": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 638,
+      "name": "Yoshitsune"
+    },
+    "639": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 639,
+      "name": "Tenkai"
+    },
+    "640": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 640,
+      "name": "Michizane"
+    },
+    "641": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 641,
+      "name": "Yamato Takeru"
+    },
+    "642": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 642,
+      "name": "0"
+    },
+    "643": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 643,
+      "name": "0"
+    },
+    "644": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 644,
+      "name": "Ashura Man"
+    },
+    "645": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 645,
+      "name": "Ashura Woman"
+    },
+    "646": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 646,
+      "name": "0"
+    },
+    "647": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 647,
+      "name": "0"
+    },
+    "648": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 648,
+      "name": "0"
+    },
+    "649": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 649,
+      "name": "0"
+    },
+    "650": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 650,
+      "name": "0"
+    },
+    "651": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 651,
+      "name": "0"
+    },
+    "652": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 652,
+      "name": "0"
+    },
+    "653": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 653,
+      "name": "Gaea Man"
+    },
+    "654": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 654,
+      "name": "Gaea Woman"
+    },
+    "655": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 655,
+      "name": "0"
+    },
+    "656": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 656,
+      "name": "0"
+    },
+    "657": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 657,
+      "name": "Samurai Zombie"
+    },
+    "658": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 658,
+      "name": "Samurai Zombie"
+    },
+    "659": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 659,
+      "name": "Zombie"
+    },
+    "660": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 660,
+      "name": "Alice"
+    },
+    "661": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 661,
+      "name": "0"
+    },
+    "662": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 662,
+      "name": "Zombie Cop"
+    },
+    "663": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 663,
+      "name": "0"
+    },
+    "664": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 664,
+      "name": "0"
+    },
+    "665": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 665,
+      "name": "Patriot"
+    },
+    "666": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 666,
+      "name": "Corpse"
+    },
+    "667": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 667,
+      "name": "Pluto Soldier"
+    },
+    "668": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 668,
+      "name": "0"
+    },
+    "669": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 669,
+      "name": "0"
+    },
+    "670": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 670,
+      "name": "???"
+    },
+    "671": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 671,
+      "name": "Candle"
+    },
+    "672": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 672,
+      "name": "Nozomi"
+    },
+    "673": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 673,
+      "name": "Sarcophagus"
+    },
+    "674": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 674,
+      "name": "Priyankara"
+    },
+    "675": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 675,
+      "name": "Timothy"
+    },
+    "676": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 676,
+      "name": "Nozomi"
+    },
+    "677": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 677,
+      "name": "Navarre"
+    },
+    "678": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 678,
+      "name": "Portable Cannon"
+    },
+    "679": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 679,
+      "name": "Nozomi"
+    },
+    "680": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 680,
+      "name": "Orb of the Gates"
+    },
+    "681": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 681,
+      "name": "DDS Horde"
+    },
+    "682": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 682,
+      "name": "Lilim Horde"
+    },
+    "683": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 683,
+      "name": "0"
+    },
+    "684": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 684,
+      "name": "0"
+    },
+    "685": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 685,
+      "name": "0"
+    },
+    "686": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 686,
+      "name": "Wildfire Horde"
+    },
+    "687": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 687,
+      "name": "Spirit Horde"
+    },
+    "688": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 688,
+      "name": "Demonstrators"
+    },
+    "689": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 689,
+      "name": "Hoodlum Horde"
+    },
+    "690": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 690,
+      "name": "Jirae Horde"
+    },
+    "691": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 691,
+      "name": "Imperial Guard"
+    },
+    "692": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 692,
+      "name": "Fairy Horde"
+    },
+    "693": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 693,
+      "name": "Babylonia Horde"
+    },
+    "694": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 694,
+      "name": "Deceased Horde"
+    },
+    "695": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 695,
+      "name": "Fallen Horde"
+    },
+    "696": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 696,
+      "name": "Fighter Horde"
+    },
+    "697": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 697,
+      "name": "Yakuza Horde"
+    },
+    "698": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 698,
+      "name": "Cyber Horde"
+    },
+    "699": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 699,
+      "name": "Divine Horde"
+    },
+    "700": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 700,
+      "name": "Demon Horde"
+    },
+    "701": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 701,
+      "name": "Calamity Horde"
+    },
+    "702": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 702,
+      "name": "Grudge Horde"
+    },
+    "703": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 703,
+      "name": "0"
+    },
+    "704": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 704,
+      "name": "0"
+    },
+    "705": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 705,
+      "name": "0"
+    },
+    "706": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 706,
+      "name": "0"
+    },
+    "707": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 707,
+      "name": "0"
+    },
+    "708": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 708,
+      "name": "0"
+    },
+    "709": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 709,
+      "name": "0"
+    },
+    "710": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 710,
+      "name": "0"
+    },
+    "711": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 711,
+      "name": "0"
+    },
+    "712": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 712,
+      "name": "0"
+    },
+    "713": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 713,
+      "name": "0"
+    },
+    "714": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 714,
+      "name": "0"
+    },
+    "715": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 715,
+      "name": "0"
+    },
+    "716": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 716,
+      "name": "0"
+    },
+    "717": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 717,
+      "name": "0"
+    },
+    "718": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 718,
+      "name": "0"
+    },
+    "719": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 719,
+      "name": "0"
+    },
+    "720": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 720,
+      "name": "0"
+    },
+    "721": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 721,
+      "name": "0"
+    },
+    "722": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 722,
+      "name": "0"
+    },
+    "723": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 723,
+      "name": "Babylon's Might"
+    },
+    "724": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 724,
+      "name": "Pirate Horde"
+    },
+    "725": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 725,
+      "name": "Insane Horde"
+    },
+    "726": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 726,
+      "name": "Killer Horde"
+    },
+    "727": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 727,
+      "name": "Pest Horde"
+    },
+    "728": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 728,
+      "name": "Hell Horde"
+    },
+    "729": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 729,
+      "name": "War Horde"
+    },
+    "730": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 730,
+      "name": "Apsaras Horde"
+    },
+    "731": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 731,
+      "name": "Orthrus"
+    },
+    "732": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 732,
+      "name": "Berserker"
+    },
+    "733": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 733,
+      "name": "Rakshasa"
+    },
+    "734": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 734,
+      "name": "Ares"
+    },
+    "735": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 735,
+      "name": "Long"
+    },
+    "736": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 736,
+      "name": "David"
+    },
+    "737": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 737,
+      "name": "Sui-Ki"
+    },
+    "738": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 738,
+      "name": "Nue"
+    },
+    "739": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 739,
+      "name": "Ogun"
+    },
+    "740": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 740,
+      "name": "Wu Kong"
+    },
+    "741": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 741,
+      "name": "Rukh"
+    },
+    "742": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 742,
+      "name": "Kin-Ki"
+    },
+    "743": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 743,
+      "name": "Orcus"
+    },
+    "744": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 744,
+      "name": "Asura"
+    },
+    "745": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 745,
+      "name": "Subzero Nodon"
+    },
+    "746": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 746,
+      "name": "Dynamo"
+    },
+    "747": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 747,
+      "name": "Buzzsaw Sanya"
+    },
+    "748": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 748,
+      "name": "Ayame Arei"
+    },
+    "749": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 749,
+      "name": "Fuu-ki"
+    },
+    "750": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 750,
+      "name": "Dantalian"
+    },
+    "751": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 751,
+      "name": "Seth"
+    },
+    "752": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 752,
+      "name": "Setanta"
+    },
+    "753": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 753,
+      "name": "Bai Suzhen"
+    },
+    "754": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 754,
+      "name": "Chernobog"
+    },
+    "755": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 755,
+      "name": "Okuninushi"
+    },
+    "756": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 756,
+      "name": "Kanseiteikun"
+    },
+    "757": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 757,
+      "name": "Manticore"
+    },
+    "758": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 758,
+      "name": "Abaddon"
+    },
+    "759": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 759,
+      "name": "Demonee-ho"
+    },
+    "760": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 760,
+      "name": "Taowu"
+    },
+    "761": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 761,
+      "name": "Prisoner Yokota"
+    },
+    "762": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 762,
+      "name": "Fusou Fujio"
+    },
+    "763": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 763,
+      "name": "Hiro Jingu"
+    },
+    "764": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 764,
+      "name": "G.H. Hills"
+    },
+    "765": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 765,
+      "name": "Take-Mikazuchi"
+    },
+    "766": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 766,
+      "name": "Dionysus"
+    },
+    "767": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 767,
+      "name": "Silky"
+    },
+    "768": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 768,
+      "name": "Lorelei"
+    },
+    "769": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 769,
+      "name": "Persephone"
+    },
+    "770": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 770,
+      "name": "Tiamat"
+    },
+    "771": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 771,
+      "name": "Astaroth"
+    },
+    "772": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 772,
+      "name": "Anzu"
+    },
+    "773": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 773,
+      "name": "Astaroth"
+    },
+    "774": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 774,
+      "name": "Cernunnos"
+    },
+    "775": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 775,
+      "name": "Grendel"
+    },
+    "776": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 776,
+      "name": "0"
+    },
+    "777": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 777,
+      "name": "Marici"
+    },
+    "778": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 778,
+      "name": "Throne"
+    },
+    "779": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 779,
+      "name": "Dominion"
+    },
+    "780": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 780,
+      "name": "Power"
+    },
+    "781": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 781,
+      "name": "Kazfiel"
+    },
+    "782": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 782,
+      "name": "Hunter Man"
+    },
+    "783": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 783,
+      "name": "Hunter Woman"
+    },
+    "784": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 784,
+      "name": "Thor"
+    },
+    "785": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 785,
+      "name": "Morax"
+    },
+    "786": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 786,
+      "name": "Chimera"
+    },
+    "787": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 787,
+      "name": "Tokisada"
+    },
+    "788": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 788,
+      "name": "Gryphon"
+    },
+    "789": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 789,
+      "name": "Seth"
+    },
+    "790": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 790,
+      "name": "Hungry Man"
+    },
+    "791": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 791,
+      "name": "Dagda's Cauldron"
+    },
+    "792": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 792,
+      "name": "0"
+    },
+    "793": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 793,
+      "name": "0"
+    },
+    "794": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 794,
+      "name": "0"
+    },
+    "795": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 795,
+      "name": "0"
+    },
+    "796": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 796,
+      "name": "0"
+    },
+    "797": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 797,
+      "name": "0"
+    },
+    "798": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 798,
+      "name": "0"
+    },
+    "799": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 799,
+      "name": "0"
+    },
+    "800": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 800,
+      "name": "0"
+    },
+    "801": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 801,
+      "name": "Lham Dearg"
+    },
+    "802": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 802,
+      "name": "Slime"
+    },
+    "803": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 803,
+      "name": "Naga"
+    },
+    "804": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 804,
+      "name": "Wendigo"
+    },
+    "805": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 805,
+      "name": "Alraune"
+    },
+    "806": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 806,
+      "name": "Strix"
+    },
+    "807": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 807,
+      "name": "Issachar"
+    },
+    "808": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 808,
+      "name": "Minotaur"
+    },
+    "809": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 809,
+      "name": "Medusa"
+    },
+    "810": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 810,
+      "name": "0"
+    },
+    "811": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 811,
+      "name": "Peallaidh"
+    },
+    "812": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 812,
+      "name": "Tsuchigumo"
+    },
+    "813": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 813,
+      "name": "Balor"
+    },
+    "814": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 814,
+      "name": "Taraka"
+    },
+    "815": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 815,
+      "name": "Lilith"
+    },
+    "816": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 816,
+      "name": "Ixtab"
+    },
+    "817": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 817,
+      "name": "Cyber Horde"
+    },
+    "818": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 818,
+      "name": "Pluto Warriors"
+    },
+    "819": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 819,
+      "name": "Pluto Giant"
+    },
+    "820": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 820,
+      "name": "Pluto"
+    },
+    "821": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 821,
+      "name": "Vetala"
+    },
+    "822": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 822,
+      "name": "Mahamayuri"
+    },
+    "823": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 823,
+      "name": "Kenji"
+    },
+    "824": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 824,
+      "name": "Control Device"
+    },
+    "825": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 825,
+      "name": "White"
+    },
+    "826": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 826,
+      "name": "White"
+    },
+    "827": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 827,
+      "name": "White"
+    },
+    "828": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 828,
+      "name": "White"
+    },
+    "829": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 829,
+      "name": "White"
+    },
+    "830": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 830,
+      "name": "White"
+    },
+    "831": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 831,
+      "name": "White"
+    },
+    "832": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 832,
+      "name": "White"
+    },
+    "833": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 833,
+      "name": "White"
+    },
+    "834": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 834,
+      "name": "White"
+    },
+    "835": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 835,
+      "name": "White"
+    },
+    "836": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 836,
+      "name": "White"
+    },
+    "837": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 837,
+      "name": "Asmodeus"
+    },
+    "838": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 838,
+      "name": "0"
+    },
+    "839": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 839,
+      "name": "0"
+    },
+    "840": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 840,
+      "name": "Disaster Horde"
+    },
+    "841": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 841,
+      "name": "Bound Horde"
+    },
+    "842": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 842,
+      "name": "0"
+    },
+    "843": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 843,
+      "name": "Yaksha Horde"
+    },
+    "844": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 844,
+      "name": "0"
+    },
+    "845": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 845,
+      "name": "Wicker Horde"
+    },
+    "846": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 846,
+      "name": "Deadly Divines"
+    },
+    "847": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 847,
+      "name": "Kazfiel"
+    },
+    "848": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 848,
+      "name": "0"
+    },
+    "849": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 849,
+      "name": "0"
+    },
+    "850": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 850,
+      "name": "0"
+    },
+    "851": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 851,
+      "name": "Isabeau"
+    },
+    "852": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 852,
+      "name": "Dakini"
+    },
+    "853": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 853,
+      "name": "Isis"
+    },
+    "854": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 854,
+      "name": "Kali"
+    },
+    "855": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 855,
+      "name": "Lucifer"
+    },
+    "856": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 856,
+      "name": "Isabeau"
+    },
+    "857": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 857,
+      "name": "Pallas Athena"
+    },
+    "858": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 858,
+      "name": "Valkyrie"
+    },
+    "859": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 859,
+      "name": "Jeanne d'Arc"
+    },
+    "860": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 860,
+      "name": "Merkabah"
+    },
+    "861": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 861,
+      "name": "Merkabah"
+    },
+    "862": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 862,
+      "name": "Lucifer"
+    },
+    "863": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 863,
+      "name": "0"
+    },
+    "864": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 864,
+      "name": "0"
+    },
+    "865": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 865,
+      "name": "0"
+    },
+    "866": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 866,
+      "name": "Azrael"
+    },
+    "867": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 867,
+      "name": "Deadly Divines"
+    },
+    "868": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 868,
+      "name": "Aniel"
+    },
+    "869": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 869,
+      "name": "Seraph"
+    },
+    "870": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 870,
+      "name": "Corpses"
+    },
+    "871": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 871,
+      "name": "0"
+    },
+    "872": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 872,
+      "name": "0"
+    },
+    "873": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 873,
+      "name": "0"
+    },
+    "874": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 874,
+      "name": "0"
+    },
+    "875": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 875,
+      "name": "0"
+    },
+    "876": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 876,
+      "name": "0"
+    },
+    "877": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 877,
+      "name": "Dullahan"
+    },
+    "878": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 878,
+      "name": "Kuebiko"
+    },
+    "879": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 879,
+      "name": "Qing Niugai"
+    },
+    "880": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 880,
+      "name": "Xi Wangmu"
+    },
+    "881": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 881,
+      "name": "Murmur"
+    },
+    "882": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 882,
+      "name": "Gemori"
+    },
+    "883": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 883,
+      "name": "Koga Saburo"
+    },
+    "884": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 884,
+      "name": "Tenkai"
+    },
+    "885": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 885,
+      "name": "Mastema"
+    },
+    "886": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 886,
+      "name": "0"
+    },
+    "887": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 887,
+      "name": "Dakini"
+    },
+    "888": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 888,
+      "name": "Girimekhala"
+    },
+    "889": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 889,
+      "name": "Yaso Magatsuhi"
+    },
+    "890": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 890,
+      "name": "Koga Saburo"
+    },
+    "891": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 891,
+      "name": "Omoikane"
+    },
+    "892": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 892,
+      "name": "Michizane"
+    },
+    "893": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 893,
+      "name": "Yamato Takeru"
+    },
+    "894": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 894,
+      "name": "Lucifuge"
+    },
+    "895": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 895,
+      "name": "Belial"
+    },
+    "896": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 896,
+      "name": "Karasu Tengu"
+    },
+    "897": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 897,
+      "name": "Koppa Tengu"
+    },
+    "898": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 898,
+      "name": "Ose"
+    },
+    "899": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 899,
+      "name": "Kaiwan"
+    },
+    "900": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 900,
+      "name": "Incubus"
+    },
+    "901": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 901,
+      "name": "Orochi"
+    },
+    "902": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 902,
+      "name": "Lanling Wang"
+    },
+    "903": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 903,
+      "name": "Kresnik"
+    },
+    "904": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 904,
+      "name": "Cu Chulainn"
+    },
+    "905": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 905,
+      "name": "Mara"
+    },
+    "906": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 906,
+      "name": "Barong"
+    },
+    "907": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 907,
+      "name": "Rangda"
+    },
+    "908": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 908,
+      "name": "Shiva"
+    },
+    "909": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 909,
+      "name": "Gaea Man"
+    },
+    "910": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 910,
+      "name": "Momunofu"
+    },
+    "911": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 911,
+      "name": "Mou-Ryo Horde"
+    },
+    "912": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 912,
+      "name": "Deceased Horde"
+    },
+    "913": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 913,
+      "name": "Harpy Horde"
+    },
+    "914": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 914,
+      "name": "0"
+    },
+    "915": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 915,
+      "name": "Pixie Horde"
+    },
+    "916": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 916,
+      "name": "Frosts"
+    },
+    "917": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 917,
+      "name": "Anzu Horde"
+    },
+    "918": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 918,
+      "name": "Middle 3rd Co."
+    },
+    "919": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 919,
+      "name": "Herald Horde"
+    },
+    "920": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 920,
+      "name": "Lower 3rd Co."
+    },
+    "921": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 921,
+      "name": "Hsing-Hsing"
+    },
+    "922": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 922,
+      "name": "Azrael"
+    },
+    "923": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 923,
+      "name": "Tlazolteotl"
+    },
+    "924": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 924,
+      "name": "Loki"
+    },
+    "925": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 925,
+      "name": "0"
+    },
+    "926": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 926,
+      "name": "Illuyanka"
+    },
+    "927": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 927,
+      "name": "Master Therion"
+    },
+    "928": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 928,
+      "name": "Kartikeya"
+    },
+    "929": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 929,
+      "name": "Izanami"
+    },
+    "930": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 930,
+      "name": "Hekatoncheires"
+    },
+    "931": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 931,
+      "name": "Zhu Yin"
+    },
+    "932": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 932,
+      "name": "Girimekhala"
+    },
+    "933": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 933,
+      "name": "Catoblepas"
+    },
+    "934": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 934,
+      "name": "Cabracan"
+    },
+    "935": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 935,
+      "name": "Ananta"
+    },
+    "936": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 936,
+      "name": "White Rider"
+    },
+    "937": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 937,
+      "name": "Red Rider"
+    },
+    "938": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 938,
+      "name": "Black Rider"
+    },
+    "939": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 939,
+      "name": "Pale Rider"
+    },
+    "940": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 940,
+      "name": "Ym"
+    },
+    "941": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 941,
+      "name": "Red Knight"
+    },
+    "942": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 942,
+      "name": "Baal"
+    },
+    "943": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 943,
+      "name": "Baphomet"
+    },
+    "944": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 944,
+      "name": "Pales"
+    },
+    "945": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 945,
+      "name": "Cernunnos"
+    },
+    "946": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 946,
+      "name": "0"
+    },
+    "947": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 947,
+      "name": "Red Knight"
+    },
+    "948": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 948,
+      "name": "Beelzebub"
+    },
+    "949": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 949,
+      "name": "0"
+    },
+    "950": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 950,
+      "name": "0"
+    },
+    "951": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 951,
+      "name": "Zouchouten"
+    },
+    "952": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 952,
+      "name": "Jikokuten"
+    },
+    "953": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 953,
+      "name": "Koumokuten"
+    },
+    "954": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 954,
+      "name": "Bishamonten"
+    },
+    "955": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 955,
+      "name": "Zouchouten"
+    },
+    "956": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 956,
+      "name": "Jikokuten"
+    },
+    "957": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 957,
+      "name": "Koumokuten"
+    },
+    "958": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 958,
+      "name": "Bishamonten"
+    },
+    "959": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 959,
+      "name": "Azazel"
+    },
+    "960": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 960,
+      "name": "0"
+    },
+    "961": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 961,
+      "name": "Mastema"
+    },
+    "962": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 962,
+      "name": "Alciel"
+    },
+    "963": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 963,
+      "name": "Erlkonig"
+    },
+    "964": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 964,
+      "name": "Hresvelgr"
+    },
+    "965": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 965,
+      "name": "Sraosha"
+    },
+    "966": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 966,
+      "name": "Demiurge"
+    },
+    "967": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 967,
+      "name": "Mother Harlot"
+    },
+    "968": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 968,
+      "name": "Asherah"
+    },
+    "969": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 969,
+      "name": "Ghoul"
+    },
+    "970": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 970,
+      "name": "0"
+    },
+    "971": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 971,
+      "name": "Innocent Horde"
+    },
+    "972": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 972,
+      "name": "0"
+    },
+    "973": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 973,
+      "name": "0"
+    },
+    "974": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 974,
+      "name": "Element Horde"
+    },
+    "975": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 975,
+      "name": "0"
+    },
+    "976": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 976,
+      "name": "0"
+    },
+    "977": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 977,
+      "name": "0"
+    },
+    "978": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 978,
+      "name": "0"
+    },
+    "979": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 979,
+      "name": "0"
+    },
+    "980": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 980,
+      "name": "0"
+    },
+    "981": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 981,
+      "name": "0"
+    },
+    "982": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 982,
+      "name": "Trumpeter"
+    },
+    "983": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 983,
+      "name": "Pale Rider"
+    },
+    "984": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 984,
+      "name": "Black Rider"
+    },
+    "985": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 985,
+      "name": "Red Rider"
+    },
+    "986": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 986,
+      "name": "White Rider"
+    },
+    "987": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 987,
+      "name": "Chemtrail"
+    },
+    "988": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 988,
+      "name": "Matador"
+    },
+    "989": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 989,
+      "name": "0"
+    },
+    "990": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 990,
+      "name": "0"
+    },
+    "991": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 991,
+      "name": "Lucifer"
+    },
+    "992": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 992,
+      "name": "Lucifer"
+    },
+    "993": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 993,
+      "name": "Merkabah"
+    },
+    "994": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 994,
+      "name": "Merkabah"
+    },
+    "995": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 995,
+      "name": "0"
+    },
+    "996": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 996,
+      "name": "0"
+    },
+    "997": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 997,
+      "name": "0"
+    },
+    "998": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 998,
+      "name": "0"
+    },
+    "999": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 999,
+      "name": "0"
+    },
+    "1000": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1000,
+      "name": "0"
+    },
+    "1001": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1001,
+      "name": "Ippon-Datara"
+    },
+    "1002": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1002,
+      "name": "Girimekhala"
+    },
+    "1003": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1003,
+      "name": "Oni"
+    },
+    "1004": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1004,
+      "name": "Dantalian"
+    },
+    "1005": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1005,
+      "name": "Phoenix"
+    },
+    "1006": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1006,
+      "name": "Jack Frost"
+    },
+    "1007": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1007,
+      "name": "Raiju"
+    },
+    "1008": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1008,
+      "name": "Toubyou"
+    },
+    "1009": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1009,
+      "name": "Pyro Jack"
+    },
+    "1010": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1010,
+      "name": "Jack Frost"
+    },
+    "1011": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1011,
+      "name": "Jack the Ripper"
+    },
+    "1012": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1012,
+      "name": "Demonee-ho"
+    },
+    "1013": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1013,
+      "name": "Demonstrators"
+    },
+    "1014": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1014,
+      "name": "Lanling Wang"
+    },
+    "1015": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1015,
+      "name": "Pyro Jack"
+    },
+    "1016": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1016,
+      "name": "Jack Frost"
+    },
+    "1017": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1017,
+      "name": "Jack the Ripper"
+    },
+    "1018": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1018,
+      "name": "Hairy Jack"
+    },
+    "1019": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1019,
+      "name": "Pyro Jack"
+    },
+    "1020": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1020,
+      "name": "Dzelarhons"
+    },
+    "1021": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1021,
+      "name": "Zhen"
+    },
+    "1022": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1022,
+      "name": "Spriggan"
+    },
+    "1023": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1023,
+      "name": "Flaemis"
+    },
+    "1024": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1024,
+      "name": "Aquans"
+    },
+    "1025": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1025,
+      "name": "Aeros"
+    },
+    "1026": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1026,
+      "name": "Kaso"
+    },
+    "1027": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1027,
+      "name": "Naga"
+    },
+    "1028": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1028,
+      "name": "Ame no Uzume"
+    },
+    "1029": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1029,
+      "name": "Tattooed Man"
+    },
+    "1030": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1030,
+      "name": "Hel"
+    },
+    "1031": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1031,
+      "name": "Pixie"
+    },
+    "1032": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1032,
+      "name": "Baphomet"
+    },
+    "1033": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1033,
+      "name": "Hooligan"
+    },
+    "1034": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1034,
+      "name": "Virtue"
+    },
+    "1035": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1035,
+      "name": "Taotie"
+    },
+    "1036": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1036,
+      "name": "Gnome"
+    },
+    "1037": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1037,
+      "name": "Kanbari"
+    },
+    "1038": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1038,
+      "name": "Undine"
+    },
+    "1039": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1039,
+      "name": "Salamander"
+    },
+    "1040": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1040,
+      "name": "Zhong Kui"
+    },
+    "1041": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1041,
+      "name": "Nata Taishi"
+    },
+    "1042": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1042,
+      "name": "Samyaza"
+    },
+    "1043": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1043,
+      "name": "Dakini"
+    },
+    "1044": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1044,
+      "name": "Nadja"
+    },
+    "1045": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1045,
+      "name": "Kushinada-hime"
+    },
+    "1046": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1046,
+      "name": "Principality"
+    },
+    "1047": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1047,
+      "name": "Power"
+    },
+    "1048": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1048,
+      "name": "Momunofu"
+    },
+    "1049": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1049,
+      "name": "Okuninushi"
+    },
+    "1050": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1050,
+      "name": "Mad Gasser"
+    },
+    "1051": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1051,
+      "name": "0"
+    },
+    "1052": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1052,
+      "name": "0"
+    },
+    "1053": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1053,
+      "name": "0"
+    },
+    "1054": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1054,
+      "name": "0"
+    },
+    "1055": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1055,
+      "name": "0"
+    },
+    "1056": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1056,
+      "name": "0"
+    },
+    "1057": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1057,
+      "name": "0"
+    },
+    "1058": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1058,
+      "name": "0"
+    },
+    "1059": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1059,
+      "name": "0"
+    },
+    "1060": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1060,
+      "name": "0"
+    },
+    "1061": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1061,
+      "name": "0"
+    },
+    "1062": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1062,
+      "name": "0"
+    },
+    "1063": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1063,
+      "name": "0"
+    },
+    "1064": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1064,
+      "name": "0"
+    },
+    "1065": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1065,
+      "name": "0"
+    },
+    "1066": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1066,
+      "name": "0"
+    },
+    "1067": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1067,
+      "name": "0"
+    },
+    "1068": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1068,
+      "name": "0"
+    },
+    "1069": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1069,
+      "name": "0"
+    },
+    "1070": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1070,
+      "name": "0"
+    },
+    "1071": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1071,
+      "name": "0"
+    },
+    "1072": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1072,
+      "name": "0"
+    },
+    "1073": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1073,
+      "name": "0"
+    },
+    "1074": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1074,
+      "name": "0"
+    },
+    "1075": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1075,
+      "name": "0"
+    },
+    "1076": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1076,
+      "name": "0"
+    },
+    "1077": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1077,
+      "name": "0"
+    },
+    "1078": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1078,
+      "name": "0"
+    },
+    "1079": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1079,
+      "name": "0"
+    },
+    "1080": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1080,
+      "name": "0"
+    },
+    "1081": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1081,
+      "name": "0"
+    },
+    "1082": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1082,
+      "name": "0"
+    },
+    "1083": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1083,
+      "name": "0"
+    },
+    "1084": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1084,
+      "name": "0"
+    },
+    "1085": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1085,
+      "name": "0"
+    },
+    "1086": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1086,
+      "name": "0"
+    },
+    "1087": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1087,
+      "name": "0"
+    },
+    "1088": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1088,
+      "name": "0"
+    },
+    "1089": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1089,
+      "name": "0"
+    },
+    "1090": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1090,
+      "name": "0"
+    },
+    "1091": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1091,
+      "name": "0"
+    },
+    "1092": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1092,
+      "name": "0"
+    },
+    "1093": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1093,
+      "name": "0"
+    },
+    "1094": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1094,
+      "name": "0"
+    },
+    "1095": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1095,
+      "name": "0"
+    },
+    "1096": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1096,
+      "name": "0"
+    },
+    "1097": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1097,
+      "name": "0"
+    },
+    "1098": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1098,
+      "name": "0"
+    },
+    "1099": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1099,
+      "name": "0"
+    },
+    "1100": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1100,
+      "name": "0"
+    },
+    "1101": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1101,
+      "name": "???"
+    },
+    "1102": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1102,
+      "name": "???"
+    },
+    "1103": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1103,
+      "name": "???"
+    },
+    "1104": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1104,
+      "name": "???"
+    },
+    "1105": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1105,
+      "name": "0"
+    },
+    "1106": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1106,
+      "name": "0"
+    },
+    "1107": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1107,
+      "name": "0"
+    },
+    "1108": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1108,
+      "name": "0"
+    },
+    "1109": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1109,
+      "name": "???"
+    },
+    "1110": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1110,
+      "name": "???"
+    },
+    "1111": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1111,
+      "name": "???"
+    },
+    "1112": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1112,
+      "name": "0"
+    },
+    "1113": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1113,
+      "name": "Ara Mitama"
+    },
+    "1114": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1114,
+      "name": "Nigi Mitama"
+    },
+    "1115": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1115,
+      "name": "Kusi Mitama"
+    },
+    "1116": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1116,
+      "name": "Saki Mitama"
+    },
+    "1117": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1117,
+      "name": "0"
+    },
+    "1118": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1118,
+      "name": "0"
+    },
+    "1119": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1119,
+      "name": "0"
+    },
+    "1120": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1120,
+      "name": "0"
+    },
+    "1121": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1121,
+      "name": "0"
+    },
+    "1122": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1122,
+      "name": "0"
+    },
+    "1123": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1123,
+      "name": "0"
+    },
+    "1124": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1124,
+      "name": "0"
+    },
+    "1125": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1125,
+      "name": "0"
+    },
+    "1126": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1126,
+      "name": "0"
+    },
+    "1127": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1127,
+      "name": "0"
+    },
+    "1128": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1128,
+      "name": "0"
+    },
+    "1129": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1129,
+      "name": "0"
+    },
+    "1130": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1130,
+      "name": "0"
+    },
+    "1131": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1131,
+      "name": "0"
+    },
+    "1132": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1132,
+      "name": "0"
+    },
+    "1133": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1133,
+      "name": "0"
+    },
+    "1134": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1134,
+      "name": "0"
+    },
+    "1135": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1135,
+      "name": "0"
+    },
+    "1136": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1136,
+      "name": "0"
+    },
+    "1137": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1137,
+      "name": "0"
+    },
+    "1138": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1138,
+      "name": "0"
+    },
+    "1139": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1139,
+      "name": "0"
+    },
+    "1140": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1140,
+      "name": "0"
+    },
+    "1141": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1141,
+      "name": "0"
+    },
+    "1142": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1142,
+      "name": "0"
+    },
+    "1143": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1143,
+      "name": "0"
+    },
+    "1144": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1144,
+      "name": "0"
+    },
+    "1145": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1145,
+      "name": "0"
+    },
+    "1146": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1146,
+      "name": "0"
+    },
+    "1147": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1147,
+      "name": "0"
+    },
+    "1148": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1148,
+      "name": "0"
+    },
+    "1149": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1149,
+      "name": "0"
+    },
+    "1150": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1150,
+      "name": "0"
+    },
+    "1151": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1151,
+      "name": "0"
+    },
+    "1152": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1152,
+      "name": "0"
+    },
+    "1153": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1153,
+      "name": "0"
+    },
+    "1154": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1154,
+      "name": "0"
+    },
+    "1155": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1155,
+      "name": "0"
+    },
+    "1156": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1156,
+      "name": "0"
+    },
+    "1157": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1157,
+      "name": "0"
+    },
+    "1158": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1158,
+      "name": "0"
+    },
+    "1159": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1159,
+      "name": "0"
+    },
+    "1160": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1160,
+      "name": "0"
+    },
+    "1161": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1161,
+      "name": "0"
+    },
+    "1162": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1162,
+      "name": "0"
+    },
+    "1163": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1163,
+      "name": "0"
+    },
+    "1164": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1164,
+      "name": "0"
+    },
+    "1165": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1165,
+      "name": "0"
+    },
+    "1166": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1166,
+      "name": "0"
+    },
+    "1167": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1167,
+      "name": "0"
+    },
+    "1168": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1168,
+      "name": "0"
+    },
+    "1169": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1169,
+      "name": "0"
+    },
+    "1170": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1170,
+      "name": "0"
+    },
+    "1171": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1171,
+      "name": "Nue"
+    },
+    "1172": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1172,
+      "name": "Hairy Jack"
+    },
+    "1173": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1173,
+      "name": "Inugami"
+    },
+    "1174": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1174,
+      "name": "Tsuchigumo"
+    },
+    "1175": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1175,
+      "name": "Peallaidh"
+    },
+    "1176": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1176,
+      "name": "Kuda"
+    },
+    "1177": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1177,
+      "name": "Baphomet"
+    },
+    "1178": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1178,
+      "name": "Inferno"
+    },
+    "1179": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1179,
+      "name": "Churel"
+    },
+    "1180": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1180,
+      "name": "Silky"
+    },
+    "1181": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1181,
+      "name": "Dantalian"
+    },
+    "1182": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1182,
+      "name": "Basilisk"
+    },
+    "1183": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1183,
+      "name": "Yurlungur"
+    },
+    "1184": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1184,
+      "name": "Samyaza"
+    },
+    "1185": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1185,
+      "name": "Tattooed Man"
+    },
+    "1186": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1186,
+      "name": "Skogsra"
+    },
+    "1187": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1187,
+      "name": "Arachne"
+    },
+    "1188": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1188,
+      "name": "Incubus"
+    },
+    "1189": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1189,
+      "name": "Mishaguji"
+    },
+    "1190": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1190,
+      "name": "Yomotsu Ikusa"
+    },
+    "1191": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1191,
+      "name": "Hare of Inaba"
+    },
+    "1192": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1192,
+      "name": "Ose"
+    },
+    "1193": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1193,
+      "name": "Titan"
+    },
+    "1194": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1194,
+      "name": "Rakshasa"
+    },
+    "1195": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1195,
+      "name": "Manticore"
+    },
+    "1196": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1196,
+      "name": "Mushussu"
+    },
+    "1197": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1197,
+      "name": "Enku"
+    },
+    "1198": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1198,
+      "name": "Valkyrie"
+    },
+    "1199": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1199,
+      "name": "Tlaltecuhtli"
+    },
+    "1200": {
+      "py/object": "worlds.smt4.game.demons.demons.Demon",
+      "demon_id": 1200,
+      "name": "Kin-Ki"
+    }
+  }
+}

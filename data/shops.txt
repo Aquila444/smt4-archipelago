@@ -1,0 +1,27 @@
+00: Weapon Shop Dummy - Unused
+01: Black Market - Shinjuku
+02: Black Market - Shibuya
+03: Black Market - Unused
+04: Black Market - Ginza
+05: Black Market - Ueno
+06: Members-Only Club - Ginza weapons
+07: Members-Only Club - Unused
+08: Q's Blacksmith - Mikado
+09: Weapon Shop - Blasted Tokyo
+10: Weapon Shop - Infernal Tokyo
+11: Weapon Shop - Infernal Tokyo Shibuya
+12: Weapon Shop - Infernal Tokyo Ikebukuro
+13: Item Shop Dummy - Unused
+14: Ashura-kai Authorized Shop - Shinjuku
+15: Ashura-kai Authorized Shop - Shibuya
+16: Ashura-kai Authorized Shop - Unused
+17: Ashura-kai Authorized Shop - Unused
+18: Members-Only Club - Ginza items
+19: Ashura-kai Authorized Shop - Ueno
+20: Ashura-kai Authorized Shop - Unused
+21: Ashura-kai Authorized Shop - Unused
+22: B's Apothecary - Mikado
+23: Drug Store - Blasted Tokyo
+24: Drug Store - Infernal Tokyo
+25: Drug Store - Infernal Tokyo Shibuya
+26: Drug Store - Infernal Tokyo Ikebukuro

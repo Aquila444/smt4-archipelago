@@ -1,0 +1,4188 @@
+[
+  {
+    "name": "Woman's Ring",
+    "archipelago_id": 1,
+    "game_id": 831,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Key to Naraku",
+    "archipelago_id": 2,
+    "game_id": 832,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Gold Card",
+    "archipelago_id": 3,
+    "game_id": 833,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Platinum Card",
+    "archipelago_id": 4,
+    "game_id": 834,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Black Card",
+    "archipelago_id": 5,
+    "game_id": 835,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Silver Coin",
+    "archipelago_id": 6,
+    "game_id": 836,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Ryoja's Scales",
+    "archipelago_id": 7,
+    "game_id": 837,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Myoko's Disk",
+    "archipelago_id": 8,
+    "game_id": 838,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Hades' Soil",
+    "archipelago_id": 9,
+    "game_id": 839,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Yagokoro's Brain",
+    "archipelago_id": 10,
+    "game_id": 840,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Tobiume's Shoot",
+    "archipelago_id": 11,
+    "game_id": 841,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Yaizu's Flint",
+    "archipelago_id": 12,
+    "game_id": 842,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Peallaidh's Head",
+    "archipelago_id": 13,
+    "game_id": 843,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "ID Card Lv1",
+    "archipelago_id": 14,
+    "game_id": 844,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Jirae Talisman",
+    "archipelago_id": 15,
+    "game_id": 845,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Matchbox",
+    "archipelago_id": 16,
+    "game_id": 846,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Card Key 2",
+    "archipelago_id": 17,
+    "game_id": 847,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Card Key 3",
+    "archipelago_id": 18,
+    "game_id": 848,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Brown Bottle",
+    "archipelago_id": 19,
+    "game_id": 849,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Card Key 4",
+    "archipelago_id": 20,
+    "game_id": 850,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Yamato Remote",
+    "archipelago_id": 21,
+    "game_id": 851,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Rusted Key",
+    "archipelago_id": 22,
+    "game_id": 852,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Scorched Card Key",
+    "archipelago_id": 23,
+    "game_id": 853,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Masakado's Katana",
+    "archipelago_id": 24,
+    "game_id": 854,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Chalice",
+    "archipelago_id": 25,
+    "game_id": 855,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Great Soul of Hope",
+    "archipelago_id": 26,
+    "game_id": 856,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Great Soul of Goodwill",
+    "archipelago_id": 27,
+    "game_id": 857,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Great Soul of Spite",
+    "archipelago_id": 28,
+    "game_id": 858,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Chipped Key",
+    "archipelago_id": 29,
+    "game_id": 859,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Hexagram Rosary",
+    "archipelago_id": 30,
+    "game_id": 860,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Gauntlet",
+    "archipelago_id": 31,
+    "game_id": 880,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Power Cable",
+    "archipelago_id": 32,
+    "game_id": 881,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Small Generator",
+    "archipelago_id": 33,
+    "game_id": 882,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Corked Bottle",
+    "archipelago_id": 34,
+    "game_id": 883,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Torifune's Shawl",
+    "archipelago_id": 35,
+    "game_id": 884,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Gryphon Talon",
+    "archipelago_id": 36,
+    "game_id": 891,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Deep Green Moss",
+    "archipelago_id": 37,
+    "game_id": 892,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Fuxi's Feather",
+    "archipelago_id": 38,
+    "game_id": 893,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Birdman Liver",
+    "archipelago_id": 39,
+    "game_id": 894,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Laptop PC",
+    "archipelago_id": 40,
+    "game_id": 895,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Small Fridge",
+    "archipelago_id": 41,
+    "game_id": 896,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Kaso's Hide",
+    "archipelago_id": 42,
+    "game_id": 897,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Babylon Birdmeat",
+    "archipelago_id": 43,
+    "game_id": 898,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Rukh's Egg",
+    "archipelago_id": 44,
+    "game_id": 899,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "LED Lightbulb",
+    "archipelago_id": 45,
+    "game_id": 900,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Orcus Blood",
+    "archipelago_id": 46,
+    "game_id": 901,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Strix Blood",
+    "archipelago_id": 47,
+    "game_id": 902,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Head of Osiris",
+    "archipelago_id": 48,
+    "game_id": 903,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Arms of Osiris",
+    "archipelago_id": 49,
+    "game_id": 904,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Legs of Osiris",
+    "archipelago_id": 50,
+    "game_id": 905,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Torso of Osiris",
+    "archipelago_id": 51,
+    "game_id": 906,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Coffee Beans",
+    "archipelago_id": 52,
+    "game_id": 907,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Succulent Pork",
+    "archipelago_id": 53,
+    "game_id": 908,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Firearm Box",
+    "archipelago_id": 54,
+    "game_id": 909,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Small Server",
+    "archipelago_id": 55,
+    "game_id": 910,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Maenad's Wine",
+    "archipelago_id": 56,
+    "game_id": 911,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Bazooka Set",
+    "archipelago_id": 57,
+    "game_id": 912,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Morax Head",
+    "archipelago_id": 58,
+    "game_id": 913,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Chimera Head",
+    "archipelago_id": 59,
+    "game_id": 914,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Tokisada Head",
+    "archipelago_id": 60,
+    "game_id": 915,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Gryphon Head",
+    "archipelago_id": 61,
+    "game_id": 916,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Heaven's Tablet",
+    "archipelago_id": 62,
+    "game_id": 917,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Lung Medicine",
+    "archipelago_id": 63,
+    "game_id": 918,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Euthanasia Serum",
+    "archipelago_id": 64,
+    "game_id": 919,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "SDF Equipment",
+    "archipelago_id": 65,
+    "game_id": 921,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Keepsake Pendant",
+    "archipelago_id": 66,
+    "game_id": 922,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Deceased's Nail",
+    "archipelago_id": 67,
+    "game_id": 923,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Portable Cannon",
+    "archipelago_id": 68,
+    "game_id": 924,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Pluto Corpse",
+    "archipelago_id": 69,
+    "game_id": 925,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Small LCD Set",
+    "archipelago_id": 70,
+    "game_id": 926,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Vasuki Hide",
+    "archipelago_id": 71,
+    "game_id": 927,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Mechanical Heart",
+    "archipelago_id": 72,
+    "game_id": 928,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Frozen Tuna",
+    "archipelago_id": 73,
+    "game_id": 929,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Messiah's Tear",
+    "archipelago_id": 74,
+    "game_id": 931,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Yata no Kagami",
+    "archipelago_id": 75,
+    "game_id": 932,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Yasakani Magatama",
+    "archipelago_id": 76,
+    "game_id": 933,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Kusanagi Tsurugi",
+    "archipelago_id": 77,
+    "game_id": 934,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Gogmagog Meat",
+    "archipelago_id": 78,
+    "game_id": 936,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Kingu Blood",
+    "archipelago_id": 79,
+    "game_id": 937,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Bar Photo",
+    "archipelago_id": 80,
+    "game_id": 938,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Shelter Photo",
+    "archipelago_id": 81,
+    "game_id": 939,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Ikebukuro Photo",
+    "archipelago_id": 82,
+    "game_id": 940,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Ginza Photo",
+    "archipelago_id": 83,
+    "game_id": 941,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Photo Film",
+    "archipelago_id": 84,
+    "game_id": 944,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Sarcophagus",
+    "archipelago_id": 85,
+    "game_id": 945,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Showdown Ticket",
+    "archipelago_id": 86,
+    "game_id": 946,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "ID Card Lv2",
+    "archipelago_id": 87,
+    "game_id": 947,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "ID Card Lv3",
+    "archipelago_id": 88,
+    "game_id": 948,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Camera",
+    "archipelago_id": 89,
+    "game_id": 949,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Smartphone",
+    "archipelago_id": 90,
+    "game_id": 950,
+    "type": "KEY_ITEMS",
+    "classification": "progression"
+  },
+  {
+    "name": "Medicine",
+    "archipelago_id": 91,
+    "game_id": 1,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Life Stone",
+    "archipelago_id": 92,
+    "game_id": 2,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Bead",
+    "archipelago_id": 93,
+    "game_id": 3,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Bead Chain",
+    "archipelago_id": 94,
+    "game_id": 4,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Chakra Drop",
+    "archipelago_id": 95,
+    "game_id": 5,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Chakra Pot",
+    "archipelago_id": 96,
+    "game_id": 6,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Great Chakra",
+    "archipelago_id": 97,
+    "game_id": 7,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Soma Drop",
+    "archipelago_id": 98,
+    "game_id": 8,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Soma",
+    "archipelago_id": 99,
+    "game_id": 9,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Bead of Life",
+    "archipelago_id": 100,
+    "game_id": 10,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Light Grimoire",
+    "archipelago_id": 101,
+    "game_id": 11,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Heavy Grimoire",
+    "archipelago_id": 102,
+    "game_id": 12,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Revival Bead",
+    "archipelago_id": 103,
+    "game_id": 13,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Balm of Rising",
+    "archipelago_id": 104,
+    "game_id": 14,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "\u00d7\u9b54\u5c0e\u66f8\uff08\u5927\uff09",
+    "archipelago_id": 105,
+    "game_id": 15,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Patra Stone",
+    "archipelago_id": 106,
+    "game_id": 16,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Me Patra Stone",
+    "archipelago_id": 107,
+    "game_id": 17,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Dis-Poison",
+    "archipelago_id": 108,
+    "game_id": 18,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "10-Point Card",
+    "archipelago_id": 109,
+    "game_id": 19,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Healing Water",
+    "archipelago_id": 110,
+    "game_id": 20,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Holy Fruit",
+    "archipelago_id": 111,
+    "game_id": 21,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Revival Leaf",
+    "archipelago_id": 112,
+    "game_id": 22,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Detox Solution",
+    "archipelago_id": 113,
+    "game_id": 23,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "20-Point Card",
+    "archipelago_id": 114,
+    "game_id": 24,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Amrita Soda",
+    "archipelago_id": 115,
+    "game_id": 25,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Amrita Shower",
+    "archipelago_id": 116,
+    "game_id": 26,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Chakra Elixir",
+    "archipelago_id": 117,
+    "game_id": 27,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Summon Stone",
+    "archipelago_id": 118,
+    "game_id": 28,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Gold Jet",
+    "archipelago_id": 119,
+    "game_id": 29,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Gold Bulldozer",
+    "archipelago_id": 120,
+    "game_id": 30,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "St Incense",
+    "archipelago_id": 121,
+    "game_id": 31,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Ma Incense",
+    "archipelago_id": 122,
+    "game_id": 32,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Dx Incense",
+    "archipelago_id": 123,
+    "game_id": 33,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Ag Incense",
+    "archipelago_id": 124,
+    "game_id": 34,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Lu Incense",
+    "archipelago_id": 125,
+    "game_id": 35,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Maragi Stone",
+    "archipelago_id": 126,
+    "game_id": 36,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Agilao Stone",
+    "archipelago_id": 127,
+    "game_id": 37,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Mabufu Stone",
+    "archipelago_id": 128,
+    "game_id": 38,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Bufula Stone",
+    "archipelago_id": 129,
+    "game_id": 39,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Mazio Stone",
+    "archipelago_id": 130,
+    "game_id": 40,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Zionga Stone",
+    "archipelago_id": 131,
+    "game_id": 41,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Mazan Stone",
+    "archipelago_id": 132,
+    "game_id": 42,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Zanma Stone",
+    "archipelago_id": 133,
+    "game_id": 43,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Mahama Stone",
+    "archipelago_id": 134,
+    "game_id": 44,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Mamudo Stone",
+    "archipelago_id": 135,
+    "game_id": 45,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Megido Stone",
+    "archipelago_id": 136,
+    "game_id": 46,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Megidola Stone",
+    "archipelago_id": 137,
+    "game_id": 47,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Needle Orb",
+    "archipelago_id": 138,
+    "game_id": 48,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Knockout Gas",
+    "archipelago_id": 139,
+    "game_id": 49,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Poison Gas",
+    "archipelago_id": 140,
+    "game_id": 50,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Nerve Gas",
+    "archipelago_id": 141,
+    "game_id": 51,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Attack Mirror",
+    "archipelago_id": 142,
+    "game_id": 52,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Magic Mirror",
+    "archipelago_id": 143,
+    "game_id": 53,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Tetraja Stone",
+    "archipelago_id": 144,
+    "game_id": 54,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Dekaja Stone",
+    "archipelago_id": 145,
+    "game_id": 55,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Dekunda Stone",
+    "archipelago_id": 146,
+    "game_id": 56,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Gold Death Mask",
+    "archipelago_id": 147,
+    "game_id": 57,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Expanse Meat",
+    "archipelago_id": 148,
+    "game_id": 58,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Heavenly Steak",
+    "archipelago_id": 149,
+    "game_id": 59,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "A5 Demoloin",
+    "archipelago_id": 150,
+    "game_id": 60,
+    "type": "CONSUMABLES",
+    "classification": "filler"
+  },
+  {
+    "name": "Samurai Sword",
+    "archipelago_id": 151,
+    "game_id": 61,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sharp Sword",
+    "archipelago_id": 152,
+    "game_id": 64,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Pixie Knife",
+    "archipelago_id": 153,
+    "game_id": 67,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dies Irae",
+    "archipelago_id": 154,
+    "game_id": 69,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Athame",
+    "archipelago_id": 155,
+    "game_id": 72,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Nihil",
+    "archipelago_id": 156,
+    "game_id": 75,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sonic Knife",
+    "archipelago_id": 157,
+    "game_id": 76,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Old Mace",
+    "archipelago_id": 158,
+    "game_id": 78,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Slicer Knife",
+    "archipelago_id": 159,
+    "game_id": 80,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Imanotsurugi",
+    "archipelago_id": 160,
+    "game_id": 81,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Chainsaw",
+    "archipelago_id": 161,
+    "game_id": 83,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Morning Star",
+    "archipelago_id": 162,
+    "game_id": 84,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Luna Knife",
+    "archipelago_id": 163,
+    "game_id": 88,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Pest Crop",
+    "archipelago_id": 164,
+    "game_id": 91,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aymur",
+    "archipelago_id": 165,
+    "game_id": 95,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Usumidori",
+    "archipelago_id": 166,
+    "game_id": 96,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fuujin Sword",
+    "archipelago_id": 167,
+    "game_id": 98,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sleep Harpe",
+    "archipelago_id": 168,
+    "game_id": 99,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Traitor's Knife",
+    "archipelago_id": 169,
+    "game_id": 100,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Onimaru Kunitsuna",
+    "archipelago_id": 170,
+    "game_id": 103,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Kogarasumaru",
+    "archipelago_id": 171,
+    "game_id": 104,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sharur",
+    "archipelago_id": 172,
+    "game_id": 106,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Deathbringer",
+    "archipelago_id": 173,
+    "game_id": 107,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Headhunter",
+    "archipelago_id": 174,
+    "game_id": 111,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Holy Knife",
+    "archipelago_id": 175,
+    "game_id": 112,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Caduceus",
+    "archipelago_id": 176,
+    "game_id": 114,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cursed Sarai",
+    "archipelago_id": 177,
+    "game_id": 115,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bizen Osafune",
+    "archipelago_id": 178,
+    "game_id": 117,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Answerer",
+    "archipelago_id": 179,
+    "game_id": 122,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gan Jiang",
+    "archipelago_id": 180,
+    "game_id": 123,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mortal Knife",
+    "archipelago_id": 181,
+    "game_id": 124,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mo Ye",
+    "archipelago_id": 182,
+    "game_id": 127,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cursed Muramasa",
+    "archipelago_id": 183,
+    "game_id": 131,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sol Knife",
+    "archipelago_id": 184,
+    "game_id": 132,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Masamune",
+    "archipelago_id": 185,
+    "game_id": 134,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mjolnir",
+    "archipelago_id": 186,
+    "game_id": 135,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Laevateinn",
+    "archipelago_id": 187,
+    "game_id": 139,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plasma Sword",
+    "archipelago_id": 188,
+    "game_id": 149,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cursed Lance",
+    "archipelago_id": 189,
+    "game_id": 151,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hawthorn Spear",
+    "archipelago_id": 190,
+    "game_id": 152,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gae Bolg",
+    "archipelago_id": 191,
+    "game_id": 153,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Vermillion Spear",
+    "archipelago_id": 192,
+    "game_id": 154,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Voulge",
+    "archipelago_id": 193,
+    "game_id": 155,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Poison Glaive",
+    "archipelago_id": 194,
+    "game_id": 156,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gungnir",
+    "archipelago_id": 195,
+    "game_id": 157,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dragonfly Slicer",
+    "archipelago_id": 196,
+    "game_id": 158,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ame-no-nuboko",
+    "archipelago_id": 197,
+    "game_id": 159,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Frost Scepter",
+    "archipelago_id": 198,
+    "game_id": 160,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bone Sword",
+    "archipelago_id": 199,
+    "game_id": 161,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Steel Hoe",
+    "archipelago_id": 200,
+    "game_id": 162,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tokkosho",
+    "archipelago_id": 201,
+    "game_id": 163,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fire Pillar",
+    "archipelago_id": 202,
+    "game_id": 164,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Brionac",
+    "archipelago_id": 203,
+    "game_id": 165,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sword of Hope",
+    "archipelago_id": 204,
+    "game_id": 166,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Kutune Sirka",
+    "archipelago_id": 205,
+    "game_id": 167,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Claymore",
+    "archipelago_id": 206,
+    "game_id": 168,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila's Sword",
+    "archipelago_id": 207,
+    "game_id": 169,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Youkou Haken",
+    "archipelago_id": 208,
+    "game_id": 170,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Longinus",
+    "archipelago_id": 209,
+    "game_id": 171,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Excalibur",
+    "archipelago_id": 210,
+    "game_id": 172,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Skull Scepter",
+    "archipelago_id": 211,
+    "game_id": 173,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sophia's Sword",
+    "archipelago_id": 212,
+    "game_id": 174,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bruce Gun",
+    "archipelago_id": 213,
+    "game_id": 186,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ultra Rifle",
+    "archipelago_id": 214,
+    "game_id": 188,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "CC Rifle",
+    "archipelago_id": 215,
+    "game_id": 190,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gold Gun",
+    "archipelago_id": 216,
+    "game_id": 192,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Kunitomo Rifle",
+    "archipelago_id": 217,
+    "game_id": 194,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Wild Rifle",
+    "archipelago_id": 218,
+    "game_id": 196,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Scar Rifle",
+    "archipelago_id": 219,
+    "game_id": 198,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Murder Rifle",
+    "archipelago_id": 220,
+    "game_id": 200,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bolt Rifle",
+    "archipelago_id": 221,
+    "game_id": 202,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "XYZ Rifle",
+    "archipelago_id": 222,
+    "game_id": 204,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Love Gun",
+    "archipelago_id": 223,
+    "game_id": 206,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Light Gun",
+    "archipelago_id": 224,
+    "game_id": 208,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plasma Gun",
+    "archipelago_id": 225,
+    "game_id": 214,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Golden Gun",
+    "archipelago_id": 226,
+    "game_id": 216,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Peacemaker",
+    "archipelago_id": 227,
+    "game_id": 217,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ready Bazooka",
+    "archipelago_id": 228,
+    "game_id": 225,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ace Bazooka",
+    "archipelago_id": 229,
+    "game_id": 229,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Big Bazooka",
+    "archipelago_id": 230,
+    "game_id": 231,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Evil Bazooka",
+    "archipelago_id": 231,
+    "game_id": 233,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "BB Bazooka",
+    "archipelago_id": 232,
+    "game_id": 235,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Death Bazooka",
+    "archipelago_id": 233,
+    "game_id": 237,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gigolo Bazooka",
+    "archipelago_id": 234,
+    "game_id": 239,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Laser Bazooka",
+    "archipelago_id": 235,
+    "game_id": 241,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bolt Bazooka",
+    "archipelago_id": 236,
+    "game_id": 243,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "\uff031 Bazooka",
+    "archipelago_id": 237,
+    "game_id": 245,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Clear Bazooka",
+    "archipelago_id": 238,
+    "game_id": 247,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Lock Steyr",
+    "archipelago_id": 239,
+    "game_id": 266,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "CC Machinegun",
+    "archipelago_id": 240,
+    "game_id": 270,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bronze Steyr",
+    "archipelago_id": 241,
+    "game_id": 272,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Magoichi Auto",
+    "archipelago_id": 242,
+    "game_id": 274,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Wild Steyr",
+    "archipelago_id": 243,
+    "game_id": 276,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Scar Machinegun",
+    "archipelago_id": 244,
+    "game_id": 278,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Murder Steyr",
+    "archipelago_id": 245,
+    "game_id": 280,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bolt Machinegun",
+    "archipelago_id": 246,
+    "game_id": 282,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "XYZ Machinegun",
+    "archipelago_id": 247,
+    "game_id": 284,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Light Machinegun",
+    "archipelago_id": 248,
+    "game_id": 288,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Custom",
+    "archipelago_id": 249,
+    "game_id": 296,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Megido Fire",
+    "archipelago_id": 250,
+    "game_id": 297,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Black",
+    "archipelago_id": 251,
+    "game_id": 301,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Wood",
+    "archipelago_id": 252,
+    "game_id": 302,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Sand",
+    "archipelago_id": 253,
+    "game_id": 303,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Red",
+    "archipelago_id": 254,
+    "game_id": 304,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Gray",
+    "archipelago_id": 255,
+    "game_id": 305,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Blue",
+    "archipelago_id": 256,
+    "game_id": 306,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila White",
+    "archipelago_id": 257,
+    "game_id": 307,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Gold",
+    "archipelago_id": 258,
+    "game_id": 308,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Black",
+    "archipelago_id": 259,
+    "game_id": 309,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plain Knight",
+    "archipelago_id": 260,
+    "game_id": 311,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Knight",
+    "archipelago_id": 261,
+    "game_id": 312,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Knight",
+    "archipelago_id": 262,
+    "game_id": 313,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Duke",
+    "archipelago_id": 263,
+    "game_id": 314,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Duke",
+    "archipelago_id": 264,
+    "game_id": 315,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Duke",
+    "archipelago_id": 265,
+    "game_id": 316,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black King",
+    "archipelago_id": 266,
+    "game_id": 317,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White King",
+    "archipelago_id": 267,
+    "game_id": 318,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood King",
+    "archipelago_id": 268,
+    "game_id": 319,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Yasha",
+    "archipelago_id": 269,
+    "game_id": 321,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Mogura",
+    "archipelago_id": 270,
+    "game_id": 322,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Murasame",
+    "archipelago_id": 271,
+    "game_id": 323,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Tasogare",
+    "archipelago_id": 272,
+    "game_id": 324,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Yoi",
+    "archipelago_id": 273,
+    "game_id": 325,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Reimei",
+    "archipelago_id": 274,
+    "game_id": 326,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Kintoku",
+    "archipelago_id": 275,
+    "game_id": 327,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Mokutoku",
+    "archipelago_id": 276,
+    "game_id": 328,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Katoku",
+    "archipelago_id": 277,
+    "game_id": 329,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Sneak",
+    "archipelago_id": 278,
+    "game_id": 331,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Yellow Sneak",
+    "archipelago_id": 279,
+    "game_id": 332,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Sneak",
+    "archipelago_id": 280,
+    "game_id": 333,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent B",
+    "archipelago_id": 281,
+    "game_id": 334,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent Y",
+    "archipelago_id": 282,
+    "game_id": 335,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent G",
+    "archipelago_id": 283,
+    "game_id": 336,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dark Stealth",
+    "archipelago_id": 284,
+    "game_id": 337,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sky Stealth",
+    "archipelago_id": 285,
+    "game_id": 338,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Stealth",
+    "archipelago_id": 286,
+    "game_id": 339,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Blue",
+    "archipelago_id": 287,
+    "game_id": 341,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Pink",
+    "archipelago_id": 288,
+    "game_id": 342,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Black",
+    "archipelago_id": 289,
+    "game_id": 343,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Red",
+    "archipelago_id": 290,
+    "game_id": 351,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Blue",
+    "archipelago_id": 291,
+    "game_id": 352,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Brown",
+    "archipelago_id": 292,
+    "game_id": 353,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cream Pads",
+    "archipelago_id": 293,
+    "game_id": 354,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Magenta Pads",
+    "archipelago_id": 294,
+    "game_id": 355,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tricolor Pads",
+    "archipelago_id": 295,
+    "game_id": 356,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Rider",
+    "archipelago_id": 296,
+    "game_id": 361,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Rider",
+    "archipelago_id": 297,
+    "game_id": 362,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Rider",
+    "archipelago_id": 298,
+    "game_id": 363,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Green",
+    "archipelago_id": 299,
+    "game_id": 364,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Gray",
+    "archipelago_id": 300,
+    "game_id": 365,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Red",
+    "archipelago_id": 301,
+    "game_id": 366,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Cream",
+    "archipelago_id": 302,
+    "game_id": 371,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Olive",
+    "archipelago_id": 303,
+    "game_id": 372,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Purple",
+    "archipelago_id": 304,
+    "game_id": 373,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Olive Camouflage",
+    "archipelago_id": 305,
+    "game_id": 381,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sand Camouflage",
+    "archipelago_id": 306,
+    "game_id": 382,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gray Camouflage",
+    "archipelago_id": 307,
+    "game_id": 383,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Demonica Suit",
+    "archipelago_id": 308,
+    "game_id": 391,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Demonica",
+    "archipelago_id": 309,
+    "game_id": 392,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "R Scorpion",
+    "archipelago_id": 310,
+    "game_id": 396,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Genke Rindo",
+    "archipelago_id": 311,
+    "game_id": 397,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Celtic White",
+    "archipelago_id": 312,
+    "game_id": 398,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Nibelungen",
+    "archipelago_id": 313,
+    "game_id": 399,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Mars",
+    "archipelago_id": 314,
+    "game_id": 401,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Mars",
+    "archipelago_id": 315,
+    "game_id": 402,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gold Mars",
+    "archipelago_id": 316,
+    "game_id": 403,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Crest",
+    "archipelago_id": 317,
+    "game_id": 404,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aqua Crest",
+    "archipelago_id": 318,
+    "game_id": 405,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Crest",
+    "archipelago_id": 319,
+    "game_id": 406,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Gunner",
+    "archipelago_id": 320,
+    "game_id": 407,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Gunner",
+    "archipelago_id": 321,
+    "game_id": 408,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Gunner",
+    "archipelago_id": 322,
+    "game_id": 409,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Mask",
+    "archipelago_id": 323,
+    "game_id": 410,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Mask",
+    "archipelago_id": 324,
+    "game_id": 411,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Mask",
+    "archipelago_id": 325,
+    "game_id": 412,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White Bunny",
+    "archipelago_id": 326,
+    "game_id": 413,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Brown Bunny",
+    "archipelago_id": 327,
+    "game_id": 414,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Bunny",
+    "archipelago_id": 328,
+    "game_id": 415,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White Clown",
+    "archipelago_id": 329,
+    "game_id": 416,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Clown",
+    "archipelago_id": 330,
+    "game_id": 417,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gold Clown",
+    "archipelago_id": 331,
+    "game_id": 418,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "\u771f\u30b5\u30e0\u30e9\u30a4\u5236\u670d",
+    "archipelago_id": 332,
+    "game_id": 419,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Samurai Uniform",
+    "archipelago_id": 333,
+    "game_id": 420,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Black",
+    "archipelago_id": 334,
+    "game_id": 421,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Wood",
+    "archipelago_id": 335,
+    "game_id": 422,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Sand",
+    "archipelago_id": 336,
+    "game_id": 423,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Red",
+    "archipelago_id": 337,
+    "game_id": 424,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Gray",
+    "archipelago_id": 338,
+    "game_id": 425,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Blue",
+    "archipelago_id": 339,
+    "game_id": 426,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila White",
+    "archipelago_id": 340,
+    "game_id": 427,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Gold",
+    "archipelago_id": 341,
+    "game_id": 428,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Black",
+    "archipelago_id": 342,
+    "game_id": 429,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plain Knight",
+    "archipelago_id": 343,
+    "game_id": 431,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Knight",
+    "archipelago_id": 344,
+    "game_id": 432,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Knight",
+    "archipelago_id": 345,
+    "game_id": 433,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Duke",
+    "archipelago_id": 346,
+    "game_id": 434,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Duke",
+    "archipelago_id": 347,
+    "game_id": 435,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Duke",
+    "archipelago_id": 348,
+    "game_id": 436,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black King",
+    "archipelago_id": 349,
+    "game_id": 437,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White King",
+    "archipelago_id": 350,
+    "game_id": 438,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood King",
+    "archipelago_id": 351,
+    "game_id": 439,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Yasha",
+    "archipelago_id": 352,
+    "game_id": 441,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Mogura",
+    "archipelago_id": 353,
+    "game_id": 442,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Murasame",
+    "archipelago_id": 354,
+    "game_id": 443,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Tasogare",
+    "archipelago_id": 355,
+    "game_id": 444,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Yoi",
+    "archipelago_id": 356,
+    "game_id": 445,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Reimei",
+    "archipelago_id": 357,
+    "game_id": 446,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Kintoku",
+    "archipelago_id": 358,
+    "game_id": 447,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Mokutoku",
+    "archipelago_id": 359,
+    "game_id": 448,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Katoku",
+    "archipelago_id": 360,
+    "game_id": 449,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Sneak",
+    "archipelago_id": 361,
+    "game_id": 451,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Yellow Sneak",
+    "archipelago_id": 362,
+    "game_id": 452,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Sneak",
+    "archipelago_id": 363,
+    "game_id": 453,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent B",
+    "archipelago_id": 364,
+    "game_id": 454,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent Y",
+    "archipelago_id": 365,
+    "game_id": 455,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent G",
+    "archipelago_id": 366,
+    "game_id": 456,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dark Stealth",
+    "archipelago_id": 367,
+    "game_id": 457,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sky Stealth",
+    "archipelago_id": 368,
+    "game_id": 458,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Stealth",
+    "archipelago_id": 369,
+    "game_id": 459,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Blue",
+    "archipelago_id": 370,
+    "game_id": 461,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Pink",
+    "archipelago_id": 371,
+    "game_id": 462,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Black",
+    "archipelago_id": 372,
+    "game_id": 463,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Red",
+    "archipelago_id": 373,
+    "game_id": 471,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Blue",
+    "archipelago_id": 374,
+    "game_id": 472,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Brown",
+    "archipelago_id": 375,
+    "game_id": 473,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cream Pads",
+    "archipelago_id": 376,
+    "game_id": 474,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Magenta Pads",
+    "archipelago_id": 377,
+    "game_id": 475,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tricolor Pads",
+    "archipelago_id": 378,
+    "game_id": 476,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Rider",
+    "archipelago_id": 379,
+    "game_id": 481,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Rider",
+    "archipelago_id": 380,
+    "game_id": 482,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Rider",
+    "archipelago_id": 381,
+    "game_id": 483,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Green",
+    "archipelago_id": 382,
+    "game_id": 484,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Gray",
+    "archipelago_id": 383,
+    "game_id": 485,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Red",
+    "archipelago_id": 384,
+    "game_id": 486,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Cream",
+    "archipelago_id": 385,
+    "game_id": 491,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Olive",
+    "archipelago_id": 386,
+    "game_id": 492,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Purple",
+    "archipelago_id": 387,
+    "game_id": 493,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Olive Camouflage",
+    "archipelago_id": 388,
+    "game_id": 501,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sand Camouflage",
+    "archipelago_id": 389,
+    "game_id": 502,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gray Camouflage",
+    "archipelago_id": 390,
+    "game_id": 503,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Demonica Suit",
+    "archipelago_id": 391,
+    "game_id": 511,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Demonica",
+    "archipelago_id": 392,
+    "game_id": 512,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "R Scorpion",
+    "archipelago_id": 393,
+    "game_id": 516,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Genke Rindo",
+    "archipelago_id": 394,
+    "game_id": 517,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Celtic White",
+    "archipelago_id": 395,
+    "game_id": 518,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Nibelungen",
+    "archipelago_id": 396,
+    "game_id": 519,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Enma",
+    "archipelago_id": 397,
+    "game_id": 521,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Demon Sneak",
+    "archipelago_id": 398,
+    "game_id": 522,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fire Guard",
+    "archipelago_id": 399,
+    "game_id": 523,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "\u771f\u30b5\u30e0\u30e9\u30a4\u5236\u670d",
+    "archipelago_id": 400,
+    "game_id": 539,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Samurai Uniform",
+    "archipelago_id": 401,
+    "game_id": 540,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Black",
+    "archipelago_id": 402,
+    "game_id": 541,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Wood",
+    "archipelago_id": 403,
+    "game_id": 542,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Mikado Sand",
+    "archipelago_id": 404,
+    "game_id": 543,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Red",
+    "archipelago_id": 405,
+    "game_id": 544,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Gray",
+    "archipelago_id": 406,
+    "game_id": 545,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ahazuya Blue",
+    "archipelago_id": 407,
+    "game_id": 546,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila White",
+    "archipelago_id": 408,
+    "game_id": 547,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Gold",
+    "archipelago_id": 409,
+    "game_id": 548,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquila Black",
+    "archipelago_id": 410,
+    "game_id": 549,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plain Knight",
+    "archipelago_id": 411,
+    "game_id": 551,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Knight",
+    "archipelago_id": 412,
+    "game_id": 552,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Knight",
+    "archipelago_id": 413,
+    "game_id": 553,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Duke",
+    "archipelago_id": 414,
+    "game_id": 554,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Duke",
+    "archipelago_id": 415,
+    "game_id": 555,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Duke",
+    "archipelago_id": 416,
+    "game_id": 556,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black King",
+    "archipelago_id": 417,
+    "game_id": 557,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White King",
+    "archipelago_id": 418,
+    "game_id": 558,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood King",
+    "archipelago_id": 419,
+    "game_id": 559,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Yasha",
+    "archipelago_id": 420,
+    "game_id": 561,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Mogura",
+    "archipelago_id": 421,
+    "game_id": 562,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Soldier Murasame",
+    "archipelago_id": 422,
+    "game_id": 563,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Tasogare",
+    "archipelago_id": 423,
+    "game_id": 564,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Yoi",
+    "archipelago_id": 424,
+    "game_id": 565,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bushi Reimei",
+    "archipelago_id": 425,
+    "game_id": 566,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Kintoku",
+    "archipelago_id": 426,
+    "game_id": 567,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Mokutoku",
+    "archipelago_id": 427,
+    "game_id": 568,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Daimyo Katoku",
+    "archipelago_id": 428,
+    "game_id": 569,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Green Sneak",
+    "archipelago_id": 429,
+    "game_id": 571,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Yellow Sneak",
+    "archipelago_id": 430,
+    "game_id": 572,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Sneak",
+    "archipelago_id": 431,
+    "game_id": 573,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent B",
+    "archipelago_id": 432,
+    "game_id": 574,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent Y",
+    "archipelago_id": 433,
+    "game_id": 575,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Agent G",
+    "archipelago_id": 434,
+    "game_id": 576,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dark Stealth",
+    "archipelago_id": 435,
+    "game_id": 577,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sky Stealth",
+    "archipelago_id": 436,
+    "game_id": 578,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Stealth",
+    "archipelago_id": 437,
+    "game_id": 579,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Blue",
+    "archipelago_id": 438,
+    "game_id": 581,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Pink",
+    "archipelago_id": 439,
+    "game_id": 582,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Casual Black",
+    "archipelago_id": 440,
+    "game_id": 583,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Red",
+    "archipelago_id": 441,
+    "game_id": 591,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Blue",
+    "archipelago_id": 442,
+    "game_id": 592,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Catcher's Brown",
+    "archipelago_id": 443,
+    "game_id": 593,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cream Pads",
+    "archipelago_id": 444,
+    "game_id": 594,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Magenta Pads",
+    "archipelago_id": 445,
+    "game_id": 595,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tricolor Pads",
+    "archipelago_id": 446,
+    "game_id": 596,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Rider",
+    "archipelago_id": 447,
+    "game_id": 601,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blood Rider",
+    "archipelago_id": 448,
+    "game_id": 602,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Rider",
+    "archipelago_id": 449,
+    "game_id": 603,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Green",
+    "archipelago_id": 450,
+    "game_id": 604,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Gray",
+    "archipelago_id": 451,
+    "game_id": 605,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Red",
+    "archipelago_id": 452,
+    "game_id": 606,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Cream",
+    "archipelago_id": 453,
+    "game_id": 611,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Olive",
+    "archipelago_id": 454,
+    "game_id": 612,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Survival Purple",
+    "archipelago_id": 455,
+    "game_id": 613,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Olive Camouflage",
+    "archipelago_id": 456,
+    "game_id": 621,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sand Camouflage",
+    "archipelago_id": 457,
+    "game_id": 622,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gray Camouflage",
+    "archipelago_id": 458,
+    "game_id": 623,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Demonica Suit",
+    "archipelago_id": 459,
+    "game_id": 631,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Demonica",
+    "archipelago_id": 460,
+    "game_id": 632,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "R Scorpion",
+    "archipelago_id": 461,
+    "game_id": 636,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Genke Rindo",
+    "archipelago_id": 462,
+    "game_id": 637,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Celtic White",
+    "archipelago_id": 463,
+    "game_id": 638,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Nibelungen",
+    "archipelago_id": 464,
+    "game_id": 639,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "\u771f\u30b5\u30e0\u30e9\u30a4\u5236\u670d",
+    "archipelago_id": 465,
+    "game_id": 659,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Samurai Uniform",
+    "archipelago_id": 466,
+    "game_id": 660,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Samurai Earring",
+    "archipelago_id": 467,
+    "game_id": 661,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Red Earring",
+    "archipelago_id": 468,
+    "game_id": 667,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Blue Earring",
+    "archipelago_id": 469,
+    "game_id": 668,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Marshal Earring",
+    "archipelago_id": 470,
+    "game_id": 672,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Warlord Earring",
+    "archipelago_id": 471,
+    "game_id": 673,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "White Earring",
+    "archipelago_id": 472,
+    "game_id": 678,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tactician Earring",
+    "archipelago_id": 473,
+    "game_id": 682,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Black Earring",
+    "archipelago_id": 474,
+    "game_id": 683,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Demon Earring",
+    "archipelago_id": 475,
+    "game_id": 687,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Company Earring",
+    "archipelago_id": 476,
+    "game_id": 688,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fire Earring",
+    "archipelago_id": 477,
+    "game_id": 692,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Ice Earring",
+    "archipelago_id": 478,
+    "game_id": 693,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Volt Earring",
+    "archipelago_id": 479,
+    "game_id": 694,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Wind Earring",
+    "archipelago_id": 480,
+    "game_id": 695,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Power Earring",
+    "archipelago_id": 481,
+    "game_id": 697,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Shot Earring",
+    "archipelago_id": 482,
+    "game_id": 698,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Battle Earring",
+    "archipelago_id": 483,
+    "game_id": 702,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Magic Earring",
+    "archipelago_id": 484,
+    "game_id": 703,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Critical Earring",
+    "archipelago_id": 485,
+    "game_id": 707,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fury Earring",
+    "archipelago_id": 486,
+    "game_id": 708,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Flaming Spirit",
+    "archipelago_id": 487,
+    "game_id": 712,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Icy Spirit",
+    "archipelago_id": 488,
+    "game_id": 713,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Heated Soul",
+    "archipelago_id": 489,
+    "game_id": 717,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Chilled Soul",
+    "archipelago_id": 490,
+    "game_id": 718,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Volt Soul",
+    "archipelago_id": 491,
+    "game_id": 719,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Storm Soul",
+    "archipelago_id": 492,
+    "game_id": 720,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Dark Soul",
+    "archipelago_id": 493,
+    "game_id": 722,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Light Soul",
+    "archipelago_id": 494,
+    "game_id": 723,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sturdy Earring",
+    "archipelago_id": 495,
+    "game_id": 727,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sharp Earring",
+    "archipelago_id": 496,
+    "game_id": 728,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hero Earring",
+    "archipelago_id": 497,
+    "game_id": 729,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Capote Earring",
+    "archipelago_id": 498,
+    "game_id": 756,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Refreshing Tune",
+    "archipelago_id": 499,
+    "game_id": 757,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Fantasista",
+    "archipelago_id": 500,
+    "game_id": 758,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Silver Necklace",
+    "archipelago_id": 501,
+    "game_id": 761,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sleepless Ring",
+    "archipelago_id": 502,
+    "game_id": 762,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Glass Magatama",
+    "archipelago_id": 503,
+    "game_id": 763,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hunter Crown",
+    "archipelago_id": 504,
+    "game_id": 764,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Antidote Ring",
+    "archipelago_id": 505,
+    "game_id": 765,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "FMJ Rounds",
+    "archipelago_id": 506,
+    "game_id": 781,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sleep Rounds",
+    "archipelago_id": 507,
+    "game_id": 787,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Toxic Rounds",
+    "archipelago_id": 508,
+    "game_id": 788,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Flaemis Rounds",
+    "archipelago_id": 509,
+    "game_id": 789,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aquans Rounds",
+    "archipelago_id": 510,
+    "game_id": 790,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Erthys Rounds",
+    "archipelago_id": 511,
+    "game_id": 791,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Aeros Rounds",
+    "archipelago_id": 512,
+    "game_id": 792,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Steel Rounds",
+    "archipelago_id": 513,
+    "game_id": 793,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Virus Rounds",
+    "archipelago_id": 514,
+    "game_id": 794,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Salamander Rounds",
+    "archipelago_id": 515,
+    "game_id": 795,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Undine Rounds",
+    "archipelago_id": 516,
+    "game_id": 796,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gnome Rounds",
+    "archipelago_id": 517,
+    "game_id": 797,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Sylph Rounds",
+    "archipelago_id": 518,
+    "game_id": 798,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Panic Rounds",
+    "archipelago_id": 519,
+    "game_id": 799,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Bind Rounds",
+    "archipelago_id": 520,
+    "game_id": 800,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Flame Rounds",
+    "archipelago_id": 521,
+    "game_id": 801,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Frost Rounds",
+    "archipelago_id": 522,
+    "game_id": 802,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Volt Rounds",
+    "archipelago_id": 523,
+    "game_id": 803,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Storm Rounds",
+    "archipelago_id": 524,
+    "game_id": 804,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hollow-Points",
+    "archipelago_id": 525,
+    "game_id": 805,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Skull Rounds",
+    "archipelago_id": 526,
+    "game_id": 806,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Inferno Rounds",
+    "archipelago_id": 527,
+    "game_id": 807,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Cocytus Rounds",
+    "archipelago_id": 528,
+    "game_id": 808,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Enelysios Rounds",
+    "archipelago_id": 529,
+    "game_id": 809,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Zephyr Rounds",
+    "archipelago_id": 530,
+    "game_id": 810,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Venom Rounds",
+    "archipelago_id": 531,
+    "game_id": 811,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Prometheus Rounds",
+    "archipelago_id": 532,
+    "game_id": 812,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Suzaku Shot",
+    "archipelago_id": 533,
+    "game_id": 813,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Genbu Bomb",
+    "archipelago_id": 534,
+    "game_id": 814,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Baihu Rounds",
+    "archipelago_id": 535,
+    "game_id": 815,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Long Rounds",
+    "archipelago_id": 536,
+    "game_id": 816,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "AP Rounds",
+    "archipelago_id": 537,
+    "game_id": 817,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Darkness Rounds",
+    "archipelago_id": 538,
+    "game_id": 818,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hephaestus Rounds",
+    "archipelago_id": 539,
+    "game_id": 819,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Poseidon Rounds",
+    "archipelago_id": 540,
+    "game_id": 820,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Zeus Rounds",
+    "archipelago_id": 541,
+    "game_id": 821,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Hermes Rounds",
+    "archipelago_id": 542,
+    "game_id": 822,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Gouma Rounds",
+    "archipelago_id": 543,
+    "game_id": 823,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Shinno Rounds",
+    "archipelago_id": 544,
+    "game_id": 824,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Plutonium Rounds",
+    "archipelago_id": 545,
+    "game_id": 826,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Pumpkin Bombs",
+    "archipelago_id": 546,
+    "game_id": 827,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Tenma Rounds",
+    "archipelago_id": 547,
+    "game_id": 829,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "Almighty Rounds",
+    "archipelago_id": 548,
+    "game_id": 830,
+    "type": "GEAR",
+    "classification": "useful"
+  },
+  {
+    "name": "1-Star Gadget",
+    "archipelago_id": 549,
+    "game_id": 951,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Gadget",
+    "archipelago_id": 550,
+    "game_id": 952,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Gadget",
+    "archipelago_id": 551,
+    "game_id": 953,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Gadget",
+    "archipelago_id": 552,
+    "game_id": 954,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Gadget",
+    "archipelago_id": 553,
+    "game_id": 955,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Leisure",
+    "archipelago_id": 554,
+    "game_id": 971,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Leisure",
+    "archipelago_id": 555,
+    "game_id": 972,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Leisure",
+    "archipelago_id": 556,
+    "game_id": 973,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Leisure",
+    "archipelago_id": 557,
+    "game_id": 974,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Leisure",
+    "archipelago_id": 558,
+    "game_id": 975,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Food",
+    "archipelago_id": 559,
+    "game_id": 991,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Food",
+    "archipelago_id": 560,
+    "game_id": 992,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Food",
+    "archipelago_id": 561,
+    "game_id": 993,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Food",
+    "archipelago_id": 562,
+    "game_id": 994,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Food",
+    "archipelago_id": 563,
+    "game_id": 995,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Furniture",
+    "archipelago_id": 564,
+    "game_id": 1011,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Furniture",
+    "archipelago_id": 565,
+    "game_id": 1012,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Furniture",
+    "archipelago_id": 566,
+    "game_id": 1013,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Furniture",
+    "archipelago_id": 567,
+    "game_id": 1014,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Furniture",
+    "archipelago_id": 568,
+    "game_id": 1015,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Cosmetics",
+    "archipelago_id": 569,
+    "game_id": 1031,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Cosmetics",
+    "archipelago_id": 570,
+    "game_id": 1032,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Cosmetics",
+    "archipelago_id": 571,
+    "game_id": 1033,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Cosmetics",
+    "archipelago_id": 572,
+    "game_id": 1034,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Cosmetics",
+    "archipelago_id": 573,
+    "game_id": 1035,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Commodity",
+    "archipelago_id": 574,
+    "game_id": 1051,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Commodity",
+    "archipelago_id": 575,
+    "game_id": 1052,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Commodity",
+    "archipelago_id": 576,
+    "game_id": 1053,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Commodity",
+    "archipelago_id": 577,
+    "game_id": 1054,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Commodity",
+    "archipelago_id": 578,
+    "game_id": 1055,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Jewelry",
+    "archipelago_id": 579,
+    "game_id": 1071,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Jewelry",
+    "archipelago_id": 580,
+    "game_id": 1072,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Jewelry",
+    "archipelago_id": 581,
+    "game_id": 1073,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Jewelry",
+    "archipelago_id": 582,
+    "game_id": 1074,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Jewelry",
+    "archipelago_id": 583,
+    "game_id": 1075,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Document",
+    "archipelago_id": 584,
+    "game_id": 1091,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Document",
+    "archipelago_id": 585,
+    "game_id": 1092,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Document",
+    "archipelago_id": 586,
+    "game_id": 1093,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Document",
+    "archipelago_id": 587,
+    "game_id": 1094,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Document",
+    "archipelago_id": 588,
+    "game_id": 1095,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Medicine",
+    "archipelago_id": 589,
+    "game_id": 1111,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Medicine",
+    "archipelago_id": 590,
+    "game_id": 1112,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Medicine",
+    "archipelago_id": 591,
+    "game_id": 1113,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Medicine",
+    "archipelago_id": 592,
+    "game_id": 1114,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Medicine",
+    "archipelago_id": 593,
+    "game_id": 1115,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "1-Star Clothing",
+    "archipelago_id": 594,
+    "game_id": 1131,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "2-Star Clothing",
+    "archipelago_id": 595,
+    "game_id": 1132,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "3-Star Clothing",
+    "archipelago_id": 596,
+    "game_id": 1133,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "4-Star Clothing",
+    "archipelago_id": 597,
+    "game_id": 1134,
+    "type": "STARS",
+    "classification": "filler"
+  },
+  {
+    "name": "5-Star Clothing",
+    "archipelago_id": 598,
+    "game_id": 1135,
+    "type": "STARS",
+    "classification": "filler"
+  }
+]
