@@ -93,22 +93,22 @@ class WeaponType(IntEnum):
 class Gear(Item):
     _NAME_LENGTH = 80
 
-    _STRUCT_FORMAT = f"<{_NAME_LENGTH}sH2B2H9B5b3HB3sHH36s2H2I2H"
+    _STRUCT_FORMAT = f"<{_NAME_LENGTH}sH2B2H9B5b3H4B2H36s2H2I2H"
     _STRUCT_LENGTH = struct.calcsize(_STRUCT_FORMAT)
 
     gear_type: GearType
     purchase_price: int
     sell_price: int
-    unknown_1: bytes
-    unknown_2: bytes
-    unknown_3: bytes
-    unknown_4: bytes
-    unknown_5: bytes
-    unknown_6: bytes
-    unknown_7: bytes
-    unknown_8: bytes
-    unknown_9: bytes
-    unknown_10: bytes
+    unknown_1: int
+    unknown_2: int
+    unknown_3: int
+    unknown_4: int
+    unknown_5: int
+    unknown_6: int
+    unknown_7: list[int]
+    unknown_8: int
+    unknown_9: int
+    unknown_10: int
 
     @classmethod
     def from_bytes(cls, value_bytes: bytes) -> Gear:
@@ -119,11 +119,13 @@ class Gear(Item):
             hit_count_byte, target_type_int, hit_chance, status_effect_int, status_chance,
             unknown_2, unknown_3, unknown_4, unknown_5,
             strength, dexterity, magic, agility, luck, hp, mp, skill_id,
-            unknown_6, unknown_7,
+            unknown_6, *unknown_7,
             model_prefix_number, model_number,
             resistances_bytes,
             unknown_8, unknown_9, purchase_price, sell_price, weapon_type_value, unknown_10
         ) = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
+
+        original_name = name_bytes.decode(encoding="shift-jis")
         name = extract_string_from_bytes(name_bytes)
 
         gear_type = GearType(gear_type_int)
@@ -139,19 +141,28 @@ class Gear(Item):
         weapon_type = WeaponType(weapon_type_value)
 
         if gear_type in [GearType.MELEE, GearType.GUN, GearType.BULLETS]:
-            return Weapon(item_id, name, name_bytes, gear_type, purchase_price, sell_price,
+            return Weapon(item_id, name, original_name, gear_type, purchase_price, sell_price,
                           unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8,
                           unknown_9, unknown_10,
                           damage, weapon_element, min_hits, max_hits, target_type, hit_chance, status_effect,
                           status_chance,
                           weapon_type)
         else:
-            return Armor(item_id, name, name_bytes, gear_type, purchase_price, sell_price,
+            return Armor(item_id, name, original_name, gear_type, purchase_price, sell_price,
                          unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8,
                          unknown_9, unknown_10,
                          strength, dexterity, magic, agility, luck, hp, mp, skill_id,
                          model_prefix_number, model_number,
                          resistances)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Gear:
+        gear_type = data["gear_type"]
+
+        if gear_type in [GearType.MELEE, GearType.GUN, GearType.BULLETS]:
+            return Weapon.from_dict(data)
+        else:
+            return Armor.from_dict(data)
 
     def to_bytes(self) -> bytes:
         pass
@@ -181,7 +192,7 @@ class Weapon(Gear):
             hit_count_byte, self.target_type.value, self.hit_chance, self.status_effect.value, self.status_chance,
             self.unknown_2, self.unknown_3, self.unknown_4, self.unknown_5,
             0, 0, 0, 0, 0, 0, 0, 0,
-            self.unknown_6, self.unknown_7,
+            self.unknown_6, *self.unknown_7,
             0, 0, resistance_bytes,
             self.unknown_8, self.unknown_9, self.purchase_price, self.sell_price, self.weapon_type.value,
             self.unknown_10
@@ -203,6 +214,43 @@ class Weapon(Gear):
         enum_value = weapon_element_value // 16
 
         return Element(enum_value)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Weapon:
+        item_id = data["item_id"]
+        name = data["name"]
+        original_name = data["original_name"]
+
+        gear_type = GearType(data["gear_type"])
+        purchase_price = data["purchase_price"]
+        sell_price = data["sell_price"]
+
+        unknown_1 = data["unknown_1"]
+        unknown_2 = data["unknown_2"]
+        unknown_3 = data["unknown_3"]
+        unknown_4 = data["unknown_4"]
+        unknown_5 = data["unknown_5"]
+        unknown_6 = data["unknown_6"]
+        unknown_7 = data["unknown_7"]
+        unknown_8 = data["unknown_8"]
+        unknown_9 = data["unknown_9"]
+        unknown_10 = data["unknown_10"]
+
+        damage = data["damage"]
+        element = Element(data["element"])
+        min_hits = data["min_hits"]
+        max_hits = data["max_hits"]
+        target_type = TargetType(data["target_type"])
+        hit_chance = data["hit_chance"]
+        status_effect = StatusEffect(data["status_effect"])
+        status_chance = data["status_chance"]
+        weapon_type = WeaponType(data["weapon_type"])
+
+        return Weapon(item_id, name, original_name, gear_type, purchase_price, sell_price,
+                      unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6,
+                      unknown_7, unknown_8, unknown_9, unknown_10,
+                      damage, element, min_hits, max_hits, target_type,
+                      hit_chance, status_effect, status_chance, weapon_type)
 
 
 @dataclass
@@ -229,7 +277,7 @@ class Armor(Gear):
             0, 0, 0, 0, 0,
             self.unknown_2, self.unknown_3, self.unknown_4, self.unknown_5,
             self.strength, self.dexterity, self.magic, self.agility, self.luck, self.hp, self.mp, self.skill_id,
-            self.unknown_6, self.unknown_7,
+            self.unknown_6, *self.unknown_7,
             self.model_prefix_number, self.model_number,
             resistances_bytes,
             self.unknown_8, self.unknown_9, self.purchase_price, self.sell_price, 0,
@@ -272,6 +320,47 @@ class Armor(Gear):
 
         return [resistance for resistance in resistances if resistance.resistance_level != ResistanceLevel.NONE]
 
+    @classmethod
+    def from_dict(cls, data: dict) -> Armor:
+        item_id = data["item_id"]
+        name = data["name"]
+        original_name = data["original_name"]
+
+        gear_type = GearType(data["gear_type"])
+        purchase_price = data["purchase_price"]
+        sell_price = data["sell_price"]
+
+        unknown_1 = data["unknown_1"]
+        unknown_2 = data["unknown_2"]
+        unknown_3 = data["unknown_3"]
+        unknown_4 = data["unknown_4"]
+        unknown_5 = data["unknown_5"]
+        unknown_6 = data["unknown_6"]
+        unknown_7 = data["unknown_7"]
+        unknown_8 = data["unknown_8"]
+        unknown_9 = data["unknown_9"]
+        unknown_10 = data["unknown_10"]
+
+        strength = data["strength"]
+        dexterity = data["dexterity"]
+        magic = data["magic"]
+        agility = data["agility"]
+        luck = data["luck"]
+
+        hp = data["hp"]
+        mp = data["mp"]
+        skill_id = data["skill_id"]
+        model_prefix_number = data["model_prefix_number"]
+        model_number = data["model_number"]
+
+        resistances = [Resistance.from_dict(resistance) for resistance in data["resistances"]]
+
+        return Armor(item_id, name, original_name, gear_type, purchase_price, sell_price,
+                     unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6,
+                     unknown_7, unknown_8, unknown_9, unknown_10,
+                     strength, dexterity, magic, agility, luck,
+                     hp, mp, skill_id, model_prefix_number, model_number, resistances)
+
 
 @dataclass
 class Resistance:
@@ -290,3 +379,12 @@ class Resistance:
 
     def to_bytes(self) -> bytes:
         return struct.pack(self._STRUCT_FORMAT, self.modifier, self.resistance_value)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Resistance:
+        element = Element(data["element"])
+        resistance_level = ResistanceLevel(data["resistance_level"])
+        modifier = data["modifier"]
+        resistance_value = data["resistance_value"]
+
+        return Resistance(element, resistance_level, modifier, resistance_value)

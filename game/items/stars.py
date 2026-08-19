@@ -25,17 +25,20 @@ class RelicDrop:
     def to_bytes(self) -> bytes:
         return struct.pack(self._STRUCT_FORMAT, self.item_id, self.drop_weight)
 
+    @classmethod
+    def from_dict(cls, data: dict) -> RelicDrop:
+        return RelicDrop(**data)
 
 @dataclass
 class StarItem(Item):
     _NAME_LENGTH = 32
 
-    _STRUCT_FORMAT = f"<{_NAME_LENGTH}s2H4s20s"
+    _STRUCT_FORMAT = f"<{_NAME_LENGTH}s2HI20s"
     _STRUCT_LENGTH = struct.calcsize(_STRUCT_FORMAT)
 
     items: list[RelicDrop]
-    unknown_1: bytes
-    unknown_2: bytes
+    unknown_1: int
+    unknown_2: int
 
     @classmethod
     def from_bytes(cls, value_bytes: bytes) -> StarItem:
@@ -43,10 +46,11 @@ class StarItem(Item):
 
         name_bytes, item_id, unknown_1, unknown_2, items_bytes = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
+        original_name = name_bytes.decode(encoding="shift-jis")
         name = extract_string_from_bytes(name_bytes)
         items = cls.parse_items_bytes(items_bytes)
 
-        return StarItem(item_id, name, name_bytes, items, unknown_1, unknown_2)
+        return StarItem(item_id, name, original_name, items, unknown_1, unknown_2)
 
     def to_bytes(self) -> bytes:
         name_bytes = self.get_name_bytes(self._NAME_LENGTH)
@@ -73,3 +77,15 @@ class StarItem(Item):
         item_bytes = [item.to_bytes() for item in items]
 
         return b"".join(item_bytes)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> StarItem:
+        item_id = data["item_id"]
+        name = data["name"]
+        original_name = data["original_name"]
+
+        relic_drops = [RelicDrop.from_dict(item) for item in data["items"]]
+        unknown_1 = data["unknown_1"]
+        unknown_2 = data["unknown_2"]
+
+        return StarItem(item_id, name, original_name, relic_drops, unknown_1, unknown_2)

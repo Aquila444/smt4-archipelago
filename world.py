@@ -47,8 +47,8 @@ class SMT4World(World):
 
     def generate_output(self, output_directory: str) -> None:
         locations_to_items = {
-            location.name: location.item.name
-            for location in self.get_locations()
+            location.name: location.item.name if location.item.player == self.player
+            else "AP Item" for location in self.get_locations()
         }
 
         seed = str(self.multiworld.seed)

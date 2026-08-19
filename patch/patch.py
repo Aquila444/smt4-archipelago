@@ -8,6 +8,9 @@ from .. import items
 from .. import locations
 from .. import smt4_patch
 from ..game.treasure import treasure
+from ..game.items import item_table
+
+ap_item_id = 1951
 
 
 def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo) -> Path:
@@ -34,7 +37,7 @@ def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
     checks_map = patch_info.check_map
 
     ap_locations_to_game_id = {location.name: location.game_id for location in locations.locations}
-    ap_items_to_game_id = {item.name: item.game_id for item in items.items}
+    ap_items_to_game_id = {item.name: item.game_id for item in items.items} | {"AP Item": ap_item_id}
 
     game_locations_to_items = {
         ap_locations_to_game_id[location_name]: ap_items_to_game_id[item_name]
@@ -55,6 +58,9 @@ def map_loot_entry(location_id: int, item_id: int) -> treasure.LootLocation:
 
     return treasure.LootLocation(location_id, [drop])
 
+
+def patch_items():
+    table = item_table.item_table
 
 if __name__ == '__main__':
     patch()

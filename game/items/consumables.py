@@ -64,10 +64,10 @@ class Consumable(Item):
     sort_order: int
     target: ConsumableTarget
     effect: ConsumableEffect
-    unknown_1: bytes
-    unknown_2: bytes
-    unknown_3: bytes
-    unknown_4: bytes
+    unknown_1: int
+    unknown_2: int
+    unknown_3: int
+    unknown_4: int
 
     @classmethod
     def from_bytes(cls, value_bytes: bytes) -> Consumable:
@@ -80,13 +80,14 @@ class Consumable(Item):
             stack_size, xp_gain_percentage, app_point_gain, purchase_price, sell_price
         ) = struct.unpack(Consumable._STRUCT_FORMAT, struct_bytes)
 
+        original_name = name_bytes.decode(encoding="shift-jis")
         name = extract_string_from_bytes(name_bytes)
         category = extract_string_from_bytes(category_bytes)
 
         item_icon = ItemIcon(item_icon_value)
         target, effect = cls.parse_effect_byte(effect_byte)
 
-        return Consumable(item_id, name, name_bytes, category,
+        return Consumable(item_id, name, original_name, category,
                           flat_hp_recovery, percentage_hp_recovery, flat_mp_recovery, percentage_mp_recovery,
                           stack_size, purchase_price, sell_price, skill_id,
                           xp_gain_percentage, app_point_gain, item_icon, sort_order, target, effect,
@@ -124,3 +125,34 @@ class Consumable(Item):
         effect_value = self.effect.value
 
         return effect_value + 128 * target_bit
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Consumable:
+        item_id = data["item_id"]
+        name = data["name"]
+        original_name = data["original_name"]
+
+        category = data["category"]
+        flat_hp_recovery = data["flat_hp_recovery"]
+        percentage_hp_recovery = data["percentage_hp_recovery"]
+        flat_mp_recovery = data["flat_mp_recovery"]
+        percentage_mp_recovery = data["percentage_mp_recovery"]
+        stack_size = data["stack_size"]
+        purchase_price = data["purchase_price"]
+        sell_price = data["sell_price"]
+        skill_id = data["skill_id"]
+        xp_gain_percentage = data["xp_gain_percentage"]
+        app_point_gain = data["app_point_gain"]
+        item_icon = ItemIcon(data["item_icon"])
+        sort_order = data["sort_order"]
+        target = ConsumableTarget(data["target"])
+        effect = ConsumableEffect(data["effect"])
+        unknown_1 = data["unknown_1"]
+        unknown_2 = data["unknown_2"]
+        unknown_3 = data["unknown_3"]
+        unknown_4 = data["unknown_4"]
+
+        return Consumable(item_id, name, original_name, category,
+                          flat_hp_recovery, percentage_hp_recovery, flat_mp_recovery, percentage_mp_recovery,
+                          stack_size, purchase_price, sell_price, skill_id, xp_gain_percentage, app_point_gain,
+                          item_icon, sort_order, target, effect, unknown_1, unknown_2, unknown_3, unknown_4)

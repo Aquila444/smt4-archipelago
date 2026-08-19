@@ -10,7 +10,7 @@ from ...utils.utils import create_name_entry
 class Item(ABC):
     item_id: int
     name: str
-    _name_bytes: bytes | None
+    original_name: str | None
 
     @classmethod
     @abstractmethod
@@ -21,10 +21,13 @@ class Item(ABC):
     def to_bytes(self) -> bytes:
         pass
 
-    def get_name_bytes(self, length: int) -> bytes:
-        encoded_name = self.name.encode(encoding="shift_jis")
+    @classmethod
+    @abstractmethod
+    def from_dict(cls, data: dict) -> Item:
+        pass
 
-        if self._name_bytes is not None and self._name_bytes.startswith(encoded_name):
-            return self._name_bytes
+    def get_name_bytes(self, length: int) -> bytes:
+        if self.original_name is not None and self.original_name.startswith(self.name):
+            return self.original_name.encode(encoding="shift_jis")
         else:
             return create_name_entry(self.name, length)
