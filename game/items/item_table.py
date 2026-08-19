@@ -37,6 +37,7 @@ class ItemTable:
     def __init__(self, item_categories: list[ItemCategory], tbb_table: Table):
         self.item_categories = item_categories
         self.tbb_table = tbb_table.to_empty_table()
+        self._id_to_item = {item.item_id: item for category in self.item_categories for item in category.items}
 
     @staticmethod
     def load_from_rom() -> ItemTable:
@@ -88,6 +89,9 @@ class ItemTable:
         with open(DATA_FILE_LOCATION, "wb+") as json_file:
             encoded_json = orjson.dumps(self)
             json_file.write(encoded_json)
+
+    def get_item_by_id(self, item_id: int) -> Item:
+        return self._id_to_item[item_id]
 
 
 @dataclass

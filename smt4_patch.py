@@ -6,7 +6,7 @@ from pathlib import Path
 import orjson
 
 from settings import get_settings
-from worlds.Files import APProcedurePatch, AutoPatchExtensionRegister
+from worlds.Files import APProcedurePatch
 from .config import GAME_NAME
 from .patch.patch import patch
 
@@ -32,41 +32,14 @@ class SMT4PatchInfo:
 
 
 class SMT4Patch(APProcedurePatch):
+
     game = GAME_NAME
-    hash = None
     patch_file_ending = ".apsmt4"
     result_file_ending = ".3ds"
 
-    procedure = [
-        ("patch_smt4", [])
-    ]
+    def patch(self, target: str) -> None:
+        rom_file_path = get_settings().smt4_settings.rom_file
+        patch_data = self.get_file(patch_data_file_name)
+        patch_info = SMT4PatchInfo.from_json(patch_data)
 
-    @classmethod
-    def get_source_data(cls) -> bytes:
-        cls.rom_file = get_settings().smt4_settings.rom_file
-
-        return b""
-
-
-class Smt4PatchExtension(metaclass=AutoPatchExtensionRegister):
-    game = GAME_NAME
-
-    @staticmethod
-    def patch_smt4(caller: SMT4Patch, rom: bytes) -> bytes:
-        try:
-            return patch_smt4_inner(caller)
-        except Exception as e:
-            from tkinter.messagebox import showerror
-            showerror(message=str(e))
-            raise e
-
-
-def patch_smt4_inner(caller: SMT4Patch) -> bytes:
-    rom_file_path = Path(caller.rom_file)
-    patch_data = caller.get_file(patch_data_file_name)
-    patch_info = SMT4PatchInfo.from_json(patch_data)
-
-    patched_rom = patch(rom_file_path, patch_info)
-
-    with open(patched_rom, "rb") as output_file:
-        return output_file.read()
+        patched_rom = patch(rom_file_path, patch_info, target)
