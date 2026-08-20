@@ -1,15 +1,11 @@
 import re
 
-import jsonpickle
-
 from ..config import DATA_DIR, INPUT_ROMFS_DIR
 from ..game.demons.demons import DemonTable
 from ..game.items.item_table import ItemTable
 from ..game.quests.quests import QuestTable
 from ..game.treasure.treasure import LootTable
 from ..tbb.tbb import Table
-
-jsonpickle.set_encoder_options('json', indent=2)
 
 category_regex = re.compile(r"^root->([^->]+)->")
 address_regex = re.compile(r".*?(0x[0-9a-f]+)")

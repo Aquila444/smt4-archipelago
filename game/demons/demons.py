@@ -2,15 +2,16 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-import jsonpickle
+import orjson
 
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
 
 TBB_FILE_PATH = "battle/NKMSortIndex.tbb"
 ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
-DATA_FILE_LOCATION = DATA_DIR / "demons.json"
+DATA_FILE_NAME = "demons.json"
+DATA_FILE_LOCATION = DATA_DIR / DATA_FILE_NAME
 
 
 @dataclass
@@ -36,10 +37,14 @@ class Demon:
 
         return Demon(index, name)
 
+    @classmethod
+    def from_dict(cls, data: dict) -> Demon:
+        return Demon(**data)
+
 
 @dataclass
 class DemonTable:
-    demons: dict[int | str, Demon]
+    demons: dict[str, Demon]
 
     @classmethod
     def load_from_rom(cls) -> DemonTable:
@@ -49,33 +54,26 @@ class DemonTable:
         demon_data = table.tables[1].get_data()
 
         races = {index: DemonRace.from_bytes(race_bytes, index) for index, race_bytes in enumerate(races_data)}
-        demons = {index: Demon.from_bytes(entry, index) for index, entry in enumerate(demon_data)}
+        demons = {str(index): Demon.from_bytes(entry, index) for index, entry in enumerate(demon_data)}
 
         return DemonTable(demons)
 
     @classmethod
-    def load_from_json(cls) -> DemonTable | None:
-        try:
-            with open(DATA_FILE_LOCATION, encoding="shift_jis") as json_file:
-                json_string = json_file.read()
+    def load_from_json(cls) -> DemonTable:
+        data = load_data_file_as_json(DATA_FILE_NAME, encoding="shift_jis")
 
-                return jsonpickle.decode(json_string)
-        except FileNotFoundError:
-            return None
+        demons = data["demons"]
+        mapped_demons = {key: Demon.from_dict(value) for key, value in demons.items()}
+
+        return DemonTable(mapped_demons)
 
     def export(self):
-        with open(DATA_FILE_LOCATION, "w+", encoding="shift_jis") as json_file:
-            encoded_json = jsonpickle.encode(self, json_file)
+        with open(DATA_FILE_LOCATION, "wb+") as json_file:
+            encoded_json = orjson.dumps(self)
             json_file.write(encoded_json)
 
-    def get_demon(self, demon_id: int) -> Demon | None:
-        demon = self.demons.get(demon_id)
-
-        if demon is None:
-            str_index = str(demon_id)
-            return self.demons.get(str_index)
-        else:
-            return demon
+    def get_demon(self, demon_id: int) -> Demon:
+        return self.demons[str(demon_id)]
 
 
 try:
