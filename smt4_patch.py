@@ -32,16 +32,19 @@ class SMT4PatchInfo:
 
 
 class SMT4Patch(APProcedurePatch):
-
     game = GAME_NAME
     hash = None
     patch_file_ending = ".apsmt4"
     result_file_ending = ".3ds"
 
     def patch(self, target: str) -> None:
+        target_path = Path(target)
+        if target_path.exists():
+            return
+
         rom_file_path_str = get_settings().smt4.rom_file.resolve()
         rom_file_path = Path(rom_file_path_str)
         patch_data = self.get_file(patch_data_file_name)
         patch_info = SMT4PatchInfo.from_json(patch_data)
 
-        patch(rom_file_path, patch_info, target)
+        patch(rom_file_path, patch_info, target_path)

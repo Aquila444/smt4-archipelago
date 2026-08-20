@@ -13,11 +13,11 @@ from ..game.treasure import treasure
 ap_item_id = 1951
 
 
-def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str):
-    return asyncio.run(patch_inner(rom_file_path, patch_info, target_file_name))
+def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_path: Path):
+    return asyncio.run(patch_inner(rom_file_path, patch_info, target_path))
 
 
-async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str):
+async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_path: Path):
     print("Unpacking rom.")
     await unpack_rom(rom_file_path)
 
@@ -31,7 +31,7 @@ async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo,
     print("Finished applying patches.")
 
     print("Rebuilding rom.")
-    await build_rom(rom_file_path, target_file_name)
+    await build_rom(rom_file_path, target_path)
 
 
 def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):

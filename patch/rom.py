@@ -50,7 +50,7 @@ async def unpack_rom(rom_file_path: Path) -> None:
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
-async def build_rom(rom_file_path: Path, target_file_name: str):
+async def build_rom(rom_file_path: Path, target_path: Path):
     rom_dir_path = rom_file_path.parent
     rom_process = None
 
@@ -83,7 +83,7 @@ async def build_rom(rom_file_path: Path, target_file_name: str):
         patched_file_name = f"{patch_name}_Edited.3ds"
         patched_file = rom_dir_path / patched_file_name
 
-        patched_file.rename(target_file_name)
+        patched_file.rename(target_path)
     finally:
         if rom_process is not None:
             kill_process(rom_process)
