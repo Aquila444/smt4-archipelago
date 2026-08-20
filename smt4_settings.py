@@ -8,7 +8,7 @@ class SMT4RomFile(UserFilePath):
     description = "Shin Megami Tensei IV ROM File"
 
     def browse(self, filetypes=None, **kwargs):
-        filetypes = [("3ds ROM File", [".3ds", ".cci"])]
+        filetypes = [("3ds ROM File", [".3ds"])]
         return super().browse(filetypes=filetypes, **kwargs)
 
     @classmethod
@@ -23,5 +23,5 @@ class AzaharPath(UserFilePath):
 
 
 class SMT4Settings(Group):
-    rom_file: SMT4RomFile = SMT4RomFile("")
+    rom_file: SMT4RomFile = SMT4RomFile("Shin Megami Tensei IV (USA).3ds")
     azahar_path: AzaharPath = AzaharPath("")

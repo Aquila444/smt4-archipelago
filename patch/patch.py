@@ -14,7 +14,9 @@ ap_item_id = 1951
 
 
 def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str) -> Path:
-    return asyncio.run(patch_inner(rom_file_path, patch_info, target_file_name))
+    loop = asyncio.get_running_loop()
+
+    return loop.run_until_complete(patch_inner(rom_file_path, patch_info, target_file_name))
 
 
 async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str) -> Path:

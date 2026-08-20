@@ -116,7 +116,7 @@ class ItemCategory[T: Item]:
 
     @classmethod
     def from_dict(cls, data: dict):
-        item_type = data["item_type"]
+        item_type = ItemType(data["item_type"])
         item_class = cls.class_map[item_type]
         items = [item_class.from_dict(entry) for entry in data["items"]]
 

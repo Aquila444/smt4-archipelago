@@ -17,7 +17,7 @@ classification_map = {
 
 
 def main():
-    unused_items = {"予備枠", "？？？", "削除", "これは未使用"}
+    unused_items = {"予備枠", "？？？", "削除", "これは未使用", "×魔導書（大）", "真サムライ制服"}
 
     counter = 0
     smt_items = []
