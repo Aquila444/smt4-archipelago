@@ -4,6 +4,7 @@ import signal
 from pathlib import Path
 
 hacking_tool_kit_path = "./HackingToolkit3DS.exe"
+patch_name = "ap-patch"
 
 
 async def unpack_rom(rom_file_path: Path) -> None:
@@ -49,7 +50,7 @@ async def unpack_rom(rom_file_path: Path) -> None:
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
-async def build_rom(rom_file_path: Path, target_file_name: str) -> Path:
+async def build_rom(rom_file_path: Path, target_file_name: str):
     rom_dir_path = rom_file_path.parent
     rom_process = None
 
@@ -72,16 +73,17 @@ async def build_rom(rom_file_path: Path, target_file_name: str) -> Path:
 
         target_string = "Enter the output filename for your custom .3DS file"
         await wait_for_string(stdout, target_string)
-        await send_data(stdin, target_file_name)
+        await send_data(stdin, patch_name)
 
         target_string = "Creation done!"
         await wait_for_string(stdout, target_string)
 
         print("Finished building ROM!")
 
-        patched_file_name = f"{target_file_name}_Edited.3ds"
+        patched_file_name = f"{patch_name}_Edited.3ds"
+        patched_file = rom_dir_path / patched_file_name
 
-        return rom_dir_path / patched_file_name
+        patched_file.rename(target_file_name)
     finally:
         if rom_process is not None:
             kill_process(rom_process)

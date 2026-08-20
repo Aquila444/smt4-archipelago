@@ -13,7 +13,8 @@ from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
 from ...utils.utils import extract_string_from_bytes
 
-ROM_FILE_LOCATION = INPUT_ROMFS_DIR / "event/quest"
+TBB_FILE_PATH = "event/quest"
+ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
 DATA_FILE_LOCATION = DATA_DIR / "quests.json"
 
 

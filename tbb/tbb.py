@@ -42,9 +42,8 @@ class Table:
 
         return Table(tbcr, tables)
 
-    def to_file(self, file_path: str) -> None:
-        output_file = Path(file_path)
-        output_file.parent.mkdir(exist_ok=True, parents=True)
+    def to_file(self, file_path: Path) -> None:
+        file_path.parent.mkdir(exist_ok=True, parents=True)
 
         output_bytes = self.to_bytes()
 

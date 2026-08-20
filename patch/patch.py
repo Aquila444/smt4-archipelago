@@ -13,13 +13,11 @@ from ..game.treasure import treasure
 ap_item_id = 1951
 
 
-def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str) -> Path:
-    loop = asyncio.get_running_loop()
-
-    return loop.run_until_complete(patch_inner(rom_file_path, patch_info, target_file_name))
+def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str):
+    return asyncio.run(patch_inner(rom_file_path, patch_info, target_file_name))
 
 
-async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str) -> Path:
+async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_file_name: str):
     print("Unpacking rom.")
     await unpack_rom(rom_file_path)
 
@@ -33,10 +31,12 @@ async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo,
     print("Finished applying patches.")
 
     print("Rebuilding rom.")
-    return await build_rom(rom_file_path, target_file_name)
+    await build_rom(rom_file_path, target_file_name)
 
 
 def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
+    table = treasure.loot_table
+
     checks_map = patch_info.check_map
 
     ap_locations_to_game_id = {location.name: location.game_id for location in locations.locations}
@@ -49,11 +49,11 @@ def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
 
     new_game_locations = {
         str(location_id): map_loot_entry(location_id, item_id)
-        for index, (location_id, item_id) in game_locations_to_items.items()
+        for location_id, item_id in game_locations_to_items.items()
     }
 
-    treasure.loot_table.locations = new_game_locations
-    treasure.loot_table.to_file(romfs_path)
+    table.locations = table.locations | new_game_locations
+    table.to_file(romfs_path)
 
 
 def map_loot_entry(location_id: int, item_id: int) -> treasure.LootLocation:

@@ -3,9 +3,12 @@ from __future__ import annotations
 import struct
 from dataclasses import dataclass
 
-from ...config import DATA_DIR, INPUT_ROM_DIR
+from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table, TBL
 from ...utils.utils import extract_string_from_bytes
+
+TBB_FILE_PATH = "shop/ShopTable.tbb"
+ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
 
 
 @dataclass
@@ -13,8 +16,8 @@ class ShopTable:
     shops: list[Shop]
 
     @classmethod
-    def from_file(cls, shop_table_path: str):
-        shop_table = Table.from_file(shop_table_path)
+    def load_from_rom(cls):
+        shop_table = Table.from_file(ROM_FILE_LOCATION)
 
         shop_actions = shop_table.tables[0]
         shop_names = [extract_string_from_bytes(shop_name_bytes) for shop_name_bytes in shop_table.tables[1].get_data()]
@@ -64,10 +67,7 @@ class ShopItem:
 
 
 def main():
-    file_path = INPUT_ROM_DIR / "ExtractedRomFS/shop/ShopTable.tbb"
-    shop_table = ShopTable.from_file(file_path)
-
-    print()
+    shop_table = ShopTable.load_from_rom()
 
 
 if __name__ == "__main__":

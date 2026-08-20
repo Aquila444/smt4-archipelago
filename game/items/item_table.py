@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import IntEnum
+from pathlib import Path
 
 import orjson
 
@@ -16,7 +17,8 @@ from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table, TBL
 from ...utils.utils import load_data_file_as_json
 
-ROM_FILE_LOCATION = INPUT_ROMFS_DIR / "item/ItemTable.tbb"
+TBB_FILE_PATH = "item/ItemTable.tbb"
+ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
 DATA_FILE_NAME = "items.json"
 DATA_FILE_LOCATION = DATA_DIR / DATA_FILE_NAME
 
@@ -61,10 +63,11 @@ class ItemTable:
 
         return ItemTable(categories, table)
 
-    def to_file(self, item_table_path: str) -> None:
+    def to_file(self, romfs_path: Path) -> None:
         self._sync_state_to_tbb_table()
 
-        self.tbb_table.to_file(item_table_path)
+        tbb_file_path = romfs_path / TBB_FILE_PATH
+        self.tbb_table.to_file(tbb_file_path)
 
     def _sync_state_to_tbb_table(self) -> None:
         for table_index, category in enumerate(self.item_categories):

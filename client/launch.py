@@ -1,4 +1,5 @@
 import asyncio
+import subprocess
 from collections.abc import Sequence
 
 import colorama
@@ -9,10 +10,6 @@ from settings import get_settings
 
 
 def launch_smt4_client(*args: Sequence[str]) -> None:
-    return asyncio.run(launch_smt4_client_inner(*args))
-
-
-async def launch_smt4_client_inner(*args: Sequence[str]) -> None:
     from .client import main
 
     parser = get_base_parser()
@@ -27,13 +24,12 @@ async def launch_smt4_client_inner(*args: Sequence[str]) -> None:
         metadata, output_file = Patch.create_rom_file(patch_file)
 
     azahar_path = get_settings().smt4.azahar_path
-    command = f"{azahar_path} {output_file}"
-    azahar_process = await asyncio.create_subprocess_exec(
-        command,
-        stdout=asyncio.subprocess.DEVNULL, stderr=asyncio.subprocess.DEVNULL, stdin=asyncio.subprocess.DEVNULL
-    )
+    azahar_process = subprocess.Popen([azahar_path, output_file])
 
     colorama.just_fix_windows_console()
 
-    asyncio.run(main(launch_args))
-    colorama.deinit()
+    try:
+        asyncio.run(main(launch_args))
+    finally:
+        azahar_process.kill()
+        colorama.deinit()

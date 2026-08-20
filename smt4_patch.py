@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from pathlib import Path
 
 import orjson
 
@@ -38,7 +39,8 @@ class SMT4Patch(APProcedurePatch):
     result_file_ending = ".3ds"
 
     def patch(self, target: str) -> None:
-        rom_file_path = get_settings().smt4.rom_file
+        rom_file_path_str = get_settings().smt4.rom_file.resolve()
+        rom_file_path = Path(rom_file_path_str)
         patch_data = self.get_file(patch_data_file_name)
         patch_info = SMT4PatchInfo.from_json(patch_data)
 
