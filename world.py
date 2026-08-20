@@ -18,7 +18,7 @@ class SMT4World(World):
 
     web = web_world.SMT4WebWorld()
 
-    settings = smt4_settings.SMT4Settings
+    settings: smt4_settings.SMT4Settings
     settings_key = smt4_settings.settings_key
 
     options_dataclass = smt4_options.SMT4Options

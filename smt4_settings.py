@@ -1,5 +1,4 @@
-from BaseClasses import Group
-from settings import UserFilePath
+from settings import UserFilePath, Group
 
 settings_key = "smt4"
 
@@ -24,5 +23,5 @@ class AzaharPath(UserFilePath):
 
 
 class SMT4Settings(Group):
-    rom_file: SMT4RomFile
-    azahar_path: AzaharPath
+    rom_file: SMT4RomFile = SMT4RomFile("")
+    azahar_path: AzaharPath = AzaharPath("")
