@@ -5,7 +5,7 @@ import struct
 smt_title_id = "0x40000000E5C00"
 
 
-class CitraException(Exception):
+class AzaharException(Exception):
     pass
 
 
@@ -16,7 +16,7 @@ class ProcessInfo:
         self.title_id = title_id
 
 
-class CitraInterface:
+class AzaharInterface:
     PACKET_VERSION: int = 1
     TYPE_NONE: int = 0
     TYPE_READ: int = 1
@@ -67,7 +67,7 @@ class CitraInterface:
                 size -= request_size
             return mem
         except Exception as e:
-            raise CitraException(f"Lost connection to emulator ({str(e)})")
+            raise AzaharException(f"Lost connection to emulator ({str(e)})")
 
     async def read_u32(self, address: int) -> int:
         return int.from_bytes(await self.read(address, 4), "little")
@@ -86,7 +86,7 @@ class CitraInterface:
                 self._write_single(address + start, data[start:end])
                 start += self.MAX_WRITE_SIZE
         except Exception as e:
-            raise CitraException(f"Lost connection to emulator ({str(e)})")
+            raise AzaharException(f"Lost connection to emulator ({str(e)})")
 
     async def write_u32(self, address: int, value: int) -> None:
         await self.write(address, value.to_bytes(4, "little"))
@@ -131,5 +131,5 @@ class CitraInterface:
         self.socket.recv(self.HEADER_SIZE)
 
 
-citra = CitraInterface()
-asyncio.run(citra.connect())
+azahar = AzaharInterface()
+asyncio.run(azahar.connect())

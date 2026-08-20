@@ -1,6 +1,6 @@
 import asyncio
 
-from ..citra.memory import memory_handler
+from ..emulator.memory import memory_handler
 
 game_state_address = 0x8291b4c
 

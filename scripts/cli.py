@@ -1,8 +1,8 @@
 import argparse
 import asyncio
 
-from ..citra import memory
-from ..citra.citra import citra
+from ..emulator import memory
+from ..emulator.azahar import azahar
 
 read_type_conversion_map = {
     "string": lambda x: x.decode("shift_jis", errors='ignore'),
@@ -35,7 +35,7 @@ async def main(args):
         address = int(args.address, 16)
         size_bytes = int(args.size_bytes)
 
-        byte_value = await citra.read(address, size_bytes)
+        byte_value = await azahar.read(address, size_bytes)
         conversion_func = read_type_conversion_map.get(args.type)
         converted_value = conversion_func(byte_value)
         print(f"Value at address 0x{address:x}: {converted_value}")
@@ -52,7 +52,7 @@ async def main(args):
         conversion_func = write_type_conversion_map.get(args.type)
         converted_value = conversion_func(args.value)
 
-        await citra.write(address, converted_value)
+        await azahar.write(address, converted_value)
         print(f"Wrote value {args.value} to address 0x{address:x}")
 
 

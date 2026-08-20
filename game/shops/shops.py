@@ -59,9 +59,11 @@ class ShopItem:
 
     @classmethod
     def from_bytes(cls, shop_item_bytes: bytes, item_map: dict[int, str]) -> ShopItem:
-        item_id, unlock_requirement, remove_requirement, quest_requirement = struct.unpack(ShopItem._STRUCT_FORMAT,
-                                                                                           shop_item_bytes)
-        item_name = item_map.get(item_id)
+        (
+            item_id, unlock_requirement, remove_requirement, quest_requirement
+        ) = struct.unpack(ShopItem._STRUCT_FORMAT, shop_item_bytes)
+
+        item_name = item_map[item_id]
 
         return ShopItem(item_id, item_name, unlock_requirement, remove_requirement, quest_requirement)
 

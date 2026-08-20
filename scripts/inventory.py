@@ -1,7 +1,7 @@
 import asyncio
 import struct
 
-from ..citra.memory import memory_handler
+from ..emulator.memory import memory_handler
 from ..config import DATA_DIR
 
 item_count_size = 2
