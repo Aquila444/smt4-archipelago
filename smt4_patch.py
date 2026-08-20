@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from pathlib import Path
 
 import orjson
 
@@ -34,12 +33,13 @@ class SMT4PatchInfo:
 class SMT4Patch(APProcedurePatch):
 
     game = GAME_NAME
+    hash = None
     patch_file_ending = ".apsmt4"
     result_file_ending = ".3ds"
 
     def patch(self, target: str) -> None:
-        rom_file_path = get_settings().smt4_settings.rom_file
+        rom_file_path = get_settings().smt4.rom_file
         patch_data = self.get_file(patch_data_file_name)
         patch_info = SMT4PatchInfo.from_json(patch_data)
 
-        patched_rom = patch(rom_file_path, patch_info, target)
+        patch(rom_file_path, patch_info, target)

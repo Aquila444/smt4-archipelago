@@ -17,5 +17,12 @@ class SMT4RomFile(UserFilePath):
         pass
 
 
+class AzaharPath(UserFilePath):
+    """Path to your Azahar emulator"""
+    description = "Path to Azahar emulator"
+    is_exe = True
+
+
 class SMT4Settings(Group):
-    rom_file: SMT4RomFile = SMT4RomFile("")
+    rom_file: SMT4RomFile
+    azahar_path: AzaharPath
