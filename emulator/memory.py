@@ -1,3 +1,4 @@
+import asyncio
 import time
 from typing import Callable
 
@@ -56,7 +57,7 @@ async def search_for_value(target_value, value_size_bytes: int, conversion_func)
 async def memory_handler(address: int, size_bytes: int, handler: Callable[[bytes, bytes], None]):
     previous_value = await read_memory(address, size_bytes)
     while True:
-        time.sleep(1)
+        await asyncio.sleep(1)
 
         current_value = await read_memory(address, size_bytes)
         handler(previous_value, current_value)

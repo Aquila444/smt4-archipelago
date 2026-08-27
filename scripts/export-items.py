@@ -16,6 +16,10 @@ classification_map = {
 }
 
 
+def sanitize_item_name(name: str) -> str:
+    return name.replace("＃", "#")
+
+
 def main():
     unused_items = {"予備枠", "？？？", "削除", "これは未使用", "×魔導書（大）", "真サムライ制服"}
 
@@ -33,7 +37,9 @@ def main():
             counter += 1
 
             classification = classification_map[item_type]
-            smt_item = SmtItem(item.name, counter, item.item_id, item_type.name, classification.name)
+
+            item_name = sanitize_item_name(item.name)
+            smt_item = SmtItem(item_name, counter, item.item_id, item_type.name, classification.name)
             smt_items.append(smt_item)
 
     item_output_path = DATA_DIR / "ap-items.json"

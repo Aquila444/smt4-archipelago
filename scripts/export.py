@@ -13,11 +13,11 @@ name_regex = re.compile(r".*->([^=]+)\s=")
 
 
 def main():
+    export_demons()
     export_items()
     export_inventory_ids()
     export_item_ids()
     export_loot()
-    export_demons()
     export_quests()
 
 

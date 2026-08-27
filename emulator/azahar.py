@@ -3,6 +3,8 @@ import socket
 import struct
 
 smt_title_id = "0x40000000E5C00"
+azahar_host = "127.0.0.1"
+azahar_port = 45987
 
 
 class AzaharException(Exception):
@@ -29,9 +31,23 @@ class AzaharInterface:
 
     socket: socket.socket
 
+    async def await_connect(self):
+        connection_interval = 5
+        connected = False
+
+        while not connected:
+            print("Connecting to Azahar.")
+            connected = await self.connect()
+
+            if not connected:
+                print(f"Failed to connect to Azahar, will try again in {connection_interval} seconds.")
+                await asyncio.sleep(connection_interval)
+            else:
+                print("Connected to Azahar.")
+
     async def connect(self) -> bool:
         self.socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        self.socket.connect(("127.0.0.1", 45987))
+        self.socket.connect((azahar_host, azahar_port))
         self.socket.settimeout(5)
         try:
             packet = struct.pack("=IIII", self.PACKET_VERSION, 0, self.TYPE_NONE, 0)
@@ -41,9 +57,9 @@ class AzaharInterface:
             return False
 
         processes = await self.get_process_list()
-        smt_process_id = \
-            [process.process_id for process in processes if process.title_id.lower() == smt_title_id.lower()][
-                0]
+        smt_process = [process.process_id for process in processes if process.title_id.lower() == smt_title_id.lower()]
+        smt_process_id = smt_process[0]
+
         await self.connect_to_process(smt_process_id)
 
         return True
@@ -132,4 +148,4 @@ class AzaharInterface:
 
 
 azahar = AzaharInterface()
-asyncio.run(azahar.connect())
+asyncio.run(azahar.await_connect())

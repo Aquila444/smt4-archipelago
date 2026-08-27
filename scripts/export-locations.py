@@ -30,7 +30,7 @@ def map_location(archipelago_id, line):
     name = match.group(3)
     location_name = f"{region}: {name}"
 
-    flag = match.group(4)
+    flag = match.group(4).strip()
 
     if "chest" in name.lower():
         subtype = "chest"

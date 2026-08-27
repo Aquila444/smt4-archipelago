@@ -6,7 +6,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 16-0"
+    "flag": "16-0"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Chest behind breakable wall on the right side",
@@ -15,7 +15,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 16-1"
+    "flag": "16-1"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Gray relic pile near boss",
@@ -33,7 +33,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 16-4"
+    "flag": "16-4"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Dead hunter near entrance on the left side",
@@ -42,7 +42,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 16-5"
+    "flag": "16-5"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Dead hunter near boss",
@@ -51,7 +51,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 16-6"
+    "flag": "16-6"
   },
   {
     "name": "Shinjuku - South Entrance: Right of two chests past fence",
@@ -60,7 +60,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 17-1"
+    "flag": "17-1"
   },
   {
     "name": "Shinjuku - South Entrance: Chest on roof",
@@ -69,7 +69,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 17-2"
+    "flag": "17-2"
   },
   {
     "name": "Shinjuku - South Entrance: Gray relic pile",
@@ -87,7 +87,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 17-4"
+    "flag": "17-4"
   },
   {
     "name": "Shinjuku - South Entrance: Dead hunter east",
@@ -96,7 +96,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 17-5"
+    "flag": "17-5"
   },
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter near western wall",
@@ -105,7 +105,7 @@
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 17-6"
+    "flag": "17-6"
   },
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter east of entrance",
@@ -114,7 +114,7 @@
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 17-7"
+    "flag": "17-7"
   },
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter near wall south of entrance",
@@ -123,7 +123,7 @@
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 18-0"
+    "flag": "18-0"
   },
   {
     "name": "Shinjuku - Kabuki-cho: Dead hunter south-east",
@@ -132,7 +132,7 @@
     "region": "Shinjuku - Kabuki-cho",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 18-1"
+    "flag": "18-1"
   },
   {
     "name": "Shinjuku - Kabuki-cho: Dead hunter north-west",
@@ -141,7 +141,7 @@
     "region": "Shinjuku - Kabuki-cho",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 18-2"
+    "flag": "18-2"
   },
   {
     "name": "Shinjuku - Golden Gai: Gray relic pile",
@@ -159,7 +159,7 @@
     "region": "Shinjuku - Golden Gai",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 18-5"
+    "flag": "18-5"
   },
   {
     "name": "Shinjuku - Nicho: Dead hunter south-east",
@@ -168,7 +168,7 @@
     "region": "Shinjuku - Nicho",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 18-6"
+    "flag": "18-6"
   },
   {
     "name": "Shinjuku National Park - Pond Garden: Chest hidden behind hedge after firewall",
@@ -177,7 +177,7 @@
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 37-5"
+    "flag": "37-5"
   },
   {
     "name": "Shinjuku National Park - Pond Garden: Dead hunter on bridge",
@@ -186,7 +186,7 @@
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 38-0"
+    "flag": "38-0"
   },
   {
     "name": "Shinjuku National Park - Pond Garden: Dead hunter after firewall",
@@ -195,7 +195,7 @@
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 38-1"
+    "flag": "38-1"
   },
   {
     "name": "Shinjuku Station - West Entrance: Chest behind stairs",
@@ -204,7 +204,7 @@
     "region": "Shinjuku Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 18-7"
+    "flag": "18-7"
   },
   {
     "name": "Shinjuku Station - West Entrance: Gray relic pile on top of stairs",
@@ -222,7 +222,7 @@
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 36-7"
+    "flag": "36-7"
   },
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Chest near fountain",
@@ -231,7 +231,7 @@
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 37-0"
+    "flag": "37-0"
   },
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Gray relic pile near entrance",
@@ -249,7 +249,7 @@
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 37-2"
+    "flag": "37-2"
   },
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Dead hunter in the center",
@@ -258,7 +258,7 @@
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 37-3"
+    "flag": "37-3"
   },
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Dead hunter near ledge",
@@ -267,7 +267,7 @@
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 37-4"
+    "flag": "37-4"
   },
   {
     "name": "Shinjuku - West Entrance Buildings: Dead hunter in side street",
@@ -276,7 +276,7 @@
     "region": "Shinjuku - West Entrance Buildings",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 19-1"
+    "flag": "19-1"
   },
   {
     "name": "Shinjuku - West Entrance Buildings: Dead hunter in main street",
@@ -285,7 +285,7 @@
     "region": "Shinjuku - West Entrance Buildings",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 19-2"
+    "flag": "19-2"
   },
   {
     "name": "Shinjuku - West Entrance Underground: Chest behind boxes",
@@ -294,7 +294,7 @@
     "region": "Shinjuku - West Entrance Underground",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 19-3"
+    "flag": "19-3"
   },
   {
     "name": "Shinjuku - West Entrance Passage: Chest after jumping through vent",
@@ -303,7 +303,7 @@
     "region": "Shinjuku - West Entrance Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 19-4"
+    "flag": "19-4"
   },
   {
     "name": "Shinjuku - Kabuki-cho Passage: Gray relic pile",
@@ -321,7 +321,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 17-0"
+    "flag": "17-0"
   },
   {
     "name": "Shibuya Station - Front Crosswalk: Chest after crawling through fence, behind building",
@@ -330,7 +330,7 @@
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 20-3"
+    "flag": "20-3"
   },
   {
     "name": "Shibuya Station - Front Crosswalk: Chest after crawling through fence, near station entrance",
@@ -339,7 +339,7 @@
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 20-4"
+    "flag": "20-4"
   },
   {
     "name": "Shibuya Station - Front Crosswalk: Gray relic pile in corner near entrance",
@@ -366,7 +366,7 @@
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 20-7"
+    "flag": "20-7"
   },
   {
     "name": "Shibuya Station - Front Crosswalk: Dead hunter after crawling through fence",
@@ -375,7 +375,7 @@
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 21-0"
+    "flag": "21-0"
   },
   {
     "name": "Shibuya - 108 Building: Chest up the stairs on top of building",
@@ -384,7 +384,7 @@
     "region": "Shibuya - 108 Building",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 21-1"
+    "flag": "21-1"
   },
   {
     "name": "Shibuya - 108 Building: Dead hunter in the street",
@@ -393,7 +393,7 @@
     "region": "Shibuya - 108 Building",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 21-2"
+    "flag": "21-2"
   },
   {
     "name": "Shibuya - Dogenzaka: Gray relic pile",
@@ -411,7 +411,7 @@
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 21-6"
+    "flag": "21-6"
   },
   {
     "name": "Shibuya - Dogenzaka: Dead hunter in the alleys",
@@ -420,7 +420,7 @@
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 21-7"
+    "flag": "21-7"
   },
   {
     "name": "Shibuya - Inokashira-dori: Gray relic pile at the end of street",
@@ -438,7 +438,7 @@
     "region": "Shibuya - Inokashira-dori",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 22-1"
+    "flag": "22-1"
   },
   {
     "name": "Shibuya - Inokashira-dori: Dead hunter near entrance behind breakable wall",
@@ -447,7 +447,7 @@
     "region": "Shibuya - Inokashira-dori",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 22-2"
+    "flag": "22-2"
   },
   {
     "name": "Shibuya - Miyashita Park: Chest at the end of bloody street",
@@ -456,7 +456,7 @@
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 22-3"
+    "flag": "22-3"
   },
   {
     "name": "Shibuya - Miyashita Park: Chest behind house",
@@ -465,7 +465,7 @@
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 22-4"
+    "flag": "22-4"
   },
   {
     "name": "Shibuya - Miyashita Park: Gray relic pile",
@@ -483,7 +483,7 @@
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 22-7"
+    "flag": "22-7"
   },
   {
     "name": "Shibuya Station - West Entrance: Gray relic pile behind entrance",
@@ -501,7 +501,7 @@
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 23-2"
+    "flag": "23-2"
   },
   {
     "name": "Shibuya Station - West Entrance: Dead hunter on walkway, west",
@@ -510,7 +510,7 @@
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 23-3"
+    "flag": "23-3"
   },
   {
     "name": "Shibuya - Underground District A: Gray relic pile",
@@ -546,7 +546,7 @@
     "region": "Shibuya - Underground District D",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 24-0"
+    "flag": "24-0"
   },
   {
     "name": "Shibuya - Underground District D: Gray relic pile",
@@ -573,7 +573,7 @@
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 21-3"
+    "flag": "21-3"
   },
   {
     "name": "Shibuya - Dogenzaka (dead-end): Chest near fence on the side near 108 building",
@@ -582,7 +582,7 @@
     "region": "Shibuya - Dogenzaka (dead-end)",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 21-4"
+    "flag": "21-4"
   },
   {
     "name": "Shibuya - Underground District B: Chest",
@@ -591,7 +591,7 @@
     "region": "Shibuya - Underground District B",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 23-5"
+    "flag": "23-5"
   },
   {
     "name": "Kasumigaseki - Sakurada-dori: Chest behind fence",
@@ -600,7 +600,7 @@
     "region": "Kasumigaseki - Sakurada-dori",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 24-4"
+    "flag": "24-4"
   },
   {
     "name": "Kasumigaseki - Sakurada-dori: Gray relic pile in the center",
@@ -618,7 +618,7 @@
     "region": "Kasumigaseki Station - Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 24-7"
+    "flag": "24-7"
   },
   {
     "name": "Kasumigaseki Station - Passage: Gray relic pile after jumping through vent",
@@ -636,7 +636,7 @@
     "region": "Kasumigaseki Station - Platform",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 25-1"
+    "flag": "25-1"
   },
   {
     "name": "Kasumigaseki - Restricted Access: Chest in secret room after jumping through vent",
@@ -645,7 +645,7 @@
     "region": "Kasumigaseki - Restricted Access",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 25-2"
+    "flag": "25-2"
   },
   {
     "name": "Ikebukuro - Sunshine Front: Chest below roof",
@@ -654,7 +654,7 @@
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 25-4"
+    "flag": "25-4"
   },
   {
     "name": "Ikebukuro - Sunshine Front: Chest behind fence",
@@ -663,7 +663,7 @@
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 25-5"
+    "flag": "25-5"
   },
   {
     "name": "Ikebukuro - Sunshine Front: Gray relic pile behind fence",
@@ -681,7 +681,7 @@
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 26-1"
+    "flag": "26-1"
   },
   {
     "name": "Ikebukuro - 60 Street Crosswalk: Dead hunter on the right",
@@ -690,7 +690,7 @@
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 26-2"
+    "flag": "26-2"
   },
   {
     "name": "Ikebukuro - Underground District: Gray relic pile near terminal",
@@ -717,7 +717,7 @@
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 27-0"
+    "flag": "27-0"
   },
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter opposite side of entrance",
@@ -726,7 +726,7 @@
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 27-1"
+    "flag": "27-1"
   },
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter in the south near fence",
@@ -735,7 +735,7 @@
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 27-2"
+    "flag": "27-2"
   },
   {
     "name": "Ikebukuro - Sunshine Front: Chest under stairs on the right",
@@ -744,7 +744,7 @@
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 25-6"
+    "flag": "25-6"
   },
   {
     "name": "Ikebukuro - 60 Street Crosswalk: Chest",
@@ -753,7 +753,7 @@
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 26-0"
+    "flag": "26-0"
   },
   {
     "name": "Ginza - 4th District Crosswalk: Gray relic pile near north gate",
@@ -816,7 +816,7 @@
     "region": "Ginza - Southwest Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 28-4"
+    "flag": "28-4"
   },
   {
     "name": "Ginza - Southwest Passage: Chest on the middle sidepath near breakable wall",
@@ -825,7 +825,7 @@
     "region": "Ginza - Southwest Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 28-5"
+    "flag": "28-5"
   },
   {
     "name": "Ginza - Southeast Passage: Chest after jumping through east vent",
@@ -834,7 +834,7 @@
     "region": "Ginza - Southeast Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 28-6"
+    "flag": "28-6"
   },
   {
     "name": "Ginza - Southeast Passage: Chest after jumping through west vent",
@@ -843,7 +843,7 @@
     "region": "Ginza - Southeast Passage",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 28-7"
+    "flag": "28-7"
   },
   {
     "name": "Ginza - Southeast Passage: Gray relic pile",
@@ -861,7 +861,7 @@
     "region": "Ginza - Central Way A",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 27-7"
+    "flag": "27-7"
   },
   {
     "name": "Ueno Station - Front Entrance: Chest behind breakable wall",
@@ -870,7 +870,7 @@
     "region": "Ueno Station - Front Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 29-2"
+    "flag": "29-2"
   },
   {
     "name": "Ueno Station - Front Entrance: Green relic pile on top of roof",
@@ -888,7 +888,7 @@
     "region": "Ueno - Central Way",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 29-4"
+    "flag": "29-4"
   },
   {
     "name": "Ueno - Central Way: Gray relic pile next to bus",
@@ -906,7 +906,7 @@
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 29-7"
+    "flag": "29-7"
   },
   {
     "name": "Ueno - Shinobazu Pond: Chest on pagoda",
@@ -915,7 +915,7 @@
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 30-0"
+    "flag": "30-0"
   },
   {
     "name": "Ueno - Shinobazu Pond: Chest on top of roof above pier",
@@ -924,7 +924,7 @@
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 30-1"
+    "flag": "30-1"
   },
   {
     "name": "Ueno - Shinobazu Pond: Gray relic pile on rock in pond",
@@ -960,7 +960,7 @@
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 32-4"
+    "flag": "32-4"
   },
   {
     "name": "Naraku - 3rd Stratum: Green relic pile, on ledge on the east side of the poison",
@@ -978,7 +978,7 @@
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 33-2"
+    "flag": "33-2"
   },
   {
     "name": "Naraku - 4th Stratum: Chest after climbing up north-east ladders",
@@ -987,7 +987,7 @@
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 33-3"
+    "flag": "33-3"
   },
   {
     "name": "Naraku - 5th Stratum: Green relic pile, in front of door to minotaur",
@@ -1005,7 +1005,7 @@
     "region": "Naraku - 5th Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 34-3"
+    "flag": "34-3"
   },
   {
     "name": "Naraku - Hall of the Minotaur: Green relic pile, west",
@@ -1050,7 +1050,7 @@
     "region": "Naraku - 1st Observation Platform",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 36-0"
+    "flag": "36-0"
   },
   {
     "name": "Naraku - 1st Observation Platform: Chest, west",
@@ -1059,7 +1059,7 @@
     "region": "Naraku - 1st Observation Platform",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 36-1"
+    "flag": "36-1"
   },
   {
     "name": "Kiccigiorgi Forest - Side Road: Green relic pile at the entrance",
@@ -1077,7 +1077,7 @@
     "region": "Kiccigiorgi Forest Depths",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 36-3"
+    "flag": "36-3"
   },
   {
     "name": "Kiccigiorgi Forest Depths: Chest on top of the hill",
@@ -1086,7 +1086,7 @@
     "region": "Kiccigiorgi Forest Depths",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 36-4"
+    "flag": "36-4"
   },
   {
     "name": "Kiccigiorgi Forest Depths: Green relic pile, in the bend of the road",
@@ -1104,7 +1104,7 @@
     "region": "Kagome Tower - Lower Level",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 38-2"
+    "flag": "38-2"
   },
   {
     "name": "Kagome Tower - Lower Level: Green relic pile on second floor",
@@ -1140,7 +1140,7 @@
     "region": "Midtown - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 39-0"
+    "flag": "39-0"
   },
   {
     "name": "Midtown - 1F: Chest after jumping through vent",
@@ -1149,7 +1149,7 @@
     "region": "Midtown - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 38-7"
+    "flag": "38-7"
   },
   {
     "name": "Midtown - 1F: Gray relic pile after jumping through vent",
@@ -1167,7 +1167,7 @@
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 39-3"
+    "flag": "39-3"
   },
   {
     "name": "Midtown - 33F: Chest near elevator",
@@ -1176,7 +1176,7 @@
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 39-4"
+    "flag": "39-4"
   },
   {
     "name": "Midtown - 33F: Dead hunter in office cubicle",
@@ -1185,7 +1185,7 @@
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 39-6"
+    "flag": "39-6"
   },
   {
     "name": "Midtown - 43F: Chest in dead end",
@@ -1194,7 +1194,7 @@
     "region": "Midtown - 43F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 39-7"
+    "flag": "39-7"
   },
   {
     "name": "Midtown - 43F: Gray relic pile",
@@ -1212,7 +1212,7 @@
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 39-5"
+    "flag": "39-5"
   },
   {
     "name": "Midtown - 54F: Chest",
@@ -1221,7 +1221,7 @@
     "region": "Midtown - 54F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-1"
+    "flag": "40-1"
   },
   {
     "name": "Reverse Hills - B7F: Chest behind door, north-west",
@@ -1230,7 +1230,7 @@
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-5"
+    "flag": "40-5"
   },
   {
     "name": "Reverse Hills - B7F: Chest behind door, south-west",
@@ -1239,7 +1239,7 @@
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-6"
+    "flag": "40-6"
   },
   {
     "name": "Reverse Hills - B7F: Chest behind door, north-east",
@@ -1248,7 +1248,7 @@
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-7"
+    "flag": "40-7"
   },
   {
     "name": "Reverse Hills - B7F: Chest behind door, south-east",
@@ -1257,7 +1257,7 @@
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 41-0"
+    "flag": "41-0"
   },
   {
     "name": "Reverse Hills - B8F: Chest behind door, south-east",
@@ -1266,7 +1266,7 @@
     "region": "Reverse Hills - B8F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 41-1"
+    "flag": "41-1"
   },
   {
     "name": "Reverse Hills - B9F: Chest behind door, north-west",
@@ -1275,7 +1275,7 @@
     "region": "Reverse Hills - B9F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 41-2"
+    "flag": "41-2"
   },
   {
     "name": "Reverse Hills - B51F: Gray relic pile in room with the password-locked doors",
@@ -1293,7 +1293,7 @@
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 41-5"
+    "flag": "41-5"
   },
   {
     "name": "Reverse Hills - B51F: Chest behind elevator, west",
@@ -1302,7 +1302,7 @@
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 41-6"
+    "flag": "41-6"
   },
   {
     "name": "Reverse Hills - B51F: Gray relic pile behind password-locked door",
@@ -1320,7 +1320,7 @@
     "region": "Tsukiji Hongwanji - Main Temple",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-0"
+    "flag": "42-0"
   },
   {
     "name": "Tsukiji Hongwanji - Main Temple: Chest in western part",
@@ -1329,7 +1329,7 @@
     "region": "Tsukiji Hongwanji - Main Temple",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-1"
+    "flag": "42-1"
   },
   {
     "name": "Tsukiji Hongwanji - 1st Training Hall: Chest near entrance",
@@ -1338,34 +1338,34 @@
     "region": "Tsukiji Hongwanji - 1st Training Hall",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-2"
+    "flag": "42-2"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall near entrance",
+    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall near entrance",
     "archipelago_id": 150,
     "game_id": 239,
-    "region": "Tsukiji Hongwanji - Shelter Ruins",
+    "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-3"
+    "flag": "42-3"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall on second floor",
+    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on second floor",
     "archipelago_id": 151,
     "game_id": 240,
-    "region": "Tsukiji Hongwanji - Shelter Ruins",
+    "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-4"
+    "flag": "42-4"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall on third floor",
+    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on third floor",
     "archipelago_id": 152,
     "game_id": 241,
-    "region": "Tsukiji Hongwanji - Shelter Ruins",
+    "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 42-5"
+    "flag": "42-5"
   },
   {
     "name": "Camp Ichigaya - B2F: Chest in dead end, right",
@@ -1374,7 +1374,7 @@
     "region": "Camp Ichigaya - B2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-4"
+    "flag": "43-4"
   },
   {
     "name": "Camp Ichigaya - B1F: Chest, left",
@@ -1383,7 +1383,7 @@
     "region": "Camp Ichigaya - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-2"
+    "flag": "43-2"
   },
   {
     "name": "Camp Ichigaya - 1F: Gray relic pile, west",
@@ -1410,7 +1410,7 @@
     "region": "Camp Ichigaya - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-1"
+    "flag": "43-1"
   },
   {
     "name": "Camp Ichigaya - B1F: Gray relic pile",
@@ -1428,7 +1428,7 @@
     "region": "Camp Ichigaya - B2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-5"
+    "flag": "43-5"
   },
   {
     "name": "Camp Ichigaya - B2F: Gray relic pile",
@@ -1446,7 +1446,7 @@
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-7"
+    "flag": "43-7"
   },
   {
     "name": "Camp Ichigaya - B3F: Chest close to exit stairs",
@@ -1455,7 +1455,7 @@
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-0"
+    "flag": "44-0"
   },
   {
     "name": "Camp Ichigaya - B3F: Gray relic pile near reactor",
@@ -1482,7 +1482,7 @@
     "region": "Camp Ichigaya - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 43-0"
+    "flag": "43-0"
   },
   {
     "name": "Monochrome Forest - Open Space: Chest near entrance",
@@ -1491,7 +1491,7 @@
     "region": "Monochrome Forest - Open Space",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-3"
+    "flag": "44-3"
   },
   {
     "name": "Monochrome Forest - Animal Trail C: Chest",
@@ -1500,7 +1500,7 @@
     "region": "Monochrome Forest - Animal Trail C",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-4"
+    "flag": "44-4"
   },
   {
     "name": "Monochrome Forest - Animal Trail D: Chest, south",
@@ -1509,7 +1509,7 @@
     "region": "Monochrome Forest - Animal Trail D",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-5"
+    "flag": "44-5"
   },
   {
     "name": "Purgatorium - 1st Crown: Chest by gate, east",
@@ -1518,7 +1518,7 @@
     "region": "Purgatorium - 1st Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-7"
+    "flag": "44-7"
   },
   {
     "name": "Purgatorium - 1st Crown: Chest by gate, west",
@@ -1527,7 +1527,7 @@
     "region": "Purgatorium - 1st Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-0"
+    "flag": "45-0"
   },
   {
     "name": "Purgatorium - 2nd Crown: Chest by entrance",
@@ -1536,7 +1536,7 @@
     "region": "Purgatorium - 2nd Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-1"
+    "flag": "45-1"
   },
   {
     "name": "Purgatorium - 3rd Crown: Chest from column near exit to 4th crown",
@@ -1545,7 +1545,7 @@
     "region": "Purgatorium - 3rd Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-2"
+    "flag": "45-2"
   },
   {
     "name": "Purgatorium - 4th Crown: Chest by gate, west",
@@ -1554,7 +1554,7 @@
     "region": "Purgatorium - 4th Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-4"
+    "flag": "45-4"
   },
   {
     "name": "Purgatorium - 4th Crown: Chest by gate, east",
@@ -1563,7 +1563,7 @@
     "region": "Purgatorium - 4th Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-5"
+    "flag": "45-5"
   },
   {
     "name": "Purgatorium - 6th Crown: Chest, east",
@@ -1572,7 +1572,7 @@
     "region": "Purgatorium - 6th Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-7"
+    "flag": "45-7"
   },
   {
     "name": "Purgatorium - 6th Crown: Chest in front of gate to next floor",
@@ -1581,7 +1581,7 @@
     "region": "Purgatorium - 6th Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-6"
+    "flag": "45-6"
   },
   {
     "name": "Purgatorium - Gates of Paradiso: Chest, right",
@@ -1590,7 +1590,7 @@
     "region": "Purgatorium - Gates of Paradiso",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-0"
+    "flag": "46-0"
   },
   {
     "name": "Purgatorium - Gates of Paradiso: Chest, left",
@@ -1599,7 +1599,7 @@
     "region": "Purgatorium - Gates of Paradiso",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-1"
+    "flag": "46-1"
   },
   {
     "name": "Purgatorium - 3rd Crown: Chest by column in the center",
@@ -1608,7 +1608,7 @@
     "region": "Purgatorium - 3rd Crown",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 45-3"
+    "flag": "45-3"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Chest in front of entrance",
@@ -1617,7 +1617,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-2"
+    "flag": "46-2"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Left of two chests",
@@ -1626,7 +1626,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-3"
+    "flag": "46-3"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Right of two chests",
@@ -1635,7 +1635,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-4"
+    "flag": "46-4"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Left of three chests",
@@ -1644,7 +1644,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-5"
+    "flag": "46-5"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Right of three chests",
@@ -1653,7 +1653,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-6"
+    "flag": "46-6"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternity: Middle of three chests",
@@ -1662,7 +1662,7 @@
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 46-7"
+    "flag": "46-7"
   },
   {
     "name": "Lucifer's Palace - Morning Star Hall: Right of two chests",
@@ -1671,7 +1671,7 @@
     "region": "Lucifer's Palace - Morning Star Hall",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 47-7"
+    "flag": "47-7"
   },
   {
     "name": "Lucifer's Palace - Morning Star Hall: Left of two chests",
@@ -1680,7 +1680,7 @@
     "region": "Lucifer's Palace - Morning Star Hall",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 48-0"
+    "flag": "48-0"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternal Light: Chest to the right of stairs",
@@ -1689,7 +1689,7 @@
     "region": "Lucifer's Palace - Hall of Eternal Light",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 47-0"
+    "flag": "47-0"
   },
   {
     "name": "Lucifer's Palace - Hall of Eternal Light: Green relic pile on upper platform",
@@ -1833,7 +1833,7 @@
     "region": "Pluto Castle - 2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 51-6"
+    "flag": "51-6"
   },
   {
     "name": "Pluto Castle - 2F: Green relic pile after jumping down hole from 4F",
@@ -1869,7 +1869,7 @@
     "region": "Pluto Castle - 4F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 52-3"
+    "flag": "52-3"
   },
   {
     "name": "Pluto Castle - 4F: Green relic pile, west",
@@ -1896,7 +1896,7 @@
     "region": "Camp Ichigaya (BT) - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-1"
+    "flag": "53-1"
   },
   {
     "name": "Camp Ichigaya (BT) - B2F: Chest",
@@ -1905,7 +1905,7 @@
     "region": "Camp Ichigaya (BT) - B2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-3"
+    "flag": "53-3"
   },
   {
     "name": "Camp Ichigaya (BT) - 1F: Chest",
@@ -1914,7 +1914,7 @@
     "region": "Camp Ichigaya (BT) - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 52-6"
+    "flag": "52-6"
   },
   {
     "name": "Camp Ichigaya (BT) - 1F: Gray relic pile, west",
@@ -1932,7 +1932,7 @@
     "region": "Camp Ichigaya (BT) - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-0"
+    "flag": "53-0"
   },
   {
     "name": "Camp Ichigaya (BT) - B2F: Gray relic pile",
@@ -1950,7 +1950,7 @@
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-4"
+    "flag": "53-4"
   },
   {
     "name": "Camp Ichigaya (BT) - B3F: Chest near elevator",
@@ -1959,7 +1959,7 @@
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-5"
+    "flag": "53-5"
   },
   {
     "name": "Camp Ichigaya (BT) - B3F: Gray relic pile near stairs to B2F",
@@ -1977,7 +1977,7 @@
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 53-6"
+    "flag": "53-6"
   },
   {
     "name": "Kasumigaseki (IT) - Sakurada-dori: Gray relic pile near flames",
@@ -2004,7 +2004,7 @@
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 54-5"
+    "flag": "54-5"
   },
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Dead hunter by station entrance",
@@ -2013,7 +2013,7 @@
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 54-6"
+    "flag": "54-6"
   },
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Dead hunter by western wall",
@@ -2022,7 +2022,7 @@
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 54-7"
+    "flag": "54-7"
   },
   {
     "name": "Shinjuku (IT) - National Park: Dead hunter on eastern bridge",
@@ -2031,7 +2031,7 @@
     "region": "Shinjuku (IT) - National Park",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 55-0"
+    "flag": "55-0"
   },
   {
     "name": "Shinjuku (IT) - National Park: Dead hunter by south plaza",
@@ -2040,7 +2040,7 @@
     "region": "Shinjuku (IT) - National Park",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 55-1"
+    "flag": "55-1"
   },
   {
     "name": "Shibuya (IT) - 108 Building: Chest on building up the stairs",
@@ -2049,7 +2049,7 @@
     "region": "Shibuya (IT) - 108 Building",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 55-2"
+    "flag": "55-2"
   },
   {
     "name": "Shibuya (IT) - 108 Building: Dead hunter at the end of the road",
@@ -2058,7 +2058,7 @@
     "region": "Shibuya (IT) - 108 Building",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 55-3"
+    "flag": "55-3"
   },
   {
     "name": "Shibuya (IT) - 108 Building (entrance): Dead hunter near entrance",
@@ -2067,7 +2067,7 @@
     "region": "Shibuya (IT) - 108 Building (entrance)",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 55-4"
+    "flag": "55-4"
   },
   {
     "name": "Shibuya (IT) - Undeground District A: Gray relic pile near stairs",
@@ -2103,7 +2103,7 @@
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 56-0"
+    "flag": "56-0"
   },
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Dead hunter near eastern wall",
@@ -2112,7 +2112,7 @@
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 56-1"
+    "flag": "56-1"
   },
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Dead hunter near burning bus",
@@ -2121,7 +2121,7 @@
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 56-2"
+    "flag": "56-2"
   },
   {
     "name": "Ikebukuro (IT) - Underground District: Gray relic pile near bar",
@@ -2157,7 +2157,7 @@
     "region": "Camp Ichigaya (IT) - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 56-7"
+    "flag": "56-7"
   },
   {
     "name": "Camp Ichigaya (IT) - B2F: Gray relic pile near entrance",
@@ -2184,7 +2184,7 @@
     "region": "Camp Ichigaya (IT) - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 57-4"
+    "flag": "57-4"
   },
   {
     "name": "Camp Ichigaya (IT) - B3F: Gray relic pile near entrance from B2F",
@@ -2202,7 +2202,7 @@
     "region": "Camp Ichigaya (IT) - 2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 58-1"
+    "flag": "58-1"
   },
   {
     "name": "Camp Ichigaya (IT) - 2F: Gray relic pile by elevator",
@@ -2229,7 +2229,7 @@
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 34-7"
+    "flag": "34-7"
   },
   {
     "name": "Naraku - Excavation Worker Quarters: Second chest from entrance",
@@ -2238,7 +2238,7 @@
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 35-0"
+    "flag": "35-0"
   },
   {
     "name": "Naraku - Excavation Worker Quarters: Third chest from entrance",
@@ -2247,7 +2247,7 @@
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 35-1"
+    "flag": "35-1"
   },
   {
     "name": "Naraku - Excavation Worker Quarters: Fourth chest from entrance",
@@ -2256,7 +2256,7 @@
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 35-2"
+    "flag": "35-2"
   },
   {
     "name": "Naraku - Excavation Worker Quarters: Fifth chest from entrance",
@@ -2265,7 +2265,7 @@
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 35-3"
+    "flag": "35-3"
   },
   {
     "name": "Tokyo - Higashi Mukojima: Chest in the east",
@@ -2274,7 +2274,7 @@
     "region": "Tokyo - Higashi Mukojima",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 58-5"
+    "flag": "58-5"
   },
   {
     "name": "Tokyo - Higashi Mukojima: Chest in the north near river",
@@ -2283,7 +2283,7 @@
     "region": "Tokyo - Higashi Mukojima",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 58-6"
+    "flag": "58-6"
   },
   {
     "name": "Tokyo - Akihabara: Chest near crater",
@@ -2292,7 +2292,7 @@
     "region": "Tokyo - Akihabara",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 58-7"
+    "flag": "58-7"
   },
   {
     "name": "Tokyo - Kameido: Chest on the road to the east",
@@ -2301,7 +2301,7 @@
     "region": "Tokyo - Kameido",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-0"
+    "flag": "59-0"
   },
   {
     "name": "Tokyo - Hanzomon: Chest near dead-end",
@@ -2310,7 +2310,7 @@
     "region": "Tokyo - Hanzomon",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-1"
+    "flag": "59-1"
   },
   {
     "name": "Tokyo - Ikebukuro: Chest",
@@ -2319,7 +2319,7 @@
     "region": "Tokyo - Ikebukuro",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-2"
+    "flag": "59-2"
   },
   {
     "name": "Tokyo - Itabashi: Chest after road ends",
@@ -2328,7 +2328,7 @@
     "region": "Tokyo - Itabashi",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-3"
+    "flag": "59-3"
   },
   {
     "name": "Tokyo - Egota: Chest after poison swamp",
@@ -2337,7 +2337,7 @@
     "region": "Tokyo - Egota",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-4"
+    "flag": "59-4"
   },
   {
     "name": "Tokyo - Setagaya: Chest in sandy area",
@@ -2346,7 +2346,7 @@
     "region": "Tokyo - Setagaya",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-5"
+    "flag": "59-5"
   },
   {
     "name": "Tokyo - Hatanodai: Chest",
@@ -2355,7 +2355,7 @@
     "region": "Tokyo - Hatanodai",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-6"
+    "flag": "59-6"
   },
   {
     "name": "Tokyo - Azabu Juban: Chest",
@@ -2364,7 +2364,7 @@
     "region": "Tokyo - Azabu Juban",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 59-7"
+    "flag": "59-7"
   },
   {
     "name": "Tokyo - Togoshi: Chest",
@@ -2373,7 +2373,7 @@
     "region": "Tokyo - Togoshi",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-0"
+    "flag": "60-0"
   },
   {
     "name": "Tokyo - Tennozu: Chest",
@@ -2382,7 +2382,7 @@
     "region": "Tokyo - Tennozu",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-1"
+    "flag": "60-1"
   },
   {
     "name": "Tokyo - Ariake: Chest",
@@ -2391,7 +2391,7 @@
     "region": "Tokyo - Ariake",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-2"
+    "flag": "60-2"
   },
   {
     "name": "Tokyo - Tsukijima: Chest in poison swamp",
@@ -2400,7 +2400,7 @@
     "region": "Tokyo - Tsukijima",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-3"
+    "flag": "60-3"
   },
   {
     "name": "Tokyo - Kita Senju: Chest at the end of the road",
@@ -2409,7 +2409,7 @@
     "region": "Tokyo - Kita Senju",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-5"
+    "flag": "60-5"
   },
   {
     "name": "Tokyo - Ouji: Chest at the end of sandy section",
@@ -2418,7 +2418,7 @@
     "region": "Tokyo - Ouji",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-6"
+    "flag": "60-6"
   },
   {
     "name": "Tokyo - Ooi Wharf: Chest",
@@ -2427,7 +2427,7 @@
     "region": "Tokyo - Ooi Wharf",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-7"
+    "flag": "60-7"
   },
   {
     "name": "Tokyo - Central Breakwater: Chest",
@@ -2436,7 +2436,7 @@
     "region": "Tokyo - Central Breakwater",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 61-0"
+    "flag": "61-0"
   },
   {
     "name": "Blasted Tokyo: Chest in crater near Kasumigaseki",
@@ -2445,7 +2445,7 @@
     "region": "Blasted Tokyo",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 61-5"
+    "flag": "61-5"
   },
   {
     "name": "Blasted Tokyo: Chest near pluto castle",
@@ -2454,7 +2454,7 @@
     "region": "Blasted Tokyo",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 61-6"
+    "flag": "61-6"
   },
   {
     "name": "Blasted Tokyo - Ikebukuro: Chest in crater near Ikebukuro",
@@ -2463,7 +2463,7 @@
     "region": "Blasted Tokyo - Ikebukuro",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 61-7"
+    "flag": "61-7"
   },
   {
     "name": "Blasted Tokyo - Shibuya: Chest in crater near Shibuya",
@@ -2472,7 +2472,7 @@
     "region": "Blasted Tokyo - Shibuya",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-0"
+    "flag": "62-0"
   },
   {
     "name": "Infernal Tokyo - Hanzomon: Chest",
@@ -2481,7 +2481,7 @@
     "region": "Infernal Tokyo - Hanzomon",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-1"
+    "flag": "62-1"
   },
   {
     "name": "Tokyo - Oshima: Chest near containers",
@@ -2490,7 +2490,7 @@
     "region": "Tokyo - Oshima",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 60-4"
+    "flag": "60-4"
   },
   {
     "name": "Camp Ichigaya (IT) - B1F: Chest, left",
@@ -2499,7 +2499,7 @@
     "region": "Camp Ichigaya (IT) - B1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 57-0"
+    "flag": "57-0"
   },
   {
     "name": "Camp Ichigaya (IT) - B2F: Chest near entrance",
@@ -2508,7 +2508,7 @@
     "region": "Camp Ichigaya (IT) - B2F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 57-1"
+    "flag": "57-1"
   },
   {
     "name": "Camp Ichigaya (IT) - B3F: Chest at the end of long hallway",
@@ -2517,7 +2517,7 @@
     "region": "Camp Ichigaya (IT) - B3F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 57-5"
+    "flag": "57-5"
   },
   {
     "name": "Pluto Castle - 1F: Chest after beating Pluto",
@@ -2526,7 +2526,7 @@
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 50-7"
+    "flag": "50-7"
   },
   {
     "name": "Pluto Castle - 1F: Left of two chests",
@@ -2535,7 +2535,7 @@
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 51-0"
+    "flag": "51-0"
   },
   {
     "name": "Pluto Castle - 1F: Right of two chests",
@@ -2544,7 +2544,7 @@
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 51-1"
+    "flag": "51-1"
   },
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near south exit",
@@ -2553,7 +2553,7 @@
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 48-1"
+    "flag": "48-1"
   },
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near west exit",
@@ -2562,7 +2562,7 @@
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 48-2"
+    "flag": "48-2"
   },
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near north exit",
@@ -2571,7 +2571,7 @@
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 48-3"
+    "flag": "48-3"
   },
   {
     "name": "Usetan / Harajuku Police Station / Kabuto Shrine: Dead hunter",
@@ -2616,7 +2616,7 @@
     "region": "Infernal Tokyo - Otsuka",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-2"
+    "flag": "62-2"
   },
   {
     "name": "Infernal Tokyo - Suidobashi: Chest",
@@ -2625,7 +2625,7 @@
     "region": "Infernal Tokyo - Suidobashi",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-3"
+    "flag": "62-3"
   },
   {
     "name": "Infernal Tokyo - Takadano Baba: Chest",
@@ -2634,7 +2634,7 @@
     "region": "Infernal Tokyo - Takadano Baba",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-4"
+    "flag": "62-4"
   },
   {
     "name": "Infernal Tokyo - Sendagaya: Chest",
@@ -2643,7 +2643,7 @@
     "region": "Infernal Tokyo - Sendagaya",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 62-5"
+    "flag": "62-5"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Left of two chests",
@@ -2652,7 +2652,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 19-6"
+    "flag": "19-6"
   },
   {
     "name": "Shinjuku - Government Office Plaza: Right of two chests",
@@ -2661,7 +2661,7 @@
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 19-7"
+    "flag": "19-7"
   },
   {
     "name": "Shinjuku - South Entrance: Left of two chests past fence",
@@ -2670,7 +2670,7 @@
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 20-0"
+    "flag": "20-0"
   },
   {
     "name": "Shinjuku - Nicho: Dead hunter south-west",
@@ -2679,7 +2679,7 @@
     "region": "Shinjuku - Nicho",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 20-1"
+    "flag": "20-1"
   },
   {
     "name": "Shinjuku Station - West Entrance: Chest on top of roof near entrance",
@@ -2688,7 +2688,7 @@
     "region": "Shinjuku Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 20-2"
+    "flag": "20-2"
   },
   {
     "name": "Shibuya - Miyashita Park: Chest near lamp post",
@@ -2697,7 +2697,7 @@
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 24-3"
+    "flag": "24-3"
   },
   {
     "name": "Kasumigaseki - Sakurada-dori: Chest at the end of the street",
@@ -2706,7 +2706,7 @@
     "region": "Kasumigaseki - Sakurada-dori",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 24-6"
+    "flag": "24-6"
   },
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter along western wall",
@@ -2715,7 +2715,7 @@
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 27-3"
+    "flag": "27-3"
   },
   {
     "name": "Ueno - Ameyoko Way: Dead hunter on roof",
@@ -2724,7 +2724,7 @@
     "region": "Ueno - Ameyoko Way",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 29-6"
+    "flag": "29-6"
   },
   {
     "name": "Ueno - Central Underground District: Chest behind shutters",
@@ -2733,7 +2733,7 @@
     "region": "Ueno - Central Underground District",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 30-3"
+    "flag": "30-3"
   },
   {
     "name": "Naraku - 3rd Stratum: Chest in poison area",
@@ -2742,7 +2742,7 @@
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 31-2"
+    "flag": "31-2"
   },
   {
     "name": "Naraku - 1st Stratum: Green relic pile past door that requires Key to Naraku",
@@ -2760,7 +2760,7 @@
     "region": "Naraku - 1st Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 31-6"
+    "flag": "31-6"
   },
   {
     "name": "Naraku - 2nd Stratum: Green relic pile, lower left by wall",
@@ -2778,7 +2778,7 @@
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 32-5"
+    "flag": "32-5"
   },
   {
     "name": "Naraku - 4th Stratum: Chest behind waterfall",
@@ -2787,7 +2787,7 @@
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 33-1"
+    "flag": "33-1"
   },
   {
     "name": "Naraku - 4th Stratum: Green relic pile after climbing up north-east ladders",
@@ -2805,7 +2805,7 @@
     "region": "Naraku - Temporary Scaffolding",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 35-7"
+    "flag": "35-7"
   },
   {
     "name": "Shinjuku National Park - Pond Garden: Chest near fire wall",
@@ -2814,7 +2814,7 @@
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 37-6"
+    "flag": "37-6"
   },
   {
     "name": "Shinjuku National Park - Pond Garden: Chest west of entrance",
@@ -2823,7 +2823,7 @@
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 37-7"
+    "flag": "37-7"
   },
   {
     "name": "Reverse Hills - B9F: Dead hunter behind door, south-east",
@@ -2832,7 +2832,7 @@
     "region": "Reverse Hills - B9F",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 41-3"
+    "flag": "41-3"
   },
   {
     "name": "Monochrome Forest - Animal Trail D: Chest, north",
@@ -2841,7 +2841,7 @@
     "region": "Monochrome Forest - Animal Trail D",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 44-6"
+    "flag": "44-6"
   },
   {
     "name": "Midtown - Former Army Shelter: Chest around corner near entrance",
@@ -2850,7 +2850,7 @@
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-2"
+    "flag": "40-2"
   },
   {
     "name": "Midtown - Former Army Shelter: Chest further in",
@@ -2859,7 +2859,7 @@
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "chest",
-    "flag": " 40-3"
+    "flag": "40-3"
   },
   {
     "name": "Midtown - Former Army Shelter: Dead hunter",
@@ -2868,6 +2868,6 @@
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "corpse",
-    "flag": " 40-4"
+    "flag": "40-4"
   }
 ]

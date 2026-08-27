@@ -76,6 +76,7 @@ class DemonTable:
         return self.demons[str(demon_id)]
 
 
+demon_table = None
 try:
     demon_table = DemonTable.load_from_json()
 except Exception as e:
