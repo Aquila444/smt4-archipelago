@@ -5,7 +5,7 @@ from argparse import Namespace
 from typing import Any
 
 from CommonClient import ClientCommandProcessor, CommonContext, server_loop
-from . import game_watcher
+from .watchers import game_watcher
 from .location_tracker import LocationTracker
 from ..config import GAME_NAME
 

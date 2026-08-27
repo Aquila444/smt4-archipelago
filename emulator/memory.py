@@ -1,6 +1,6 @@
 import asyncio
 import time
-from typing import Callable
+from typing import Callable, Any, Awaitable
 
 from .azahar import azahar
 
@@ -54,15 +54,16 @@ async def search_for_value(target_value, value_size_bytes: int, conversion_func)
     return found_addresses
 
 
-async def memory_handler(address: int, size_bytes: int, handler: Callable[[bytes, bytes], None]):
+async def memory_handler(address: int, size_bytes: int, handler: Callable[[bytes, bytes], Awaitable[Any]]):
     previous_value = await read_memory(address, size_bytes)
-    while True:
-        await asyncio.sleep(1)
 
+    while True:
         current_value = await read_memory(address, size_bytes)
-        handler(previous_value, current_value)
+        await handler(previous_value, current_value)
 
         previous_value = current_value
+
+        await asyncio.sleep(1)
 
 
 async def read_memory(address: int, size_bytes: int) -> bytes:
