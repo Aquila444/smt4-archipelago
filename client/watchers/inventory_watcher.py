@@ -16,5 +16,4 @@ async def ap_item_handler(previous_bytes: bytes, current_bytes: bytes):
     data = struct.pack("<B", 0)
 
     if count > 0:
-        print("Got an AP item, will remove it")
         await azahar.write(ap_item_address, data)

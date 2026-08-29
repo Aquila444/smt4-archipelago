@@ -7,7 +7,8 @@ from ..emulator.azahar import azahar
 read_type_conversion_map = {
     "string": lambda x: x.decode("shift_jis", errors='ignore'),
     "int": lambda x: int.from_bytes(x, "little"),
-    "byte": lambda x: bytes(x)
+    "byte": lambda x: bytes(x),
+    "hex": lambda x: x.hex(" ").upper()
 }
 write_type_conversion_map = {
     "string": lambda x: str(x).encode(),

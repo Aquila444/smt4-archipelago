@@ -11,7 +11,7 @@ if TYPE_CHECKING:
     from .world import SMT4World
 
 
-def load_items():
+def load_items() -> list[SmtItem]:
     item_file_name = "ap-items.json"
     data = load_data_file_as_json(item_file_name)
 

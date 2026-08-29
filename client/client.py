@@ -5,8 +5,9 @@ from argparse import Namespace
 from typing import Any
 
 from CommonClient import ClientCommandProcessor, CommonContext, server_loop
-from .watchers import game_watcher
+from . import item_handler
 from .location_tracker import LocationTracker
+from .watchers import game_watcher
 from ..config import GAME_NAME
 
 
@@ -23,6 +24,8 @@ class SMT4Context(CommonContext):
     # Get items from other worlds only
     items_handling = 0b001
 
+    highest_processed_item_index: int = 0
+
     def __init__(self, server_address: str | None = None, password: str | None = None) -> None:
         super().__init__(server_address, password)
 
@@ -35,7 +38,7 @@ class SMT4Context(CommonContext):
         await self.send_connect(game=self.game)
 
     async def smt_loop(self) -> None:
-        game_watcher.watch(self.location_tracker)
+        await game_watcher.watch(self.location_tracker)
 
         while not self.exit_event.is_set():
             try:
@@ -47,6 +50,12 @@ class SMT4Context(CommonContext):
             if checked_location:
                 await self.check_locations({checked_location})
                 print(f"Sent location to server: {checked_location}")
+
+            new_items = self.items_received[self.highest_processed_item_index:]
+            for item in new_items:
+                print(f"Got item from server: {item.item}")
+                await item_handler.receive_item(item)
+                self.highest_processed_item_index += 1
 
     def on_package(self, cmd: str, args: dict[str, Any]) -> None:
         pass

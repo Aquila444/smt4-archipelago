@@ -12,7 +12,9 @@ classification_map = {
     ItemType.KEY_ITEMS: ItemClassification.progression,
     ItemType.GEAR: ItemClassification.useful,
     ItemType.CONSUMABLES: ItemClassification.filler,
-    ItemType.STARS: ItemClassification.filler
+    ItemType.STARS: ItemClassification.filler,
+    ItemType.RELICS: ItemClassification.filler,
+    ItemType.CUT_CONTENT: ItemClassification.filler
 }
 
 
@@ -23,24 +25,26 @@ def sanitize_item_name(name: str) -> str:
 def main():
     unused_items = {"予備枠", "？？？", "削除", "これは未使用", "×魔導書（大）", "真サムライ制服"}
 
+    inventory_index = 0
     counter = 0
     smt_items = []
     for category in item_table.item_categories:
         item_type = category.item_type
-        if item_type in [ItemType.RELICS, ItemType.CUT_CONTENT]:
-            continue
 
         items = category.items
         for item in items:
             if item.name in unused_items:
+                inventory_index += 1
                 continue
             counter += 1
 
             classification = classification_map[item_type]
 
             item_name = sanitize_item_name(item.name)
-            smt_item = SmtItem(item_name, counter, item.item_id, item_type.name, classification.name)
+            smt_item = SmtItem(item_name, counter, item.item_id, inventory_index, item_type.name, classification.name)
             smt_items.append(smt_item)
+
+            inventory_index += 1
 
     item_output_path = DATA_DIR / "ap-items.json"
     with open(item_output_path, 'w+') as f:

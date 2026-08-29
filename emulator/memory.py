@@ -46,15 +46,17 @@ async def search_for_value(target_value, value_size_bytes: int, conversion_func)
 
             slice_address = current_address + offset
             if value == target_value:
-                found_addresses.append(current_address)
-                print(f"offset: {slice_address:x}, value: {value}")
+                found_addresses.append(slice_address)
+                print(f"Address: 0x{slice_address:x}, value: {value}")
 
         current_address += azahar.MAX_READ_SIZE
 
     return found_addresses
 
 
-async def memory_handler(address: int, size_bytes: int, handler: Callable[[bytes, bytes], Awaitable[Any]]):
+async def memory_handler(address: int, size_bytes: int,
+                         handler: Callable[[bytes, bytes], Awaitable[Any]],
+                         interval: float = 1.0):
     previous_value = await read_memory(address, size_bytes)
 
     while True:
@@ -63,7 +65,7 @@ async def memory_handler(address: int, size_bytes: int, handler: Callable[[bytes
 
         previous_value = current_value
 
-        await asyncio.sleep(1)
+        await asyncio.sleep(interval)
 
 
 async def read_memory(address: int, size_bytes: int) -> bytes:

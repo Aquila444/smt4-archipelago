@@ -40,6 +40,7 @@ class SmtItem:
     name: str
     archipelago_id: int
     game_id: int
+    inventory_index: int
     type: str
     classification: str
 
@@ -48,10 +49,11 @@ class SmtItem:
         name = data["name"]
         archipelago_id = data["archipelago_id"]
         game_id = data["game_id"]
+        inventory_index = data["inventory_index"]
         type = data["type"]
         classification = data["classification"]
 
-        return SmtItem(name, archipelago_id, game_id, type, classification)
+        return SmtItem(name, archipelago_id, game_id, inventory_index, type, classification)
 
 
 @dataclass

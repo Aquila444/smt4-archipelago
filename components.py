@@ -16,7 +16,7 @@ components.append(
         func=run_client,
         game_name=GAME_NAME,
         component_type=Type.CLIENT,
-        supports_uri=False,
+        supports_uri=True,
         file_identifier=SuffixIdentifier(".apsmt4")
     )
 )
