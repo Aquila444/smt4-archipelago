@@ -41,6 +41,7 @@ class SMT4Context(CommonContext):
             try:
                 async with asyncio.timeout(1):
                     checked_location = await self.game_watcher.get_location()
+                    print(f"Got location from game {checked_location}")
             except asyncio.TimeoutError:
                 checked_location = None
 
@@ -50,7 +51,7 @@ class SMT4Context(CommonContext):
 
             new_items = self.items_received[self.highest_processed_item_index:]
             for item in new_items:
-                print(f"Got item from server: {item.item}")
+                print(f"Got item {item.item} from server with index {self.highest_processed_item_index}")
                 await self.game_watcher.give_item(self.highest_processed_item_index, item)
                 self.highest_processed_item_index += 1
 

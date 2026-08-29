@@ -19,7 +19,7 @@ async def receive_item(ap_item_id: int) -> None:
 
     new_item_count = min(current_item_count + 1, item_cap)
     new_item_count_bytes = struct.pack("<H", new_item_count)
-    await azahar.write_memory(address, new_item_count_bytes)
+    await azahar.write(address, new_item_count_bytes)
 
 
 def get_address_for_item_id(inventory_index: int) -> int:

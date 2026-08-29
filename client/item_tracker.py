@@ -13,7 +13,7 @@ class ReceivedSmtItem:
     ap_item_id: int
 
     def to_csv(self) -> str:
-        return ",".join(asdict(self).values())
+        return ",".join([str(value) for value in asdict(self).values()])
 
     @classmethod
     def from_csv(cls, data: str) -> ReceivedSmtItem:
@@ -32,11 +32,15 @@ class ItemTracker:
         self.items = ItemTracker.get_items_from_file()
         self.seen_indices = {item.index for item in self.items}
 
-    def register_item(self, item: ReceivedSmtItem) -> None:
+    def register_item(self, item: ReceivedSmtItem) -> bool:
         if item.index not in self.seen_indices:
             self.items.append(item)
-            ItemTracker.write_to_file(item)
+            self.write_to_file(item)
             self.seen_indices.add(item.index)
+
+            return True
+
+        return False
 
     def get_items_after_time(self, timestamp: int) -> list[ReceivedSmtItem]:
         return [item for item in self.items if item.timestamp >= timestamp]

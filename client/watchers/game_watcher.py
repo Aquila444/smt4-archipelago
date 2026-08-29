@@ -48,14 +48,12 @@ class GameWatcher:
 
         likely_loaded = time_difference > 5
         if likely_loaded:
-            print("Player likely loaded game.")
             self.save_loaded = True
             self.stable_iterations = 0
             self.tentative_load_time = current_time
             return
         else:
             self.stable_iterations += 1
-            print(f"Stable for {self.stable_iterations} iterations.")
 
         if self.save_loaded and self.stable_iterations == 3:
             self.save_loaded = False
@@ -71,7 +69,7 @@ class GameWatcher:
 
             missing_items = self.item_tracker.get_items_after_time(save_timestamp)
             for item in missing_items:
-                print(f"Gave missing item from server: {item.ap_item_id}")
+                print(f"Recovered missing item: {item.ap_item_id}")
                 await item_handler.receive_item(item.ap_item_id)
 
     def set_active_save(self):
@@ -121,8 +119,8 @@ class GameWatcher:
         timestamp = int(time.time())
 
         received_smt_item = ReceivedSmtItem(index, timestamp, item.item)
-        self.item_tracker.register_item(received_smt_item)
+        new_item = self.item_tracker.register_item(received_smt_item)
 
-        if self.player_in_game:
+        if self.player_in_game and new_item:
             print(f"Gave item from server: {item.item}")
             await item_handler.receive_item(item.item)
