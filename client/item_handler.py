@@ -1,6 +1,5 @@
 import struct
 
-from NetUtils import NetworkItem
 from emulator.azahar import azahar
 from ..emulator.memory import read_memory
 from ..items import items
@@ -11,8 +10,7 @@ item_cap = 255
 ap_id_to_inventory_id = {item.archipelago_id: item.inventory_index for item in items}
 
 
-async def receive_item(network_item: NetworkItem) -> None:
-    ap_item_id = network_item.item
+async def receive_item(ap_item_id: int) -> None:
     inventory_index = ap_id_to_inventory_id[ap_item_id]
 
     address = get_address_for_item_id(inventory_index)

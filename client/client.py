@@ -5,9 +5,7 @@ from argparse import Namespace
 from typing import Any
 
 from CommonClient import ClientCommandProcessor, CommonContext, server_loop
-from . import item_handler
-from .location_tracker import LocationTracker
-from .watchers import game_watcher
+from .watchers.game_watcher import GameWatcher
 from ..config import GAME_NAME
 
 
@@ -28,8 +26,7 @@ class SMT4Context(CommonContext):
 
     def __init__(self, server_address: str | None = None, password: str | None = None) -> None:
         super().__init__(server_address, password)
-
-        self.location_tracker = LocationTracker()
+        self.game_watcher = GameWatcher()
 
     async def server_auth(self, password_requested: bool = False) -> None:
         if password_requested and not self.password:
@@ -38,12 +35,12 @@ class SMT4Context(CommonContext):
         await self.send_connect(game=self.game)
 
     async def smt_loop(self) -> None:
-        await game_watcher.watch(self.location_tracker)
+        await self.game_watcher.start()
 
         while not self.exit_event.is_set():
             try:
                 async with asyncio.timeout(1):
-                    checked_location = await self.location_tracker.get_location()
+                    checked_location = await self.game_watcher.get_location()
             except asyncio.TimeoutError:
                 checked_location = None
 
@@ -54,7 +51,7 @@ class SMT4Context(CommonContext):
             new_items = self.items_received[self.highest_processed_item_index:]
             for item in new_items:
                 print(f"Got item from server: {item.item}")
-                await item_handler.receive_item(item)
+                await self.game_watcher.give_item(self.highest_processed_item_index, item)
                 self.highest_processed_item_index += 1
 
     def on_package(self, cmd: str, args: dict[str, Any]) -> None:
