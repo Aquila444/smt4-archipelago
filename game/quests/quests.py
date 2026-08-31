@@ -7,7 +7,7 @@ from itertools import batched
 
 import orjson
 
-from .objectives import QuestType, ItemObjective, EnemyObjective, Objective
+from .objectives import QuestType, Objective
 from .rewards import ItemSetReward, RewardType, ItemReward, MaccaReward
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
@@ -53,7 +53,7 @@ class QuestTable:
     def load_from_json(cls) -> QuestTable:
         data = load_data_file_as_json(DATA_FILE_NAME, encoding="shift_jis")
 
-        quests = [Quest.from_dict(entry) for entry in data]
+        quests = [Quest.from_dict(entry) for entry in data["quests"]]
 
         return QuestTable(quests)
 
@@ -173,13 +173,9 @@ class Quest:
         else:
             reward = ItemSetReward.from_dict(reward_data)
 
-        objective_data = data["objective"]
-        if quest_type == QuestType.DELIVERY:
-            objective = ItemObjective.from_dict(objective_data)
-        elif quest_type == QuestType.SLAY:
-            objective = EnemyObjective.from_dict(objective_data)
-        else:
-            objective = None
+        objective_data = data["objectives"]
+        objectives = [Objective.from_dict(objective) for objective in objective_data]
+        non_empty_objectives = [objective for objective in objectives if objective is not None]
 
         quest_requirements = data["quest_requirements"]
 
@@ -198,12 +194,13 @@ class Quest:
         unknown_13 = data["unknown_13"]
         unknown_14 = data["unknown_14"]
         unknown_15 = data["unknown_15"]
+        unknown_16 = data["unknown_16"]
 
         return Quest(
             quest_id, quest_category, quest_type, name, quest_giver, description, sort_order, start_event, end_event,
-            star_rating, reward_type, reward, objective, quest_requirements,
+            star_rating, reward_type, reward, non_empty_objectives, quest_requirements,
             unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8, unknown_9,
-            unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15
+            unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15, unknown_16
         )
 
 

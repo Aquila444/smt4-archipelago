@@ -44,6 +44,18 @@ class Objective:
             return ItemObjective(objective_type, objective_id, count)
         elif objective_type == ObjectiveType.SLAY:
             return EnemyObjective(objective_type, objective_id, count)
+
+        return None
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Objective | None:
+        objective_type = ObjectiveType(data["objective_type"])
+
+        if objective_type == ObjectiveType.ITEM:
+            return ItemObjective.from_dict(data)
+        elif objective_type == ObjectiveType.SLAY:
+            return EnemyObjective.from_dict(data)
+
         return None
 
 
