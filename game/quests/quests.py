@@ -5,106 +5,23 @@ from dataclasses import dataclass
 from enum import IntEnum
 from itertools import batched
 
-import jsonpickle
+import orjson
 
-from ..demons.demons import demon_table
-from ..items.item_table import ItemTable
+from .objectives import QuestType, ItemObjective, EnemyObjective, Objective
+from .rewards import ItemSetReward, RewardType, ItemReward, MaccaReward
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
 
 TBB_FILE_PATH = "event/quest"
 ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
+DATA_FILE_NAME = "quests.json"
 DATA_FILE_LOCATION = DATA_DIR / "quests.json"
-
-
-class RewardType(IntEnum):
-    ITEM = 1
-    MACCA = 3
-    ITEM_SET = 4
 
 
 class QuestCategory(IntEnum):
     MAIN = 1
     SUB = 2
-
-
-class QuestType(IntEnum):
-    DELIVERY = 0
-    SLAY = 1
-    FIND = 2
-    FUSION = 3
-    BRING = 4
-    ESCORT = 5
-    TRAINING = 6
-    UNUSED_1 = 7
-    DLC = 8
-    DLC_2 = 9
-    UNUSED_2 = 10
-    UNUSED_3 = 11
-
-
-@dataclass
-class ItemObjective:
-    item_id: int
-    count: int
-
-
-@dataclass
-class EnemyObjective:
-    enemy_id: int
-    enemy_name: str
-    count: int
-
-
-@dataclass
-class ItemReward:
-    item_id: int
-    count: int
-
-
-@dataclass
-class ItemSetDrop:
-    _STRUCT_FORMAT = f"2H"
-    _STRUCT_SIZE = struct.calcsize(_STRUCT_FORMAT)
-
-    item_id: int
-    drop_weight: int
-
-    @classmethod
-    def from_bytes(cls, reward_bytes: bytes) -> ItemSetDrop:
-        item_id, drop_weight = struct.unpack(cls._STRUCT_FORMAT, reward_bytes)
-
-        return ItemSetDrop(item_id, drop_weight)
-
-
-@dataclass
-class MaccaReward:
-    amount: int
-
-
-@dataclass
-class ItemSetReward:
-    _NAME_LENGTH = 48
-    _REWARD_SECTION_LENGTH = 32
-    _STRUCT_FORMAT = f"{_NAME_LENGTH}s{_REWARD_SECTION_LENGTH}s"
-    _STRUCT_SIZE = struct.calcsize(_STRUCT_FORMAT)
-
-    name: str
-    rewards: list[ItemSetDrop]
-
-    @classmethod
-    def from_bytes(cls, item_set_bytes: bytes):
-        struct_bytes = item_set_bytes[:cls._STRUCT_SIZE]
-
-        name_bytes, reward_bytes = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
-
-        name = extract_string_from_bytes(name_bytes)
-
-        rewards = [ItemSetDrop.from_bytes(bytes(chunk)) for chunk in batched(reward_bytes, ItemSetDrop._STRUCT_SIZE)]
-        non_empty_rewards = [reward for reward in rewards if reward.item_id > 0]
-
-        return ItemSetReward(name, non_empty_rewards)
 
 
 @dataclass
@@ -133,18 +50,16 @@ class QuestTable:
         return QuestTable(quests)
 
     @classmethod
-    def load_from_json(cls) -> ItemTable | None:
-        try:
-            with open(DATA_FILE_LOCATION, encoding="shift_jis") as json_file:
-                json_string = json_file.read()
+    def load_from_json(cls) -> QuestTable:
+        data = load_data_file_as_json(DATA_FILE_NAME, encoding="shift_jis")
 
-                return jsonpickle.decode(json_string)
-        except FileNotFoundError:
-            return None
+        quests = [Quest.from_dict(entry) for entry in data]
+
+        return QuestTable(quests)
 
     def export(self):
-        with open(DATA_FILE_LOCATION, "w+", encoding="shift_jis") as json_file:
-            encoded_json = jsonpickle.encode(self, json_file)
+        with open(DATA_FILE_LOCATION, "wb+") as json_file:
+            encoded_json = orjson.dumps(self)
             json_file.write(encoded_json)
 
 
@@ -154,7 +69,7 @@ class Quest:
     _QUEST_GIVER_LENGTH = 48
     _DESCRIPTION_LENGTH = 64
 
-    _STRUCT_FORMAT = f"3HBB{_NAME_LENGTH}s{_QUEST_GIVER_LENGTH}s{_DESCRIPTION_LENGTH}s16s16sH6xI5H2x9H46s4H6x3H"
+    _STRUCT_FORMAT = f"3HBB{_NAME_LENGTH}s{_QUEST_GIVER_LENGTH}s{_DESCRIPTION_LENGTH}s16s16sH6xI5H2x6H48s6H6x3H"
     _STRUCT_SIZE = struct.calcsize(_STRUCT_FORMAT)
 
     quest_id: int
@@ -169,24 +84,24 @@ class Quest:
     star_rating: int
     reward_type: RewardType
     reward: ItemReward | MaccaReward | ItemSetReward | None
-    objective: ItemObjective | EnemyObjective | None
+    objectives: list[Objective]
     quest_requirements: list[int]
-    unknown_1: bytes
-    unknown_2: bytes
-    unknown_3: bytes
-    unknown_4: bytes
-    unknown_5: bytes
-    unknown_6: bytes
-    unknown_7: bytes
-    unknown_8: bytes
-    unknown_9: bytes
-    unknown_10: bytes
-    unknown_11: bytes
-    unknown_12: bytes
-    unknown_13: bytes
-    unknown_14: bytes
-    unknown_15: bytes
-    unknown_16: bytes
+    unknown_1: int
+    unknown_2: int
+    unknown_3: int
+    unknown_4: int
+    unknown_5: int
+    unknown_6: int
+    unknown_7: int
+    unknown_8: int
+    unknown_9: int
+    unknown_10: int
+    unknown_11: int
+    unknown_12: int
+    unknown_13: int
+    unknown_14: int
+    unknown_15: int
+    unknown_16: int
 
     @classmethod
     def from_bytes(cls, quest_bytes: bytes, quest_category: QuestCategory,
@@ -199,8 +114,8 @@ class Quest:
             start_event_bytes, end_event_bytes,
             unknown_3, star_rating, reward_type_value, item_reward_id, reward_amount,
             unknown_4, unknown_5, unknown_6, item_set_reward_value,
-            unknown_7, unknown_8, unknown_9, unknown_10, unknown_11, objective_id, objective_amount,
-            unknown_12,
+            unknown_7, unknown_8, unknown_9, unknown_10, objectives_bytes,
+            unknown_11, unknown_12,
             quest_requirement_1, quest_requirement_2, quest_requirement_3,
             unknown_13, unknown_14, unknown_15, unknown_16
         ) = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
@@ -215,14 +130,8 @@ class Quest:
         quest_type = QuestType(quest_type_value)
         reward_type = RewardType(reward_type_value)
 
-        objective = None
-        if objective_id == 0 or objective_amount == 0:
-            objective = None
-        elif quest_type == quest_type.DELIVERY:
-            objective = ItemObjective(objective_id, objective_amount)
-        elif quest_type == quest_type.SLAY:
-            target_demon = demon_table.get_demon(objective_id)
-            objective = EnemyObjective(target_demon.demon_id, target_demon.name, objective_amount)
+        objectives = [Objective.from_bytes(bytes(entry)) for entry in batched(objectives_bytes, Objective.STRUCT_SIZE)]
+        non_empty_objectives = [objective for objective in objectives if objective is not None]
 
         if reward_type == RewardType.ITEM:
             reward = ItemReward(item_reward_id, reward_amount)
@@ -237,9 +146,64 @@ class Quest:
         return Quest(
             quest_id, quest_category, quest_type, name, quest_giver, description,
             sort_order, start_event, end_event, star_rating, reward_type,
-            reward, objective, quest_requirements_filtered,
+            reward, non_empty_objectives, quest_requirements_filtered,
             unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8,
             unknown_9, unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15, unknown_16
+        )
+
+    @classmethod
+    def from_dict(cls, data: dict) -> Quest:
+        quest_id = data["quest_id"]
+        quest_category = QuestCategory(data["quest_category"])
+        quest_type = QuestType(data["quest_type"])
+        name = data["name"]
+        quest_giver = data["quest_giver"]
+        description = data["description"]
+        sort_order = data["sort_order"]
+        start_event = data["start_event"]
+        end_event = data["end_event"]
+        star_rating = data["star_rating"]
+
+        reward_type = RewardType(data["reward_type"])
+        reward_data = data["reward"]
+        if reward_type == RewardType.ITEM:
+            reward = ItemReward.from_dict(reward_data)
+        elif reward_type == RewardType.MACCA:
+            reward = MaccaReward.from_dict(reward_data)
+        else:
+            reward = ItemSetReward.from_dict(reward_data)
+
+        objective_data = data["objective"]
+        if quest_type == QuestType.DELIVERY:
+            objective = ItemObjective.from_dict(objective_data)
+        elif quest_type == QuestType.SLAY:
+            objective = EnemyObjective.from_dict(objective_data)
+        else:
+            objective = None
+
+        quest_requirements = data["quest_requirements"]
+
+        unknown_1 = data["unknown_1"]
+        unknown_2 = data["unknown_2"]
+        unknown_3 = data["unknown_3"]
+        unknown_4 = data["unknown_4"]
+        unknown_5 = data["unknown_5"]
+        unknown_6 = data["unknown_6"]
+        unknown_7 = data["unknown_7"]
+        unknown_8 = data["unknown_8"]
+        unknown_9 = data["unknown_9"]
+        unknown_10 = data["unknown_10"]
+        unknown_11 = data["unknown_11"]
+        unknown_12 = data["unknown_12"]
+        unknown_13 = data["unknown_13"]
+        unknown_14 = data["unknown_14"]
+        unknown_15 = data["unknown_15"]
+
+        return Quest(
+            quest_id, quest_category, quest_type, name, quest_giver, description, sort_order, start_event, end_event,
+            star_rating, reward_type, reward, objective, quest_requirements,
+            unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8, unknown_9,
+            unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15
         )
 
 

@@ -50,7 +50,7 @@ class ItemTracker:
         item_string = item.to_csv()
         file_path = cls.get_data_file_path()
 
-        with open(file_path, "w+") as file:
+        with open(file_path, "aw+") as file:
             file.write(item_string + "\n")
             file.flush()
 
