@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from itertools import batched
 
 from .item import Item
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_name_from_bytes
 
 
 @dataclass
@@ -47,7 +47,7 @@ class StarItem(Item):
         name_bytes, item_id, unknown_1, unknown_2, items_bytes = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
         original_name = name_bytes.decode(encoding="shift-jis")
-        name = extract_string_from_bytes(name_bytes)
+        name = extract_name_from_bytes(name_bytes)
         items = cls.parse_items_bytes(items_bytes)
 
         return StarItem(item_id, name, original_name, items, unknown_1, unknown_2)

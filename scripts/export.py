@@ -1,10 +1,10 @@
 import re
 
-from ..config import DATA_DIR, INPUT_ROMFS_DIR
+from ..config import DATA_DIR, INPUT_ROMFS_DIR, OUTPUT_ROM_DIR
 from ..game.demons.demons import DemonTable
 from ..game.items.item_table import ItemTable
 from ..game.quests.quests import QuestTable
-from ..game.shops.shops import ShopTable
+from ..game.shops.shop_table import ShopTable
 from ..game.treasure.treasure import LootTable
 from ..tbb.tbb import Table
 
@@ -86,6 +86,7 @@ def export_items():
 def export_shops():
     shops_table = ShopTable.load_from_rom()
     shops_table.export()
+    shops_table.to_file(OUTPUT_ROM_DIR / "ExtractedRomFS")
 
 
 if __name__ == '__main__':

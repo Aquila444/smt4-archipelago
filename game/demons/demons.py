@@ -6,7 +6,7 @@ import orjson
 
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
-from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
+from ...utils.utils import extract_name_from_bytes, load_data_file_as_json
 
 TBB_FILE_PATH = "battle/NKMSortIndex.tbb"
 ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
@@ -21,7 +21,7 @@ class DemonRace:
 
     @classmethod
     def from_bytes(cls, race_bytes: bytes, index: int):
-        name = extract_string_from_bytes(race_bytes)
+        name = extract_name_from_bytes(race_bytes)
 
         return DemonRace(index, name)
 
@@ -33,7 +33,7 @@ class Demon:
 
     @classmethod
     def from_bytes(cls, demon_bytes: bytes, index: int) -> Demon:
-        name = extract_string_from_bytes(demon_bytes)
+        name = extract_name_from_bytes(demon_bytes)
 
         return Demon(index, name)
 

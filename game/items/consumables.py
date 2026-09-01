@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from enum import IntEnum
 
 from .item import Item
-from ...utils.utils import extract_string_from_bytes, create_name_entry
+from ...utils.utils import extract_name_from_bytes, create_name_entry
 
 
 class ItemIcon(IntEnum):
@@ -81,8 +81,8 @@ class Consumable(Item):
         ) = struct.unpack(Consumable._STRUCT_FORMAT, struct_bytes)
 
         original_name = name_bytes.decode(encoding="shift-jis")
-        name = extract_string_from_bytes(name_bytes)
-        category = extract_string_from_bytes(category_bytes)
+        name = extract_name_from_bytes(name_bytes)
+        category = extract_name_from_bytes(category_bytes)
 
         item_icon = ItemIcon(item_icon_value)
         target, effect = cls.parse_effect_byte(effect_byte)

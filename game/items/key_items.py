@@ -4,7 +4,7 @@ import struct
 from dataclasses import dataclass
 
 from .item import Item
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_name_from_bytes
 
 
 @dataclass
@@ -25,7 +25,7 @@ class KeyItem(Item):
         name_bytes, item_id, unknown_1, unknown_2 = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
         original_name = name_bytes.decode(encoding="shift-jis")
-        name = extract_string_from_bytes(name_bytes)
+        name = extract_name_from_bytes(name_bytes)
 
         return KeyItem(item_id, name, original_name, unknown_1, unknown_2)
 

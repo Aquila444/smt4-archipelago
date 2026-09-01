@@ -11,7 +11,7 @@ _NAME_PADDING = 32
 _NAME_PATTERN = re.compile(rb"[^\x00]+")
 
 
-def extract_string_from_bytes(string_bytes: bytes) -> str:
+def extract_name_from_bytes(string_bytes: bytes) -> str:
     match = re.match(_NAME_PATTERN, string_bytes)
 
     if match:
@@ -32,6 +32,12 @@ def create_name_entry(name: str, length: int) -> bytes:
     name_string = name_padded * occurrences
 
     return pad_bytes(name_string, length)
+
+
+def encode_string_with_padding(string: str, length: int) -> bytes:
+    name_bytes = string.encode(encoding="shift_jis")
+
+    return pad_bytes(name_bytes, length)
 
 
 def pad_bytes(string_bytes: bytes, length: int) -> bytes:

@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from enum import IntEnum
 
 from .item import Item
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_name_from_bytes
 
 
 class RelicCategory(IntEnum):
@@ -44,7 +44,7 @@ class Relic(Item):
         ) = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
         original_name = name_bytes.decode(encoding="shift-jis")
-        name = extract_string_from_bytes(name_bytes)
+        name = extract_name_from_bytes(name_bytes)
 
         category = RelicCategory(category_value)
 

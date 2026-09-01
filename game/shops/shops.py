@@ -3,79 +3,97 @@ from __future__ import annotations
 import struct
 from dataclasses import dataclass
 
-import orjson
-
-from ...config import DATA_DIR, INPUT_ROMFS_DIR
-from ...tbb.tbb import Table, TBL
-from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
-
-TBB_FILE_PATH = "shop/ShopTable.tbb"
-ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
-DATA_FILE_NAME = "shops.json"
-DATA_FILE_LOCATION = DATA_DIR / DATA_FILE_NAME
+from ...tbb.tbb import TBL
+from ...utils.utils import extract_name_from_bytes, encode_string_with_padding
 
 
 @dataclass
-class ShopTable:
-    shop_actions: list[str]
-    shop_names: list[str]
-    shops: list[Shop]
+class ShopAction:
+    NAME_LENGTH = 64
+    DESCRIPTION_LENGTH = 64
+    STRUCT_FORMAT = f"<{NAME_LENGTH}s{DESCRIPTION_LENGTH}s"
+
+    name: str
+    description: str
 
     @classmethod
-    def load_from_rom(cls):
-        shop_table = Table.from_file(ROM_FILE_LOCATION)
+    def from_bytes(cls, shop_action_bytes: bytes) -> ShopAction:
+        name_bytes, description_bytes = struct.unpack(ShopAction.STRUCT_FORMAT, shop_action_bytes)
 
-        shop_actions = [extract_string_from_bytes(shop_action_bytes) for shop_action_bytes in
-                        shop_table.tables[0].get_data()]
-        shop_names = [extract_string_from_bytes(shop_name_bytes) for shop_name_bytes in shop_table.tables[1].get_data()]
-        shop_tables = shop_table.tables[2:]
+        name = extract_name_from_bytes(name_bytes)
+        description = extract_name_from_bytes(description_bytes)
 
-        item_ids_path = DATA_DIR / "item-ids.txt"
-        with open(item_ids_path, mode="r", encoding="shift_jis") as item_data_file:
-            item_data = item_data_file.readlines()
+        return ShopAction(name, description)
 
-            item_map = {int(entry.split(": ")[0]): entry.split(": ")[1].strip() for entry in item_data}
+    def to_bytes(self) -> bytes:
+        name = encode_string_with_padding(self.name, self.NAME_LENGTH)
+        description = encode_string_with_padding(self.description, self.DESCRIPTION_LENGTH)
+        values = [name, description]
 
-        shops = [Shop.from_table(shop_name, shop_tables[index], item_map) for index, shop_name in enumerate(shop_names)]
-
-        return ShopTable(shop_actions, shop_names, shops)
+        return struct.pack(ShopAction.STRUCT_FORMAT, *values)
 
     @classmethod
-    def load_from_json(cls) -> ShopTable:
-        data = load_data_file_as_json(DATA_FILE_NAME, encoding="shift_jis")
+    def from_dict(cls, data: dict) -> ShopAction:
+        return ShopAction(**data)
 
-        shop_actions = data["shop_actions"]
-        shop_names = data["shop_names"]
 
-        shops = [Shop.from_dict(entry) for entry in data["shops"]]
+@dataclass
+class ShopEntry:
+    NAME_LENGTH = 32
+    DESCRIPTION_LENGTH = 64
+    STRUCT_FORMAT = f"<{NAME_LENGTH}sI2H{DESCRIPTION_LENGTH}s"
 
-        return ShopTable(shop_actions, shop_names, shops)
+    name: str
+    description: str
+    unknown_1: int
+    unknown_2: int
+    unknown_3: int
 
-    def export(self):
-        with open(DATA_FILE_LOCATION, "wb+") as json_file:
-            encoded_json = orjson.dumps(self)
-            json_file.write(encoded_json)
+    @classmethod
+    def from_bytes(cls, shop_name_bytes: bytes) -> ShopEntry:
+        name_bytes, unknown_1, unknown_2, unknown_3, description_bytes = struct.unpack(ShopEntry.STRUCT_FORMAT,
+                                                                                       shop_name_bytes)
+
+        name = extract_name_from_bytes(name_bytes)
+        description = extract_name_from_bytes(description_bytes)
+
+        return ShopEntry(name, description, unknown_1, unknown_2, unknown_3)
+
+    def to_bytes(self) -> bytes:
+        name = encode_string_with_padding(self.name, self.NAME_LENGTH)
+        description = encode_string_with_padding(self.description, self.DESCRIPTION_LENGTH)
+        values = [name, self.unknown_1, self.unknown_2, self.unknown_3, description]
+
+        return struct.pack(ShopEntry.STRUCT_FORMAT, *values)
+
+    @classmethod
+    def from_dict(cls, data: dict) -> ShopEntry:
+        return ShopEntry(**data)
 
 
 @dataclass
 class Shop:
+    shop_id: int
     name: str
+    description: str
     shop_items: list[ShopItem]
 
     @classmethod
-    def from_table(cls, name: str, shop_table: TBL, item_map: dict[int, str]) -> Shop:
+    def from_table(cls, index: int, shop_name: ShopEntry, shop_table: TBL, item_map: dict[int, str]) -> Shop:
         table_data = shop_table.get_data()
         shop_items = [ShopItem.from_bytes(entry, item_map) for entry in table_data]
 
-        return Shop(name, shop_items)
+        return Shop(index, shop_name.name, shop_name.description, shop_items)
 
     @classmethod
     def from_dict(cls, data: dict) -> Shop:
         name = data["name"]
+        description = data["description"]
+        shop_id = int(data["shop_id"])
 
         shop_items = [ShopItem.from_dict(entry) for entry in data["shop_items"]]
 
-        return Shop(name, shop_items)
+        return Shop(shop_id, name, description, shop_items)
 
 
 @dataclass
@@ -97,6 +115,11 @@ class ShopItem:
         item_name = item_map[item_id]
 
         return ShopItem(item_id, item_name, unlock_requirement, remove_requirement, quest_requirement)
+
+    def to_bytes(self) -> bytes:
+        values = [self.item_id, self.unlock_requirement, self.remove_requirement, self.quest_requirement]
+
+        return struct.pack(ShopItem._STRUCT_FORMAT, *values)
 
     @classmethod
     def from_dict(cls, data: dict) -> ShopItem:

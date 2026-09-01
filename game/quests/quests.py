@@ -11,7 +11,7 @@ from .objectives import QuestType, Objective
 from .rewards import ItemSetReward, RewardType, ItemReward, MaccaReward
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
-from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
+from ...utils.utils import extract_name_from_bytes, load_data_file_as_json
 
 TBB_FILE_PATH = "event/quest"
 ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
@@ -120,12 +120,12 @@ class Quest:
             unknown_12, unknown_13, unknown_14, unknown_15
         ) = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
-        name = extract_string_from_bytes(name_bytes)
-        quest_giver = extract_string_from_bytes(quest_giver_bytes)
-        description = extract_string_from_bytes(description_bytes)
+        name = extract_name_from_bytes(name_bytes)
+        quest_giver = extract_name_from_bytes(quest_giver_bytes)
+        description = extract_name_from_bytes(description_bytes)
 
-        start_event = extract_string_from_bytes(start_event_bytes)
-        end_event = extract_string_from_bytes(end_event_bytes)
+        start_event = extract_name_from_bytes(start_event_bytes)
+        end_event = extract_name_from_bytes(end_event_bytes)
 
         quest_type = QuestType(quest_type_value)
         reward_type = RewardType(reward_type_value)
@@ -171,14 +171,21 @@ class Quest:
         end_event = data["end_event"]
         star_rating = data["star_rating"]
 
+        repeat_reward_data = data["repeat_reward"]
         reward_type = RewardType(data["reward_type"])
         reward_data = data["reward"]
+
+        repeat_reward = None
         if reward_type == RewardType.ITEM:
             reward = ItemReward.from_dict(reward_data)
         elif reward_type == RewardType.MACCA:
             reward = MaccaReward.from_dict(reward_data)
+            if repeat_reward_data is not None:
+                repeat_reward = MaccaReward.from_dict(repeat_reward_data)
         else:
             reward = ItemSetReward.from_dict(reward_data)
+            if repeat_reward_data is not None:
+                repeat_reward = ItemSetReward.from_dict(repeat_reward_data)
 
         objective_data = data["objectives"]
         objectives = [Objective.from_dict(objective) for objective in objective_data]
@@ -204,7 +211,7 @@ class Quest:
 
         return Quest(
             quest_id, quest_category, quest_type, name, quest_giver, description, sort_order, start_event, end_event,
-            star_rating, reward_type, reward, non_empty_objectives, quest_requirements,
+            star_rating, reward_type, reward, repeat_reward, non_empty_objectives, quest_requirements,
             unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8, unknown_9,
             unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15
         )

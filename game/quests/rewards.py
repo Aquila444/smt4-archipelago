@@ -5,7 +5,7 @@ from dataclasses import dataclass
 from enum import IntEnum
 from itertools import batched
 
-from ...utils.utils import extract_string_from_bytes
+from ...utils.utils import extract_name_from_bytes
 
 
 class RewardType(IntEnum):
@@ -68,7 +68,7 @@ class ItemSetReward:
 
         name_bytes, reward_bytes = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
-        name = extract_string_from_bytes(name_bytes)
+        name = extract_name_from_bytes(name_bytes)
 
         rewards = [ItemSetDrop.from_bytes(bytes(chunk)) for chunk in batched(reward_bytes, ItemSetDrop._STRUCT_SIZE)]
         non_empty_rewards = [reward for reward in rewards if reward.item_id > 0]

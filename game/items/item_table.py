@@ -70,6 +70,8 @@ class ItemTable:
         self.tbb_table.to_file(tbb_file_path)
 
     def _sync_state_to_tbb_table(self) -> None:
+        self.tbb_table.to_empty_table()
+
         for table_index, category in enumerate(self.item_categories):
             subtable = self.tbb_table.tables[table_index]
 
