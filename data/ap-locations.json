@@ -2,7 +2,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Chest under roof on the left side",
     "archipelago_id": 1,
-    "game_id": 1,
+    "game_id": "1",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -11,7 +11,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Chest behind breakable wall on the right side",
     "archipelago_id": 2,
-    "game_id": 2,
+    "game_id": "2",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -20,7 +20,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Gray relic pile near boss",
     "archipelago_id": 3,
-    "game_id": 5,
+    "game_id": "5",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "relic",
@@ -29,7 +29,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Dead hunter under roof on the right side",
     "archipelago_id": 4,
-    "game_id": 6,
+    "game_id": "6",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -38,7 +38,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Dead hunter near entrance on the left side",
     "archipelago_id": 5,
-    "game_id": 7,
+    "game_id": "7",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -47,7 +47,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Dead hunter near boss",
     "archipelago_id": 6,
-    "game_id": 8,
+    "game_id": "8",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -56,7 +56,7 @@
   {
     "name": "Shinjuku - South Entrance: Right of two chests past fence",
     "archipelago_id": 7,
-    "game_id": 10,
+    "game_id": "10",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -65,7 +65,7 @@
   {
     "name": "Shinjuku - South Entrance: Chest on roof",
     "archipelago_id": 8,
-    "game_id": 11,
+    "game_id": "11",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -74,7 +74,7 @@
   {
     "name": "Shinjuku - South Entrance: Gray relic pile",
     "archipelago_id": 9,
-    "game_id": 12,
+    "game_id": "12",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -83,7 +83,7 @@
   {
     "name": "Shinjuku - South Entrance: Dead hunter west",
     "archipelago_id": 10,
-    "game_id": 15,
+    "game_id": "15",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -92,7 +92,7 @@
   {
     "name": "Shinjuku - South Entrance: Dead hunter east",
     "archipelago_id": 11,
-    "game_id": 16,
+    "game_id": "16",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -101,7 +101,7 @@
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter near western wall",
     "archipelago_id": 12,
-    "game_id": 18,
+    "game_id": "18",
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -110,7 +110,7 @@
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter east of entrance",
     "archipelago_id": 13,
-    "game_id": 19,
+    "game_id": "19",
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -119,7 +119,7 @@
   {
     "name": "Shinjuku - East Entrance Main Street: Dead hunter near wall south of entrance",
     "archipelago_id": 14,
-    "game_id": 20,
+    "game_id": "20",
     "region": "Shinjuku - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -128,7 +128,7 @@
   {
     "name": "Shinjuku - Kabuki-cho: Dead hunter south-east",
     "archipelago_id": 15,
-    "game_id": 21,
+    "game_id": "21",
     "region": "Shinjuku - Kabuki-cho",
     "type": "treasure",
     "subtype": "corpse",
@@ -137,7 +137,7 @@
   {
     "name": "Shinjuku - Kabuki-cho: Dead hunter north-west",
     "archipelago_id": 16,
-    "game_id": 22,
+    "game_id": "22",
     "region": "Shinjuku - Kabuki-cho",
     "type": "treasure",
     "subtype": "corpse",
@@ -146,7 +146,7 @@
   {
     "name": "Shinjuku - Golden Gai: Gray relic pile",
     "archipelago_id": 17,
-    "game_id": 23,
+    "game_id": "23",
     "region": "Shinjuku - Golden Gai",
     "type": "treasure",
     "subtype": "relic",
@@ -155,7 +155,7 @@
   {
     "name": "Shinjuku - Golden Gai: Dead hunter on roof",
     "archipelago_id": 18,
-    "game_id": 25,
+    "game_id": "25",
     "region": "Shinjuku - Golden Gai",
     "type": "treasure",
     "subtype": "corpse",
@@ -164,7 +164,7 @@
   {
     "name": "Shinjuku - Nicho: Dead hunter south-east",
     "archipelago_id": 19,
-    "game_id": 26,
+    "game_id": "26",
     "region": "Shinjuku - Nicho",
     "type": "treasure",
     "subtype": "corpse",
@@ -173,7 +173,7 @@
   {
     "name": "Shinjuku National Park - Pond Garden: Chest hidden behind hedge after firewall",
     "archipelago_id": 20,
-    "game_id": 28,
+    "game_id": "28",
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
@@ -182,7 +182,7 @@
   {
     "name": "Shinjuku National Park - Pond Garden: Dead hunter on bridge",
     "archipelago_id": 21,
-    "game_id": 29,
+    "game_id": "29",
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "corpse",
@@ -191,7 +191,7 @@
   {
     "name": "Shinjuku National Park - Pond Garden: Dead hunter after firewall",
     "archipelago_id": 22,
-    "game_id": 30,
+    "game_id": "30",
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "corpse",
@@ -200,7 +200,7 @@
   {
     "name": "Shinjuku Station - West Entrance: Chest behind stairs",
     "archipelago_id": 23,
-    "game_id": 31,
+    "game_id": "31",
     "region": "Shinjuku Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -209,7 +209,7 @@
   {
     "name": "Shinjuku Station - West Entrance: Gray relic pile on top of stairs",
     "archipelago_id": 24,
-    "game_id": 34,
+    "game_id": "34",
     "region": "Shinjuku Station - West Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -218,7 +218,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Chest near entrance",
     "archipelago_id": 25,
-    "game_id": 35,
+    "game_id": "35",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -227,7 +227,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Chest near fountain",
     "archipelago_id": 26,
-    "game_id": 36,
+    "game_id": "36",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -236,7 +236,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Gray relic pile near entrance",
     "archipelago_id": 27,
-    "game_id": 37,
+    "game_id": "37",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "relic",
@@ -245,7 +245,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Dead hunter near trash cans",
     "archipelago_id": 28,
-    "game_id": 38,
+    "game_id": "38",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -254,7 +254,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Dead hunter in the center",
     "archipelago_id": 29,
-    "game_id": 39,
+    "game_id": "39",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -263,7 +263,7 @@
   {
     "name": "Shinjuku West Entrance Park - Water Plaza: Dead hunter near ledge",
     "archipelago_id": 30,
-    "game_id": 40,
+    "game_id": "40",
     "region": "Shinjuku West Entrance Park - Water Plaza",
     "type": "treasure",
     "subtype": "corpse",
@@ -272,7 +272,7 @@
   {
     "name": "Shinjuku - West Entrance Buildings: Dead hunter in side street",
     "archipelago_id": 31,
-    "game_id": 42,
+    "game_id": "42",
     "region": "Shinjuku - West Entrance Buildings",
     "type": "treasure",
     "subtype": "corpse",
@@ -281,7 +281,7 @@
   {
     "name": "Shinjuku - West Entrance Buildings: Dead hunter in main street",
     "archipelago_id": 32,
-    "game_id": 43,
+    "game_id": "43",
     "region": "Shinjuku - West Entrance Buildings",
     "type": "treasure",
     "subtype": "corpse",
@@ -290,7 +290,7 @@
   {
     "name": "Shinjuku - West Entrance Underground: Chest behind boxes",
     "archipelago_id": 33,
-    "game_id": 44,
+    "game_id": "44",
     "region": "Shinjuku - West Entrance Underground",
     "type": "treasure",
     "subtype": "chest",
@@ -299,7 +299,7 @@
   {
     "name": "Shinjuku - West Entrance Passage: Chest after jumping through vent",
     "archipelago_id": 34,
-    "game_id": 45,
+    "game_id": "45",
     "region": "Shinjuku - West Entrance Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -308,7 +308,7 @@
   {
     "name": "Shinjuku - Kabuki-cho Passage: Gray relic pile",
     "archipelago_id": 35,
-    "game_id": 46,
+    "game_id": "46",
     "region": "Shinjuku - Kabuki-cho Passage",
     "type": "treasure",
     "subtype": "relic",
@@ -317,7 +317,7 @@
   {
     "name": "Shinjuku - South Entrance: Chest after jumping through vent near fence",
     "archipelago_id": 36,
-    "game_id": 48,
+    "game_id": "48",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -326,7 +326,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Chest after crawling through fence, behind building",
     "archipelago_id": 37,
-    "game_id": 50,
+    "game_id": "50",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "chest",
@@ -335,7 +335,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Chest after crawling through fence, near station entrance",
     "archipelago_id": 38,
-    "game_id": 51,
+    "game_id": "51",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "chest",
@@ -344,7 +344,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Gray relic pile in corner near entrance",
     "archipelago_id": 39,
-    "game_id": 52,
+    "game_id": "52",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "relic",
@@ -353,7 +353,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Gray relic pile after crawling through fence, behind building",
     "archipelago_id": 40,
-    "game_id": 53,
+    "game_id": "53",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "relic",
@@ -362,7 +362,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Dead hunter in the middle of the street",
     "archipelago_id": 41,
-    "game_id": 54,
+    "game_id": "54",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
@@ -371,7 +371,7 @@
   {
     "name": "Shibuya Station - Front Crosswalk: Dead hunter after crawling through fence",
     "archipelago_id": 42,
-    "game_id": 55,
+    "game_id": "55",
     "region": "Shibuya Station - Front Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
@@ -380,7 +380,7 @@
   {
     "name": "Shibuya - 108 Building: Chest up the stairs on top of building",
     "archipelago_id": 43,
-    "game_id": 56,
+    "game_id": "56",
     "region": "Shibuya - 108 Building",
     "type": "treasure",
     "subtype": "chest",
@@ -389,7 +389,7 @@
   {
     "name": "Shibuya - 108 Building: Dead hunter in the street",
     "archipelago_id": 44,
-    "game_id": 58,
+    "game_id": "58",
     "region": "Shibuya - 108 Building",
     "type": "treasure",
     "subtype": "corpse",
@@ -398,7 +398,7 @@
   {
     "name": "Shibuya - Dogenzaka: Gray relic pile",
     "archipelago_id": 45,
-    "game_id": 59,
+    "game_id": "59",
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "relic",
@@ -407,7 +407,7 @@
   {
     "name": "Shibuya - Dogenzaka: Dead hunter in the street",
     "archipelago_id": 46,
-    "game_id": 60,
+    "game_id": "60",
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "corpse",
@@ -416,7 +416,7 @@
   {
     "name": "Shibuya - Dogenzaka: Dead hunter in the alleys",
     "archipelago_id": 47,
-    "game_id": 61,
+    "game_id": "61",
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "corpse",
@@ -425,7 +425,7 @@
   {
     "name": "Shibuya - Inokashira-dori: Gray relic pile at the end of street",
     "archipelago_id": 48,
-    "game_id": 62,
+    "game_id": "62",
     "region": "Shibuya - Inokashira-dori",
     "type": "treasure",
     "subtype": "relic",
@@ -434,7 +434,7 @@
   {
     "name": "Shibuya - Inokashira-dori: Dead hunter near entrance",
     "archipelago_id": 49,
-    "game_id": 63,
+    "game_id": "63",
     "region": "Shibuya - Inokashira-dori",
     "type": "treasure",
     "subtype": "corpse",
@@ -443,7 +443,7 @@
   {
     "name": "Shibuya - Inokashira-dori: Dead hunter near entrance behind breakable wall",
     "archipelago_id": 50,
-    "game_id": 64,
+    "game_id": "64",
     "region": "Shibuya - Inokashira-dori",
     "type": "treasure",
     "subtype": "corpse",
@@ -452,7 +452,7 @@
   {
     "name": "Shibuya - Miyashita Park: Chest at the end of bloody street",
     "archipelago_id": 51,
-    "game_id": 65,
+    "game_id": "65",
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
@@ -461,7 +461,7 @@
   {
     "name": "Shibuya - Miyashita Park: Chest behind house",
     "archipelago_id": 52,
-    "game_id": 66,
+    "game_id": "66",
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
@@ -470,7 +470,7 @@
   {
     "name": "Shibuya - Miyashita Park: Gray relic pile",
     "archipelago_id": 53,
-    "game_id": 68,
+    "game_id": "68",
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "relic",
@@ -479,7 +479,7 @@
   {
     "name": "Shibuya Station - West Entrance: Chest on top of roof",
     "archipelago_id": 54,
-    "game_id": 71,
+    "game_id": "71",
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -488,7 +488,7 @@
   {
     "name": "Shibuya Station - West Entrance: Gray relic pile behind entrance",
     "archipelago_id": 55,
-    "game_id": 73,
+    "game_id": "73",
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -497,7 +497,7 @@
   {
     "name": "Shibuya Station - West Entrance: Dead hunter on walkway, east",
     "archipelago_id": 56,
-    "game_id": 74,
+    "game_id": "74",
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -506,7 +506,7 @@
   {
     "name": "Shibuya Station - West Entrance: Dead hunter on walkway, west",
     "archipelago_id": 57,
-    "game_id": 75,
+    "game_id": "75",
     "region": "Shibuya Station - West Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -515,7 +515,7 @@
   {
     "name": "Shibuya - Underground District A: Gray relic pile",
     "archipelago_id": 58,
-    "game_id": 76,
+    "game_id": "76",
     "region": "Shibuya - Underground District A",
     "type": "treasure",
     "subtype": "relic",
@@ -524,7 +524,7 @@
   {
     "name": "Shibuya - Underground District B: Gray relic pile",
     "archipelago_id": 59,
-    "game_id": 77,
+    "game_id": "77",
     "region": "Shibuya - Underground District B",
     "type": "treasure",
     "subtype": "relic",
@@ -533,7 +533,7 @@
   {
     "name": "Shibuya - Underground District C: Gray relic pile",
     "archipelago_id": 60,
-    "game_id": 78,
+    "game_id": "78",
     "region": "Shibuya - Underground District C",
     "type": "treasure",
     "subtype": "relic",
@@ -542,7 +542,7 @@
   {
     "name": "Shibuya - Underground District D: Chest after jumping through vent in district C",
     "archipelago_id": 61,
-    "game_id": 79,
+    "game_id": "79",
     "region": "Shibuya - Underground District D",
     "type": "treasure",
     "subtype": "chest",
@@ -551,7 +551,7 @@
   {
     "name": "Shibuya - Underground District D: Gray relic pile",
     "archipelago_id": 62,
-    "game_id": 80,
+    "game_id": "80",
     "region": "Shibuya - Underground District D",
     "type": "treasure",
     "subtype": "relic",
@@ -560,7 +560,7 @@
   {
     "name": "Shibuya - Inside Mark City: Gray relic pile",
     "archipelago_id": 63,
-    "game_id": 81,
+    "game_id": "81",
     "region": "Shibuya - Inside Mark City",
     "type": "treasure",
     "subtype": "relic",
@@ -569,7 +569,7 @@
   {
     "name": "Shibuya - Dogenzaka: Chest near fence on the side near Club Milton",
     "archipelago_id": 64,
-    "game_id": 82,
+    "game_id": "82",
     "region": "Shibuya - Dogenzaka",
     "type": "treasure",
     "subtype": "chest",
@@ -578,7 +578,7 @@
   {
     "name": "Shibuya - Dogenzaka (dead-end): Chest near fence on the side near 108 building",
     "archipelago_id": 65,
-    "game_id": 83,
+    "game_id": "83",
     "region": "Shibuya - Dogenzaka (dead-end)",
     "type": "treasure",
     "subtype": "chest",
@@ -587,7 +587,7 @@
   {
     "name": "Shibuya - Underground District B: Chest",
     "archipelago_id": 66,
-    "game_id": 84,
+    "game_id": "84",
     "region": "Shibuya - Underground District B",
     "type": "treasure",
     "subtype": "chest",
@@ -596,7 +596,7 @@
   {
     "name": "Kasumigaseki - Sakurada-dori: Chest behind fence",
     "archipelago_id": 67,
-    "game_id": 85,
+    "game_id": "85",
     "region": "Kasumigaseki - Sakurada-dori",
     "type": "treasure",
     "subtype": "chest",
@@ -605,7 +605,7 @@
   {
     "name": "Kasumigaseki - Sakurada-dori: Gray relic pile in the center",
     "archipelago_id": 68,
-    "game_id": 87,
+    "game_id": "87",
     "region": "Kasumigaseki - Sakurada-dori",
     "type": "treasure",
     "subtype": "relic",
@@ -614,7 +614,7 @@
   {
     "name": "Kasumigaseki Station - Passage: Chest after jumping through vent",
     "archipelago_id": 69,
-    "game_id": 89,
+    "game_id": "89",
     "region": "Kasumigaseki Station - Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -623,7 +623,7 @@
   {
     "name": "Kasumigaseki Station - Passage: Gray relic pile after jumping through vent",
     "archipelago_id": 70,
-    "game_id": 90,
+    "game_id": "90",
     "region": "Kasumigaseki Station - Passage",
     "type": "treasure",
     "subtype": "relic",
@@ -632,7 +632,7 @@
   {
     "name": "Kasumigaseki Station - Platform: Chest on train tracks",
     "archipelago_id": 71,
-    "game_id": 92,
+    "game_id": "92",
     "region": "Kasumigaseki Station - Platform",
     "type": "treasure",
     "subtype": "chest",
@@ -641,7 +641,7 @@
   {
     "name": "Kasumigaseki - Restricted Access: Chest in secret room after jumping through vent",
     "archipelago_id": 72,
-    "game_id": 93,
+    "game_id": "93",
     "region": "Kasumigaseki - Restricted Access",
     "type": "treasure",
     "subtype": "chest",
@@ -650,7 +650,7 @@
   {
     "name": "Ikebukuro - Sunshine Front: Chest below roof",
     "archipelago_id": 73,
-    "game_id": 95,
+    "game_id": "95",
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
@@ -659,7 +659,7 @@
   {
     "name": "Ikebukuro - Sunshine Front: Chest behind fence",
     "archipelago_id": 74,
-    "game_id": 96,
+    "game_id": "96",
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
@@ -668,7 +668,7 @@
   {
     "name": "Ikebukuro - Sunshine Front: Gray relic pile behind fence",
     "archipelago_id": 75,
-    "game_id": 97,
+    "game_id": "97",
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "relic",
@@ -677,7 +677,7 @@
   {
     "name": "Ikebukuro - 60 Street Crosswalk: Dead hunter on the left",
     "archipelago_id": 76,
-    "game_id": 99,
+    "game_id": "99",
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
@@ -686,7 +686,7 @@
   {
     "name": "Ikebukuro - 60 Street Crosswalk: Dead hunter on the right",
     "archipelago_id": 77,
-    "game_id": 100,
+    "game_id": "100",
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "corpse",
@@ -695,7 +695,7 @@
   {
     "name": "Ikebukuro - Underground District: Gray relic pile near terminal",
     "archipelago_id": 78,
-    "game_id": 105,
+    "game_id": "105",
     "region": "Ikebukuro - Underground District",
     "type": "treasure",
     "subtype": "relic",
@@ -704,7 +704,7 @@
   {
     "name": "Ikebukuro Station - East Entrance: Gray relic pile in the middle",
     "archipelago_id": 79,
-    "game_id": 107,
+    "game_id": "107",
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -713,7 +713,7 @@
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter left of entrance",
     "archipelago_id": 80,
-    "game_id": 108,
+    "game_id": "108",
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -722,7 +722,7 @@
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter opposite side of entrance",
     "archipelago_id": 81,
-    "game_id": 109,
+    "game_id": "109",
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -731,7 +731,7 @@
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter in the south near fence",
     "archipelago_id": 82,
-    "game_id": 110,
+    "game_id": "110",
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -740,7 +740,7 @@
   {
     "name": "Ikebukuro - Sunshine Front: Chest under stairs on the right",
     "archipelago_id": 83,
-    "game_id": 111,
+    "game_id": "111",
     "region": "Ikebukuro - Sunshine Front",
     "type": "treasure",
     "subtype": "chest",
@@ -749,7 +749,7 @@
   {
     "name": "Ikebukuro - 60 Street Crosswalk: Chest",
     "archipelago_id": 84,
-    "game_id": 112,
+    "game_id": "112",
     "region": "Ikebukuro - 60 Street Crosswalk",
     "type": "treasure",
     "subtype": "chest",
@@ -758,7 +758,7 @@
   {
     "name": "Ginza - 4th District Crosswalk: Gray relic pile near north gate",
     "archipelago_id": 85,
-    "game_id": 113,
+    "game_id": "113",
     "region": "Ginza - 4th District Crosswalk",
     "type": "treasure",
     "subtype": "relic",
@@ -767,7 +767,7 @@
   {
     "name": "Ginza - 4th District Crosswalk: Gray relic pile near east gate",
     "archipelago_id": 86,
-    "game_id": 114,
+    "game_id": "114",
     "region": "Ginza - 4th District Crosswalk",
     "type": "treasure",
     "subtype": "relic",
@@ -776,7 +776,7 @@
   {
     "name": "Ginza - Shopping District: Gray relic pile near breakable wall",
     "archipelago_id": 87,
-    "game_id": 116,
+    "game_id": "116",
     "region": "Ginza - Shopping District",
     "type": "treasure",
     "subtype": "relic",
@@ -785,7 +785,7 @@
   {
     "name": "Tokyo Station - Yaesu Passage: Gray relic pile",
     "archipelago_id": 88,
-    "game_id": 117,
+    "game_id": "117",
     "region": "Tokyo Station - Yaesu Passage",
     "type": "treasure",
     "subtype": "relic",
@@ -794,7 +794,7 @@
   {
     "name": "Ginza - Underground District: Gray relic pile by terminal",
     "archipelago_id": 89,
-    "game_id": 119,
+    "game_id": "119",
     "region": "Ginza - Underground District",
     "type": "treasure",
     "subtype": "relic",
@@ -803,7 +803,7 @@
   {
     "name": "Ginza - Underground District: Gray relic pile by fountain",
     "archipelago_id": 90,
-    "game_id": 120,
+    "game_id": "120",
     "region": "Ginza - Underground District",
     "type": "treasure",
     "subtype": "relic",
@@ -812,7 +812,7 @@
   {
     "name": "Ginza - Southwest Passage: Chest on the upper sidepath near breakable wall",
     "archipelago_id": 91,
-    "game_id": 121,
+    "game_id": "121",
     "region": "Ginza - Southwest Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -821,7 +821,7 @@
   {
     "name": "Ginza - Southwest Passage: Chest on the middle sidepath near breakable wall",
     "archipelago_id": 92,
-    "game_id": 122,
+    "game_id": "122",
     "region": "Ginza - Southwest Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -830,7 +830,7 @@
   {
     "name": "Ginza - Southeast Passage: Chest after jumping through east vent",
     "archipelago_id": 93,
-    "game_id": 123,
+    "game_id": "123",
     "region": "Ginza - Southeast Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -839,7 +839,7 @@
   {
     "name": "Ginza - Southeast Passage: Chest after jumping through west vent",
     "archipelago_id": 94,
-    "game_id": 124,
+    "game_id": "124",
     "region": "Ginza - Southeast Passage",
     "type": "treasure",
     "subtype": "chest",
@@ -848,7 +848,7 @@
   {
     "name": "Ginza - Southeast Passage: Gray relic pile",
     "archipelago_id": 95,
-    "game_id": 125,
+    "game_id": "125",
     "region": "Ginza - Southeast Passage",
     "type": "treasure",
     "subtype": "relic",
@@ -857,7 +857,7 @@
   {
     "name": "Ginza - Central Way A: Chest on top of roof",
     "archipelago_id": 96,
-    "game_id": 127,
+    "game_id": "127",
     "region": "Ginza - Central Way A",
     "type": "treasure",
     "subtype": "chest",
@@ -866,7 +866,7 @@
   {
     "name": "Ueno Station - Front Entrance: Chest behind breakable wall",
     "archipelago_id": 97,
-    "game_id": 129,
+    "game_id": "129",
     "region": "Ueno Station - Front Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -875,7 +875,7 @@
   {
     "name": "Ueno Station - Front Entrance: Green relic pile on top of roof",
     "archipelago_id": 98,
-    "game_id": 130,
+    "game_id": "130",
     "region": "Ueno Station - Front Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -884,7 +884,7 @@
   {
     "name": "Ueno - Central Way: Chest behind breakable walls",
     "archipelago_id": 99,
-    "game_id": 131,
+    "game_id": "131",
     "region": "Ueno - Central Way",
     "type": "treasure",
     "subtype": "chest",
@@ -893,7 +893,7 @@
   {
     "name": "Ueno - Central Way: Gray relic pile next to bus",
     "archipelago_id": 100,
-    "game_id": 132,
+    "game_id": "132",
     "region": "Ueno - Central Way",
     "type": "treasure",
     "subtype": "relic",
@@ -902,7 +902,7 @@
   {
     "name": "Ueno - Shinobazu Pond: Chest on ledge near entrance",
     "archipelago_id": 101,
-    "game_id": 135,
+    "game_id": "135",
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
@@ -911,7 +911,7 @@
   {
     "name": "Ueno - Shinobazu Pond: Chest on pagoda",
     "archipelago_id": 102,
-    "game_id": 136,
+    "game_id": "136",
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
@@ -920,7 +920,7 @@
   {
     "name": "Ueno - Shinobazu Pond: Chest on top of roof above pier",
     "archipelago_id": 103,
-    "game_id": 137,
+    "game_id": "137",
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "chest",
@@ -929,7 +929,7 @@
   {
     "name": "Ueno - Shinobazu Pond: Gray relic pile on rock in pond",
     "archipelago_id": 104,
-    "game_id": 142,
+    "game_id": "142",
     "region": "Ueno - Shinobazu Pond",
     "type": "treasure",
     "subtype": "relic",
@@ -938,7 +938,7 @@
   {
     "name": "Naraku - 1st Stratum: Green relic pile, middle of map",
     "archipelago_id": 105,
-    "game_id": 152,
+    "game_id": "152",
     "region": "Naraku - 1st Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -947,7 +947,7 @@
   {
     "name": "Naraku - 2nd Stratum: Green relic pile, lower left in front of sign",
     "archipelago_id": 106,
-    "game_id": 154,
+    "game_id": "154",
     "region": "Naraku - 2nd Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -956,7 +956,7 @@
   {
     "name": "Naraku - 3rd Stratum: Chest after crawling through hole",
     "archipelago_id": 107,
-    "game_id": 157,
+    "game_id": "157",
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -965,7 +965,7 @@
   {
     "name": "Naraku - 3rd Stratum: Green relic pile, on ledge on the east side of the poison",
     "archipelago_id": 108,
-    "game_id": 159,
+    "game_id": "159",
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -974,7 +974,7 @@
   {
     "name": "Naraku - 4th Stratum: Chest after climbing up ladder after jumping over bridge",
     "archipelago_id": 109,
-    "game_id": 164,
+    "game_id": "164",
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -983,7 +983,7 @@
   {
     "name": "Naraku - 4th Stratum: Chest after climbing up north-east ladders",
     "archipelago_id": 110,
-    "game_id": 165,
+    "game_id": "165",
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -992,7 +992,7 @@
   {
     "name": "Naraku - 5th Stratum: Green relic pile, in front of door to minotaur",
     "archipelago_id": 111,
-    "game_id": 170,
+    "game_id": "170",
     "region": "Naraku - 5th Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -1001,7 +1001,7 @@
   {
     "name": "Naraku - 5th Stratum: Chest in front of door to minotaur",
     "archipelago_id": 112,
-    "game_id": 171,
+    "game_id": "171",
     "region": "Naraku - 5th Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -1010,7 +1010,7 @@
   {
     "name": "Naraku - Hall of the Minotaur: Green relic pile, west",
     "archipelago_id": 113,
-    "game_id": 172,
+    "game_id": "172",
     "region": "Naraku - Hall of the Minotaur",
     "type": "treasure",
     "subtype": "relic",
@@ -1019,7 +1019,7 @@
   {
     "name": "Naraku - Hall of the Minotaur: Green relic pile, west",
     "archipelago_id": 114,
-    "game_id": 173,
+    "game_id": "173",
     "region": "Naraku - Hall of the Minotaur",
     "type": "treasure",
     "subtype": "relic",
@@ -1028,7 +1028,7 @@
   {
     "name": "Naraku - Hall of the Minotaur: Green relic pile",
     "archipelago_id": 115,
-    "game_id": 174,
+    "game_id": "174",
     "region": "Naraku - Hall of the Minotaur",
     "type": "treasure",
     "subtype": "relic",
@@ -1037,7 +1037,7 @@
   {
     "name": "Naraku - Temporary Scaffolding: Green relic pile",
     "archipelago_id": 116,
-    "game_id": 180,
+    "game_id": "180",
     "region": "Naraku - Temporary Scaffolding",
     "type": "treasure",
     "subtype": "relic",
@@ -1046,7 +1046,7 @@
   {
     "name": "Naraku - 1st Observation Platform: Chest, south",
     "archipelago_id": 117,
-    "game_id": 181,
+    "game_id": "181",
     "region": "Naraku - 1st Observation Platform",
     "type": "treasure",
     "subtype": "chest",
@@ -1055,7 +1055,7 @@
   {
     "name": "Naraku - 1st Observation Platform: Chest, west",
     "archipelago_id": 118,
-    "game_id": 182,
+    "game_id": "182",
     "region": "Naraku - 1st Observation Platform",
     "type": "treasure",
     "subtype": "chest",
@@ -1064,7 +1064,7 @@
   {
     "name": "Kiccigiorgi Forest - Side Road: Green relic pile at the entrance",
     "archipelago_id": 119,
-    "game_id": 183,
+    "game_id": "183",
     "region": "Kiccigiorgi Forest - Side Road",
     "type": "treasure",
     "subtype": "relic",
@@ -1073,7 +1073,7 @@
   {
     "name": "Kiccigiorgi Forest Depths: Chest after dropping down ledge",
     "archipelago_id": 120,
-    "game_id": 184,
+    "game_id": "184",
     "region": "Kiccigiorgi Forest Depths",
     "type": "treasure",
     "subtype": "chest",
@@ -1082,7 +1082,7 @@
   {
     "name": "Kiccigiorgi Forest Depths: Chest on top of the hill",
     "archipelago_id": 121,
-    "game_id": 185,
+    "game_id": "185",
     "region": "Kiccigiorgi Forest Depths",
     "type": "treasure",
     "subtype": "chest",
@@ -1091,7 +1091,7 @@
   {
     "name": "Kiccigiorgi Forest Depths: Green relic pile, in the bend of the road",
     "archipelago_id": 122,
-    "game_id": 186,
+    "game_id": "186",
     "region": "Kiccigiorgi Forest Depths",
     "type": "treasure",
     "subtype": "relic",
@@ -1100,7 +1100,7 @@
   {
     "name": "Kagome Tower - Lower Level: Chest next to entrance",
     "archipelago_id": 123,
-    "game_id": 190,
+    "game_id": "190",
     "region": "Kagome Tower - Lower Level",
     "type": "treasure",
     "subtype": "chest",
@@ -1109,7 +1109,7 @@
   {
     "name": "Kagome Tower - Lower Level: Green relic pile on second floor",
     "archipelago_id": 124,
-    "game_id": 191,
+    "game_id": "191",
     "region": "Kagome Tower - Lower Level",
     "type": "treasure",
     "subtype": "relic",
@@ -1118,7 +1118,7 @@
   {
     "name": "Kagome Tower - Lower Level: Green relic pile near stairs to next floor",
     "archipelago_id": 125,
-    "game_id": 192,
+    "game_id": "192",
     "region": "Kagome Tower - Lower Level",
     "type": "treasure",
     "subtype": "relic",
@@ -1127,7 +1127,7 @@
   {
     "name": "Kagome Tower - Upper Level: Green relic pile near entrance",
     "archipelago_id": 126,
-    "game_id": 193,
+    "game_id": "193",
     "region": "Kagome Tower - Upper Level",
     "type": "treasure",
     "subtype": "relic",
@@ -1136,7 +1136,7 @@
   {
     "name": "Midtown - 1F: Chest around corner",
     "archipelago_id": 127,
-    "game_id": 195,
+    "game_id": "195",
     "region": "Midtown - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1145,7 +1145,7 @@
   {
     "name": "Midtown - 1F: Chest after jumping through vent",
     "archipelago_id": 128,
-    "game_id": 197,
+    "game_id": "197",
     "region": "Midtown - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1154,7 +1154,7 @@
   {
     "name": "Midtown - 1F: Gray relic pile after jumping through vent",
     "archipelago_id": 129,
-    "game_id": 198,
+    "game_id": "198",
     "region": "Midtown - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1163,7 +1163,7 @@
   {
     "name": "Midtown - 33F: Chest behind desks after jumping through vent",
     "archipelago_id": 130,
-    "game_id": 200,
+    "game_id": "200",
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
@@ -1172,7 +1172,7 @@
   {
     "name": "Midtown - 33F: Chest near elevator",
     "archipelago_id": 131,
-    "game_id": 201,
+    "game_id": "201",
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
@@ -1181,7 +1181,7 @@
   {
     "name": "Midtown - 33F: Dead hunter in office cubicle",
     "archipelago_id": 132,
-    "game_id": 205,
+    "game_id": "205",
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "corpse",
@@ -1190,7 +1190,7 @@
   {
     "name": "Midtown - 43F: Chest in dead end",
     "archipelago_id": 133,
-    "game_id": 206,
+    "game_id": "206",
     "region": "Midtown - 43F",
     "type": "treasure",
     "subtype": "chest",
@@ -1199,7 +1199,7 @@
   {
     "name": "Midtown - 43F: Gray relic pile",
     "archipelago_id": 134,
-    "game_id": 207,
+    "game_id": "207",
     "region": "Midtown - 43F",
     "type": "treasure",
     "subtype": "relic",
@@ -1208,7 +1208,7 @@
   {
     "name": "Midtown - 33F: Chest in office cubicle",
     "archipelago_id": 135,
-    "game_id": 208,
+    "game_id": "208",
     "region": "Midtown - 33F",
     "type": "treasure",
     "subtype": "chest",
@@ -1217,7 +1217,7 @@
   {
     "name": "Midtown - 54F: Chest",
     "archipelago_id": 136,
-    "game_id": 209,
+    "game_id": "209",
     "region": "Midtown - 54F",
     "type": "treasure",
     "subtype": "chest",
@@ -1226,7 +1226,7 @@
   {
     "name": "Reverse Hills - B7F: Chest behind door, north-west",
     "archipelago_id": 137,
-    "game_id": 210,
+    "game_id": "210",
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
@@ -1235,7 +1235,7 @@
   {
     "name": "Reverse Hills - B7F: Chest behind door, south-west",
     "archipelago_id": 138,
-    "game_id": 211,
+    "game_id": "211",
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
@@ -1244,7 +1244,7 @@
   {
     "name": "Reverse Hills - B7F: Chest behind door, north-east",
     "archipelago_id": 139,
-    "game_id": 212,
+    "game_id": "212",
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
@@ -1253,7 +1253,7 @@
   {
     "name": "Reverse Hills - B7F: Chest behind door, south-east",
     "archipelago_id": 140,
-    "game_id": 213,
+    "game_id": "213",
     "region": "Reverse Hills - B7F",
     "type": "treasure",
     "subtype": "chest",
@@ -1262,7 +1262,7 @@
   {
     "name": "Reverse Hills - B8F: Chest behind door, south-east",
     "archipelago_id": 141,
-    "game_id": 214,
+    "game_id": "214",
     "region": "Reverse Hills - B8F",
     "type": "treasure",
     "subtype": "chest",
@@ -1271,7 +1271,7 @@
   {
     "name": "Reverse Hills - B9F: Chest behind door, north-west",
     "archipelago_id": 142,
-    "game_id": 215,
+    "game_id": "215",
     "region": "Reverse Hills - B9F",
     "type": "treasure",
     "subtype": "chest",
@@ -1280,7 +1280,7 @@
   {
     "name": "Reverse Hills - B51F: Gray relic pile in room with the password-locked doors",
     "archipelago_id": 143,
-    "game_id": 217,
+    "game_id": "217",
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "relic",
@@ -1289,7 +1289,7 @@
   {
     "name": "Reverse Hills - B51F: Chest behind elevator, east",
     "archipelago_id": 144,
-    "game_id": 218,
+    "game_id": "218",
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "chest",
@@ -1298,7 +1298,7 @@
   {
     "name": "Reverse Hills - B51F: Chest behind elevator, west",
     "archipelago_id": 145,
-    "game_id": 219,
+    "game_id": "219",
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "chest",
@@ -1307,7 +1307,7 @@
   {
     "name": "Reverse Hills - B51F: Gray relic pile behind password-locked door",
     "archipelago_id": 146,
-    "game_id": 220,
+    "game_id": "220",
     "region": "Reverse Hills - B51F",
     "type": "treasure",
     "subtype": "relic",
@@ -1316,7 +1316,7 @@
   {
     "name": "Tsukiji Hongwanji - Main Temple: Chest in south of entrance behind breakable wall",
     "archipelago_id": 147,
-    "game_id": 223,
+    "game_id": "223",
     "region": "Tsukiji Hongwanji - Main Temple",
     "type": "treasure",
     "subtype": "chest",
@@ -1325,7 +1325,7 @@
   {
     "name": "Tsukiji Hongwanji - Main Temple: Chest in western part",
     "archipelago_id": 148,
-    "game_id": 227,
+    "game_id": "227",
     "region": "Tsukiji Hongwanji - Main Temple",
     "type": "treasure",
     "subtype": "chest",
@@ -1334,7 +1334,7 @@
   {
     "name": "Tsukiji Hongwanji - 1st Training Hall: Chest near entrance",
     "archipelago_id": 149,
-    "game_id": 228,
+    "game_id": "228",
     "region": "Tsukiji Hongwanji - 1st Training Hall",
     "type": "treasure",
     "subtype": "chest",
@@ -1343,7 +1343,7 @@
   {
     "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall near entrance",
     "archipelago_id": 150,
-    "game_id": 239,
+    "game_id": "239",
     "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
@@ -1352,7 +1352,7 @@
   {
     "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on second floor",
     "archipelago_id": 151,
-    "game_id": 240,
+    "game_id": "240",
     "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
@@ -1361,7 +1361,7 @@
   {
     "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on third floor",
     "archipelago_id": 152,
-    "game_id": 241,
+    "game_id": "241",
     "region": "Tsukiji Hongwanji - Shelter ruins",
     "type": "treasure",
     "subtype": "chest",
@@ -1370,7 +1370,7 @@
   {
     "name": "Camp Ichigaya - B2F: Chest in dead end, right",
     "archipelago_id": 153,
-    "game_id": 242,
+    "game_id": "242",
     "region": "Camp Ichigaya - B2F",
     "type": "treasure",
     "subtype": "chest",
@@ -1379,7 +1379,7 @@
   {
     "name": "Camp Ichigaya - B1F: Chest, left",
     "archipelago_id": 154,
-    "game_id": 243,
+    "game_id": "243",
     "region": "Camp Ichigaya - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1388,7 +1388,7 @@
   {
     "name": "Camp Ichigaya - 1F: Gray relic pile, west",
     "archipelago_id": 155,
-    "game_id": 244,
+    "game_id": "244",
     "region": "Camp Ichigaya - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1397,7 +1397,7 @@
   {
     "name": "Camp Ichigaya - 1F: Gray relic pile, east",
     "archipelago_id": 156,
-    "game_id": 245,
+    "game_id": "245",
     "region": "Camp Ichigaya - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1406,7 +1406,7 @@
   {
     "name": "Camp Ichigaya - B1F: Chest, right",
     "archipelago_id": 157,
-    "game_id": 246,
+    "game_id": "246",
     "region": "Camp Ichigaya - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1415,7 +1415,7 @@
   {
     "name": "Camp Ichigaya - B1F: Gray relic pile",
     "archipelago_id": 158,
-    "game_id": 247,
+    "game_id": "247",
     "region": "Camp Ichigaya - B1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1424,7 +1424,7 @@
   {
     "name": "Camp Ichigaya - B2F: Chest in dead end, left",
     "archipelago_id": 159,
-    "game_id": 249,
+    "game_id": "249",
     "region": "Camp Ichigaya - B2F",
     "type": "treasure",
     "subtype": "chest",
@@ -1433,7 +1433,7 @@
   {
     "name": "Camp Ichigaya - B2F: Gray relic pile",
     "archipelago_id": 160,
-    "game_id": 250,
+    "game_id": "250",
     "region": "Camp Ichigaya - B2F",
     "type": "treasure",
     "subtype": "relic",
@@ -1442,7 +1442,7 @@
   {
     "name": "Camp Ichigaya - B3F: Chest near reactor",
     "archipelago_id": 161,
-    "game_id": 251,
+    "game_id": "251",
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -1451,7 +1451,7 @@
   {
     "name": "Camp Ichigaya - B3F: Chest close to exit stairs",
     "archipelago_id": 162,
-    "game_id": 252,
+    "game_id": "252",
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -1460,7 +1460,7 @@
   {
     "name": "Camp Ichigaya - B3F: Gray relic pile near reactor",
     "archipelago_id": 163,
-    "game_id": 253,
+    "game_id": "253",
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "relic",
@@ -1469,7 +1469,7 @@
   {
     "name": "Camp Ichigaya - B3F: Gray relic pile",
     "archipelago_id": 164,
-    "game_id": 254,
+    "game_id": "254",
     "region": "Camp Ichigaya - B3F",
     "type": "treasure",
     "subtype": "relic",
@@ -1478,7 +1478,7 @@
   {
     "name": "Camp Ichigaya - 1F: Chest",
     "archipelago_id": 165,
-    "game_id": 256,
+    "game_id": "256",
     "region": "Camp Ichigaya - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1487,7 +1487,7 @@
   {
     "name": "Monochrome Forest - Open Space: Chest near entrance",
     "archipelago_id": 166,
-    "game_id": 257,
+    "game_id": "257",
     "region": "Monochrome Forest - Open Space",
     "type": "treasure",
     "subtype": "chest",
@@ -1496,7 +1496,7 @@
   {
     "name": "Monochrome Forest - Animal Trail C: Chest",
     "archipelago_id": 167,
-    "game_id": 264,
+    "game_id": "264",
     "region": "Monochrome Forest - Animal Trail C",
     "type": "treasure",
     "subtype": "chest",
@@ -1505,7 +1505,7 @@
   {
     "name": "Monochrome Forest - Animal Trail D: Chest, south",
     "archipelago_id": 168,
-    "game_id": 266,
+    "game_id": "266",
     "region": "Monochrome Forest - Animal Trail D",
     "type": "treasure",
     "subtype": "chest",
@@ -1514,7 +1514,7 @@
   {
     "name": "Purgatorium - 1st Crown: Chest by gate, east",
     "archipelago_id": 169,
-    "game_id": 270,
+    "game_id": "270",
     "region": "Purgatorium - 1st Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1523,7 +1523,7 @@
   {
     "name": "Purgatorium - 1st Crown: Chest by gate, west",
     "archipelago_id": 170,
-    "game_id": 271,
+    "game_id": "271",
     "region": "Purgatorium - 1st Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1532,7 +1532,7 @@
   {
     "name": "Purgatorium - 2nd Crown: Chest by entrance",
     "archipelago_id": 171,
-    "game_id": 274,
+    "game_id": "274",
     "region": "Purgatorium - 2nd Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1541,7 +1541,7 @@
   {
     "name": "Purgatorium - 3rd Crown: Chest from column near exit to 4th crown",
     "archipelago_id": 172,
-    "game_id": 277,
+    "game_id": "277",
     "region": "Purgatorium - 3rd Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1550,7 +1550,7 @@
   {
     "name": "Purgatorium - 4th Crown: Chest by gate, west",
     "archipelago_id": 173,
-    "game_id": 278,
+    "game_id": "278",
     "region": "Purgatorium - 4th Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1559,7 +1559,7 @@
   {
     "name": "Purgatorium - 4th Crown: Chest by gate, east",
     "archipelago_id": 174,
-    "game_id": 279,
+    "game_id": "279",
     "region": "Purgatorium - 4th Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1568,7 +1568,7 @@
   {
     "name": "Purgatorium - 6th Crown: Chest, east",
     "archipelago_id": 175,
-    "game_id": 282,
+    "game_id": "282",
     "region": "Purgatorium - 6th Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1577,7 +1577,7 @@
   {
     "name": "Purgatorium - 6th Crown: Chest in front of gate to next floor",
     "archipelago_id": 176,
-    "game_id": 286,
+    "game_id": "286",
     "region": "Purgatorium - 6th Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1586,7 +1586,7 @@
   {
     "name": "Purgatorium - Gates of Paradiso: Chest, right",
     "archipelago_id": 177,
-    "game_id": 293,
+    "game_id": "293",
     "region": "Purgatorium - Gates of Paradiso",
     "type": "treasure",
     "subtype": "chest",
@@ -1595,7 +1595,7 @@
   {
     "name": "Purgatorium - Gates of Paradiso: Chest, left",
     "archipelago_id": 178,
-    "game_id": 294,
+    "game_id": "294",
     "region": "Purgatorium - Gates of Paradiso",
     "type": "treasure",
     "subtype": "chest",
@@ -1604,7 +1604,7 @@
   {
     "name": "Purgatorium - 3rd Crown: Chest by column in the center",
     "archipelago_id": 179,
-    "game_id": 295,
+    "game_id": "295",
     "region": "Purgatorium - 3rd Crown",
     "type": "treasure",
     "subtype": "chest",
@@ -1613,7 +1613,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Chest in front of entrance",
     "archipelago_id": 180,
-    "game_id": 297,
+    "game_id": "297",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1622,7 +1622,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Left of two chests",
     "archipelago_id": 181,
-    "game_id": 298,
+    "game_id": "298",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1631,7 +1631,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Right of two chests",
     "archipelago_id": 182,
-    "game_id": 299,
+    "game_id": "299",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1640,7 +1640,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Left of three chests",
     "archipelago_id": 183,
-    "game_id": 300,
+    "game_id": "300",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1649,7 +1649,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Right of three chests",
     "archipelago_id": 184,
-    "game_id": 301,
+    "game_id": "301",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1658,7 +1658,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternity: Middle of three chests",
     "archipelago_id": 185,
-    "game_id": 302,
+    "game_id": "302",
     "region": "Lucifer's Palace - Hall of Eternity",
     "type": "treasure",
     "subtype": "chest",
@@ -1667,7 +1667,7 @@
   {
     "name": "Lucifer's Palace - Morning Star Hall: Right of two chests",
     "archipelago_id": 186,
-    "game_id": 303,
+    "game_id": "303",
     "region": "Lucifer's Palace - Morning Star Hall",
     "type": "treasure",
     "subtype": "chest",
@@ -1676,7 +1676,7 @@
   {
     "name": "Lucifer's Palace - Morning Star Hall: Left of two chests",
     "archipelago_id": 187,
-    "game_id": 304,
+    "game_id": "304",
     "region": "Lucifer's Palace - Morning Star Hall",
     "type": "treasure",
     "subtype": "chest",
@@ -1685,7 +1685,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternal Light: Chest to the right of stairs",
     "archipelago_id": 188,
-    "game_id": 305,
+    "game_id": "305",
     "region": "Lucifer's Palace - Hall of Eternal Light",
     "type": "treasure",
     "subtype": "chest",
@@ -1694,7 +1694,7 @@
   {
     "name": "Lucifer's Palace - Hall of Eternal Light: Green relic pile on upper platform",
     "archipelago_id": 189,
-    "game_id": 309,
+    "game_id": "309",
     "region": "Lucifer's Palace - Hall of Eternal Light",
     "type": "treasure",
     "subtype": "relic",
@@ -1703,7 +1703,7 @@
   {
     "name": "Kasumigaseki - Ground Zero Remains: Gray relic pile",
     "archipelago_id": 190,
-    "game_id": 316,
+    "game_id": "316",
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1712,7 +1712,7 @@
   {
     "name": "Kasumigaseki - Ground Zero Remains: Gray relic pile near west exit",
     "archipelago_id": 191,
-    "game_id": 317,
+    "game_id": "317",
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1721,7 +1721,7 @@
   {
     "name": "Shinjuku - Ground Zero Remains: Gray relic pile by ruin walls",
     "archipelago_id": 192,
-    "game_id": 320,
+    "game_id": "320",
     "region": "Shinjuku - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1730,7 +1730,7 @@
   {
     "name": "Shinjuku - Ground Zero Remains: Gray relic pile by entrance",
     "archipelago_id": 193,
-    "game_id": 321,
+    "game_id": "321",
     "region": "Shinjuku - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1739,7 +1739,7 @@
   {
     "name": "Shinjuku - Underground Shelter A: Gray relic pile",
     "archipelago_id": 194,
-    "game_id": 322,
+    "game_id": "322",
     "region": "Shinjuku - Underground Shelter A",
     "type": "treasure",
     "subtype": "relic",
@@ -1748,7 +1748,7 @@
   {
     "name": "Shinjuku - Underground Shelter A: Gray relic pile",
     "archipelago_id": 195,
-    "game_id": 323,
+    "game_id": "323",
     "region": "Shinjuku - Underground Shelter A",
     "type": "treasure",
     "subtype": "relic",
@@ -1757,7 +1757,7 @@
   {
     "name": "Shibuya - Ground Zero Remains: Gray relic pile, east",
     "archipelago_id": 196,
-    "game_id": 326,
+    "game_id": "326",
     "region": "Shibuya - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1766,7 +1766,7 @@
   {
     "name": "Shibuya - Ground Zero Remains: Gray relic pile",
     "archipelago_id": 197,
-    "game_id": 327,
+    "game_id": "327",
     "region": "Shibuya - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1775,7 +1775,7 @@
   {
     "name": "Shibuya - Underground Shelter: Gray relic pile",
     "archipelago_id": 198,
-    "game_id": 329,
+    "game_id": "329",
     "region": "Shibuya - Underground Shelter",
     "type": "treasure",
     "subtype": "relic",
@@ -1784,7 +1784,7 @@
   {
     "name": "Shibuya - Underground Shelter: Gray relic pile",
     "archipelago_id": 199,
-    "game_id": 330,
+    "game_id": "330",
     "region": "Shibuya - Underground Shelter",
     "type": "treasure",
     "subtype": "relic",
@@ -1793,7 +1793,7 @@
   {
     "name": "Ikebukuro - Ground Zero Remains: Gray relic pile",
     "archipelago_id": 200,
-    "game_id": 333,
+    "game_id": "333",
     "region": "Ikebukuro - Ground Zero Remains",
     "type": "treasure",
     "subtype": "relic",
@@ -1802,7 +1802,7 @@
   {
     "name": "Ikebukuro - Underground Shelter: Gray relic pile",
     "archipelago_id": 201,
-    "game_id": 335,
+    "game_id": "335",
     "region": "Ikebukuro - Underground Shelter",
     "type": "treasure",
     "subtype": "relic",
@@ -1811,7 +1811,7 @@
   {
     "name": "Pluto Castle - 1F: Green relic pile on main path",
     "archipelago_id": 202,
-    "game_id": 340,
+    "game_id": "340",
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1820,7 +1820,7 @@
   {
     "name": "Pluto Castle - 1F: Green relic pile after jumping down hole from 2F",
     "archipelago_id": 203,
-    "game_id": 343,
+    "game_id": "343",
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1829,7 +1829,7 @@
   {
     "name": "Pluto Castle - 2F: Chest near breakable wall",
     "archipelago_id": 204,
-    "game_id": 344,
+    "game_id": "344",
     "region": "Pluto Castle - 2F",
     "type": "treasure",
     "subtype": "chest",
@@ -1838,7 +1838,7 @@
   {
     "name": "Pluto Castle - 2F: Green relic pile after jumping down hole from 4F",
     "archipelago_id": 205,
-    "game_id": 345,
+    "game_id": "345",
     "region": "Pluto Castle - 2F",
     "type": "treasure",
     "subtype": "relic",
@@ -1847,7 +1847,7 @@
   {
     "name": "Pluto Castle - 2F: Green relic pile, eastern part",
     "archipelago_id": 206,
-    "game_id": 346,
+    "game_id": "346",
     "region": "Pluto Castle - 2F",
     "type": "treasure",
     "subtype": "relic",
@@ -1856,7 +1856,7 @@
   {
     "name": "Pluto Castle - 3F: Green relic pile near Pluto Warrior fight",
     "archipelago_id": 207,
-    "game_id": 347,
+    "game_id": "347",
     "region": "Pluto Castle - 3F",
     "type": "treasure",
     "subtype": "relic",
@@ -1865,7 +1865,7 @@
   {
     "name": "Pluto Castle - 4F: Chest",
     "archipelago_id": 208,
-    "game_id": 349,
+    "game_id": "349",
     "region": "Pluto Castle - 4F",
     "type": "treasure",
     "subtype": "chest",
@@ -1874,7 +1874,7 @@
   {
     "name": "Pluto Castle - 4F: Green relic pile, west",
     "archipelago_id": 209,
-    "game_id": 350,
+    "game_id": "350",
     "region": "Pluto Castle - 4F",
     "type": "treasure",
     "subtype": "relic",
@@ -1883,7 +1883,7 @@
   {
     "name": "Pluto Castle - 4F: Green relic pile",
     "archipelago_id": 210,
-    "game_id": 351,
+    "game_id": "351",
     "region": "Pluto Castle - 4F",
     "type": "treasure",
     "subtype": "relic",
@@ -1892,7 +1892,7 @@
   {
     "name": "Camp Ichigaya (BT) - B1F: Chest, left",
     "archipelago_id": 211,
-    "game_id": 352,
+    "game_id": "352",
     "region": "Camp Ichigaya (BT) - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1901,7 +1901,7 @@
   {
     "name": "Camp Ichigaya (BT) - B2F: Chest",
     "archipelago_id": 212,
-    "game_id": 353,
+    "game_id": "353",
     "region": "Camp Ichigaya (BT) - B2F",
     "type": "treasure",
     "subtype": "chest",
@@ -1910,7 +1910,7 @@
   {
     "name": "Camp Ichigaya (BT) - 1F: Chest",
     "archipelago_id": 213,
-    "game_id": 354,
+    "game_id": "354",
     "region": "Camp Ichigaya (BT) - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1919,7 +1919,7 @@
   {
     "name": "Camp Ichigaya (BT) - 1F: Gray relic pile, west",
     "archipelago_id": 214,
-    "game_id": 355,
+    "game_id": "355",
     "region": "Camp Ichigaya (BT) - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -1928,7 +1928,7 @@
   {
     "name": "Camp Ichigaya (BT) - B1F: Chest, right",
     "archipelago_id": 215,
-    "game_id": 357,
+    "game_id": "357",
     "region": "Camp Ichigaya (BT) - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -1937,7 +1937,7 @@
   {
     "name": "Camp Ichigaya (BT) - B2F: Gray relic pile",
     "archipelago_id": 216,
-    "game_id": 358,
+    "game_id": "358",
     "region": "Camp Ichigaya (BT) - B2F",
     "type": "treasure",
     "subtype": "relic",
@@ -1946,7 +1946,7 @@
   {
     "name": "Camp Ichigaya (BT) - B3F: Chest near reactor",
     "archipelago_id": 217,
-    "game_id": 359,
+    "game_id": "359",
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -1955,7 +1955,7 @@
   {
     "name": "Camp Ichigaya (BT) - B3F: Chest near elevator",
     "archipelago_id": 218,
-    "game_id": 360,
+    "game_id": "360",
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -1964,7 +1964,7 @@
   {
     "name": "Camp Ichigaya (BT) - B3F: Gray relic pile near stairs to B2F",
     "archipelago_id": 219,
-    "game_id": 361,
+    "game_id": "361",
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "relic",
@@ -1973,7 +1973,7 @@
   {
     "name": "Camp Ichigaya (BT) - B3F: Chest outside one way door",
     "archipelago_id": 220,
-    "game_id": 364,
+    "game_id": "364",
     "region": "Camp Ichigaya (BT) - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -1982,7 +1982,7 @@
   {
     "name": "Kasumigaseki (IT) - Sakurada-dori: Gray relic pile near flames",
     "archipelago_id": 221,
-    "game_id": 366,
+    "game_id": "366",
     "region": "Kasumigaseki (IT) - Sakurada-dori",
     "type": "treasure",
     "subtype": "relic",
@@ -1991,7 +1991,7 @@
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Gray relic pile near entrance",
     "archipelago_id": 222,
-    "game_id": 369,
+    "game_id": "369",
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "relic",
@@ -2000,7 +2000,7 @@
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Dead hunter by flaming tires",
     "archipelago_id": 223,
-    "game_id": 370,
+    "game_id": "370",
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -2009,7 +2009,7 @@
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Dead hunter by station entrance",
     "archipelago_id": 224,
-    "game_id": 371,
+    "game_id": "371",
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -2018,7 +2018,7 @@
   {
     "name": "Shinjuku (IT) - East Entrance Main Street: Dead hunter by western wall",
     "archipelago_id": 225,
-    "game_id": 372,
+    "game_id": "372",
     "region": "Shinjuku (IT) - East Entrance Main Street",
     "type": "treasure",
     "subtype": "corpse",
@@ -2027,7 +2027,7 @@
   {
     "name": "Shinjuku (IT) - National Park: Dead hunter on eastern bridge",
     "archipelago_id": 226,
-    "game_id": 373,
+    "game_id": "373",
     "region": "Shinjuku (IT) - National Park",
     "type": "treasure",
     "subtype": "corpse",
@@ -2036,7 +2036,7 @@
   {
     "name": "Shinjuku (IT) - National Park: Dead hunter by south plaza",
     "archipelago_id": 227,
-    "game_id": 374,
+    "game_id": "374",
     "region": "Shinjuku (IT) - National Park",
     "type": "treasure",
     "subtype": "corpse",
@@ -2045,7 +2045,7 @@
   {
     "name": "Shibuya (IT) - 108 Building: Chest on building up the stairs",
     "archipelago_id": 228,
-    "game_id": 377,
+    "game_id": "377",
     "region": "Shibuya (IT) - 108 Building",
     "type": "treasure",
     "subtype": "chest",
@@ -2054,7 +2054,7 @@
   {
     "name": "Shibuya (IT) - 108 Building: Dead hunter at the end of the road",
     "archipelago_id": 229,
-    "game_id": 378,
+    "game_id": "378",
     "region": "Shibuya (IT) - 108 Building",
     "type": "treasure",
     "subtype": "corpse",
@@ -2063,7 +2063,7 @@
   {
     "name": "Shibuya (IT) - 108 Building (entrance): Dead hunter near entrance",
     "archipelago_id": 230,
-    "game_id": 379,
+    "game_id": "379",
     "region": "Shibuya (IT) - 108 Building (entrance)",
     "type": "treasure",
     "subtype": "corpse",
@@ -2072,7 +2072,7 @@
   {
     "name": "Shibuya (IT) - Undeground District A: Gray relic pile near stairs",
     "archipelago_id": 231,
-    "game_id": 380,
+    "game_id": "380",
     "region": "Shibuya (IT) - Undeground District A",
     "type": "treasure",
     "subtype": "relic",
@@ -2081,7 +2081,7 @@
   {
     "name": "Shibuya (IT) - Undeground District B: Gray relic pile above ledge",
     "archipelago_id": 232,
-    "game_id": 381,
+    "game_id": "381",
     "region": "Shibuya (IT) - Undeground District B",
     "type": "treasure",
     "subtype": "relic",
@@ -2090,7 +2090,7 @@
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Gray relic pile near garage",
     "archipelago_id": 233,
-    "game_id": 384,
+    "game_id": "384",
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "relic",
@@ -2099,7 +2099,7 @@
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Dead hunter near north-western wall",
     "archipelago_id": 234,
-    "game_id": 385,
+    "game_id": "385",
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -2108,7 +2108,7 @@
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Dead hunter near eastern wall",
     "archipelago_id": 235,
-    "game_id": 386,
+    "game_id": "386",
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -2117,7 +2117,7 @@
   {
     "name": "Ikebukuro Station (IT) - East Entrance: Dead hunter near burning bus",
     "archipelago_id": 236,
-    "game_id": 387,
+    "game_id": "387",
     "region": "Ikebukuro Station (IT) - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -2126,7 +2126,7 @@
   {
     "name": "Ikebukuro (IT) - Underground District: Gray relic pile near bar",
     "archipelago_id": 237,
-    "game_id": 389,
+    "game_id": "389",
     "region": "Ikebukuro (IT) - Underground District",
     "type": "treasure",
     "subtype": "relic",
@@ -2135,7 +2135,7 @@
   {
     "name": "Camp Ichigaya (IT) - 1F: Gray relic pile, west",
     "archipelago_id": 238,
-    "game_id": 392,
+    "game_id": "392",
     "region": "Camp Ichigaya (IT) - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -2144,7 +2144,7 @@
   {
     "name": "Camp Ichigaya (IT) - 1F: Gray relic pile, east",
     "archipelago_id": 239,
-    "game_id": 393,
+    "game_id": "393",
     "region": "Camp Ichigaya (IT) - 1F",
     "type": "treasure",
     "subtype": "relic",
@@ -2153,7 +2153,7 @@
   {
     "name": "Camp Ichigaya (IT) - B1F: Chest, right",
     "archipelago_id": 240,
-    "game_id": 394,
+    "game_id": "394",
     "region": "Camp Ichigaya (IT) - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -2162,7 +2162,7 @@
   {
     "name": "Camp Ichigaya (IT) - B2F: Gray relic pile near entrance",
     "archipelago_id": 241,
-    "game_id": 395,
+    "game_id": "395",
     "region": "Camp Ichigaya (IT) - B2F",
     "type": "treasure",
     "subtype": "relic",
@@ -2171,7 +2171,7 @@
   {
     "name": "Camp Ichigaya (IT) - B2F: Gray relic pile on the side of hallway",
     "archipelago_id": 242,
-    "game_id": 396,
+    "game_id": "396",
     "region": "Camp Ichigaya (IT) - B2F",
     "type": "treasure",
     "subtype": "relic",
@@ -2180,7 +2180,7 @@
   {
     "name": "Camp Ichigaya (IT) - B3F: Chest near reactor",
     "archipelago_id": 243,
-    "game_id": 397,
+    "game_id": "397",
     "region": "Camp Ichigaya (IT) - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -2189,7 +2189,7 @@
   {
     "name": "Camp Ichigaya (IT) - B3F: Gray relic pile near entrance from B2F",
     "archipelago_id": 244,
-    "game_id": 398,
+    "game_id": "398",
     "region": "Camp Ichigaya (IT) - B3F",
     "type": "treasure",
     "subtype": "relic",
@@ -2198,7 +2198,7 @@
   {
     "name": "Camp Ichigaya (IT) - 2F: Chest by stairs",
     "archipelago_id": 245,
-    "game_id": 401,
+    "game_id": "401",
     "region": "Camp Ichigaya (IT) - 2F",
     "type": "treasure",
     "subtype": "chest",
@@ -2207,7 +2207,7 @@
   {
     "name": "Camp Ichigaya (IT) - 2F: Gray relic pile by elevator",
     "archipelago_id": 246,
-    "game_id": 402,
+    "game_id": "402",
     "region": "Camp Ichigaya (IT) - 2F",
     "type": "treasure",
     "subtype": "relic",
@@ -2216,7 +2216,7 @@
   {
     "name": "Camp Ichigaya (IT) - 2F: Gray relic pile in eastern corner",
     "archipelago_id": 247,
-    "game_id": 403,
+    "game_id": "403",
     "region": "Camp Ichigaya (IT) - 2F",
     "type": "treasure",
     "subtype": "relic",
@@ -2225,7 +2225,7 @@
   {
     "name": "Naraku - Excavation Worker Quarters: First chest from entrance",
     "archipelago_id": 248,
-    "game_id": 405,
+    "game_id": "405",
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
@@ -2234,7 +2234,7 @@
   {
     "name": "Naraku - Excavation Worker Quarters: Second chest from entrance",
     "archipelago_id": 249,
-    "game_id": 406,
+    "game_id": "406",
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
@@ -2243,7 +2243,7 @@
   {
     "name": "Naraku - Excavation Worker Quarters: Third chest from entrance",
     "archipelago_id": 250,
-    "game_id": 407,
+    "game_id": "407",
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
@@ -2252,7 +2252,7 @@
   {
     "name": "Naraku - Excavation Worker Quarters: Fourth chest from entrance",
     "archipelago_id": 251,
-    "game_id": 408,
+    "game_id": "408",
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
@@ -2261,7 +2261,7 @@
   {
     "name": "Naraku - Excavation Worker Quarters: Fifth chest from entrance",
     "archipelago_id": 252,
-    "game_id": 409,
+    "game_id": "409",
     "region": "Naraku - Excavation Worker Quarters",
     "type": "treasure",
     "subtype": "chest",
@@ -2270,7 +2270,7 @@
   {
     "name": "Tokyo - Higashi Mukojima: Chest in the east",
     "archipelago_id": 253,
-    "game_id": 410,
+    "game_id": "410",
     "region": "Tokyo - Higashi Mukojima",
     "type": "treasure",
     "subtype": "chest",
@@ -2279,7 +2279,7 @@
   {
     "name": "Tokyo - Higashi Mukojima: Chest in the north near river",
     "archipelago_id": 254,
-    "game_id": 411,
+    "game_id": "411",
     "region": "Tokyo - Higashi Mukojima",
     "type": "treasure",
     "subtype": "chest",
@@ -2288,7 +2288,7 @@
   {
     "name": "Tokyo - Akihabara: Chest near crater",
     "archipelago_id": 255,
-    "game_id": 412,
+    "game_id": "412",
     "region": "Tokyo - Akihabara",
     "type": "treasure",
     "subtype": "chest",
@@ -2297,7 +2297,7 @@
   {
     "name": "Tokyo - Kameido: Chest on the road to the east",
     "archipelago_id": 256,
-    "game_id": 413,
+    "game_id": "413",
     "region": "Tokyo - Kameido",
     "type": "treasure",
     "subtype": "chest",
@@ -2306,7 +2306,7 @@
   {
     "name": "Tokyo - Hanzomon: Chest near dead-end",
     "archipelago_id": 257,
-    "game_id": 414,
+    "game_id": "414",
     "region": "Tokyo - Hanzomon",
     "type": "treasure",
     "subtype": "chest",
@@ -2315,7 +2315,7 @@
   {
     "name": "Tokyo - Ikebukuro: Chest",
     "archipelago_id": 258,
-    "game_id": 415,
+    "game_id": "415",
     "region": "Tokyo - Ikebukuro",
     "type": "treasure",
     "subtype": "chest",
@@ -2324,7 +2324,7 @@
   {
     "name": "Tokyo - Itabashi: Chest after road ends",
     "archipelago_id": 259,
-    "game_id": 416,
+    "game_id": "416",
     "region": "Tokyo - Itabashi",
     "type": "treasure",
     "subtype": "chest",
@@ -2333,7 +2333,7 @@
   {
     "name": "Tokyo - Egota: Chest after poison swamp",
     "archipelago_id": 260,
-    "game_id": 417,
+    "game_id": "417",
     "region": "Tokyo - Egota",
     "type": "treasure",
     "subtype": "chest",
@@ -2342,7 +2342,7 @@
   {
     "name": "Tokyo - Setagaya: Chest in sandy area",
     "archipelago_id": 261,
-    "game_id": 418,
+    "game_id": "418",
     "region": "Tokyo - Setagaya",
     "type": "treasure",
     "subtype": "chest",
@@ -2351,7 +2351,7 @@
   {
     "name": "Tokyo - Hatanodai: Chest",
     "archipelago_id": 262,
-    "game_id": 419,
+    "game_id": "419",
     "region": "Tokyo - Hatanodai",
     "type": "treasure",
     "subtype": "chest",
@@ -2360,7 +2360,7 @@
   {
     "name": "Tokyo - Azabu Juban: Chest",
     "archipelago_id": 263,
-    "game_id": 420,
+    "game_id": "420",
     "region": "Tokyo - Azabu Juban",
     "type": "treasure",
     "subtype": "chest",
@@ -2369,7 +2369,7 @@
   {
     "name": "Tokyo - Togoshi: Chest",
     "archipelago_id": 264,
-    "game_id": 421,
+    "game_id": "421",
     "region": "Tokyo - Togoshi",
     "type": "treasure",
     "subtype": "chest",
@@ -2378,7 +2378,7 @@
   {
     "name": "Tokyo - Tennozu: Chest",
     "archipelago_id": 265,
-    "game_id": 422,
+    "game_id": "422",
     "region": "Tokyo - Tennozu",
     "type": "treasure",
     "subtype": "chest",
@@ -2387,7 +2387,7 @@
   {
     "name": "Tokyo - Ariake: Chest",
     "archipelago_id": 266,
-    "game_id": 423,
+    "game_id": "423",
     "region": "Tokyo - Ariake",
     "type": "treasure",
     "subtype": "chest",
@@ -2396,7 +2396,7 @@
   {
     "name": "Tokyo - Tsukijima: Chest in poison swamp",
     "archipelago_id": 267,
-    "game_id": 424,
+    "game_id": "424",
     "region": "Tokyo - Tsukijima",
     "type": "treasure",
     "subtype": "chest",
@@ -2405,7 +2405,7 @@
   {
     "name": "Tokyo - Kita Senju: Chest at the end of the road",
     "archipelago_id": 268,
-    "game_id": 425,
+    "game_id": "425",
     "region": "Tokyo - Kita Senju",
     "type": "treasure",
     "subtype": "chest",
@@ -2414,7 +2414,7 @@
   {
     "name": "Tokyo - Ouji: Chest at the end of sandy section",
     "archipelago_id": 269,
-    "game_id": 426,
+    "game_id": "426",
     "region": "Tokyo - Ouji",
     "type": "treasure",
     "subtype": "chest",
@@ -2423,7 +2423,7 @@
   {
     "name": "Tokyo - Ooi Wharf: Chest",
     "archipelago_id": 270,
-    "game_id": 427,
+    "game_id": "427",
     "region": "Tokyo - Ooi Wharf",
     "type": "treasure",
     "subtype": "chest",
@@ -2432,7 +2432,7 @@
   {
     "name": "Tokyo - Central Breakwater: Chest",
     "archipelago_id": 271,
-    "game_id": 428,
+    "game_id": "428",
     "region": "Tokyo - Central Breakwater",
     "type": "treasure",
     "subtype": "chest",
@@ -2441,7 +2441,7 @@
   {
     "name": "Blasted Tokyo: Chest in crater near Kasumigaseki",
     "archipelago_id": 272,
-    "game_id": 431,
+    "game_id": "431",
     "region": "Blasted Tokyo",
     "type": "treasure",
     "subtype": "chest",
@@ -2450,7 +2450,7 @@
   {
     "name": "Blasted Tokyo: Chest near pluto castle",
     "archipelago_id": 273,
-    "game_id": 432,
+    "game_id": "432",
     "region": "Blasted Tokyo",
     "type": "treasure",
     "subtype": "chest",
@@ -2459,7 +2459,7 @@
   {
     "name": "Blasted Tokyo - Ikebukuro: Chest in crater near Ikebukuro",
     "archipelago_id": 274,
-    "game_id": 433,
+    "game_id": "433",
     "region": "Blasted Tokyo - Ikebukuro",
     "type": "treasure",
     "subtype": "chest",
@@ -2468,7 +2468,7 @@
   {
     "name": "Blasted Tokyo - Shibuya: Chest in crater near Shibuya",
     "archipelago_id": 275,
-    "game_id": 434,
+    "game_id": "434",
     "region": "Blasted Tokyo - Shibuya",
     "type": "treasure",
     "subtype": "chest",
@@ -2477,7 +2477,7 @@
   {
     "name": "Infernal Tokyo - Hanzomon: Chest",
     "archipelago_id": 276,
-    "game_id": 437,
+    "game_id": "437",
     "region": "Infernal Tokyo - Hanzomon",
     "type": "treasure",
     "subtype": "chest",
@@ -2486,7 +2486,7 @@
   {
     "name": "Tokyo - Oshima: Chest near containers",
     "archipelago_id": 277,
-    "game_id": 438,
+    "game_id": "438",
     "region": "Tokyo - Oshima",
     "type": "treasure",
     "subtype": "chest",
@@ -2495,7 +2495,7 @@
   {
     "name": "Camp Ichigaya (IT) - B1F: Chest, left",
     "archipelago_id": 278,
-    "game_id": 440,
+    "game_id": "440",
     "region": "Camp Ichigaya (IT) - B1F",
     "type": "treasure",
     "subtype": "chest",
@@ -2504,7 +2504,7 @@
   {
     "name": "Camp Ichigaya (IT) - B2F: Chest near entrance",
     "archipelago_id": 279,
-    "game_id": 441,
+    "game_id": "441",
     "region": "Camp Ichigaya (IT) - B2F",
     "type": "treasure",
     "subtype": "chest",
@@ -2513,7 +2513,7 @@
   {
     "name": "Camp Ichigaya (IT) - B3F: Chest at the end of long hallway",
     "archipelago_id": 280,
-    "game_id": 442,
+    "game_id": "442",
     "region": "Camp Ichigaya (IT) - B3F",
     "type": "treasure",
     "subtype": "chest",
@@ -2522,7 +2522,7 @@
   {
     "name": "Pluto Castle - 1F: Chest after beating Pluto",
     "archipelago_id": 281,
-    "game_id": 443,
+    "game_id": "443",
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -2531,7 +2531,7 @@
   {
     "name": "Pluto Castle - 1F: Left of two chests",
     "archipelago_id": 282,
-    "game_id": 444,
+    "game_id": "444",
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -2540,7 +2540,7 @@
   {
     "name": "Pluto Castle - 1F: Right of two chests",
     "archipelago_id": 283,
-    "game_id": 445,
+    "game_id": "445",
     "region": "Pluto Castle - 1F",
     "type": "treasure",
     "subtype": "chest",
@@ -2549,7 +2549,7 @@
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near south exit",
     "archipelago_id": 284,
-    "game_id": 446,
+    "game_id": "446",
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
@@ -2558,7 +2558,7 @@
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near west exit",
     "archipelago_id": 285,
-    "game_id": 447,
+    "game_id": "447",
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
@@ -2567,7 +2567,7 @@
   {
     "name": "Kasumigaseki - Ground Zero Remains: Chest near north exit",
     "archipelago_id": 286,
-    "game_id": 448,
+    "game_id": "448",
     "region": "Kasumigaseki - Ground Zero Remains",
     "type": "treasure",
     "subtype": "chest",
@@ -2576,7 +2576,7 @@
   {
     "name": "Usetan / Harajuku Police Station / Kabuto Shrine: Dead hunter",
     "archipelago_id": 287,
-    "game_id": 450,
+    "game_id": "450",
     "region": "Usetan / Harajuku Police Station / Kabuto Shrine",
     "type": "treasure",
     "subtype": "corpse",
@@ -2585,7 +2585,7 @@
   {
     "name": "Yoroi shrine / Cameron Building / Bikkuri Camera: Dead hunter",
     "archipelago_id": 288,
-    "game_id": 451,
+    "game_id": "451",
     "region": "Yoroi shrine / Cameron Building / Bikkuri Camera",
     "type": "treasure",
     "subtype": "corpse",
@@ -2594,7 +2594,7 @@
   {
     "name": "Yodogawa Camera / Jujo Base / Kiou Shrine / Camp Meguro: Dead hunter",
     "archipelago_id": 289,
-    "game_id": 452,
+    "game_id": "452",
     "region": "Yodogawa Camera / Jujo Base / Kiou Shrine / Camp Meguro",
     "type": "treasure",
     "subtype": "corpse",
@@ -2603,7 +2603,7 @@
   {
     "name": "Kiba Storage: Dead hunter",
     "archipelago_id": 290,
-    "game_id": 453,
+    "game_id": "453",
     "region": "Kiba Storage",
     "type": "treasure",
     "subtype": "corpse",
@@ -2612,7 +2612,7 @@
   {
     "name": "Infernal Tokyo - Otsuka: Chest",
     "archipelago_id": 291,
-    "game_id": 456,
+    "game_id": "456",
     "region": "Infernal Tokyo - Otsuka",
     "type": "treasure",
     "subtype": "chest",
@@ -2621,7 +2621,7 @@
   {
     "name": "Infernal Tokyo - Suidobashi: Chest",
     "archipelago_id": 292,
-    "game_id": 457,
+    "game_id": "457",
     "region": "Infernal Tokyo - Suidobashi",
     "type": "treasure",
     "subtype": "chest",
@@ -2630,7 +2630,7 @@
   {
     "name": "Infernal Tokyo - Takadano Baba: Chest",
     "archipelago_id": 293,
-    "game_id": 458,
+    "game_id": "458",
     "region": "Infernal Tokyo - Takadano Baba",
     "type": "treasure",
     "subtype": "chest",
@@ -2639,7 +2639,7 @@
   {
     "name": "Infernal Tokyo - Sendagaya: Chest",
     "archipelago_id": 294,
-    "game_id": 459,
+    "game_id": "459",
     "region": "Infernal Tokyo - Sendagaya",
     "type": "treasure",
     "subtype": "chest",
@@ -2648,7 +2648,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Left of two chests",
     "archipelago_id": 295,
-    "game_id": 460,
+    "game_id": "460",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -2657,7 +2657,7 @@
   {
     "name": "Shinjuku - Government Office Plaza: Right of two chests",
     "archipelago_id": 296,
-    "game_id": 461,
+    "game_id": "461",
     "region": "Shinjuku - Government Office Plaza",
     "type": "treasure",
     "subtype": "chest",
@@ -2666,7 +2666,7 @@
   {
     "name": "Shinjuku - South Entrance: Left of two chests past fence",
     "archipelago_id": 297,
-    "game_id": 462,
+    "game_id": "462",
     "region": "Shinjuku - South Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -2675,7 +2675,7 @@
   {
     "name": "Shinjuku - Nicho: Dead hunter south-west",
     "archipelago_id": 298,
-    "game_id": 463,
+    "game_id": "463",
     "region": "Shinjuku - Nicho",
     "type": "treasure",
     "subtype": "corpse",
@@ -2684,7 +2684,7 @@
   {
     "name": "Shinjuku Station - West Entrance: Chest on top of roof near entrance",
     "archipelago_id": 299,
-    "game_id": 464,
+    "game_id": "464",
     "region": "Shinjuku Station - West Entrance",
     "type": "treasure",
     "subtype": "chest",
@@ -2693,7 +2693,7 @@
   {
     "name": "Shibuya - Miyashita Park: Chest near lamp post",
     "archipelago_id": 300,
-    "game_id": 465,
+    "game_id": "465",
     "region": "Shibuya - Miyashita Park",
     "type": "treasure",
     "subtype": "chest",
@@ -2702,7 +2702,7 @@
   {
     "name": "Kasumigaseki - Sakurada-dori: Chest at the end of the street",
     "archipelago_id": 301,
-    "game_id": 466,
+    "game_id": "466",
     "region": "Kasumigaseki - Sakurada-dori",
     "type": "treasure",
     "subtype": "chest",
@@ -2711,7 +2711,7 @@
   {
     "name": "Ikebukuro Station - East Entrance: Dead hunter along western wall",
     "archipelago_id": 302,
-    "game_id": 468,
+    "game_id": "468",
     "region": "Ikebukuro Station - East Entrance",
     "type": "treasure",
     "subtype": "corpse",
@@ -2720,7 +2720,7 @@
   {
     "name": "Ueno - Ameyoko Way: Dead hunter on roof",
     "archipelago_id": 303,
-    "game_id": 469,
+    "game_id": "469",
     "region": "Ueno - Ameyoko Way",
     "type": "treasure",
     "subtype": "corpse",
@@ -2729,7 +2729,7 @@
   {
     "name": "Ueno - Central Underground District: Chest behind shutters",
     "archipelago_id": 304,
-    "game_id": 470,
+    "game_id": "470",
     "region": "Ueno - Central Underground District",
     "type": "treasure",
     "subtype": "chest",
@@ -2738,7 +2738,7 @@
   {
     "name": "Naraku - 3rd Stratum: Chest in poison area",
     "archipelago_id": 305,
-    "game_id": 471,
+    "game_id": "471",
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -2747,7 +2747,7 @@
   {
     "name": "Naraku - 1st Stratum: Green relic pile past door that requires Key to Naraku",
     "archipelago_id": 306,
-    "game_id": 473,
+    "game_id": "473",
     "region": "Naraku - 1st Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -2756,7 +2756,7 @@
   {
     "name": "Naraku - 1st Stratum: Chest past door that requires Key to Naraku",
     "archipelago_id": 307,
-    "game_id": 474,
+    "game_id": "474",
     "region": "Naraku - 1st Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -2765,7 +2765,7 @@
   {
     "name": "Naraku - 2nd Stratum: Green relic pile, lower left by wall",
     "archipelago_id": 308,
-    "game_id": 476,
+    "game_id": "476",
     "region": "Naraku - 2nd Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -2774,7 +2774,7 @@
   {
     "name": "Naraku - 3rd Stratum: Chest north-east on ledge",
     "archipelago_id": 309,
-    "game_id": 477,
+    "game_id": "477",
     "region": "Naraku - 3rd Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -2783,7 +2783,7 @@
   {
     "name": "Naraku - 4th Stratum: Chest behind waterfall",
     "archipelago_id": 310,
-    "game_id": 478,
+    "game_id": "478",
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "chest",
@@ -2792,7 +2792,7 @@
   {
     "name": "Naraku - 4th Stratum: Green relic pile after climbing up north-east ladders",
     "archipelago_id": 311,
-    "game_id": 482,
+    "game_id": "482",
     "region": "Naraku - 4th Stratum",
     "type": "treasure",
     "subtype": "relic",
@@ -2801,7 +2801,7 @@
   {
     "name": "Naraku - Temporary Scaffolding: Chest",
     "archipelago_id": 312,
-    "game_id": 483,
+    "game_id": "483",
     "region": "Naraku - Temporary Scaffolding",
     "type": "treasure",
     "subtype": "chest",
@@ -2810,7 +2810,7 @@
   {
     "name": "Shinjuku National Park - Pond Garden: Chest near fire wall",
     "archipelago_id": 313,
-    "game_id": 484,
+    "game_id": "484",
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
@@ -2819,7 +2819,7 @@
   {
     "name": "Shinjuku National Park - Pond Garden: Chest west of entrance",
     "archipelago_id": 314,
-    "game_id": 485,
+    "game_id": "485",
     "region": "Shinjuku National Park - Pond Garden",
     "type": "treasure",
     "subtype": "chest",
@@ -2828,7 +2828,7 @@
   {
     "name": "Reverse Hills - B9F: Dead hunter behind door, south-east",
     "archipelago_id": 315,
-    "game_id": 489,
+    "game_id": "489",
     "region": "Reverse Hills - B9F",
     "type": "treasure",
     "subtype": "corpse",
@@ -2837,7 +2837,7 @@
   {
     "name": "Monochrome Forest - Animal Trail D: Chest, north",
     "archipelago_id": 316,
-    "game_id": 490,
+    "game_id": "490",
     "region": "Monochrome Forest - Animal Trail D",
     "type": "treasure",
     "subtype": "chest",
@@ -2846,7 +2846,7 @@
   {
     "name": "Midtown - Former Army Shelter: Chest around corner near entrance",
     "archipelago_id": 317,
-    "game_id": 491,
+    "game_id": "491",
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "chest",
@@ -2855,7 +2855,7 @@
   {
     "name": "Midtown - Former Army Shelter: Chest further in",
     "archipelago_id": 318,
-    "game_id": 492,
+    "game_id": "492",
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "chest",
@@ -2864,10 +2864,3727 @@
   {
     "name": "Midtown - Former Army Shelter: Dead hunter",
     "archipelago_id": 319,
-    "game_id": 493,
+    "game_id": "493",
     "region": "Midtown - Former Army Shelter",
     "type": "treasure",
     "subtype": "corpse",
     "flag": "40-4"
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 1",
+    "archipelago_id": 320,
+    "game_id": "1-0",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 2",
+    "archipelago_id": 321,
+    "game_id": "1-1",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 3",
+    "archipelago_id": 322,
+    "game_id": "1-2",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 4",
+    "archipelago_id": 323,
+    "game_id": "1-3",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 5",
+    "archipelago_id": 324,
+    "game_id": "1-4",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 6",
+    "archipelago_id": 325,
+    "game_id": "1-5",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 7",
+    "archipelago_id": 326,
+    "game_id": "1-6",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 8",
+    "archipelago_id": 327,
+    "game_id": "1-7",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 9",
+    "archipelago_id": 328,
+    "game_id": "1-8",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 10",
+    "archipelago_id": 329,
+    "game_id": "1-9",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 11",
+    "archipelago_id": 330,
+    "game_id": "1-10",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 12",
+    "archipelago_id": 331,
+    "game_id": "1-11",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 13",
+    "archipelago_id": 332,
+    "game_id": "1-12",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 14",
+    "archipelago_id": 333,
+    "game_id": "1-13",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 15",
+    "archipelago_id": 334,
+    "game_id": "1-14",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 16",
+    "archipelago_id": 335,
+    "game_id": "1-15",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 17",
+    "archipelago_id": 336,
+    "game_id": "1-16",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 18",
+    "archipelago_id": 337,
+    "game_id": "1-17",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 19",
+    "archipelago_id": 338,
+    "game_id": "1-18",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 20",
+    "archipelago_id": 339,
+    "game_id": "1-19",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 21",
+    "archipelago_id": 340,
+    "game_id": "1-20",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 22",
+    "archipelago_id": 341,
+    "game_id": "1-21",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 23",
+    "archipelago_id": 342,
+    "game_id": "1-22",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 24",
+    "archipelago_id": 343,
+    "game_id": "1-23",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 25",
+    "archipelago_id": 344,
+    "game_id": "1-24",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 26",
+    "archipelago_id": 345,
+    "game_id": "1-25",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 27",
+    "archipelago_id": 346,
+    "game_id": "1-26",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 28",
+    "archipelago_id": 347,
+    "game_id": "1-27",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 29",
+    "archipelago_id": 348,
+    "game_id": "1-28",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 30",
+    "archipelago_id": 349,
+    "game_id": "1-29",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 31",
+    "archipelago_id": 350,
+    "game_id": "1-30",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 32",
+    "archipelago_id": 351,
+    "game_id": "1-31",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 33",
+    "archipelago_id": 352,
+    "game_id": "1-32",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 34",
+    "archipelago_id": 353,
+    "game_id": "1-33",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 35",
+    "archipelago_id": 354,
+    "game_id": "1-34",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shinjuku - Item 36",
+    "archipelago_id": 355,
+    "game_id": "1-35",
+    "region": "Black Market - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 1
+  },
+  {
+    "name": "Black Market - Shibuya - Item 1",
+    "archipelago_id": 356,
+    "game_id": "2-0",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 2",
+    "archipelago_id": 357,
+    "game_id": "2-1",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 3",
+    "archipelago_id": 358,
+    "game_id": "2-2",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 4",
+    "archipelago_id": 359,
+    "game_id": "2-3",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 5",
+    "archipelago_id": 360,
+    "game_id": "2-4",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 6",
+    "archipelago_id": 361,
+    "game_id": "2-5",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 7",
+    "archipelago_id": 362,
+    "game_id": "2-6",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 8",
+    "archipelago_id": 363,
+    "game_id": "2-7",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 9",
+    "archipelago_id": 364,
+    "game_id": "2-8",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 10",
+    "archipelago_id": 365,
+    "game_id": "2-9",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 11",
+    "archipelago_id": 366,
+    "game_id": "2-10",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 12",
+    "archipelago_id": 367,
+    "game_id": "2-11",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 13",
+    "archipelago_id": 368,
+    "game_id": "2-12",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 14",
+    "archipelago_id": 369,
+    "game_id": "2-13",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 15",
+    "archipelago_id": 370,
+    "game_id": "2-14",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 16",
+    "archipelago_id": 371,
+    "game_id": "2-15",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 17",
+    "archipelago_id": 372,
+    "game_id": "2-16",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 18",
+    "archipelago_id": 373,
+    "game_id": "2-17",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 19",
+    "archipelago_id": 374,
+    "game_id": "2-18",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 20",
+    "archipelago_id": 375,
+    "game_id": "2-19",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Shibuya - Item 21",
+    "archipelago_id": 376,
+    "game_id": "2-20",
+    "region": "Black Market - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 2
+  },
+  {
+    "name": "Black Market - Ginza - Item 1",
+    "archipelago_id": 377,
+    "game_id": "4-0",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 2",
+    "archipelago_id": 378,
+    "game_id": "4-1",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 3",
+    "archipelago_id": 379,
+    "game_id": "4-2",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 4",
+    "archipelago_id": 380,
+    "game_id": "4-3",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 5",
+    "archipelago_id": 381,
+    "game_id": "4-4",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 6",
+    "archipelago_id": 382,
+    "game_id": "4-5",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 7",
+    "archipelago_id": 383,
+    "game_id": "4-6",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 8",
+    "archipelago_id": 384,
+    "game_id": "4-7",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 9",
+    "archipelago_id": 385,
+    "game_id": "4-8",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 10",
+    "archipelago_id": 386,
+    "game_id": "4-9",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 11",
+    "archipelago_id": 387,
+    "game_id": "4-10",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 12",
+    "archipelago_id": 388,
+    "game_id": "4-11",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 13",
+    "archipelago_id": 389,
+    "game_id": "4-12",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 14",
+    "archipelago_id": 390,
+    "game_id": "4-13",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 15",
+    "archipelago_id": 391,
+    "game_id": "4-14",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 16",
+    "archipelago_id": 392,
+    "game_id": "4-15",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 17",
+    "archipelago_id": 393,
+    "game_id": "4-16",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 18",
+    "archipelago_id": 394,
+    "game_id": "4-17",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 19",
+    "archipelago_id": 395,
+    "game_id": "4-18",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 20",
+    "archipelago_id": 396,
+    "game_id": "4-19",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 21",
+    "archipelago_id": 397,
+    "game_id": "4-20",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 22",
+    "archipelago_id": 398,
+    "game_id": "4-21",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 23",
+    "archipelago_id": 399,
+    "game_id": "4-22",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 24",
+    "archipelago_id": 400,
+    "game_id": "4-23",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 25",
+    "archipelago_id": 401,
+    "game_id": "4-24",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 26",
+    "archipelago_id": 402,
+    "game_id": "4-25",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 27",
+    "archipelago_id": 403,
+    "game_id": "4-26",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 28",
+    "archipelago_id": 404,
+    "game_id": "4-27",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 29",
+    "archipelago_id": 405,
+    "game_id": "4-28",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 30",
+    "archipelago_id": 406,
+    "game_id": "4-29",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 31",
+    "archipelago_id": 407,
+    "game_id": "4-30",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 32",
+    "archipelago_id": 408,
+    "game_id": "4-31",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 33",
+    "archipelago_id": 409,
+    "game_id": "4-32",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 34",
+    "archipelago_id": 410,
+    "game_id": "4-33",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ginza - Item 35",
+    "archipelago_id": 411,
+    "game_id": "4-34",
+    "region": "Black Market - Ginza",
+    "type": "shop",
+    "subtype": "",
+    "flag": 4
+  },
+  {
+    "name": "Black Market - Ueno - Item 1",
+    "archipelago_id": 412,
+    "game_id": "5-0",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 2",
+    "archipelago_id": 413,
+    "game_id": "5-1",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 3",
+    "archipelago_id": 414,
+    "game_id": "5-2",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 4",
+    "archipelago_id": 415,
+    "game_id": "5-3",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 5",
+    "archipelago_id": 416,
+    "game_id": "5-4",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 6",
+    "archipelago_id": 417,
+    "game_id": "5-5",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 7",
+    "archipelago_id": 418,
+    "game_id": "5-6",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 8",
+    "archipelago_id": 419,
+    "game_id": "5-7",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 9",
+    "archipelago_id": 420,
+    "game_id": "5-8",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 10",
+    "archipelago_id": 421,
+    "game_id": "5-9",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 11",
+    "archipelago_id": 422,
+    "game_id": "5-10",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 12",
+    "archipelago_id": 423,
+    "game_id": "5-11",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 13",
+    "archipelago_id": 424,
+    "game_id": "5-12",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 14",
+    "archipelago_id": 425,
+    "game_id": "5-13",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 15",
+    "archipelago_id": 426,
+    "game_id": "5-14",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 16",
+    "archipelago_id": 427,
+    "game_id": "5-15",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 17",
+    "archipelago_id": 428,
+    "game_id": "5-16",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 18",
+    "archipelago_id": 429,
+    "game_id": "5-17",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 19",
+    "archipelago_id": 430,
+    "game_id": "5-18",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 20",
+    "archipelago_id": 431,
+    "game_id": "5-19",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 21",
+    "archipelago_id": 432,
+    "game_id": "5-20",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 22",
+    "archipelago_id": 433,
+    "game_id": "5-21",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 23",
+    "archipelago_id": 434,
+    "game_id": "5-22",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 24",
+    "archipelago_id": 435,
+    "game_id": "5-23",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 25",
+    "archipelago_id": 436,
+    "game_id": "5-24",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 26",
+    "archipelago_id": 437,
+    "game_id": "5-25",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 27",
+    "archipelago_id": 438,
+    "game_id": "5-26",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 28",
+    "archipelago_id": 439,
+    "game_id": "5-27",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 29",
+    "archipelago_id": 440,
+    "game_id": "5-28",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 30",
+    "archipelago_id": 441,
+    "game_id": "5-29",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 31",
+    "archipelago_id": 442,
+    "game_id": "5-30",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 32",
+    "archipelago_id": 443,
+    "game_id": "5-31",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 33",
+    "archipelago_id": 444,
+    "game_id": "5-32",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Black Market - Ueno - Item 34",
+    "archipelago_id": 445,
+    "game_id": "5-33",
+    "region": "Black Market - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 5
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 1",
+    "archipelago_id": 446,
+    "game_id": "6-0",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 2",
+    "archipelago_id": 447,
+    "game_id": "6-1",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 3",
+    "archipelago_id": 448,
+    "game_id": "6-2",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 4",
+    "archipelago_id": 449,
+    "game_id": "6-3",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 5",
+    "archipelago_id": 450,
+    "game_id": "6-4",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 6",
+    "archipelago_id": 451,
+    "game_id": "6-5",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 7",
+    "archipelago_id": 452,
+    "game_id": "6-6",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 8",
+    "archipelago_id": 453,
+    "game_id": "6-7",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 9",
+    "archipelago_id": 454,
+    "game_id": "6-8",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 10",
+    "archipelago_id": 455,
+    "game_id": "6-9",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 11",
+    "archipelago_id": 456,
+    "game_id": "6-10",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 12",
+    "archipelago_id": 457,
+    "game_id": "6-11",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 13",
+    "archipelago_id": 458,
+    "game_id": "6-12",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 14",
+    "archipelago_id": 459,
+    "game_id": "6-13",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 15",
+    "archipelago_id": 460,
+    "game_id": "6-14",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 16",
+    "archipelago_id": 461,
+    "game_id": "6-15",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 17",
+    "archipelago_id": 462,
+    "game_id": "6-16",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 18",
+    "archipelago_id": 463,
+    "game_id": "6-17",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 19",
+    "archipelago_id": 464,
+    "game_id": "6-18",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 20",
+    "archipelago_id": 465,
+    "game_id": "6-19",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 21",
+    "archipelago_id": 466,
+    "game_id": "6-20",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 22",
+    "archipelago_id": 467,
+    "game_id": "6-21",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 23",
+    "archipelago_id": 468,
+    "game_id": "6-22",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 24",
+    "archipelago_id": 469,
+    "game_id": "6-23",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 25",
+    "archipelago_id": 470,
+    "game_id": "6-24",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 26",
+    "archipelago_id": 471,
+    "game_id": "6-25",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 27",
+    "archipelago_id": 472,
+    "game_id": "6-26",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 28",
+    "archipelago_id": 473,
+    "game_id": "6-27",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 29",
+    "archipelago_id": 474,
+    "game_id": "6-28",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 30",
+    "archipelago_id": 475,
+    "game_id": "6-29",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 31",
+    "archipelago_id": 476,
+    "game_id": "6-30",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 32",
+    "archipelago_id": 477,
+    "game_id": "6-31",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 33",
+    "archipelago_id": 478,
+    "game_id": "6-32",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 34",
+    "archipelago_id": 479,
+    "game_id": "6-33",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 35",
+    "archipelago_id": 480,
+    "game_id": "6-34",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 36",
+    "archipelago_id": 481,
+    "game_id": "6-35",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 37",
+    "archipelago_id": 482,
+    "game_id": "6-36",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 38",
+    "archipelago_id": 483,
+    "game_id": "6-37",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 39",
+    "archipelago_id": 484,
+    "game_id": "6-38",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 40",
+    "archipelago_id": 485,
+    "game_id": "6-39",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 41",
+    "archipelago_id": 486,
+    "game_id": "6-40",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 42",
+    "archipelago_id": 487,
+    "game_id": "6-41",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 43",
+    "archipelago_id": 488,
+    "game_id": "6-42",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 44",
+    "archipelago_id": 489,
+    "game_id": "6-43",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 45",
+    "archipelago_id": 490,
+    "game_id": "6-44",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 46",
+    "archipelago_id": 491,
+    "game_id": "6-45",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 47",
+    "archipelago_id": 492,
+    "game_id": "6-46",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 48",
+    "archipelago_id": 493,
+    "game_id": "6-47",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 49",
+    "archipelago_id": 494,
+    "game_id": "6-48",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 50",
+    "archipelago_id": 495,
+    "game_id": "6-49",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 51",
+    "archipelago_id": 496,
+    "game_id": "6-50",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 52",
+    "archipelago_id": 497,
+    "game_id": "6-51",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 53",
+    "archipelago_id": 498,
+    "game_id": "6-52",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 54",
+    "archipelago_id": 499,
+    "game_id": "6-53",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 55",
+    "archipelago_id": 500,
+    "game_id": "6-54",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 56",
+    "archipelago_id": 501,
+    "game_id": "6-55",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 57",
+    "archipelago_id": 502,
+    "game_id": "6-56",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 58",
+    "archipelago_id": 503,
+    "game_id": "6-57",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 59",
+    "archipelago_id": 504,
+    "game_id": "6-58",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons - Item 60",
+    "archipelago_id": 505,
+    "game_id": "6-59",
+    "region": "Members-Only Club - Ginza Weapons",
+    "type": "shop",
+    "subtype": "",
+    "flag": 6
+  },
+  {
+    "name": "Q's Blacksmith - Item 1",
+    "archipelago_id": 506,
+    "game_id": "8-0",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 2",
+    "archipelago_id": 507,
+    "game_id": "8-1",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 3",
+    "archipelago_id": 508,
+    "game_id": "8-2",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 4",
+    "archipelago_id": 509,
+    "game_id": "8-3",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 5",
+    "archipelago_id": 510,
+    "game_id": "8-4",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 6",
+    "archipelago_id": 511,
+    "game_id": "8-5",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 7",
+    "archipelago_id": 512,
+    "game_id": "8-6",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 8",
+    "archipelago_id": 513,
+    "game_id": "8-7",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 9",
+    "archipelago_id": 514,
+    "game_id": "8-8",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 10",
+    "archipelago_id": 515,
+    "game_id": "8-9",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 11",
+    "archipelago_id": 516,
+    "game_id": "8-10",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 12",
+    "archipelago_id": 517,
+    "game_id": "8-11",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 13",
+    "archipelago_id": 518,
+    "game_id": "8-12",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 14",
+    "archipelago_id": 519,
+    "game_id": "8-13",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 15",
+    "archipelago_id": 520,
+    "game_id": "8-14",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 16",
+    "archipelago_id": 521,
+    "game_id": "8-15",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 17",
+    "archipelago_id": 522,
+    "game_id": "8-16",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 18",
+    "archipelago_id": 523,
+    "game_id": "8-17",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 19",
+    "archipelago_id": 524,
+    "game_id": "8-18",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 20",
+    "archipelago_id": 525,
+    "game_id": "8-19",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 21",
+    "archipelago_id": 526,
+    "game_id": "8-20",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 22",
+    "archipelago_id": 527,
+    "game_id": "8-21",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 23",
+    "archipelago_id": 528,
+    "game_id": "8-22",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 24",
+    "archipelago_id": 529,
+    "game_id": "8-23",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 25",
+    "archipelago_id": 530,
+    "game_id": "8-24",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 26",
+    "archipelago_id": 531,
+    "game_id": "8-25",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 27",
+    "archipelago_id": 532,
+    "game_id": "8-26",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 28",
+    "archipelago_id": 533,
+    "game_id": "8-27",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 29",
+    "archipelago_id": 534,
+    "game_id": "8-28",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 30",
+    "archipelago_id": 535,
+    "game_id": "8-29",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 31",
+    "archipelago_id": 536,
+    "game_id": "8-30",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 32",
+    "archipelago_id": 537,
+    "game_id": "8-31",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 33",
+    "archipelago_id": 538,
+    "game_id": "8-32",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 34",
+    "archipelago_id": 539,
+    "game_id": "8-33",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 35",
+    "archipelago_id": 540,
+    "game_id": "8-34",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 36",
+    "archipelago_id": 541,
+    "game_id": "8-35",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 37",
+    "archipelago_id": 542,
+    "game_id": "8-36",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 38",
+    "archipelago_id": 543,
+    "game_id": "8-37",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 39",
+    "archipelago_id": 544,
+    "game_id": "8-38",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 40",
+    "archipelago_id": 545,
+    "game_id": "8-39",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 41",
+    "archipelago_id": 546,
+    "game_id": "8-40",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 42",
+    "archipelago_id": 547,
+    "game_id": "8-41",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 43",
+    "archipelago_id": 548,
+    "game_id": "8-42",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 44",
+    "archipelago_id": 549,
+    "game_id": "8-43",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 45",
+    "archipelago_id": 550,
+    "game_id": "8-44",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 46",
+    "archipelago_id": 551,
+    "game_id": "8-45",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 47",
+    "archipelago_id": 552,
+    "game_id": "8-46",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 48",
+    "archipelago_id": 553,
+    "game_id": "8-47",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 49",
+    "archipelago_id": 554,
+    "game_id": "8-48",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 50",
+    "archipelago_id": 555,
+    "game_id": "8-49",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 51",
+    "archipelago_id": 556,
+    "game_id": "8-50",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 52",
+    "archipelago_id": 557,
+    "game_id": "8-51",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 53",
+    "archipelago_id": 558,
+    "game_id": "8-52",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 54",
+    "archipelago_id": 559,
+    "game_id": "8-53",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 55",
+    "archipelago_id": 560,
+    "game_id": "8-54",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 56",
+    "archipelago_id": 561,
+    "game_id": "8-55",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 57",
+    "archipelago_id": 562,
+    "game_id": "8-56",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 58",
+    "archipelago_id": 563,
+    "game_id": "8-57",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 59",
+    "archipelago_id": 564,
+    "game_id": "8-58",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 60",
+    "archipelago_id": 565,
+    "game_id": "8-59",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 61",
+    "archipelago_id": 566,
+    "game_id": "8-60",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 62",
+    "archipelago_id": 567,
+    "game_id": "8-61",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 63",
+    "archipelago_id": 568,
+    "game_id": "8-62",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 64",
+    "archipelago_id": 569,
+    "game_id": "8-63",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 65",
+    "archipelago_id": 570,
+    "game_id": "8-64",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 66",
+    "archipelago_id": 571,
+    "game_id": "8-65",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 67",
+    "archipelago_id": 572,
+    "game_id": "8-66",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 68",
+    "archipelago_id": 573,
+    "game_id": "8-67",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 69",
+    "archipelago_id": 574,
+    "game_id": "8-68",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Q's Blacksmith - Item 70",
+    "archipelago_id": 575,
+    "game_id": "8-69",
+    "region": "Q's Blacksmith",
+    "type": "shop",
+    "subtype": "",
+    "flag": 8
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 1",
+    "archipelago_id": 576,
+    "game_id": "9-0",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 2",
+    "archipelago_id": 577,
+    "game_id": "9-1",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 3",
+    "archipelago_id": 578,
+    "game_id": "9-2",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 4",
+    "archipelago_id": 579,
+    "game_id": "9-3",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 5",
+    "archipelago_id": 580,
+    "game_id": "9-4",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 6",
+    "archipelago_id": 581,
+    "game_id": "9-5",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 7",
+    "archipelago_id": 582,
+    "game_id": "9-6",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 8",
+    "archipelago_id": 583,
+    "game_id": "9-7",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 9",
+    "archipelago_id": 584,
+    "game_id": "9-8",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 10",
+    "archipelago_id": 585,
+    "game_id": "9-9",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 11",
+    "archipelago_id": 586,
+    "game_id": "9-10",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 12",
+    "archipelago_id": 587,
+    "game_id": "9-11",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 13",
+    "archipelago_id": 588,
+    "game_id": "9-12",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 14",
+    "archipelago_id": 589,
+    "game_id": "9-13",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 15",
+    "archipelago_id": 590,
+    "game_id": "9-14",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 16",
+    "archipelago_id": 591,
+    "game_id": "9-15",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 17",
+    "archipelago_id": 592,
+    "game_id": "9-16",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 18",
+    "archipelago_id": 593,
+    "game_id": "9-17",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 19",
+    "archipelago_id": 594,
+    "game_id": "9-18",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 20",
+    "archipelago_id": 595,
+    "game_id": "9-19",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 21",
+    "archipelago_id": 596,
+    "game_id": "9-20",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 22",
+    "archipelago_id": 597,
+    "game_id": "9-21",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 23",
+    "archipelago_id": 598,
+    "game_id": "9-22",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 24",
+    "archipelago_id": 599,
+    "game_id": "9-23",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku - Item 25",
+    "archipelago_id": 600,
+    "game_id": "9-24",
+    "region": "Weapon Shop - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 9
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 1",
+    "archipelago_id": 601,
+    "game_id": "10-0",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 2",
+    "archipelago_id": 602,
+    "game_id": "10-1",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 3",
+    "archipelago_id": 603,
+    "game_id": "10-2",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 4",
+    "archipelago_id": 604,
+    "game_id": "10-3",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 5",
+    "archipelago_id": 605,
+    "game_id": "10-4",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 6",
+    "archipelago_id": 606,
+    "game_id": "10-5",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 7",
+    "archipelago_id": 607,
+    "game_id": "10-6",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 8",
+    "archipelago_id": 608,
+    "game_id": "10-7",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 9",
+    "archipelago_id": 609,
+    "game_id": "10-8",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 10",
+    "archipelago_id": 610,
+    "game_id": "10-9",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 11",
+    "archipelago_id": 611,
+    "game_id": "10-10",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 12",
+    "archipelago_id": 612,
+    "game_id": "10-11",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 13",
+    "archipelago_id": 613,
+    "game_id": "10-12",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 14",
+    "archipelago_id": 614,
+    "game_id": "10-13",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 15",
+    "archipelago_id": 615,
+    "game_id": "10-14",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 16",
+    "archipelago_id": 616,
+    "game_id": "10-15",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 17",
+    "archipelago_id": 617,
+    "game_id": "10-16",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 18",
+    "archipelago_id": 618,
+    "game_id": "10-17",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 19",
+    "archipelago_id": 619,
+    "game_id": "10-18",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 20",
+    "archipelago_id": 620,
+    "game_id": "10-19",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 21",
+    "archipelago_id": 621,
+    "game_id": "10-20",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 22",
+    "archipelago_id": 622,
+    "game_id": "10-21",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 23",
+    "archipelago_id": 623,
+    "game_id": "10-22",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 24",
+    "archipelago_id": 624,
+    "game_id": "10-23",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku - Item 25",
+    "archipelago_id": 625,
+    "game_id": "10-24",
+    "region": "Weapon Shop - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 10
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 1",
+    "archipelago_id": 626,
+    "game_id": "11-0",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 2",
+    "archipelago_id": 627,
+    "game_id": "11-1",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 3",
+    "archipelago_id": 628,
+    "game_id": "11-2",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 4",
+    "archipelago_id": 629,
+    "game_id": "11-3",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 5",
+    "archipelago_id": 630,
+    "game_id": "11-4",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 6",
+    "archipelago_id": 631,
+    "game_id": "11-5",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 7",
+    "archipelago_id": 632,
+    "game_id": "11-6",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 8",
+    "archipelago_id": 633,
+    "game_id": "11-7",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 9",
+    "archipelago_id": 634,
+    "game_id": "11-8",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 10",
+    "archipelago_id": 635,
+    "game_id": "11-9",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 11",
+    "archipelago_id": 636,
+    "game_id": "11-10",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 12",
+    "archipelago_id": 637,
+    "game_id": "11-11",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 13",
+    "archipelago_id": 638,
+    "game_id": "11-12",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 14",
+    "archipelago_id": 639,
+    "game_id": "11-13",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 15",
+    "archipelago_id": 640,
+    "game_id": "11-14",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 16",
+    "archipelago_id": 641,
+    "game_id": "11-15",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 17",
+    "archipelago_id": 642,
+    "game_id": "11-16",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 18",
+    "archipelago_id": 643,
+    "game_id": "11-17",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya - Item 19",
+    "archipelago_id": 644,
+    "game_id": "11-18",
+    "region": "Weapon Shop - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 11
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 1",
+    "archipelago_id": 645,
+    "game_id": "12-0",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 2",
+    "archipelago_id": 646,
+    "game_id": "12-1",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 3",
+    "archipelago_id": 647,
+    "game_id": "12-2",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 4",
+    "archipelago_id": 648,
+    "game_id": "12-3",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 5",
+    "archipelago_id": 649,
+    "game_id": "12-4",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 6",
+    "archipelago_id": 650,
+    "game_id": "12-5",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 7",
+    "archipelago_id": 651,
+    "game_id": "12-6",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 8",
+    "archipelago_id": 652,
+    "game_id": "12-7",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 9",
+    "archipelago_id": 653,
+    "game_id": "12-8",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 10",
+    "archipelago_id": 654,
+    "game_id": "12-9",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 11",
+    "archipelago_id": 655,
+    "game_id": "12-10",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 12",
+    "archipelago_id": 656,
+    "game_id": "12-11",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 13",
+    "archipelago_id": 657,
+    "game_id": "12-12",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 14",
+    "archipelago_id": 658,
+    "game_id": "12-13",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 15",
+    "archipelago_id": 659,
+    "game_id": "12-14",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 16",
+    "archipelago_id": 660,
+    "game_id": "12-15",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 17",
+    "archipelago_id": 661,
+    "game_id": "12-16",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro - Item 18",
+    "archipelago_id": 662,
+    "game_id": "12-17",
+    "region": "Weapon Shop - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 12
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 1",
+    "archipelago_id": 663,
+    "game_id": "14-0",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 2",
+    "archipelago_id": 664,
+    "game_id": "14-1",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 3",
+    "archipelago_id": 665,
+    "game_id": "14-2",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 4",
+    "archipelago_id": 666,
+    "game_id": "14-3",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 5",
+    "archipelago_id": 667,
+    "game_id": "14-4",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 6",
+    "archipelago_id": 668,
+    "game_id": "14-5",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 7",
+    "archipelago_id": 669,
+    "game_id": "14-6",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku - Item 8",
+    "archipelago_id": 670,
+    "game_id": "14-7",
+    "region": "Ashura-kai Authorized Shop - Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 14
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 1",
+    "archipelago_id": 671,
+    "game_id": "15-0",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 2",
+    "archipelago_id": 672,
+    "game_id": "15-1",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 3",
+    "archipelago_id": 673,
+    "game_id": "15-2",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 4",
+    "archipelago_id": 674,
+    "game_id": "15-3",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 5",
+    "archipelago_id": 675,
+    "game_id": "15-4",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 6",
+    "archipelago_id": 676,
+    "game_id": "15-5",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 7",
+    "archipelago_id": 677,
+    "game_id": "15-6",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 8",
+    "archipelago_id": 678,
+    "game_id": "15-7",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 9",
+    "archipelago_id": 679,
+    "game_id": "15-8",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 10",
+    "archipelago_id": 680,
+    "game_id": "15-9",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya - Item 11",
+    "archipelago_id": 681,
+    "game_id": "15-10",
+    "region": "Ashura-kai Authorized Shop - Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 15
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 1",
+    "archipelago_id": 682,
+    "game_id": "18-0",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 2",
+    "archipelago_id": 683,
+    "game_id": "18-1",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 3",
+    "archipelago_id": 684,
+    "game_id": "18-2",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 4",
+    "archipelago_id": 685,
+    "game_id": "18-3",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 5",
+    "archipelago_id": 686,
+    "game_id": "18-4",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 6",
+    "archipelago_id": 687,
+    "game_id": "18-5",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Members-Only Club - Ginza Items - Item 7",
+    "archipelago_id": 688,
+    "game_id": "18-6",
+    "region": "Members-Only Club - Ginza Items",
+    "type": "shop",
+    "subtype": "",
+    "flag": 18
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 1",
+    "archipelago_id": 689,
+    "game_id": "19-0",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 2",
+    "archipelago_id": 690,
+    "game_id": "19-1",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 3",
+    "archipelago_id": 691,
+    "game_id": "19-2",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 4",
+    "archipelago_id": 692,
+    "game_id": "19-3",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 5",
+    "archipelago_id": 693,
+    "game_id": "19-4",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 6",
+    "archipelago_id": 694,
+    "game_id": "19-5",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 7",
+    "archipelago_id": 695,
+    "game_id": "19-6",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 8",
+    "archipelago_id": 696,
+    "game_id": "19-7",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno - Item 9",
+    "archipelago_id": 697,
+    "game_id": "19-8",
+    "region": "Ashura-kai Authorized Shop - Ueno",
+    "type": "shop",
+    "subtype": "",
+    "flag": 19
+  },
+  {
+    "name": "B's Apothecary - Item 1",
+    "archipelago_id": 698,
+    "game_id": "22-0",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 2",
+    "archipelago_id": 699,
+    "game_id": "22-1",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 3",
+    "archipelago_id": 700,
+    "game_id": "22-2",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 4",
+    "archipelago_id": 701,
+    "game_id": "22-3",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 5",
+    "archipelago_id": 702,
+    "game_id": "22-4",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 6",
+    "archipelago_id": 703,
+    "game_id": "22-5",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 7",
+    "archipelago_id": 704,
+    "game_id": "22-6",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 8",
+    "archipelago_id": 705,
+    "game_id": "22-7",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "B's Apothecary - Item 9",
+    "archipelago_id": 706,
+    "game_id": "22-8",
+    "region": "B's Apothecary",
+    "type": "shop",
+    "subtype": "",
+    "flag": 22
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 1",
+    "archipelago_id": 707,
+    "game_id": "23-0",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 2",
+    "archipelago_id": 708,
+    "game_id": "23-1",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 3",
+    "archipelago_id": 709,
+    "game_id": "23-2",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 4",
+    "archipelago_id": 710,
+    "game_id": "23-3",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 5",
+    "archipelago_id": 711,
+    "game_id": "23-4",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 6",
+    "archipelago_id": 712,
+    "game_id": "23-5",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 7",
+    "archipelago_id": 713,
+    "game_id": "23-6",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku - Item 8",
+    "archipelago_id": 714,
+    "game_id": "23-7",
+    "region": "Drug Store - Blasted Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 23
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 1",
+    "archipelago_id": 715,
+    "game_id": "24-0",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 2",
+    "archipelago_id": 716,
+    "game_id": "24-1",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 3",
+    "archipelago_id": 717,
+    "game_id": "24-2",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 4",
+    "archipelago_id": 718,
+    "game_id": "24-3",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 5",
+    "archipelago_id": 719,
+    "game_id": "24-4",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku - Item 6",
+    "archipelago_id": 720,
+    "game_id": "24-5",
+    "region": "Drug Store - Infernal Shinjuku",
+    "type": "shop",
+    "subtype": "",
+    "flag": 24
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 1",
+    "archipelago_id": 721,
+    "game_id": "25-0",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 2",
+    "archipelago_id": 722,
+    "game_id": "25-1",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 3",
+    "archipelago_id": 723,
+    "game_id": "25-2",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 4",
+    "archipelago_id": 724,
+    "game_id": "25-3",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 5",
+    "archipelago_id": 725,
+    "game_id": "25-4",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya - Item 6",
+    "archipelago_id": 726,
+    "game_id": "25-5",
+    "region": "Drug Store - Infernal Shibuya",
+    "type": "shop",
+    "subtype": "",
+    "flag": 25
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 1",
+    "archipelago_id": 727,
+    "game_id": "26-0",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 2",
+    "archipelago_id": 728,
+    "game_id": "26-1",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 3",
+    "archipelago_id": 729,
+    "game_id": "26-2",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 4",
+    "archipelago_id": 730,
+    "game_id": "26-3",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 5",
+    "archipelago_id": 731,
+    "game_id": "26-4",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro - Item 6",
+    "archipelago_id": 732,
+    "game_id": "26-5",
+    "region": "Drug Store - Infernal Ikebukuro",
+    "type": "shop",
+    "subtype": "",
+    "flag": 26
   }
 ]

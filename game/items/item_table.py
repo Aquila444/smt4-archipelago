@@ -132,11 +132,3 @@ try:
     item_table = ItemTable.load_from_json()
 except Exception as e:
     print(e)
-
-
-def main():
-    print()
-
-
-if __name__ == "__main__":
-    main()

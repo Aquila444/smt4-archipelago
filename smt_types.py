@@ -46,14 +46,7 @@ class SmtItem:
 
     @classmethod
     def from_dict(cls, data: dict) -> SmtItem:
-        name = data["name"]
-        archipelago_id = data["archipelago_id"]
-        game_id = data["game_id"]
-        inventory_index = data["inventory_index"]
-        type = data["type"]
-        classification = data["classification"]
-
-        return SmtItem(name, archipelago_id, game_id, inventory_index, type, classification)
+        return SmtItem(**data)
 
 
 @dataclass
@@ -76,17 +69,14 @@ class SmtEntrance:
 
     @classmethod
     def from_dict(cls, data: dict) -> SmtEntrance:
-        region = data["region"]
-        requirements = data["requirements"]
-
-        return SmtEntrance(region, requirements)
+        return SmtEntrance(**data)
 
 
 @dataclass
 class SmtLocation:
     name: str
     archipelago_id: int
-    game_id: int
+    game_id: str
     region: str
     type: str
     subtype: str
@@ -94,12 +84,4 @@ class SmtLocation:
 
     @classmethod
     def from_dict(cls, data: dict) -> SmtLocation:
-        name = data["name"]
-        archipelago_id = data["archipelago_id"]
-        game_id = data["game_id"]
-        region = data["region"]
-        type = data["type"]
-        subtype = data["subtype"]
-        flag = data["flag"]
-
-        return SmtLocation(name, archipelago_id, game_id, region, type, subtype, flag)
+        return SmtLocation(**data)

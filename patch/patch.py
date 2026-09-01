@@ -39,7 +39,7 @@ def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
 
     checks_map = patch_info.check_map
 
-    ap_locations_to_game_id = {location.name: location.game_id for location in locations.locations}
+    ap_locations_to_game_id = {location.name: int(location.game_id) for location in locations.locations}
     ap_items_to_game_id = {item.name: item.game_id for item in items.items} | {"AP Item": ap_item_id}
 
     game_locations_to_items = {

@@ -1,7 +1,9 @@
-import json
 import re
 
+import orjson
+
 from ..config import DATA_DIR
+from ..game.shops.shop_table import shop_table
 from ..locations import SmtLocation
 from ..utils.ids import IdGenerator
 
@@ -11,12 +13,14 @@ id_generator = IdGenerator()
 
 def main():
     treasure_locations = create_treasure_locations()
+    shop_locations = create_shop_locations()
 
-    locations = treasure_locations
+    locations = treasure_locations + shop_locations
 
     output_path = DATA_DIR / "ap-locations.json"
-    with open(output_path, "w+") as f:
-        json.dump(locations, f)
+    with open(output_path, "wb+") as f:
+        encoded_json = orjson.dumps(locations)
+        f.write(encoded_json)
 
 
 def create_treasure_locations() -> list[SmtLocation]:
@@ -37,7 +41,7 @@ def create_treasure_locations() -> list[SmtLocation]:
 def map_treasure_location(archipelago_id, line) -> SmtLocation:
     match = re.match(pattern, line)
 
-    game_id = int(match.group(1))
+    game_id = match.group(1)
     region = match.group(2)
 
     name = match.group(3)
@@ -57,6 +61,34 @@ def map_treasure_location(archipelago_id, line) -> SmtLocation:
     type = "treasure"
 
     return SmtLocation(location_name, archipelago_id, game_id, region, type, subtype, flag)
+
+
+def create_shop_locations() -> list[SmtLocation]:
+    with open(DATA_DIR / "shop-regions.txt", "r") as f:
+        lines = f.readlines()
+        shop_to_region = {int(line.split(": ")[0]): line.split(": ")[1].strip() for line in lines}
+
+    type = "shop"
+    subtype = ""
+    flag = ""
+
+    locations = []
+    for shop in shop_table.shops:
+        shop_id = shop.shop_id
+        region = shop_to_region.get(shop_id)
+
+        if region is None:
+            continue
+
+        for index, item in enumerate(shop.shop_items):
+            location_name = f"{region} - Item {index + 1}"
+            archipelago_id = id_generator.get_new_id()
+            game_id = f"{shop_id}-{index}"
+
+            location = SmtLocation(location_name, archipelago_id, game_id, region, type, subtype, flag)
+            locations.append(location)
+
+    return locations
 
 
 if __name__ == '__main__':

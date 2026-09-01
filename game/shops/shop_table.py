@@ -22,7 +22,8 @@ class ShopTable:
     shop_names: list[ShopEntry]
     shops: list[Shop]
 
-    def __init__(self, shop_actions: list[ShopAction], shop_names: list[ShopEntry], shops: list[Shop], tbb_table: Table):
+    def __init__(self, shop_actions: list[ShopAction], shop_names: list[ShopEntry], shops: list[Shop],
+                 tbb_table: Table):
         self.shop_actions = shop_actions
         self.shop_names = shop_names
         self.shops = shops
@@ -90,3 +91,9 @@ class ShopTable:
         with open(DATA_FILE_LOCATION, "wb+") as json_file:
             encoded_json = orjson.dumps(self)
             json_file.write(encoded_json)
+
+
+try:
+    shop_table = ShopTable.load_from_json()
+except Exception as e:
+    print(e)
