@@ -1,0 +1,5810 @@
+{
+  "shop_actions": [
+    "Buy Weapons",
+    "Buy Armor",
+    "Buy Items",
+    "Sell Possessions",
+    "Swords",
+    "Guns",
+    "Bullets",
+    "Head",
+    "Upper Body",
+    "Lower Body",
+    "Accessories",
+    "0"
+  ],
+  "shop_names": [
+    "Weapon Shop Dummy",
+    "Black Market",
+    "Black Market",
+    "Black Market",
+    "Black Market",
+    "Black Market",
+    "Members-Only Club",
+    "Members-Only Club",
+    "Q's Blacksmith",
+    "Weapon Shop",
+    "Weapon Shop",
+    "Weapon Shop",
+    "Weapon Shop",
+    "Item Shop Dummy",
+    "Ashura-kai Authorized Shop",
+    "Ashura-kai Authorized Shop",
+    "Ashura-kai Authorized Shop",
+    "Ashura-kai Authorized Shop",
+    "Members-Only Club",
+    "Ashura-kai Authorized Shop",
+    "Ashura-kai Authorized Shop",
+    "Ashura-kai Authorized Shop",
+    "B's Apothecary ",
+    "Drug Store",
+    "Drug Store",
+    "Drug Store",
+    "Drug Store"
+  ],
+  "shops": [
+    {
+      "name": "Weapon Shop Dummy",
+      "shop_items": [
+        {
+          "item_id": 61,
+          "item_name": "Samurai Sword",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 63,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 66,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 69,
+          "item_name": "Dies Irae",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 71,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 74,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 78,
+          "item_name": "Old Mace",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 162,
+          "item_name": "Steel Hoe",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 182,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 184,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 186,
+          "item_name": "Bruce Gun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 222,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 224,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 226,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 261,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 263,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 265,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 781,
+          "item_name": "FMJ Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 783,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 784,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 785,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 786,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 789,
+          "item_name": "Flaemis Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 790,
+          "item_name": "Aquans Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 791,
+          "item_name": "Erthys Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 792,
+          "item_name": "Aeros Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 661,
+          "item_name": "Samurai Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 667,
+          "item_name": "Red Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 668,
+          "item_name": "Blue Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 669,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 301,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 302,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 303,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 304,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 305,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 306,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 307,
+          "item_name": "Aquila White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 308,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 309,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 311,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 312,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 313,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 314,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 315,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 316,
+          "item_name": "Green Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 317,
+          "item_name": "Black King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 318,
+          "item_name": "White King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 319,
+          "item_name": "Blood King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 321,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 322,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 323,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 324,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 325,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 326,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 327,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 328,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 329,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 331,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 332,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 333,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 334,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 335,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 336,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 337,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 338,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 339,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 341,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 342,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 343,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 351,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 352,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 353,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 354,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 355,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 356,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 361,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 362,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 363,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 364,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 365,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 366,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 371,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 372,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 373,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 381,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 382,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 383,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 391,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 392,
+          "item_name": "Black Demonica",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 401,
+          "item_name": "Silver Mars",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 402,
+          "item_name": "Red Mars",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 403,
+          "item_name": "Gold Mars",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 404,
+          "item_name": "Red Crest",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 405,
+          "item_name": "Aqua Crest",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 406,
+          "item_name": "Black Crest",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 407,
+          "item_name": "Black Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 408,
+          "item_name": "Green Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 409,
+          "item_name": "Blue Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 410,
+          "item_name": "Green Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 411,
+          "item_name": "Blue Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 412,
+          "item_name": "Silver Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 413,
+          "item_name": "White Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 414,
+          "item_name": "Brown Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 415,
+          "item_name": "Green Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 416,
+          "item_name": "White Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 417,
+          "item_name": "Black Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 418,
+          "item_name": "Gold Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 421,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 422,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 423,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 424,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 425,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 426,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 427,
+          "item_name": "Aquila White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 428,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 429,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 431,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 432,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 433,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 434,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 435,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 436,
+          "item_name": "Green Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 437,
+          "item_name": "Black King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 438,
+          "item_name": "White King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 439,
+          "item_name": "Blood King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 441,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 442,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 443,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 444,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 445,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 446,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 447,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 448,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 449,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 451,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 452,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 453,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 454,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 455,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 456,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 457,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 458,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 459,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 461,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 462,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 463,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 471,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 472,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 473,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 474,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 475,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 476,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 481,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 482,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 483,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 484,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 485,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 486,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 491,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 492,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 493,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 501,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 502,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 503,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 511,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 512,
+          "item_name": "Black Demonica",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 541,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 542,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 543,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 544,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 545,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 546,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 547,
+          "item_name": "Aquila White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 548,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 549,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 551,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 552,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 553,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 554,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 555,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 556,
+          "item_name": "Green Duke",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 557,
+          "item_name": "Black King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 558,
+          "item_name": "White King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 559,
+          "item_name": "Blood King",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 561,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 562,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 563,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 564,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 565,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 566,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 567,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 568,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 569,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 571,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 572,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 573,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 574,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 575,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 576,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 577,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 578,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 579,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 581,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 582,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 583,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 591,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 592,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 593,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 594,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 595,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 596,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 601,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 602,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 603,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 604,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 605,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 606,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 611,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 612,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 613,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 621,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 622,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 623,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 631,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 632,
+          "item_name": "Black Demonica",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Black Market",
+      "shop_items": [
+        {
+          "item_id": 81,
+          "item_name": "Imanotsurugi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 84,
+          "item_name": "Morning Star",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 88,
+          "item_name": "Luna Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 153,
+          "item_name": "Gae Bolg",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 190,
+          "item_name": "CC Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 229,
+          "item_name": "Ace Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 270,
+          "item_name": "CC Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 351,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 352,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 353,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 371,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 372,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 373,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 471,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 472,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 473,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 491,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 492,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 493,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 591,
+          "item_name": "Catcher's Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 592,
+          "item_name": "Catcher's Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 593,
+          "item_name": "Catcher's Brown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 611,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 612,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 613,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 678,
+          "item_name": "White Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 682,
+          "item_name": "Tactician Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 683,
+          "item_name": "Black Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 687,
+          "item_name": "Demon Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 688,
+          "item_name": "Company Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 793,
+          "item_name": "Steel Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 794,
+          "item_name": "Virus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 795,
+          "item_name": "Salamander Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 796,
+          "item_name": "Undine Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 797,
+          "item_name": "Gnome Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 798,
+          "item_name": "Sylph Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Black Market",
+      "shop_items": [
+        {
+          "item_id": 91,
+          "item_name": "Pest Crop",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 95,
+          "item_name": "Aymur",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 96,
+          "item_name": "Usumidori",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 192,
+          "item_name": "Gold Gun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 231,
+          "item_name": "Big Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 272,
+          "item_name": "Bronze Steyr",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 341,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 342,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 343,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 461,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 462,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 463,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 581,
+          "item_name": "Casual Blue",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 582,
+          "item_name": "Casual Pink",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 583,
+          "item_name": "Casual Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 692,
+          "item_name": "Fire Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 693,
+          "item_name": "Ice Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 694,
+          "item_name": "Volt Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 695,
+          "item_name": "Wind Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 799,
+          "item_name": "Panic Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 800,
+          "item_name": "Bind Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Black Market",
+      "shop_items": [
+        {
+          "item_id": 86,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 88,
+          "item_name": "Luna Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 90,
+          "item_name": "予備枠",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 156,
+          "item_name": "Poison Glaive",
+          "unlock_requirement": 396,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 156,
+          "item_name": "Poison Glaive",
+          "unlock_requirement": 416,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 156,
+          "item_name": "Poison Glaive",
+          "unlock_requirement": 442,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 190,
+          "item_name": "CC Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 202,
+          "item_name": "Bolt Rifle",
+          "unlock_requirement": 396,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 202,
+          "item_name": "Bolt Rifle",
+          "unlock_requirement": 416,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 202,
+          "item_name": "Bolt Rifle",
+          "unlock_requirement": 442,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 229,
+          "item_name": "Ace Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 241,
+          "item_name": "Laser Bazooka",
+          "unlock_requirement": 396,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 241,
+          "item_name": "Laser Bazooka",
+          "unlock_requirement": 416,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 241,
+          "item_name": "Laser Bazooka",
+          "unlock_requirement": 442,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 270,
+          "item_name": "CC Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 282,
+          "item_name": "Bolt Machinegun",
+          "unlock_requirement": 396,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 282,
+          "item_name": "Bolt Machinegun",
+          "unlock_requirement": 416,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 282,
+          "item_name": "Bolt Machinegun",
+          "unlock_requirement": 442,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 361,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 362,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 363,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 371,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 372,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 373,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 481,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 482,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 483,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 491,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 492,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 493,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 601,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 602,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 603,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 611,
+          "item_name": "Survival Cream",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 612,
+          "item_name": "Survival Olive",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 613,
+          "item_name": "Survival Purple",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 687,
+          "item_name": "Demon Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 688,
+          "item_name": "Company Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 795,
+          "item_name": "Salamander Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 796,
+          "item_name": "Undine Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 797,
+          "item_name": "Gnome Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 798,
+          "item_name": "Sylph Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 817,
+          "item_name": "AP Rounds",
+          "unlock_requirement": 396,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 817,
+          "item_name": "AP Rounds",
+          "unlock_requirement": 416,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 817,
+          "item_name": "AP Rounds",
+          "unlock_requirement": 442,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Black Market",
+      "shop_items": [
+        {
+          "item_id": 98,
+          "item_name": "Fuujin Sword",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 100,
+          "item_name": "Traitor's Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 103,
+          "item_name": "Onimaru Kunitsuna",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 154,
+          "item_name": "Vermillion Spear",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 194,
+          "item_name": "Kunitomo Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 196,
+          "item_name": "Wild Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 233,
+          "item_name": "Evil Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 235,
+          "item_name": "BB Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 274,
+          "item_name": "Magoichi Auto",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 276,
+          "item_name": "Wild Steyr",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 361,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 362,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 363,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 381,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 382,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 383,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 481,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 482,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 483,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 501,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 502,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 503,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 601,
+          "item_name": "Black Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 602,
+          "item_name": "Blood Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 603,
+          "item_name": "Silver Rider",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 621,
+          "item_name": "Olive Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 622,
+          "item_name": "Sand Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 623,
+          "item_name": "Gray Camouflage",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 697,
+          "item_name": "Power Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 698,
+          "item_name": "Shot Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 801,
+          "item_name": "Flame Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 802,
+          "item_name": "Frost Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 803,
+          "item_name": "Volt Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 804,
+          "item_name": "Storm Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 805,
+          "item_name": "Hollow-Points",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Black Market",
+      "shop_items": [
+        {
+          "item_id": 75,
+          "item_name": "Nihil",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 76,
+          "item_name": "Sonic Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 78,
+          "item_name": "Old Mace",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 80,
+          "item_name": "Slicer Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 188,
+          "item_name": "Ultra Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 225,
+          "item_name": "Ready Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 321,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 322,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 323,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 331,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 332,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 333,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 441,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 442,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 443,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 451,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 452,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 453,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 561,
+          "item_name": "Soldier Yasha",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 562,
+          "item_name": "Soldier Mogura",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 563,
+          "item_name": "Soldier Murasame",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 571,
+          "item_name": "Green Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 572,
+          "item_name": "Yellow Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 573,
+          "item_name": "Blue Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 672,
+          "item_name": "Marshal Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 673,
+          "item_name": "Warlord Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 787,
+          "item_name": "Sleep Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 788,
+          "item_name": "Toxic Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 789,
+          "item_name": "Flaemis Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 790,
+          "item_name": "Aquans Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 791,
+          "item_name": "Erthys Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 792,
+          "item_name": "Aeros Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 521,
+          "item_name": "Soldier Enma",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 119
+        },
+        {
+          "item_id": 522,
+          "item_name": "Demon Sneak",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 122
+        }
+      ]
+    },
+    {
+      "name": "Members-Only Club",
+      "shop_items": [
+        {
+          "item_id": 131,
+          "item_name": "Cursed Muramasa",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 132,
+          "item_name": "Sol Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 134,
+          "item_name": "Masamune",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 135,
+          "item_name": "Mjolnir",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 139,
+          "item_name": "Laevateinn",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 157,
+          "item_name": "Gungnir",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 158,
+          "item_name": "Dragonfly Slicer",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 159,
+          "item_name": "Ame-no-nuboko",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 160,
+          "item_name": "Frost Scepter",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 204,
+          "item_name": "XYZ Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 208,
+          "item_name": "Light Gun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 243,
+          "item_name": "Bolt Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 247,
+          "item_name": "Clear Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 284,
+          "item_name": "XYZ Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 288,
+          "item_name": "Light Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 327,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 328,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 329,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 337,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 338,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 339,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 391,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 396,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 397,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 398,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 399,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 447,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 448,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 449,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 457,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 458,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 459,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 511,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 516,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 517,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 518,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 519,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 567,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 568,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 569,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 577,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 578,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 579,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 631,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 636,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 637,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 638,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 639,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 722,
+          "item_name": "Dark Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 723,
+          "item_name": "Light Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 727,
+          "item_name": "Sturdy Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 728,
+          "item_name": "Sharp Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 729,
+          "item_name": "Hero Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 819,
+          "item_name": "Hephaestus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 820,
+          "item_name": "Poseidon Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 821,
+          "item_name": "Zeus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 822,
+          "item_name": "Hermes Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 824,
+          "item_name": "Shinno Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 829,
+          "item_name": "Tenma Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 830,
+          "item_name": "Almighty Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Members-Only Club",
+      "shop_items": [
+        {
+          "item_id": 131,
+          "item_name": "Cursed Muramasa",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 132,
+          "item_name": "Sol Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 134,
+          "item_name": "Masamune",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 135,
+          "item_name": "Mjolnir",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 139,
+          "item_name": "Laevateinn",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 157,
+          "item_name": "Gungnir",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 158,
+          "item_name": "Dragonfly Slicer",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 159,
+          "item_name": "Ame-no-nuboko",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 160,
+          "item_name": "Frost Scepter",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 204,
+          "item_name": "XYZ Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 208,
+          "item_name": "Light Gun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 243,
+          "item_name": "Bolt Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 247,
+          "item_name": "Clear Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 284,
+          "item_name": "XYZ Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 288,
+          "item_name": "Light Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 327,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 328,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 329,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 337,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 338,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 339,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 391,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 396,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 397,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 398,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 399,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 447,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 448,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 449,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 457,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 458,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 459,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 511,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 516,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 517,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 518,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 519,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 567,
+          "item_name": "Daimyo Kintoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 568,
+          "item_name": "Daimyo Mokutoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 569,
+          "item_name": "Daimyo Katoku",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 577,
+          "item_name": "Dark Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 578,
+          "item_name": "Sky Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 579,
+          "item_name": "Red Stealth",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 631,
+          "item_name": "Demonica Suit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 636,
+          "item_name": "R Scorpion",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 637,
+          "item_name": "Genke Rindo",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 638,
+          "item_name": "Celtic White",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 639,
+          "item_name": "Nibelungen",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 722,
+          "item_name": "Dark Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 723,
+          "item_name": "Light Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 727,
+          "item_name": "Sturdy Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 728,
+          "item_name": "Sharp Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 729,
+          "item_name": "Hero Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 819,
+          "item_name": "Hephaestus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 820,
+          "item_name": "Poseidon Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 821,
+          "item_name": "Zeus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 822,
+          "item_name": "Hermes Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 824,
+          "item_name": "Shinno Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 829,
+          "item_name": "Tenma Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 830,
+          "item_name": "Almighty Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Q's Blacksmith",
+      "shop_items": [
+        {
+          "item_id": 64,
+          "item_name": "Sharp Sword",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 69,
+          "item_name": "Dies Irae",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 151,
+          "item_name": "Cursed Lance",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 301,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 302,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 303,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 311,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 312,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 313,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 421,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 422,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 423,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 431,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 432,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 433,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 541,
+          "item_name": "Mikado Black",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 542,
+          "item_name": "Mikado Wood",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 543,
+          "item_name": "Mikado Sand",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 551,
+          "item_name": "Plain Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 552,
+          "item_name": "Blue Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 553,
+          "item_name": "Red Knight",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 667,
+          "item_name": "Red Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 668,
+          "item_name": "Blue Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 67,
+          "item_name": "Pixie Knife",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 72,
+          "item_name": "Athame",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 304,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 305,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 306,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 424,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 425,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 426,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 544,
+          "item_name": "Ahazuya Red",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 545,
+          "item_name": "Ahazuya Gray",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 546,
+          "item_name": "Ahazuya Blue",
+          "unlock_requirement": 82,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 314,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 315,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 316,
+          "item_name": "Green Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 434,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 435,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 436,
+          "item_name": "Green Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 554,
+          "item_name": "Silver Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 555,
+          "item_name": "Blood Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 556,
+          "item_name": "Green Duke",
+          "unlock_requirement": 157,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 401,
+          "item_name": "Silver Mars",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 402,
+          "item_name": "Red Mars",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 403,
+          "item_name": "Gold Mars",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 404,
+          "item_name": "Red Crest",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 405,
+          "item_name": "Aqua Crest",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 406,
+          "item_name": "Black Crest",
+          "unlock_requirement": 214,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 156,
+          "item_name": "Poison Glaive",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 307,
+          "item_name": "Aquila White",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 308,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 309,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 317,
+          "item_name": "Black King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 318,
+          "item_name": "White King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 319,
+          "item_name": "Blood King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 427,
+          "item_name": "Aquila White",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 428,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 429,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 437,
+          "item_name": "Black King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 438,
+          "item_name": "White King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 439,
+          "item_name": "Blood King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 547,
+          "item_name": "Aquila White",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 548,
+          "item_name": "Aquila Gold",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 549,
+          "item_name": "Aquila Black",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 557,
+          "item_name": "Black King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 558,
+          "item_name": "White King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 559,
+          "item_name": "Blood King",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 161,
+          "item_name": "Bone Sword",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 101
+        },
+        {
+          "item_id": 523,
+          "item_name": "Fire Guard",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 127
+        }
+      ]
+    },
+    {
+      "name": "Weapon Shop",
+      "shop_items": [
+        {
+          "item_id": 106,
+          "item_name": "Sharur",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 107,
+          "item_name": "Deathbringer",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 155,
+          "item_name": "Voulge",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 198,
+          "item_name": "Scar Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 237,
+          "item_name": "Death Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 278,
+          "item_name": "Scar Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 354,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 355,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 356,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 407,
+          "item_name": "Black Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 408,
+          "item_name": "Green Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 409,
+          "item_name": "Blue Gunner",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 474,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 475,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 476,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 594,
+          "item_name": "Cream Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 595,
+          "item_name": "Magenta Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 596,
+          "item_name": "Tricolor Pads",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 707,
+          "item_name": "Critical Earring",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 807,
+          "item_name": "Inferno Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 808,
+          "item_name": "Cocytus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 809,
+          "item_name": "Enelysios Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 810,
+          "item_name": "Zephyr Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 811,
+          "item_name": "Venom Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 812,
+          "item_name": "Prometheus Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Weapon Shop",
+      "shop_items": [
+        {
+          "item_id": 112,
+          "item_name": "Holy Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 114,
+          "item_name": "Caduceus",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 115,
+          "item_name": "Cursed Sarai",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 117,
+          "item_name": "Bizen Osafune",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 200,
+          "item_name": "Murder Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 239,
+          "item_name": "Gigolo Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 280,
+          "item_name": "Murder Steyr",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 364,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 365,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 366,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 410,
+          "item_name": "Green Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 411,
+          "item_name": "Blue Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 412,
+          "item_name": "Silver Mask",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 484,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 485,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 486,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 604,
+          "item_name": "Hero Green",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 605,
+          "item_name": "Hero Gray",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 606,
+          "item_name": "Hero Red",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 712,
+          "item_name": "Flaming Spirit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 713,
+          "item_name": "Icy Spirit",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 813,
+          "item_name": "Suzaku Shot",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 814,
+          "item_name": "Genbu Bomb",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 815,
+          "item_name": "Baihu Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 816,
+          "item_name": "Long Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Weapon Shop",
+      "shop_items": [
+        {
+          "item_id": 122,
+          "item_name": "Answerer",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 124,
+          "item_name": "Mortal Knife",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 202,
+          "item_name": "Bolt Rifle",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 282,
+          "item_name": "Bolt Machinegun",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 324,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 325,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 326,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 416,
+          "item_name": "White Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 417,
+          "item_name": "Black Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 418,
+          "item_name": "Gold Clown",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 444,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 445,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 446,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 564,
+          "item_name": "Bushi Tasogare",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 565,
+          "item_name": "Bushi Yoi",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 566,
+          "item_name": "Bushi Reimei",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 717,
+          "item_name": "Heated Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 718,
+          "item_name": "Chilled Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 817,
+          "item_name": "AP Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Weapon Shop",
+      "shop_items": [
+        {
+          "item_id": 123,
+          "item_name": "Gan Jiang",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 127,
+          "item_name": "Mo Ye",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 241,
+          "item_name": "Laser Bazooka",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 334,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 335,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 336,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 413,
+          "item_name": "White Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 414,
+          "item_name": "Brown Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 415,
+          "item_name": "Green Bunny",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 454,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 455,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 456,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 574,
+          "item_name": "Agent B",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 575,
+          "item_name": "Agent Y",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 576,
+          "item_name": "Agent G",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 719,
+          "item_name": "Volt Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 720,
+          "item_name": "Storm Soul",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 818,
+          "item_name": "Darkness Rounds",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Item Shop Dummy",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 2,
+          "item_name": "Life Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 5,
+          "item_name": "Chakra Drop",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 6,
+          "item_name": "Chakra Pot",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 14,
+          "item_name": "Balm of Rising",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 36,
+          "item_name": "Maragi Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 37,
+          "item_name": "Agilao Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 38,
+          "item_name": "Mabufu Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 39,
+          "item_name": "Bufula Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 40,
+          "item_name": "Mazio Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 41,
+          "item_name": "Zionga Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 42,
+          "item_name": "Mazan Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 43,
+          "item_name": "Zanma Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 44,
+          "item_name": "Mahama Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 45,
+          "item_name": "Mamudo Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 48,
+          "item_name": "Needle Orb",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 49,
+          "item_name": "Knockout Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 50,
+          "item_name": "Poison Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 51,
+          "item_name": "Nerve Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 52,
+          "item_name": "Attack Mirror",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 53,
+          "item_name": "Magic Mirror",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 54,
+          "item_name": "Tetraja Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 55,
+          "item_name": "Dekaja Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 56,
+          "item_name": "Dekunda Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 5,
+          "item_name": "Chakra Drop",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 54,
+          "item_name": "Tetraja Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 36,
+          "item_name": "Maragi Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 38,
+          "item_name": "Mabufu Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 40,
+          "item_name": "Mazio Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 42,
+          "item_name": "Mazan Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 48,
+          "item_name": "Needle Orb",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 38,
+          "item_name": "Mabufu Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 37,
+          "item_name": "Agilao Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 39,
+          "item_name": "Bufula Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 41,
+          "item_name": "Zionga Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 43,
+          "item_name": "Zanma Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 54,
+          "item_name": "Tetraja Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 55,
+          "item_name": "Dekaja Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 56,
+          "item_name": "Dekunda Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Members-Only Club",
+      "shop_items": [
+        {
+          "item_id": 4,
+          "item_name": "Bead Chain",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 6,
+          "item_name": "Chakra Pot",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 14,
+          "item_name": "Balm of Rising",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 25,
+          "item_name": "Amrita Soda",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 26,
+          "item_name": "Amrita Shower",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 52,
+          "item_name": "Attack Mirror",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 53,
+          "item_name": "Magic Mirror",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 49,
+          "item_name": "Knockout Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 50,
+          "item_name": "Poison Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 51,
+          "item_name": "Nerve Gas",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Ashura-kai Authorized Shop",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "B's Apothecary ",
+      "shop_items": [
+        {
+          "item_id": 20,
+          "item_name": "Healing Water",
+          "unlock_requirement": 0,
+          "remove_requirement": 1608,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 21,
+          "item_name": "Holy Fruit",
+          "unlock_requirement": 0,
+          "remove_requirement": 1608,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 22,
+          "item_name": "Revival Leaf",
+          "unlock_requirement": 0,
+          "remove_requirement": 1608,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 23,
+          "item_name": "Detox Solution",
+          "unlock_requirement": 0,
+          "remove_requirement": 1608,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 1608,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Drug Store",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 44,
+          "item_name": "Mahama Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 45,
+          "item_name": "Mamudo Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Drug Store",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Drug Store",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    },
+    {
+      "name": "Drug Store",
+      "shop_items": [
+        {
+          "item_id": 1,
+          "item_name": "Medicine",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 3,
+          "item_name": "Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 13,
+          "item_name": "Revival Bead",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 16,
+          "item_name": "Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 17,
+          "item_name": "Me Patra Stone",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        },
+        {
+          "item_id": 18,
+          "item_name": "Dis-Poison",
+          "unlock_requirement": 0,
+          "remove_requirement": 0,
+          "quest_requirement": 0
+        }
+      ]
+    }
+  ]
+}

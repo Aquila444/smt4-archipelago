@@ -16,7 +16,7 @@ from ...utils.utils import extract_string_from_bytes, load_data_file_as_json
 TBB_FILE_PATH = "event/quest"
 ROM_FILE_LOCATION = INPUT_ROMFS_DIR / TBB_FILE_PATH
 DATA_FILE_NAME = "quests.json"
-DATA_FILE_LOCATION = DATA_DIR / "quests.json"
+DATA_FILE_LOCATION = DATA_DIR / DATA_FILE_NAME
 
 
 class QuestCategory(IntEnum):
@@ -84,6 +84,7 @@ class Quest:
     star_rating: int
     reward_type: RewardType
     reward: ItemReward | MaccaReward | ItemSetReward | None
+    repeat_reward: ItemReward | MaccaReward | ItemSetReward | None
     objectives: list[Objective]
     quest_requirements: list[int]
     unknown_1: int
@@ -101,7 +102,6 @@ class Quest:
     unknown_13: int
     unknown_14: int
     unknown_15: int
-    unknown_16: int
 
     @classmethod
     def from_bytes(cls, quest_bytes: bytes, quest_category: QuestCategory,
@@ -114,10 +114,10 @@ class Quest:
             start_event_bytes, end_event_bytes,
             unknown_3, star_rating, reward_type_value, item_reward_id, reward_amount,
             unknown_4, unknown_5, unknown_6, item_set_reward_value,
-            unknown_7, unknown_8, unknown_9, unknown_10, objectives_bytes,
-            unknown_11, unknown_12,
+            repeat_reward_value, unknown_7, unknown_8, unknown_9, objectives_bytes,
+            unknown_10, unknown_11,
             quest_requirement_1, quest_requirement_2, quest_requirement_3,
-            unknown_13, unknown_14, unknown_15, unknown_16
+            unknown_12, unknown_13, unknown_14, unknown_15
         ) = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
 
         name = extract_string_from_bytes(name_bytes)
@@ -133,12 +133,19 @@ class Quest:
         objectives = [Objective.from_bytes(bytes(entry)) for entry in batched(objectives_bytes, Objective.STRUCT_SIZE)]
         non_empty_objectives = [objective for objective in objectives if objective is not None]
 
+        repeat_reward = None
         if reward_type == RewardType.ITEM:
             reward = ItemReward(item_reward_id, reward_amount)
         elif reward_type == RewardType.MACCA:
             reward = MaccaReward(reward_amount)
+
+            if repeat_reward_value > 0:
+                repeat_reward = MaccaReward(repeat_reward_value)
         else:
             reward = item_sets.get(item_reward_id)
+
+            if repeat_reward_value > 0:
+                repeat_reward = item_sets.get(repeat_reward_value)
 
         quest_requirements = [quest_requirement_1, quest_requirement_2, quest_requirement_3]
         quest_requirements_filtered = [requirement for requirement in quest_requirements if requirement != 0]
@@ -146,9 +153,9 @@ class Quest:
         return Quest(
             quest_id, quest_category, quest_type, name, quest_giver, description,
             sort_order, start_event, end_event, star_rating, reward_type,
-            reward, non_empty_objectives, quest_requirements_filtered,
-            unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8,
-            unknown_9, unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15, unknown_16
+            reward, repeat_reward, non_empty_objectives, quest_requirements_filtered,
+            unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7,
+            unknown_8, unknown_9, unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15
         )
 
     @classmethod
@@ -194,13 +201,12 @@ class Quest:
         unknown_13 = data["unknown_13"]
         unknown_14 = data["unknown_14"]
         unknown_15 = data["unknown_15"]
-        unknown_16 = data["unknown_16"]
 
         return Quest(
             quest_id, quest_category, quest_type, name, quest_giver, description, sort_order, start_event, end_event,
             star_rating, reward_type, reward, non_empty_objectives, quest_requirements,
             unknown_1, unknown_2, unknown_3, unknown_4, unknown_5, unknown_6, unknown_7, unknown_8, unknown_9,
-            unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15, unknown_16
+            unknown_10, unknown_11, unknown_12, unknown_13, unknown_14, unknown_15
         )
 
 

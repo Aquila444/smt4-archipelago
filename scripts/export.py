@@ -4,6 +4,7 @@ from ..config import DATA_DIR, INPUT_ROMFS_DIR
 from ..game.demons.demons import DemonTable
 from ..game.items.item_table import ItemTable
 from ..game.quests.quests import QuestTable
+from ..game.shops.shops import ShopTable
 from ..game.treasure.treasure import LootTable
 from ..tbb.tbb import Table
 
@@ -19,6 +20,7 @@ def main():
     export_item_ids()
     export_loot()
     export_quests()
+    export_shops()
 
 
 def export_inventory_ids():
@@ -79,6 +81,11 @@ def export_loot():
 def export_items():
     item_table = ItemTable.load_from_rom()
     item_table.export()
+
+
+def export_shops():
+    shops_table = ShopTable.load_from_rom()
+    shops_table.export()
 
 
 if __name__ == '__main__':
