@@ -1,27 +1,40 @@
 import json
 import re
-from dataclasses import asdict
 
 from ..config import DATA_DIR
 from ..locations import SmtLocation
+from ..utils.ids import IdGenerator
 
 pattern = re.compile(r"(\d+): ([^;]+); ([^;]+);(.*)")
+id_generator = IdGenerator()
 
 
 def main():
-    drop_locations_path = DATA_DIR / "drop-locations.txt"
+    treasure_locations = create_treasure_locations()
 
-    with open(drop_locations_path, "r") as f:
-        lines = f.readlines()
-
-    locations = [asdict(map_location(index + 1, line)) for index, line in enumerate(lines)]
+    locations = treasure_locations
 
     output_path = DATA_DIR / "ap-locations.json"
     with open(output_path, "w+") as f:
         json.dump(locations, f)
 
 
-def map_location(archipelago_id, line):
+def create_treasure_locations() -> list[SmtLocation]:
+    drop_locations_path = DATA_DIR / "drop-locations.txt"
+
+    with open(drop_locations_path, "r") as f:
+        lines = f.readlines()
+
+    locations = []
+    for line in lines:
+        ap_id = id_generator.get_new_id()
+        treasure_location = map_treasure_location(ap_id, line)
+        locations.append(treasure_location)
+
+    return locations
+
+
+def map_treasure_location(archipelago_id, line) -> SmtLocation:
     match = re.match(pattern, line)
 
     game_id = int(match.group(1))

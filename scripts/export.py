@@ -86,7 +86,6 @@ def export_items():
 def export_shops():
     shops_table = ShopTable.load_from_rom()
     shops_table.export()
-    shops_table.to_file(OUTPUT_ROM_DIR / "ExtractedRomFS")
 
 
 if __name__ == '__main__':

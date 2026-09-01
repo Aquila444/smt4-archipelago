@@ -9,8 +9,32 @@
       {
         "region": "Naraku - Floor of Fame",
         "requirements": []
+      },
+      {
+        "region": "Q's Blacksmith",
+        "requirements": []
+      },
+      {
+        "region": "B's Apothecary",
+        "requirements": []
+      },
+      {
+        "region": "K's Tavern",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Q's Blacksmith",
+    "entrances": []
+  },
+  {
+    "name": "B's Apothecary",
+    "entrances": []
+  },
+  {
+    "name": "K's Tavern",
+    "entrances": []
   },
   {
     "name": "Kiccigiorgi Forest - Side Road",
@@ -203,8 +227,32 @@
       {
         "region": "Ueno - Central Way",
         "requirements": []
+      },
+      {
+        "region": "Black Market - Ueno",
+        "requirements": []
+      },
+      {
+        "region": "Ashura-kai Authorized Shop - Ueno",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Ueno",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Black Market - Ueno",
+    "entrances": []
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Ueno",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Ueno",
+    "entrances": []
   },
   {
     "name": "Ueno - Ameyoko Way",
@@ -513,8 +561,32 @@
       {
         "region": "Shibuya - Underground District B",
         "requirements": []
+      },
+      {
+        "region": "Black Market - Shibuya",
+        "requirements": []
+      },
+      {
+        "region": "Ashura-kai Authorized Shop - Shibuya",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Shibuya",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Black Market - Shibuya",
+    "entrances": []
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shibuya",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Shibuya",
+    "entrances": []
   },
   {
     "name": "Shibuya - Underground District B",
@@ -675,8 +747,32 @@
       {
         "region": "Shinjuku Station - West Entrance",
         "requirements": []
+      },
+      {
+        "region": "Black Market - Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Ashura-kai Authorized Shop - Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Shinjuku",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Black Market - Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Ashura-kai Authorized Shop - Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Shinjuku",
+    "entrances": []
   },
   {
     "name": "Shinjuku - East Entrance Main Street",
@@ -825,8 +921,24 @@
       {
         "region": "Ginza - 4th District Crosswalk",
         "requirements": []
+      },
+      {
+        "region": "Black Market - Ginza",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Ginza",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Black Market - Ginza",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Ginza",
+    "entrances": []
   },
   {
     "name": "Ginza - Hongwanji Passage",
@@ -891,6 +1003,23 @@
   },
   {
     "name": "Ginza - Shopping District",
+    "entrances": [
+      {
+        "region": "Members-Only Club - Ginza Weapons",
+        "requirements": []
+      },
+      {
+        "region": "Members-Only Club - Ginza Items",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Members-Only Club - Ginza Weapons",
+    "entrances": []
+  },
+  {
+    "name": "Members-Only Club - Ginza Items",
     "entrances": []
   },
   {
@@ -1132,11 +1261,15 @@
       },
       {
         "region": "Shibuya - Ground Zero Remains",
-        "requirements": ["Item: Rusted Key"]
+        "requirements": [
+          "Item: Rusted Key"
+        ]
       },
       {
         "region": "Ikebukuro - Ground Zero Remains",
-        "requirements": ["Quest: The Only Food Source"]
+        "requirements": [
+          "Quest: The Only Food Source"
+        ]
       }
     ]
   },
@@ -1238,8 +1371,32 @@
       {
         "region": "Shinjuku - Underground Shelter B",
         "requirements": []
+      },
+      {
+        "region": "Weapon Shop - Blasted Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Drug Store - Blasted Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Blasted Shinjuku",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Weapon Shop - Blasted Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Drug Store - Blasted Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Blasted Shinjuku",
+    "entrances": []
   },
   {
     "name": "Shinjuku - Underground Shelter B",
@@ -1450,8 +1607,32 @@
       {
         "region": "Shibuya (IT) - Underground District B",
         "requirements": []
+      },
+      {
+        "region": "Weapon Shop - Infernal Shibuya",
+        "requirements": []
+      },
+      {
+        "region": "Drug Store - Infernal Shibuya",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Infernal Shibuya",
+        "requirements": []
       }
     ]
+  },
+  {
+    "name": "Weapon Shop - Infernal Shibuya",
+    "entrances": []
+  },
+  {
+    "name": "Drug Store - Infernal Shibuya",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Infernal Shibuya",
+    "entrances": []
   },
   {
     "name": "Shibuya (IT) - Underground District B",
@@ -1472,6 +1653,31 @@
   },
   {
     "name": "Shinjuku (IT) - Underground District",
+    "entrances": [
+      {
+        "region": "Weapon Shop - Infernal Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Drug Store - Infernal Shinjuku",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Infernal Shinjuku",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Weapon Shop - Infernal Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Drug Store - Infernal Shinjuku",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Infernal Shinjuku",
     "entrances": []
   },
   {
@@ -1501,6 +1707,31 @@
   },
   {
     "name": "Ikebukuro (IT) - Underground District",
+    "entrances": [
+      {
+        "region": "Weapon Shop - Infernal Ikebukuro",
+        "requirements": []
+      },
+      {
+        "region": "Drug Store - Infernal Ikebukuro",
+        "requirements": []
+      },
+      {
+        "region": "Hunter Association - Infernal Ikebukuro",
+        "requirements": []
+      }
+    ]
+  },
+  {
+    "name": "Weapon Shop - Infernal Ikebukuro",
+    "entrances": []
+  },
+  {
+    "name": "Drug Store - Infernal Ikebukuro",
+    "entrances": []
+  },
+  {
+    "name": "Hunter Association - Infernal Ikebukuro",
     "entrances": []
   },
   {
