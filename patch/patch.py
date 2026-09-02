@@ -7,10 +7,12 @@ from .rom import unpack_rom, build_rom
 from .. import items
 from .. import locations
 from .. import smt4_patch
-from ..game.items import item_table
-from ..game.treasure import treasure
+from ..game.items.item_table import item_table
+from ..game.shops.shop_table import shop_table
+from ..game.treasure.treasure import loot_table, LootLocation, LootDrop
 
 ap_item_id = 1951
+ap_item_name = "AP Item"
 
 
 def patch(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo, target_path: Path):
@@ -25,8 +27,9 @@ async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo,
 
     romfs_path = rom_file_path.parent / "ExtractedRomFS"
 
-    patch_loot(romfs_path, patch_info)
     patch_items(romfs_path)
+    patch_loot(romfs_path, patch_info)
+    patch_shops(romfs_path, patch_info)
 
     print("Finished applying patches.")
 
@@ -35,40 +38,53 @@ async def patch_inner(rom_file_path: Path, patch_info: smt4_patch.SMT4PatchInfo,
 
 
 def patch_loot(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
-    table = treasure.loot_table
-
-    checks_map = patch_info.check_map
-
-    ap_locations_to_game_id = {location.name: int(location.game_id) for location in locations.locations}
-    ap_items_to_game_id = {item.name: item.game_id for item in items.items} | {"AP Item": ap_item_id}
-
-    game_locations_to_items = {
-        ap_locations_to_game_id[location_name]: ap_items_to_game_id[item_name]
-        for (location_name, item_name) in checks_map.items()
-    }
-
+    game_locations_to_items = get_game_id_map(patch_info, "treasure")
     new_game_locations = {
-        str(location_id): map_loot_entry(location_id, item_id)
+        location_id: map_loot_entry(int(location_id), item_id)
         for location_id, item_id in game_locations_to_items.items()
     }
 
-    table.locations = table.locations | new_game_locations
-    table.to_file(romfs_path)
+    loot_table.locations = loot_table.locations | new_game_locations
+    loot_table.to_file(romfs_path)
 
 
-def map_loot_entry(location_id: int, item_id: int) -> treasure.LootLocation:
-    drop = treasure.LootDrop(item_id, 100, "")
+def map_loot_entry(location_id: int, item_id: int) -> LootLocation:
+    drop = LootDrop(item_id, 100, "")
 
-    return treasure.LootLocation(location_id, [drop])
+    return LootLocation(location_id, [drop])
 
 
 def patch_items(romfs_path: Path):
-    table = item_table.item_table
+    ap_item = item_table.get_item_by_id(ap_item_id)
+    ap_item.name = ap_item_name
 
-    ap_item = table.get_item_by_id(ap_item_id)
-    ap_item.name = "AP Item"
+    item_table.to_file(romfs_path)
 
-    table.to_file(romfs_path)
+
+def patch_shops(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
+    game_locations_to_items = get_game_id_map(patch_info, "shop")
+
+    for location_id, item_id in game_locations_to_items.items():
+        shop_index, item_index = [int(value) for value in location_id.split("-")]
+        shop_item = shop_table.get_shop_item(shop_index, item_index)
+        shop_item.item_id = item_id
+
+    shop_table.to_file(romfs_path)
+
+
+def get_game_id_map(patch_info: smt4_patch.SMT4PatchInfo, location_type: str) -> dict[str, int]:
+    checks_map = patch_info.check_map
+
+    ap_locations_to_game_id = {location.name: location.game_id for location in locations.locations if
+                               location.type == location_type}
+    ap_items_to_game_id = {item.name: item.game_id for item in items.items} | {ap_item_name: ap_item_id}
+
+    game_locations_to_items = {
+        ap_locations_to_game_id[location_name]: ap_items_to_game_id[item_name]
+        for (location_name, item_name) in checks_map.items() if ap_locations_to_game_id.get(location_name) is not None
+    }
+
+    return game_locations_to_items
 
 
 if __name__ == '__main__':

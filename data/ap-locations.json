@@ -1341,28 +1341,28 @@
     "flag": "42-2"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall near entrance",
+    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall near entrance",
     "archipelago_id": 150,
     "game_id": "239",
-    "region": "Tsukiji Hongwanji - Shelter ruins",
+    "region": "Tsukiji Hongwanji - Shelter Ruins",
     "type": "treasure",
     "subtype": "chest",
     "flag": "42-3"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on second floor",
+    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall on second floor",
     "archipelago_id": 151,
     "game_id": "240",
-    "region": "Tsukiji Hongwanji - Shelter ruins",
+    "region": "Tsukiji Hongwanji - Shelter Ruins",
     "type": "treasure",
     "subtype": "chest",
     "flag": "42-4"
   },
   {
-    "name": "Tsukiji Hongwanji - Shelter ruins: Chest behind breakable wall on third floor",
+    "name": "Tsukiji Hongwanji - Shelter Ruins: Chest behind breakable wall on third floor",
     "archipelago_id": 152,
     "game_id": "241",
-    "region": "Tsukiji Hongwanji - Shelter ruins",
+    "region": "Tsukiji Hongwanji - Shelter Ruins",
     "type": "treasure",
     "subtype": "chest",
     "flag": "42-5"

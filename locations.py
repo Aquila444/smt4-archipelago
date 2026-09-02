@@ -30,16 +30,15 @@ def create_regular_locations(world) -> None:
         region.locations.append(location)
 
 
-def load_locations():
-    location_file_name = "ap-locations.json"
-    data = load_data_file_as_json(location_file_name)
+def load_locations() -> list[SmtLocation]:
+    try:
+        location_file_name = "ap-locations.json"
+        data = load_data_file_as_json(location_file_name)
 
-    return [SmtLocation.from_dict(entry) for entry in data]
+        return [SmtLocation.from_dict(entry) for entry in data]
+    except Exception:
+        return []
 
 
-try:
-    locations = load_locations()
-    location_name_to_id = {location.name: location.archipelago_id for location in locations}
-except Exception:
-    locations = []
-    location_name_to_id = dict()
+locations = load_locations()
+location_name_to_id = {location.name: location.archipelago_id for location in locations}

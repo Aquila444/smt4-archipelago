@@ -147,9 +147,9 @@
 223: Tsukiji Hongwanji - Main Temple; Chest in south of entrance behind breakable wall; 42-0
 227: Tsukiji Hongwanji - Main Temple; Chest in western part; 42-1
 228: Tsukiji Hongwanji - 1st Training Hall; Chest near entrance; 42-2
-239: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall near entrance; 42-3
-240: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall on second floor; 42-4
-241: Tsukiji Hongwanji - Shelter ruins; Chest behind breakable wall on third floor; 42-5
+239: Tsukiji Hongwanji - Shelter Ruins; Chest behind breakable wall near entrance; 42-3
+240: Tsukiji Hongwanji - Shelter Ruins; Chest behind breakable wall on second floor; 42-4
+241: Tsukiji Hongwanji - Shelter Ruins; Chest behind breakable wall on third floor; 42-5
 242: Camp Ichigaya - B2F; Chest in dead end, right; 43-4
 243: Camp Ichigaya - B1F; Chest, left; 43-2
 244: Camp Ichigaya - 1F; Gray relic pile, west;
