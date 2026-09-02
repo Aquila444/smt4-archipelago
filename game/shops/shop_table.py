@@ -5,7 +5,7 @@ from pathlib import Path
 
 import orjson
 
-from .shops import Shop, ShopAction, ShopEntry
+from .shops import Shop, ShopAction, ShopEntry, ShopItem
 from ...config import DATA_DIR, INPUT_ROMFS_DIR
 from ...tbb.tbb import Table
 from ...utils.utils import load_data_file_as_json
@@ -92,6 +92,8 @@ class ShopTable:
             encoded_json = orjson.dumps(self)
             json_file.write(encoded_json)
 
+    def get_shop_item(self, shop_index: int, item_index: int) -> ShopItem:
+        return self.shops[shop_index].shop_items[item_index]
 
 try:
     shop_table = ShopTable.load_from_json()

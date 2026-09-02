@@ -40,8 +40,8 @@ def create_all_items(world: SMT4World) -> None:
         if item_source.location in location_names:
             item_reward = pick_reward(item_source, world.random)
 
-            items_to_add = [create_item_with_correct_classification(world, item_reward.item.name)] * item_reward.count
-            world.multiworld.itempool += items_to_add
+            item = create_item_with_correct_classification(world, item_reward.item.name)
+            world.multiworld.itempool.append(item)
 
     number_of_unfilled_locations = len(world.multiworld.get_unfilled_locations(world.player))
     world.multiworld.itempool += [world.create_filler() for _ in range(number_of_unfilled_locations)]
@@ -58,8 +58,12 @@ def get_random_filler_item_name(world: SMT4World) -> str:
     return "Medicine"
 
 
-items = load_items()
+try:
+    items = load_items()
+    item_sources = load_item_sources()
+except Exception:
+    items = []
+    item_sources = []
+
 item_name_to_id = {item.name: item.archipelago_id for item in items}
 item_name_to_item = {item.name: item for item in items}
-
-item_sources = load_item_sources()

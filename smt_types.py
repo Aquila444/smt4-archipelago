@@ -22,17 +22,15 @@ class SmtItemSource:
 class SmtItemReward:
     item: SmtItem
     drop_weight: int
-    count: int
 
     @classmethod
     def from_dict(cls, data: dict) -> SmtItemReward:
         drop_weight = data["drop_weight"]
-        count = data["count"]
 
         item_data = data["item"]
         item = SmtItem.from_dict(item_data)
 
-        return SmtItemReward(item, drop_weight, count)
+        return SmtItemReward(item, drop_weight)
 
 
 @dataclass
@@ -43,6 +41,7 @@ class SmtItem:
     inventory_index: int
     type: str
     classification: str
+    count: int
 
     @classmethod
     def from_dict(cls, data: dict) -> SmtItem:
