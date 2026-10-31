@@ -8,5 +8,6 @@ DATA_DIR = SOURCE_DIR / "data"
 INPUT_ROM_DIR = BASE_DIR / "clean_rom"
 INPUT_ROMFS_DIR = INPUT_ROM_DIR / "ExtractedRomFS"
 OUTPUT_ROM_DIR = BASE_DIR / "rom"
+OUTPUT_ROMFS_DIR = OUTPUT_ROM_DIR / "ExtractedRomFS"
 
 GAME_NAME = "Shin Megami Tensei 4"

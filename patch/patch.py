@@ -7,6 +7,8 @@ from .rom import unpack_rom, build_rom
 from .. import items
 from .. import locations
 from .. import smt4_patch
+from ..game.items import CutContentItem
+from ..game.items.item_description_table import ItemDescriptionTable
 from ..game.items.item_table import item_table
 from ..game.shops.shop_table import shop_table
 from ..game.treasure.treasure import loot_table, LootLocation, LootDrop
@@ -58,7 +60,20 @@ def patch_items(romfs_path: Path):
     ap_item = item_table.get_item_by_id(ap_item_id)
     ap_item.name = ap_item_name
 
+    unused_item = item_table.get_item_by_id(2050)
+    unused_item.name = "Renamed"
+
+    unused_items = item_table.item_categories[5]
+
+    new_item = CutContentItem(2051, "Test", "Test", unused_item.unknown)
+    unused_items.items.append(new_item)
+
     item_table.to_file(romfs_path)
+
+    table = ItemDescriptionTable.from_file(romfs_path)
+    new_description = bytes.fromhex("03 08 8C 5F 96 F1 8F 91 82 50 82 4F 82 4F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00")
+    table.items.append(new_description)
+    table.to_file(romfs_path)
 
 
 def patch_shops(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
