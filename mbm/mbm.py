@@ -8,7 +8,6 @@ from pathlib import Path
 
 @dataclass
 class MBM:
-    header: MBMHeader
     data: dict[int, bytes | None]
 
     @classmethod
@@ -22,22 +21,25 @@ class MBM:
     def from_bytes(cls, data_bytes: bytes) -> MBM:
         header = MBMHeader.from_bytes(data_bytes)
 
-        index_start = header.header_size
+        index_start = MBMHeader.HEADER_SIZE
         index_data = data_bytes[index_start:]
         index = MBMIndex.from_bytes(index_data, header.num_entries)
 
         data = MBMData.from_bytes(data_bytes, index)
 
-        return MBM(header, data.values)
+        return MBM(data.values)
 
     def to_bytes(self) -> bytes:
         num_items = len([value for value in self.data.values() if value is not None])
 
-        header_bytes = self.header.to_bytes(num_items)
         data = MBMData(self.data)
         data_bytes = data.to_bytes()
-        index = MBMIndex.from_data(data, self.header.header_size)
+        index = MBMIndex.from_data(data, MBMHeader.HEADER_SIZE)
         index_bytes = index.to_bytes()
+
+        table_size = MBMHeader.HEADER_SIZE + index.get_non_empty_size() + len(data_bytes)
+        header = MBMHeader(table_size, num_items)
+        header_bytes = header.to_bytes()
 
         return header_bytes + index_bytes + data_bytes
 
@@ -53,24 +55,24 @@ class MBM:
 @dataclass
 class MBMHeader:
     MAGIC_STRING = b"MSG2"
+    MAGIC_NUMBER = 65536
+    HEADER_SIZE = 32
     STRUCT_FORMAT = "<4x4s4I8x"
     STRUCT_SIZE = struct.calcsize(STRUCT_FORMAT)
 
-    unknown_1: int
     table_size: int
     num_entries: int
-    header_size: int
 
     @classmethod
     def from_bytes(cls, data: bytes) -> MBMHeader:
         struct_data = data[:cls.STRUCT_SIZE]
-        _, unknown_1, table_size, num_entries, header_size = struct.unpack(cls.STRUCT_FORMAT, struct_data)
+        _, _, table_size, num_entries, header_size = struct.unpack(cls.STRUCT_FORMAT, struct_data)
 
-        return MBMHeader(unknown_1, table_size, num_entries, header_size)
+        return MBMHeader(table_size, num_entries)
 
-    def to_bytes(self, num_items: int) -> bytes:
-        return struct.pack(self.STRUCT_FORMAT, MBMHeader.MAGIC_STRING, self.unknown_1, self.table_size,
-                           num_items, self.header_size)
+    def to_bytes(self) -> bytes:
+        return struct.pack(self.STRUCT_FORMAT, MBMHeader.MAGIC_STRING, MBMHeader.MAGIC_NUMBER, self.table_size,
+                           self.num_entries, MBMHeader.HEADER_SIZE)
 
 
 @dataclass
@@ -120,6 +122,11 @@ class MBMIndex:
 
         return MBMIndex(index_items)
 
+    def get_non_empty_size(self) -> int:
+        non_empty_items = [item for item in self.items if item.index > 0]
+
+        return len(non_empty_items) * MBMIndexItem.STRUCT_SIZE
+
 
 @dataclass
 class MBMIndexItem:
@@ -165,6 +172,7 @@ class MBMData:
         end_offset = index_item.pointer + size
 
         return data[start_offset:end_offset]
+
 
     def to_bytes(self) -> bytes:
         non_empty_items = [item for item in self.values.values() if item is not None]
