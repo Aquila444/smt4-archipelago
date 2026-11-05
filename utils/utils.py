@@ -9,6 +9,8 @@ from ..config import parent_package
 
 _NAME_PADDING = 32
 _NAME_PATTERN = re.compile(rb"[^\x00]+")
+ascii_to_fullwidth = {i: i + 0xFEE0 for i in range(0x21, 0x7F)}
+ascii_to_fullwidth[0x20] = 0x3000
 
 
 def extract_name_from_bytes(string_bytes: bytes) -> str:
@@ -58,3 +60,7 @@ def load_data_file_as_json(file_name: str, encoding: str = "utf-8") -> Any:
     data = load_data_file(file_name, encoding=encoding, binary=True)
 
     return orjson.loads(data)
+
+
+def to_fullwidth(text: str) -> str:
+    return text.translate(ascii_to_fullwidth)

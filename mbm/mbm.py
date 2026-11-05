@@ -153,7 +153,7 @@ class MBMData:
     values: dict[int, bytes | None]
 
     def __init__(self, values: dict[int, bytes | None]):
-        terminated_values = {key: self.terminate_item(value) for key, value in values.items()}
+        terminated_values = {key: self.translate_text(value) for key, value in values.items()}
         self.values = terminated_values
 
     @classmethod
@@ -173,15 +173,16 @@ class MBMData:
 
         return data[start_offset:end_offset]
 
-
     def to_bytes(self) -> bytes:
         non_empty_items = [item for item in self.values.values() if item is not None]
 
         return b"".join(non_empty_items)
 
     @classmethod
-    def terminate_item(cls, item: bytes | None) -> bytes | None:
+    def translate_text(cls, item: bytes | None) -> bytes | None:
         if item is None:
             return None
 
-        return item if item.endswith(b"\xFF\xFF") else item + b"\xFF\xFF"
+        terminator = b"\xF8\x01\xFF\xFF"
+
+        return item if item.endswith(terminator) else item + terminator

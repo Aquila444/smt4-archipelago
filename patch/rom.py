@@ -13,11 +13,8 @@ async def unpack_rom(rom_file_path: Path) -> None:
     rom_process = None
 
     try:
-        print(f"Unpacking ROM...")
-        print(f"Switching to {rom_dir_path} folder.")
         os.chdir(rom_dir_path)
 
-        print("Running ROM builder.")
         rom_process = await asyncio.create_subprocess_exec(
             hacking_tool_kit_path,
             stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE, stdin=asyncio.subprocess.PIPE)
@@ -40,13 +37,10 @@ async def unpack_rom(rom_file_path: Path) -> None:
 
         target_string = "Extraction done!"
         await wait_for_string(stdout, target_string)
-
-        print("Finished unpacking ROM!")
     finally:
         if rom_process is not None:
             kill_process(rom_process)
 
-        print("Returning to original folder.")
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
@@ -55,11 +49,8 @@ async def build_rom(rom_file_path: Path, target_path: Path):
     rom_process = None
 
     try:
-        print(f"Building ROM...")
-        print(f"Switching to {rom_dir_path} folder.")
         os.chdir(rom_dir_path)
 
-        print("Running ROM builder.")
         rom_process = await asyncio.create_subprocess_exec(
             hacking_tool_kit_path,
             stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE, stdin=asyncio.subprocess.PIPE)
@@ -78,8 +69,6 @@ async def build_rom(rom_file_path: Path, target_path: Path):
         target_string = "Creation done!"
         await wait_for_string(stdout, target_string)
 
-        print("Finished building ROM!")
-
         patched_file_name = f"{patch_name}_Edited.3ds"
         patched_file = rom_dir_path / patched_file_name
 
@@ -88,7 +77,6 @@ async def build_rom(rom_file_path: Path, target_path: Path):
         if rom_process is not None:
             kill_process(rom_process)
 
-        print("Returning to original folder.")
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 

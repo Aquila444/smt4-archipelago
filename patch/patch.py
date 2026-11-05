@@ -7,13 +7,14 @@ from .rom import unpack_rom, build_rom
 from .. import items
 from .. import locations
 from .. import smt4_patch
-from ..game.items import CutContentItem
-from ..game.items.item_description_table import ItemDescriptionTable
+from ..game.items.consumables import Consumable, ItemIcon, ConsumableTarget, ConsumableEffect
 from ..game.items.item_table import item_table
 from ..game.shops.shop_table import shop_table
 from ..game.treasure.treasure import loot_table, LootLocation, LootDrop
+from ..mbm.mbm import MBM
+from ..utils.utils import to_fullwidth
 
-ap_item_id = 1951
+ap_item_id = 15
 ap_item_name = "AP Item"
 
 
@@ -57,23 +58,22 @@ def map_loot_entry(location_id: int, item_id: int) -> LootLocation:
 
 
 def patch_items(romfs_path: Path):
-    ap_item = item_table.get_item_by_id(ap_item_id)
-    ap_item.name = ap_item_name
+    original_item = item_table.get_item_by_id(ap_item_id)
 
-    unused_item = item_table.get_item_by_id(2050)
-    unused_item.name = "Renamed"
+    consumables = item_table.item_categories[1]
 
-    unused_items = item_table.item_categories[5]
-
-    new_item = CutContentItem(2051, "Test", "Test", unused_item.unknown)
-    unused_items.items.append(new_item)
+    new_item = Consumable(ap_item_id, ap_item_name, None, "hpup", 0, 0, 0, 0, 99, 0, 0, 0, 0, 0,
+                          ItemIcon.QUESTION_MARK, 0, ConsumableTarget.SINGLE, ConsumableEffect.NONE,
+                          original_item.unknown_1, original_item.unknown_2, original_item.unknown_3,
+                          original_item.unknown_4)
+    consumables.items[ap_item_id - 1] = new_item
 
     item_table.to_file(romfs_path)
 
-    table = ItemDescriptionTable.from_file(romfs_path)
-    new_description = bytes.fromhex("03 08 8C 5F 96 F1 8F 91 82 50 82 4F 82 4F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00")
-    table.items.append(new_description)
-    table.to_file(romfs_path)
+    mbm = MBM.from_file(romfs_path / "item/ItemHelpMess.mbm")
+    description = to_fullwidth("Archipelago item from another player.").encode(encoding="shift_jis")
+    mbm.data[ap_item_id] = description
+    mbm.to_file(romfs_path / "item/ItemHelpMess.mbm")
 
 
 def patch_shops(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
