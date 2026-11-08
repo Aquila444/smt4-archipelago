@@ -9,7 +9,6 @@ from ...utils.utils import extract_name_from_bytes
 
 @dataclass
 class CutContentItem(Item):
-
     _NAME_LENGTH = 32
 
     _STRUCT_FORMAT = f"<{_NAME_LENGTH}s6H"
@@ -18,7 +17,7 @@ class CutContentItem(Item):
     unknown: list[int]
 
     @classmethod
-    def from_bytes(cls, value_bytes: bytes) -> CutContentItem:
+    def from_bytes(cls, value_bytes: bytes, description_map: dict[int, str]) -> CutContentItem:
         struct_bytes = value_bytes[:cls._STRUCT_LENGTH]
 
         name_bytes, item_id, *unknown = struct.unpack(cls._STRUCT_FORMAT, struct_bytes)
@@ -26,7 +25,9 @@ class CutContentItem(Item):
         original_name = name_bytes.decode(encoding="shift-jis")
         name = extract_name_from_bytes(name_bytes)
 
-        return CutContentItem(item_id, name, original_name, unknown)
+        description = description_map[item_id]
+
+        return CutContentItem(item_id, name, original_name, description, unknown)
 
     def to_bytes(self) -> bytes:
         name_bytes = self.get_name_bytes(self._NAME_LENGTH)
@@ -34,7 +35,3 @@ class CutContentItem(Item):
         values = name_bytes, self.item_id, *self.unknown
 
         return struct.pack(self._STRUCT_FORMAT, *values)
-
-    @classmethod
-    def from_dict(cls, data: dict) -> CutContentItem:
-        return CutContentItem(**data)

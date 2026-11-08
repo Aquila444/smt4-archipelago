@@ -183,6 +183,6 @@ class MBMData:
         if item is None:
             return None
 
-        terminator = b"\xF8\x01\xFF\xFF"
+        terminator = b"\xFF\xFF"
 
         return item if item.endswith(terminator) else item + terminator

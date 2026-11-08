@@ -70,7 +70,7 @@ class Consumable(Item):
     unknown_4: int
 
     @classmethod
-    def from_bytes(cls, value_bytes: bytes) -> Consumable:
+    def from_bytes(cls, value_bytes: bytes, description_map: dict[int, str]) -> Consumable:
         struct_bytes = value_bytes[:cls._STRUCT_LENGTH]
 
         (
@@ -87,7 +87,9 @@ class Consumable(Item):
         item_icon = ItemIcon(item_icon_value)
         target, effect = cls.parse_effect_byte(effect_byte)
 
-        return Consumable(item_id, name, original_name, category,
+        description = description_map[item_id]
+
+        return Consumable(item_id, name, original_name, description, category,
                           flat_hp_recovery, percentage_hp_recovery, flat_mp_recovery, percentage_mp_recovery,
                           stack_size, purchase_price, sell_price, skill_id,
                           xp_gain_percentage, app_point_gain, item_icon, sort_order, target, effect,
@@ -125,34 +127,3 @@ class Consumable(Item):
         effect_value = self.effect.value
 
         return effect_value + 128 * target_bit
-
-    @classmethod
-    def from_dict(cls, data: dict) -> Consumable:
-        item_id = data["item_id"]
-        name = data["name"]
-        original_name = data["original_name"]
-
-        category = data["category"]
-        flat_hp_recovery = data["flat_hp_recovery"]
-        percentage_hp_recovery = data["percentage_hp_recovery"]
-        flat_mp_recovery = data["flat_mp_recovery"]
-        percentage_mp_recovery = data["percentage_mp_recovery"]
-        stack_size = data["stack_size"]
-        purchase_price = data["purchase_price"]
-        sell_price = data["sell_price"]
-        skill_id = data["skill_id"]
-        xp_gain_percentage = data["xp_gain_percentage"]
-        app_point_gain = data["app_point_gain"]
-        item_icon = ItemIcon(data["item_icon"])
-        sort_order = data["sort_order"]
-        target = ConsumableTarget(data["target"])
-        effect = ConsumableEffect(data["effect"])
-        unknown_1 = data["unknown_1"]
-        unknown_2 = data["unknown_2"]
-        unknown_3 = data["unknown_3"]
-        unknown_4 = data["unknown_4"]
-
-        return Consumable(item_id, name, original_name, category,
-                          flat_hp_recovery, percentage_hp_recovery, flat_mp_recovery, percentage_mp_recovery,
-                          stack_size, purchase_price, sell_price, skill_id, xp_gain_percentage, app_point_gain,
-                          item_icon, sort_order, target, effect, unknown_1, unknown_2, unknown_3, unknown_4)

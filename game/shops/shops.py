@@ -43,26 +43,26 @@ class ShopEntry:
     DESCRIPTION_LENGTH = 64
     STRUCT_FORMAT = f"<{NAME_LENGTH}sI2H{DESCRIPTION_LENGTH}s"
 
+    shop_id: int
     name: str
     description: str
     unknown_1: int
     unknown_2: int
-    unknown_3: int
 
     @classmethod
     def from_bytes(cls, shop_name_bytes: bytes) -> ShopEntry:
-        name_bytes, unknown_1, unknown_2, unknown_3, description_bytes = struct.unpack(ShopEntry.STRUCT_FORMAT,
+        name_bytes, unknown_1, unknown_2, shop_id, description_bytes = struct.unpack(ShopEntry.STRUCT_FORMAT,
                                                                                        shop_name_bytes)
 
         name = extract_name_from_bytes(name_bytes)
         description = extract_name_from_bytes(description_bytes)
 
-        return ShopEntry(name, description, unknown_1, unknown_2, unknown_3)
+        return ShopEntry(shop_id, name, description, unknown_1, unknown_2)
 
     def to_bytes(self) -> bytes:
         name = encode_string_with_padding(self.name, self.NAME_LENGTH)
         description = encode_string_with_padding(self.description, self.DESCRIPTION_LENGTH)
-        values = [name, self.unknown_1, self.unknown_2, self.unknown_3, description]
+        values = [name, self.unknown_1, self.unknown_2, self.shop_id, description]
 
         return struct.pack(ShopEntry.STRUCT_FORMAT, *values)
 

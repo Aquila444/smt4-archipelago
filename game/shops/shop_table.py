@@ -31,12 +31,12 @@ class ShopTable:
 
     @classmethod
     def load_from_rom(cls):
-        shop_table = Table.from_file(ROM_FILE_LOCATION)
+        table = Table.from_file(ROM_FILE_LOCATION)
 
         shop_actions = [ShopAction.from_bytes(shop_action_bytes) for shop_action_bytes in
-                        shop_table.tables[0].get_data()]
-        shop_names = [ShopEntry.from_bytes(shop_name_bytes) for shop_name_bytes in shop_table.tables[1].get_data()]
-        shop_tables = shop_table.tables[2:]
+                        table.tables[0].get_data()]
+        shop_names = [ShopEntry.from_bytes(shop_name_bytes) for shop_name_bytes in table.tables[1].get_data()]
+        shop_tables = table.tables[2:]
 
         item_ids_path = DATA_DIR / "item-ids.txt"
         with open(item_ids_path, mode="r", encoding="shift_jis") as item_data_file:
@@ -47,7 +47,7 @@ class ShopTable:
         shops = [Shop.from_table(index, shop_name, shop_tables[index], item_map) for index, shop_name in
                  enumerate(shop_names)]
 
-        return ShopTable(shop_actions, shop_names, shops, shop_table)
+        return ShopTable(shop_actions, shop_names, shops, table)
 
     def to_file(self, romfs_path: Path) -> None:
         self._sync_state_to_tbb_table()
@@ -95,7 +95,9 @@ class ShopTable:
     def get_shop_item(self, shop_index: int, item_index: int) -> ShopItem:
         return self.shops[shop_index].shop_items[item_index]
 
+
 try:
     shop_table = ShopTable.load_from_json()
 except Exception as e:
+    shop_table = None
     print(e)

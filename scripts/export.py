@@ -1,6 +1,5 @@
 import re
 
-from mbm.mbm import MBM
 from ..config import DATA_DIR, INPUT_ROMFS_DIR, OUTPUT_ROMFS_DIR
 from ..game.demons.demons import DemonTable
 from ..game.items.item_table import ItemTable
@@ -8,7 +7,6 @@ from ..game.quests.quests import QuestTable
 from ..game.shops.shop_table import ShopTable
 from ..game.treasure.treasure import LootTable
 from ..tbb.tbb import Table
-from ..mbm import mbm
 
 category_regex = re.compile(r"^root->([^->]+)->")
 address_regex = re.compile(r".*?(0x[0-9a-f]+)")
@@ -83,6 +81,7 @@ def export_loot():
 def export_items():
     item_table = ItemTable.load_from_rom()
     item_table.export()
+    item_table.to_file(OUTPUT_ROMFS_DIR)
 
 
 def export_shops():

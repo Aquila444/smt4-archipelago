@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 from pathlib import Path
 
+from utils.utils import to_fullwidth
 from .rom import unpack_rom, build_rom
 from .. import items
 from .. import locations
@@ -11,8 +12,6 @@ from ..game.items.consumables import Consumable, ItemIcon, ConsumableTarget, Con
 from ..game.items.item_table import item_table
 from ..game.shops.shop_table import shop_table
 from ..game.treasure.treasure import loot_table, LootLocation, LootDrop
-from ..mbm.mbm import MBM
-from ..utils.utils import to_fullwidth
 
 ap_item_id = 15
 ap_item_name = "AP Item"
@@ -62,18 +61,15 @@ def patch_items(romfs_path: Path):
 
     consumables = item_table.item_categories[1]
 
-    new_item = Consumable(ap_item_id, ap_item_name, None, "hpup", 0, 0, 0, 0, 99, 0, 0, 0, 0, 0,
+    description = to_fullwidth("Archipelago item from another player")
+    new_item = Consumable(ap_item_id, ap_item_name, None, description, "hpup", 0, 0, 0, 0, 1,
+                          100, 50, 0, 0, 0,
                           ItemIcon.QUESTION_MARK, 0, ConsumableTarget.SINGLE, ConsumableEffect.NONE,
                           original_item.unknown_1, original_item.unknown_2, original_item.unknown_3,
                           original_item.unknown_4)
     consumables.items[ap_item_id - 1] = new_item
 
     item_table.to_file(romfs_path)
-
-    mbm = MBM.from_file(romfs_path / "item/ItemHelpMess.mbm")
-    description = to_fullwidth("Archipelago item from another player.").encode(encoding="shift_jis")
-    mbm.data[ap_item_id] = description
-    mbm.to_file(romfs_path / "item/ItemHelpMess.mbm")
 
 
 def patch_shops(romfs_path: Path, patch_info: smt4_patch.SMT4PatchInfo):
